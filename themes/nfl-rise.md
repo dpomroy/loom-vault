@@ -1,8 +1,8 @@
 ---
 type: theme
 name: "NFL Rise"
-description: "How the NFL systematically built its dominance as America's premier sport through media strategy, league-first thinking, and control of the fan experience."
-generated_at: 2026-05-28T18:37:22+00:00
+description: "How the NFL grew from a secondary sport into America's dominant cultural and commercial institution."
+generated_at: 2026-05-29T17:17:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 12
@@ -10,7 +10,7 @@ quote_count: 12
 
 # NFL Rise
 
-How the NFL systematically built its dominance as America's premier sport through media strategy, league-first thinking, and control of the fan experience.
+How the NFL grew from a secondary sport into America's dominant cultural and commercial institution.
 
 ## Quotes
 

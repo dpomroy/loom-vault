@@ -1,27 +1,19 @@
 ---
 type: theme
 name: "Creative Process"
-description: "What it feels like to make something — music, art, or media — and how to protect the fragile moment of discovery while showing up even without inspiration."
-generated_at: 2026-05-28T18:37:22+00:00
+description: "How artists, producers, and designers think about inspiration, reduction, protection of ideas, and showing up to work."
+generated_at: 2026-05-29T17:17:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 27
+quote_count: 22
 ---
 
 # Creative Process
 
-What it feels like to make something — music, art, or media — and how to protect the fragile moment of discovery while showing up even without inspiration.
+How artists, producers, and designers think about inspiration, reduction, protection of ideas, and showing up to work.
 
 ## Quotes
 
-- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "if you take a management team with a reputation for brilliance, and a business with a reputation for being bad, it is the business's reputation that will stay intact." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I thought to myself, what is the moral equivalent of the motion picture business in the 1920s? I thought, it's a video game business." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "culture, like character, is tested in the breach. You're not tested when things are going well" — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "data sets by their very nature are backward looking. Creativity, by its very nature is forward looking." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "all hits are by their very nature unexpected. That's the most important thing to take away. Things that are data driven in their entirety can't be unexpected." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "If you're stacking a lot of things on top of each other, each one of those things becomes less important." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
@@ -35,9 +27,12 @@ What it feels like to make something — music, art, or media — and how to pro
 - "Jimmy is in the banking business and you're in the church business. And that's the difference." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "I think most of what I do is not really about music. I happen to work in music, but it's not about the music." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "Each of those installments are real. So it's always true. It doesn't mean that's who you are forever. It's who you are in that moment." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
-- "What newspaper writing does is it teaches you you have to write where the conclusion comes first." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "It's better to have 100 people love you than a million people sort of like you." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "You keep pushing to go so absurd to 10 stars that suddenly six or seven stars doesn't seem crazy at all." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "adulation is like a cup with the hole at the bottom. And you keep filling it in, thinking it's love, except it just keeps coming out the bottom." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I started realizing the software won't endure and the network effect will decently endure. But the ideas of Airbnb, its principles, its mission, the organization, the company, the brand, the identity, the logo, the voice, the community, what it stands for, those things will endure." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I feel like I'm a designer more than I am a CEO and I might be afforded one of the great biggest canvases of any designer in human history." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
+- "A concentration of a few good people solving problems far in advance—and at a fraction of the cost—of other groups by applying the simplest, most straightforward methods possible to develop and produce new projects. All it is really is the application of common sense to some pretty tough problems." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "There's a tendency today, which I hate to see, towards design by committee, reviews and recommendations, conferences and consultations by those not directly doing the job... Nothing very stupid will result, but nothing brilliant either. And it's in the brilliant concept that a major advance is achieved." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Most companies, while desiring the benefits, will not pay the price in revised methods and procedures for setting up a Skunk Works type operation. They will not delegate the authority to one individual, as Lockheed did in my case." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "The number of people having any connection with the project must be restricted in an almost vicious manner. Use a small number of good people." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "I have a philosophy that those who design aircraft should also fly them. The engineer knows where the quarter inch bolts may be marginal, where the flaps are likely to, what the flaps are likely to do or not do. I've shared the concern of the pilot that's so important." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "I figured I needed to have the hell scared out of me once a year in order to keep a proper balance and viewpoint on designing new aircraft." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Mistakes are acceptable. Concealed mistakes are not. Johnson's standards were brutal, but productive mistakes were allowed, but they had to be reported immediately with recommendations for correction." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]

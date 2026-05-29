@@ -1,8 +1,8 @@
 ---
 type: theme
 name: "Ferrari & F1"
-description: "The business, mythology, and luxury strategy of Ferrari and Formula 1, and how scarcity, racing heritage, and identity create durable brand power."
-generated_at: 2026-05-28T18:37:22+00:00
+description: "The business, brand mythology, and operational logic of Formula 1 and Ferrari as luxury and entertainment franchises."
+generated_at: 2026-05-29T17:17:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 24
@@ -10,7 +10,7 @@ quote_count: 24
 
 # Ferrari & F1
 
-The business, mythology, and luxury strategy of Ferrari and Formula 1, and how scarcity, racing heritage, and identity create durable brand power.
+The business, brand mythology, and operational logic of Formula 1 and Ferrari as luxury and entertainment franchises.
 
 ## Quotes
 

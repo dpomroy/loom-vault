@@ -1,8 +1,8 @@
 ---
 type: theme
 name: "Doing Great Work"
-description: "How to find, pursue, and sustain meaningful creative and intellectual work through curiosity, originality, and avoiding the wrong kind of busyness."
-generated_at: 2026-05-28T18:37:22+00:00
+description: "What drives exceptional output — curiosity, originality, problem selection, and the compounding relationship between morale and quality."
+generated_at: 2026-05-29T17:17:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 20
@@ -10,7 +10,7 @@ quote_count: 20
 
 # Doing Great Work
 
-How to find, pursue, and sustain meaningful creative and intellectual work through curiosity, originality, and avoiding the wrong kind of busyness.
+What drives exceptional output — curiosity, originality, problem selection, and the compounding relationship between morale and quality.
 
 ## Quotes
 
