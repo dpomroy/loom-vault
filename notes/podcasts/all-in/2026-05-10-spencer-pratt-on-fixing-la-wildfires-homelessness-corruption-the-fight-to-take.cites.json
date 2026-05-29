@@ -1,0 +1,107 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It just shows you that our emergency situation is not the level it needs to be because I didn't even know that there was this crazy wind weather event. ",
+    "start_char_index": 5290,
+    "end_char_index": 5442,
+    "response_text": "The city's own emergency communication was so\npoor that a phone-addicted local **didn't know a\ndangerous weather event was imminent**.\nThat's the baseline failure \u2014 before the empty\nreservoir, before the absent mayor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We weren't even informed at the level of clearly we should have been. ",
+    "start_char_index": 5663,
+    "end_char_index": 5733,
+    "response_text": "The city's own emergency communication was so\npoor that a phone-addicted local **didn't know a\ndangerous weather event was imminent**.\nThat's the baseline failure \u2014 before the empty\nreservoir, before the absent mayor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Am, Mayor Bass, I live next to the one you don't know existed, The Palisades Reservoir. 5 million gallons next door to my house. That the fire department would do almost not weekly but bi weekly drills. They would connect up there. They would make me move cars if they needed to to bring the hoses. I was always saying to my well, this is annoying but gosh, we're set. ",
+    "start_char_index": 7887,
+    "end_char_index": 8256,
+    "response_text": "This wasn't a rumoured asset \u2014 it was a **working\ndrill site**. Fire departments regularly connected\nto it. Pratt was inconvenienced by the drills and\nconsidered it reassuring."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "She was in Africa. She was in Africa. And you know who was supposed to do it? Her deputy mayor. But he was on house arrest. So LA City never even called in fixed air with wing support to drop water. ",
+    "start_char_index": 11845,
+    "end_char_index": 12044,
+    "response_text": "During the initial fire response, **LA City never\ncalled in fixed air wing support** to drop water.\nThe chain of command had collapsed: absent mayor,\nincapacitated deputy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Even the Rand Corporation says what they're saying is 30% increase. But they just drive around and they go 1, 2, 3, 4, 5, 6. They're not going in under these encampments and bridges and bushes and Unzipping these tents and going into the sewers. So we don't even know the count. ",
+    "start_char_index": 26162,
+    "end_char_index": 26441,
+    "response_text": "The **official homeless count methodology is\ntheatre**. Even the Rand Corporation says the real\nnumber is 30% higher than reported."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Fire aid, 100 million raised. Every single person I talked to messaging me, no one's getting this money. No one's seeing a dollar. I go to Washington, I ask senators to investigate this. We open up the case. The. Now all of a sudden, fire aid puts out a legal letter to defend themselves. In their own legal letter from the law firm, they say several, several of these NGOs gave directly to fire victims. ",
+    "start_char_index": 26522,
+    "end_char_index": 26927,
+    "response_text": "After pushing for investigation, FireAid's own\nlegal defence letter admitted only **\"several\"**\nNGOs out of 200+ gave directly to fire victims."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then in the state of California, this is the craziest part, with the home key rules, the state won't give the city a lot of the money. If you require the people to be off of drugs, if you say you can't do drugs in this housing, oh well, then you can't get the access to this money.\n\n",
+    "start_char_index": 29420,
+    "end_char_index": 29707,
+    "response_text": "State funding rules **actively penalise** housing\nprogrammes that require sobriety. The incentive\nstructure is not broken by accident."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A famous police chief told me, once you start putting handcuffs on people, watch how many people leave.\n\n",
+    "start_char_index": 42605,
+    "end_char_index": 42710,
+    "response_text": "A former police chief's line that Pratt uses to\npre-empt the \"but where will they go?\" objection\nto enforcement."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Car break ins are down 87%. 87%. ",
+    "start_char_index": 41573,
+    "end_char_index": 41606,
+    "response_text": "Car break-ins down **87%** \u2014 just by enforcing\nlaws that already existed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So again, all these meetings I keep having with very successful heads of companies that tell me, spencer, when people say you don't have experience, you tell them, these are people that have multiple companies. They say, I'm never the most experienced person in any of the rooms of my company, but everyone in my company is the most experienced person in what they need to do in that role. ",
+    "start_char_index": 67252,
+    "end_char_index": 67642,
+    "response_text": "This is the line Pratt was given by successful\nCEOs to use against the **\"no experience\"** attack.\nIt's a reasonable reframe of what executive\nleadership actually is."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Keep in mind Janice Quinones, who is the CEO of ladwp, who drained two reservoirs leading into a known year of the driest fire weather season, took out the water with no plan, no backups, no tankers. She was getting paid $750,000 a year plus her benefits. ",
+    "start_char_index": 67865,
+    "end_char_index": 68121,
+    "response_text": "the LADWP\nCEO who drained two reservoirs before fire season\nwas paid **$750,000 a year**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't need to invent anything. I don't need to come up with this utopia of how a city works. You make a city safe and people will put money into it. They'll want to live here, Commerce comes back, families will be able to go to parks and go to the beach and not live in fear. ",
+    "start_char_index": 78167,
+    "end_char_index": 78445,
+    "response_text": "The whole platform compressed into four sentences.\n**Law enforcement \u2192 safety \u2192 investment \u2192 commerce**\n\u2192 tax revenue \u2192 fund everything else."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They let seven people die in the street every day with our billions of tax dollars, and they say, we need new beds. It's a drug problem. 90% of these people are drug addicts. We need to get these people mandatory treatment. Then we could get them beds. ",
+    "start_char_index": 23158,
+    "end_char_index": 23411,
+    "response_text": "His argument: **90% are drug addicts**. Beds without\nmandatory treatment don't solve addiction. The\nsequencing \u2014 treatment first, then housing \u2014 is\nthe thing the NGO model structurally resists."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So when I'm mayor, my plan is, first three weeks, signs up across the city, no more nakedness, no more drug use, no more robbing, no worse.\n\n",
+    "start_char_index": 42956,
+    "end_char_index": 43097,
+    "response_text": "A **signalled transition period** before enforcement\nbegins \u2014 so people self-select out before handcuffs\nappear. Tactically sensible; legally cleaner than\nan overnight sweep."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: No more dogs abuse very on every sign, on every Bird So that and we're going to go around, we're going to warn everybody. Hey, got three more weeks of this. Like clock's ticking. Just keep telling everyone. Just so the people that are aware, they're like, oh wow, there's a new mayor in town. They may start leaving and then when the three weeks or maybe we'll even do two weeks, maybe people will want it faster. And then once we start enforcing laws, boom, streets will be back. ",
+    "start_char_index": 43149,
+    "end_char_index": 43645,
+    "response_text": "A **signalled transition period** before enforcement\nbegins \u2014 so people self-select out before handcuffs\nappear. Tactically sensible; legally cleaner than\nan overnight sweep."
+  }
+]

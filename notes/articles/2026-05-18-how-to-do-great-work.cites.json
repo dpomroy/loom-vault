@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "There's a kind of excited curiosity that's both the engine and the\nrudder of great work. It will not only drive you, but if you let\nit have its way, will also show you what to work on.  ",
+    "start_char_index": 2271,
+    "end_char_index": 2457,
+    "response_text": "Curiosity as navigation, not just fuel.\nMost productivity advice treats motivation\nas the problem. Graham says curiosity\nsolves *selection* too \u2014 it tells you\n*what* to work on, not just *how hard*."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Knowledge expands fractally, and from a\ndistance its edges look smooth, but once you learn enough to get\nclose to one, they turn out to be full of gaps.  ",
+    "start_char_index": 2739,
+    "end_char_index": 2893,
+    "response_text": "The implication: the frontier only becomes\nvisible once you're close enough."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Per-project\nprocrastination is far the more dangerous. You put off starting\nthat ambitious project from year to year because the time isn't\nquite right. When you're procrastinating in units of years, you can\nget a lot not done.\n",
+    "start_char_index": 12691,
+    "end_char_index": 12919,
+    "response_text": "The brutal version of this: it hides\nbehind busyness."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "[[8](#f8n)]  One reason per-project procrastination is so dangerous is that it\nusually camouflages itself as work. You're not just sitting around\ndoing nothing; you're working industriously on something else. So\nper-project procrastination doesn't set off the alarms that per-day\nprocrastination does. You're too busy to notice it.  ",
+    "start_char_index": 12919,
+    "end_char_index": 13252,
+    "response_text": "You're not sitting idle \u2014 you're\n\"working industriously on something else.\"\nThe alarm never goes off."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Originality isn't a process, but a habit of mind. Original thinkers\nthrow off new ideas about whatever they focus on, like an angle\ngrinder throwing off sparks. They can't help it.  ",
+    "start_char_index": 24895,
+    "end_char_index": 25077,
+    "response_text": "This reframes originality as a state of\nengagement, not a technique."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Indeed, if you think about it, a good new idea has to seem bad to\nmost people, or someone would have already explored it. So what\nyou're looking for is ideas that seem crazy, but the right kind of\ncrazy. ",
+    "start_char_index": 29478,
+    "end_char_index": 29682,
+    "response_text": "The distinguishing test: ideas that are\nthe **right kind of crazy** tend to be\nexciting and rich in implications."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But ideas that are the right kind of\ncrazy tend to be exciting; they're rich in implications; whereas\nideas that are merely bad tend to be depressing.  ",
+    "start_char_index": 29771,
+    "end_char_index": 29923,
+    "response_text": "Ideas that are *merely* bad tend to be\ndepressing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "People show much more originality in solving problems than in\ndeciding which problems to solve. Even the smartest can be surprisingly\nconservative when deciding what to work on. People who'd never dream\nof being fashionable in any other way get sucked into working on\nfashionable problems.  ",
+    "start_char_index": 32321,
+    "end_char_index": 32612,
+    "response_text": "Problem *selection* is where most smart\npeople leave the most value on the table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The trouble with planning is that it only works for achievements\nyou can describe in advance. You can win a gold medal or get rich\nby deciding to as a child and then tenaciously pursuing that goal,\nbut you can't discover natural selection that way.  ",
+    "start_char_index": 9316,
+    "end_char_index": 9566,
+    "response_text": "Planning is a local maximum trap."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Morale compounds via work: high morale helps you do good work, which\nincreases your morale and helps you do even better work. But this\ncycle also operates in the other direction: if you're not doing\ngood work, that can demoralize you and make it even harder to. Since\nit matters so much for this cycle to be running in the right\ndirection, it can be a good idea to switch to easier work when\nyou're stuck, just so you start to get something done.  ",
+    "start_char_index": 52348,
+    "end_char_index": 52796,
+    "response_text": "The practical output of this: when stuck,\nswitch to easier work to restart the\npositive cycle."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Don't divide your attention *evenly* between many topics though,\nor you'll spread yourself too thin. You want to distribute it\naccording to something more like a power law.\n[[17](#f17n)]\nBe professionally\ncurious about a few topics and idly curious about many more.  ",
+    "start_char_index": 26646,
+    "end_char_index": 26913,
+    "response_text": "Distribute attention like a power law \u2014\nnot evenly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Doing great work means doing something important\nso well that you expand people's ideas of what's possible. ",
+    "start_char_index": 59791,
+    "end_char_index": 59899,
+    "response_text": "A rare, clean definition buried in the\nfootnotes."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Write the story you want to read; build the tool\nyou want to use. ",
+    "start_char_index": 7917,
+    "end_char_index": 7983,
+    "response_text": "Classic Graham. Elegantly short."
+  }
+]

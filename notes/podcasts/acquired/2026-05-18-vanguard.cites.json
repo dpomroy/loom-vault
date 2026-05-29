@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And yet Vanguard itself is essentially a communist organization \u2014 it has no shareholders, makes no profits, and operates more like REI than Fidelity. ",
+    "start_char_index": 293,
+    "end_char_index": 443,
+    "response_text": "The tension in one sentence: the world's most\neffective capitalist vehicle runs on anti-capitalist\nincentives."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, \"Yes, mutualization of the fund and funds activities was totally my idea. And I realized that a mutual company would never provide me with the personal fortune that so many denizens of Wall Street would earn. But it offered, I believe, my last best chance to resume my career.\" ",
+    "start_char_index": 61247,
+    "end_char_index": 61534,
+    "response_text": "Bogle himself admits it was equal parts\nidealism and career survival."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the thesis statement of this report that he presents to the board the next month in February reads, quote, \"The present structure has been the accepted norm for the mutual fund industry for 50 years. The issue we face is whether a structure so traditional, so long accepted, so satisfactory for an infant industry as it grew during a time of less stringent ethical and legal standards, is really the optimum structure for these times and for the future and for the Wellington Group of Investment Companies? Or rather, should the funds seek greater control over their own destiny?\" ",
+    "start_char_index": 60398,
+    "end_char_index": 60982,
+    "response_text": "This is Bogle's 250-page feasibility study\ndistilled to its thesis \u2014 written while he\nwas freshly fired and fighting for his\nprofessional life."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: And Ned, he would famously comment to the press about the launch of this fund, quote, \"I can't believe that the great mass of investors are going to be satisfied with just receiving average returns. The name of the game is to be the best.\" Deeply ironic because a giant amount of Fidelity's asset base today is composed of index funds, many of which are Vanguard index funds held within Fidelity.\n\n",
+    "start_char_index": 89162,
+    "end_char_index": 89567,
+    "response_text": "Ned Johnson of Fidelity, on the launch of\nthe first index fund in 1976 \u2014 a statement\nthat aged catastrophically."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Well, either way, Warren writes in Berkshire Hathaway's 2016 annual letter related to all this, quote, \"If a statue is ever erected to honor the person who has done the most for American investors, the hands-down choice should be Jack Bogle. For decades, Jack has urged investors to invest in ultra-low-cost index funds. In his crusade, Jack was frequently mocked by the investment management industry. Today, however, he has the satisfaction of knowing that he helped millions of investors realize far better returns on their savings than they otherwise would have earned. He is a hero to them and to me.\"\n\n",
+    "start_char_index": 148290,
+    "end_char_index": 148898,
+    "response_text": "Warren Buffett's 2016 Berkshire letter endorsement \u2014\nthe most consequential peer validation in\nthe history of retail investing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So John Reckenthaler wrote on Morningstar in a retrospective on the financial crisis years later, \"Active managers had long promised that when a bear market finally arrived, that they would outperform Vanguard's fully invested index funds. It did, and they did not.\"\n\n",
+    "start_char_index": 140855,
+    "end_char_index": 141123,
+    "response_text": "Morningstar's retrospective on 2008 in\none line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Yeah, I love the quote that he has: the, the grim irony of investing is that we investors as not only don't get what we pay for, we get precisely what we don't pay for.\n\n",
+    "start_char_index": 204754,
+    "end_char_index": 204929,
+    "response_text": "Bogle's most quotable formulation of the\ncost matters hypothesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Jack's quote on this that he would say often is, \"Strategy follows structure.\"\n\nBen: Yes.\n\nDavid: And by setting our structure as such, this had to be our strategy.\n\n",
+    "start_char_index": 188204,
+    "end_char_index": 188377,
+    "response_text": "Bogle's own explanation for why Vanguard's\nlow-fee obsession wasn't a choice they\nhad to keep remaking \u2014 it was baked into\nthe ownership model from day one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "His quote on this: \"Where returns are concerned, time is your friend, but where costs are concerned, time is your enemy.\" ",
+    "start_char_index": 188567,
+    "end_char_index": 188689,
+    "response_text": "The companion insight to compounding returns \u2014\ncosts compound too, just against you."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And John turns to him and says, \"If you do that, you will destroy this entire industry.\" ",
+    "start_char_index": 65718,
+    "end_char_index": 65807,
+    "response_text": "Capital Group's head to Bogle at a 6am\nairport breakfast, on hearing Vanguard\nwould mutualize."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He writes in his memoirs, \"I knew a rough road lay ahead, for my goal ultimately was to build a broad-based firm.\" In other words, take over everything, fully cut Wellington out. \"And I took on my new leadership role in the same way I had left my previous leadership role. Fired with enthusiasm.\" ",
+    "start_char_index": 63914,
+    "end_char_index": 64211,
+    "response_text": "Bogle on receiving the partial win from\nthe fund board \u2014 administrative control\nonly, no investment advisory, no distribution."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "99% of Vanguard's AUM came after Jack stepped down.\n\n",
+    "start_char_index": 114516,
+    "end_char_index": 114569,
+    "response_text": "The single most clarifying statistic in\nthe entire episode."
+  }
+]

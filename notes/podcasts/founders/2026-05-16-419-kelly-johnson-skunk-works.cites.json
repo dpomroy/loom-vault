@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Kelly Johnson created Skunk Works, which he defined as:  \u201cA concentration of a few good people solving problems far in advance\u2014and at a fraction of the cost\u2014of other groups by applying the simplest, most straightforward methods possible to develop and produce new projects. All it is really is the application of common sense to some pretty tough problems.\u201d  Kelly Johnson was a great engineer and system builder with genius for organizational design. ",
+    "start_char_index": 156,
+    "end_char_index": 608,
+    "response_text": "\"A concentration of a few good people solving problems far in advance\u2014and at a fraction of the cost\u2014of other groups by applying the simplest, most straightforward methods possible to develop and produce new projects. All it is really is the application of common sense to some pretty tough problems.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's a tendency today, which I hate to see, towards design by committee, reviews and recommendations, conferences and consultations by those not directly doing the job that is so good. There's a tendency today, which I hate to see, towards design by committee by those not directly doing the job. Nothing very stupid will result, but nothing brilliant either.\n\nAnd it's in the brilliant concept that a major advance is achieved. ",
+    "start_char_index": 15365,
+    "end_char_index": 15797,
+    "response_text": "\"There's a tendency today, which I hate to see, towards design by committee, reviews and recommendations, conferences and consultations by those not directly doing the job... Nothing very stupid will result, but nothing brilliant either. And it's in the brilliant concept that a major advance is achieved.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then you talk about, well, if our methods are not secret, why is no one else doing this? Most companies, while desiring the benefits, will not pay the price in revised methods and procedures for setting up a Skunk Works type operation. They will not delegate the authority to one individual, as Lockheed did in my case. ",
+    "start_char_index": 14260,
+    "end_char_index": 14584,
+    "response_text": "\"Most companies, while desiring the benefits, will not pay the price in revised methods and procedures for setting up a Skunk Works type operation. They will not delegate the authority to one individual, as Lockheed did in my case.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Number three, the number of people having any connection with the project must be restricted in an almost vicious manner.\n\nUse a small number of good people. ",
+    "start_char_index": 18855,
+    "end_char_index": 19013,
+    "response_text": "\"The number of people having any connection with the project must be restricted in an almost vicious manner. Use a small number of good people.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I have a philosophy that those who design aircraft should also fly them. The engineer knows where the quarter inch bolts may be marginal, where the flaps are likely to, what the flaps are likely to do or not do. I've shared the concern of the pilot that's so important.\n\n",
+    "start_char_index": 35904,
+    "end_char_index": 36175,
+    "response_text": "\"I have a philosophy that those who design aircraft should also fly them. The engineer knows where the quarter inch bolts may be marginal, where the flaps are likely to, what the flaps are likely to do or not do. I've shared the concern of the pilot that's so important.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I figured I needed to have the hell scared out of me once a year in order to keep a proper balance and viewpoint on designing new aircraft. ",
+    "start_char_index": 36330,
+    "end_char_index": 36470,
+    "response_text": "\"I figured I needed to have the hell scared out of me once a year in order to keep a proper balance and viewpoint on designing new aircraft.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He Sundays, I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal. ",
+    "start_char_index": 25633,
+    "end_char_index": 25779,
+    "response_text": "\"I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Says three times I was offered a company presidency at Lockheed and three times I declined it.\n\nTo me, there is no better job within the corporation than head of Advanced Development Projects, which is what Skunk Works was called. I was doing what I wanted to do since I was 12 years old. ",
+    "start_char_index": 22002,
+    "end_char_index": 22291,
+    "response_text": "\"Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so he says, it was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library.\n\nOn one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus.\n\nI was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years. ",
+    "start_char_index": 40432,
+    "end_char_index": 40969,
+    "response_text": "\"It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And number 20, mistakes are acceptable.\n\nConcealed mistakes are not. Johnson's standards were brutal, but productive mistakes were allowed, but they had to be reported immediately with recommendations for correction. ",
+    "start_char_index": 8617,
+    "end_char_index": 8834,
+    "response_text": "\"Mistakes are acceptable. Concealed mistakes are not. Johnson's standards were brutal, but productive mistakes were allowed, but they had to be reported immediately with recommendations for correction.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful. ",
+    "start_char_index": 55019,
+    "end_char_index": 55154,
+    "response_text": "\"Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful.\""
+  }
+]

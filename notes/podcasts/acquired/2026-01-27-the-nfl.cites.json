@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "He adopts this as his mantra that literally, they made a movie with this title. On any given Sunday, any team in the league should be able to beat any other team.\n\n",
+    "start_char_index": 40378,
+    "end_char_index": 40542,
+    "response_text": "This is Bert Bell's mantra \u2014 and they literally made a movie with this title. It's the founding philosophy of competitive balance that everything else is built on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Baseball towered above the sporting landscape like a colossus, the unquestioned national pastime, the only game that mattered. Most fans had come to accept baseball's primacy as something immutable, as much a part of the natural order of things as air and water.\" ",
+    "start_char_index": 15821,
+    "end_char_index": 16085,
+    "response_text": "This quote from McCambridge's *America's Game* captures exactly how dominant incumbents feel before they get displaced. Baseball wasn't just popular \u2014 it felt permanent."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "After the NFL has formed and starts getting publicity, in 1922, then Michigan, sorry, Ben,Michigan, then Michigan head football coach Fielding Yost gives a very widely reported speech in New York City where he's talking about the new league and he says that, quote, \u201cpro football robs the great American game of many of its greatest character building qualities. The ideals of generous service, loyalty, sacrifice and wholehearted devotion to a cause are all taken away.\n\nNow, of course, he's partisan because he's a college football coach, but this really was still the prevailing sentiment. ",
+    "start_char_index": 22491,
+    "end_char_index": 23084,
+    "response_text": "Michigan coach Fielding Yost, 1922. He's partisan, obviously, but this was the genuine prevailing sentiment \u2014 that pro football was a moral corruption of the college game."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: The distance between Jim Thorpe as an athlete and any other athlete in the world at that point in time was greater than I think that distance has ever been since. ",
+    "start_char_index": 19823,
+    "end_char_index": 19993,
+    "response_text": "This is a striking claim. Thorpe won two Olympic gold medals \u2014 including in the decathlon, the first time he'd ever competed in it \u2014 while also playing professional football and baseball."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That radio wets the appetite, television satiates it. It's a new revenue stream, but it's hurting the golden goose of ticket sales.\n\n",
+    "start_char_index": 51317,
+    "end_char_index": 51450,
+    "response_text": "Baseball's operating theory \u2014 and why they turned away from TV for so long. It was correct in the short term and catastrophically wrong in the long term."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It has to be super polished and it has to be super controlled. Ed Sable's little outfit that would become NFL films is the ultimate embodiment of Rozelle's mindset. I don't think Rozelle could have created this on his own, but when you watch anything from NFL films, it has Pete Rozelle's personality oozing all over it in terms of what we are creating is entertainment and polish.\n\n",
+    "start_char_index": 78422,
+    "end_char_index": 78810,
+    "response_text": "NFL Films started with a suburban dad bidding $5,000 on championship rights. Rozelle didn't create it \u2014 he recognised it and let it run, hands-off, as long as the P&L stayed non-negative."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The New York Times asks Davis to comment and he responds, \u201cthis is something I've been aware of and I anticipated the probability, but you don't make threats at a time like this. Our answer will be an action. This is not the time to speak\u201d.\n\n",
+    "start_char_index": 102765,
+    "end_char_index": 103007,
+    "response_text": "Al Davis, responding to the Giants breaking the gentleman's agreement by poaching a kicker. Classic Al Davis \u2014 maximum menace, minimum words."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The NFL sort of rebranded Sundays in America and turned it into a completely different way that people spend their time. And that was shocking.\n\n",
+    "start_char_index": 61076,
+    "end_char_index": 61221,
+    "response_text": "Nobody predicted this. CBS had a hole in their Sunday schedule and figured football might fill it. What actually happened was the NFL **rewrote the cultural calendar** for 100 million Americans."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Everything he's doing is through the lens of how do we raise the stature of the league? Not a team, but the league, the NFL as a league. How do we add higher gloss sheen to the product?\n\n",
+    "start_char_index": 84877,
+    "end_char_index": 85064,
+    "response_text": "Rozelle's core insight. Every decision \u2014 NFL Films, NFL Enterprises, moving HQ to New York, courting Sports Illustrated, the Hall of Fame \u2014 was about the shield, not any individual team."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The NFL has built basically no technology, basically no distribution \u00a0and basically no direct relationship with the audience. And they'll still be fine.\n\nDavid: They will still be fine.\n\nBen: They outsourced all the hard parts.\n\n",
+    "start_char_index": 180385,
+    "end_char_index": 180614,
+    "response_text": "Ben's observation that the NFL outsourced every hard operational problem \u2014 broadcast trucks, ad sales, streaming infrastructure \u2014 to partners who pay *them* for the privilege."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: All that said, for the moment at least, communist capitalism is alive and well in the NFL.\n\n",
+    "start_char_index": 245511,
+    "end_char_index": 245610,
+    "response_text": "The closing line of the 2026 update \u2014 team valuations up 60%, gambling bettors up 30M, PE firms paying carry to participate, and yet the shared revenue model still holds."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Upon any eventual sale or monetization of the ownership stake that private equity would have in an NFL franchise, a portion of the returns on that investment \u00a0get skimmed off the top and go back to the NFL and then get distributed equally among all 32 NFL team ownership groups. This is wild.\n\n",
+    "start_char_index": 238032,
+    "end_char_index": 238326,
+    "response_text": "The NFL invented carry on PE investment in its own franchises. Four approved firms. 10% cap. Silent LP status. And a cut of the upside goes back to the league to be split equally."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Which must mean that there was demand for 101 because there's the famous Enzo Ferrari quote that is the business strategy today. Ferrari will always deliver one car less than the market demand.\n\n",
+    "start_char_index": 55956,
+    "end_char_index": 56156,
+    "response_text": "This is the quote Ben frames as \"the business strategy today\" \u2014 and he's not wrong. It's not accidental underproduction. It's the entire model. Every waitlist, every allocation, every \"we can't get you one\" is load-bearing to the price."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says there is not a direct correlation between Ferrari victories on the track and the number of cars that you can sell. But if for many years you do not win, it means that you do not add wood to the fire of the myth. The myth of Ferrari is based on competition, on cars. In the competition, you can win or you can lose, but you cannot only lose. ",
+    "start_char_index": 92405,
+    "end_char_index": 92754,
+    "response_text": "Luca's framing here is the clearest articulation of what the F1 team actually does for Ferrari's P&L. It's not direct revenue causation \u2014 it's **myth maintenance**. You can lose races. You cannot only lose."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Enzo would say about himself when asked that, you know, he's not an engineer, he's not a car designer. He's no longer a driver, even though he runs this team. He is, quote, an agitator of men. And that perfectly described Enzo. And I think, you know, perfectly describes Steve Jobs too. ",
+    "start_char_index": 31244,
+    "end_char_index": 31531,
+    "response_text": "Enzo's self-description. David draws the Steve Jobs comparison immediately \u2014 not an engineer, not a designer, but someone who creates the conditions for great work to happen through pressure, vision, and force of personality."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\"Canetti described the miracle that was America, the aggressiveness of its people, their childlike acquisitiveness, and their bourgeois credulities. Yet there was a rich upper class whose tastes were European. He had seen them, met them, gained their trust as he kept their aging European automobiles operating through the war years. He knew they would pay a king's ransom for Enzo's elite machines. And he, (Luigi Chinetti), meant to exploit that naive colonial lust.\"\n\n",
+    "start_char_index": 37990,
+    "end_char_index": 38461,
+    "response_text": "Luigi Chinetti spots the market before Ferrari does. The American luxury customer wants European validation. The cold shoulder of the \"difficult Italian artist\" is *exactly* the product signal they're buying."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: And you know what wealthy Americans are extremely interested in when they're considering if they're going to buy an extremely expensive, rare automobile? They love that cold shoulder of an artist, creating the car mysteriously in some small town in Italy who's just interested in racing. He's not interested in mass market cars. You're just lucky to get one of these racing cars and he couldn't even care less about you.\n\n",
+    "start_char_index": 39096,
+    "end_char_index": 39523,
+    "response_text": "Ben's framing of the core luxury mechanic at work. Inaccessibility is the product. The buyer's fantasy is being *allowed* to own one, not choosing to."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Luca's actual quote on this is, the Ferrari 348 was a shit car. It was the worst car we ever made. Everything was missing. It had no personality. It had no technology. It wasn't state of the art in anything. It had no power. It was all missing. ",
+    "start_char_index": 104892,
+    "end_char_index": 105141,
+    "response_text": "Luca's verdict on what Fiat did to Ferrari without proper stewardship. When a mass manufacturer applies its default playbook \u2014 cut costs, share parts, increase volume \u2014 to a luxury brand, this is the outcome. The myth doesn't survive contact with Fiat switchgear."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Fiat's attempt, their best solution to fixing the problem of the road car business, is to produce more road cars, which is the cardinal sin of luxury strategy management. ",
+    "start_char_index": 101610,
+    "end_char_index": 101781,
+    "response_text": "One sentence that explains why most luxury acquisitions fail. The natural corporate reflex to a demand problem is supply. Luxury brands require the opposite: **cut supply, raise price, deepen myth**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Luca is the one who realized that Ferrari is a luxury company. To Enzo, Ferrari was a racing company that sold a connection to that to its clients. And Enzo was a marketing genius, and he came up with the prancing horse and the red and the myth of Enzo. But you couldn't talk to Enzo about how Herm\u00e8s was managing its business. You know, Enzo had no idea what Jean-Louis Dumas was doing over in Paris. Luca knew exactly what Jean-Louis Dumas was doing over in Paris. ",
+    "start_char_index": 111355,
+    "end_char_index": 111822,
+    "response_text": "This is the hinge of the whole story. Enzo built the myth. Luca understood *what kind of myth it was* and applied the luxury playbook \u2014 waitlists, delivery ceremonies, custom luggage \u2014 systematically."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ferrari is Herm\u00e8s and Manchester United smashed together. And that makes it super different. ",
+    "start_char_index": 116554,
+    "end_char_index": 116647,
+    "response_text": "Ben's quintessence landed early. The Tifosi \u2014 400 million fans who will never own a car \u2014 are structural to the brand in a way that has no parallel in French luxury. Herm\u00e8s doesn't have 400 million teenage fans with posters on their walls."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ferrari will never make another one like it again. ",
+    "start_char_index": 99195,
+    "end_char_index": 99246,
+    "response_text": "Said about the F40. The raw, stripped, string-for-a-door-handle machine that Enzo launched at 90 before he died. It's the last car where the design philosophy was purely \"remove everything that isn't speed.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In luxury, you never want a customer to feel like they've done it all. You want a place for them to graduate to, maybe that second Ferrari or going from your first used Ferrari to your first new Ferrari, or getting invited to buy an Icona or participate in a race or buy the car that just came out with that brand new name that honors the model from 30 years ago. A lot of brands who wanna be like Ferrari don't make the investments to have that amount of infrastructure and models and programs. ",
+    "start_char_index": 170569,
+    "end_char_index": 171065,
+    "response_text": "The pyramid logic. Ferrari's relentless model churn \u2014 4 new names per year, rapid discontinuation \u2014 isn't product chaos. It's deliberately manufactured **incompleteness**. There must always be a next rung."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The profit per car average exceeded $170,000. That is more than the entire retail price of your average luxury sedan. And even Porsche would need to sell 6 cars to equal the profit dollars that come from a single average Ferrari.\n\n",
+    "start_char_index": 187513,
+    "end_char_index": 187744,
+    "response_text": "The number that makes the comparison to any other auto company absurd. Porsche needs to sell 6 cars to match one average Ferrari's gross profit. This is what a 50% gross margin looks like in absolute terms on a $500K product."
+  }
+]

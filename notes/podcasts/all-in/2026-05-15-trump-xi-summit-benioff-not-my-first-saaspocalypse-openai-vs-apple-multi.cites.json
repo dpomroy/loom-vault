@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: You're right, it's the Saspocalypse. I mean it's not my first Saspocalypse, honestly, but it's the current SAS apocalypse. ",
+    "start_char_index": 37739,
+    "end_char_index": 37877,
+    "response_text": "\"You're right, it's the Saspocalypse. I mean it's not my first Saspocalypse, honestly, but it's the current SAS apocalypse.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think that for what I tell my employees, what I just told my employees is, look, you can't get drunk on the stock price. If you are like focused on today all the time. And that is how you're getting your emotional state, it's not gonna work for you. You have to find a different anchor. ",
+    "start_char_index": 40078,
+    "end_char_index": 40371,
+    "response_text": "\"you can't get drunk on the stock price. If you are like focused on today all the time. And that is how you're getting your emotional state, it's not gonna work for you. You have to find a different anchor.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's been awesome because none of this stuff works if you don't have context. The AI is very probabilistic. That is, it can kind of figure things out, but it needs to be grounded in real data and it needs to have that semantic layer. It needs to be locked down into the truth, into a single source, source of truth. Or it just cannot work well. ",
+    "start_char_index": 45650,
+    "end_char_index": 45995,
+    "response_text": "\"none of this stuff works if you don't have context. The AI is very probabilistic. That is, it can kind of figure things out, but it needs to be grounded in real data and it needs to have that semantic layer. It needs to be locked down into the truth, into a single source, source of truth. Or it just cannot work well.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And they go, we don't know about those sex bots and we don't know about Nano Banana, but we're going to do coding agents. And it turned out Anthropic was right. And all of a sudden, the rocket ship took off. ",
+    "start_char_index": 55064,
+    "end_char_index": 55272,
+    "response_text": "\"we don't know about those sex bots and we don't know about Nano Banana, but we're going to do coding agents. And it turned out Anthropic was right. And all of a sudden, the rocket ship took off.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: I think the low end of the market is basically finished. I think there, there is no safe space. I think the high end of the market, where Mark operates, where the large monoliths operate, is quite safe. ",
+    "start_char_index": 41536,
+    "end_char_index": 41754,
+    "response_text": "\"I think the low end of the market is basically finished. I think there, there is no safe space. I think the high end of the market, where Mark operates, where the large monoliths operate, is quite safe.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And instead the reality is that the simplest and surest path to a no conflict detente with China is economic entanglement. And it has to be bidirectional because really, for so many years it's been one way where they're sending us the cheap goods that they wanted. ",
+    "start_char_index": 9348,
+    "end_char_index": 9613,
+    "response_text": "\"the simplest and surest path to a no conflict detente with China is economic entanglement. And it has to be bidirectional because really, for so many years it's been one way where they're sending us the cheap goods that they wanted.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: I think it's irrelevant at this point. I think that the Chinese models are as competitive as these US models. And they've learned to make these models without having the highest end chips. I think the highest end chips is kind of more of an ego gratification for us. ",
+    "start_char_index": 22996,
+    "end_char_index": 23278,
+    "response_text": "\"I think it's irrelevant at this point. I think that the Chinese models are as competitive as these US models. And they've learned to make these models without having the highest end chips. I think the highest end chips is kind of more of an ego gratification for us.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The vast majority of those tokens don't need to go to anthropic. There needs to be some intermediary layer that's saying, oh, that one has to go to Anthropic. But these ones can handle by smaller models.\n\n",
+    "start_char_index": 66393,
+    "end_char_index": 66598,
+    "response_text": "\"The vast majority of those tokens don't need to go to anthropic. There needs to be some intermediary layer that's saying, oh, that one has to go to Anthropic. But these ones can handle by smaller models.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And at this point, there is so much excess energy stored up in the oceans. I'll give you guys a statistic. It's about 11 million terawatt hours. The whole planet Earth uses 25,000 terawatt hours in a year. So 11 million extra terawatt hours of energy is currently stored up. That's 500 years worth of human energy in this ocean. ",
+    "start_char_index": 70650,
+    "end_char_index": 70979,
+    "response_text": "\"there is so much excess energy stored up in the oceans. I'll give you guys a statistic. It's about 11 million terawatt hours. The whole planet Earth uses 25,000 terawatt hours in a year. So 11 million extra terawatt hours of energy is currently stored up. That's 500 years worth of human energy in this ocean.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the scariest one of all is if the monsoons fail, which is now a very high probability event in India. 150 million farmers in India that depend on their agricultural output or they don't make any money, they can't survive. And one and a half billion people that depend on that food. ",
+    "start_char_index": 72802,
+    "end_char_index": 73088,
+    "response_text": "\"the scariest one of all is if the monsoons fail, which is now a very high probability event in India. 150 million farmers in India that depend on their agricultural output or they don't make any money, they can't survive. And one and a half billion people that depend on that food.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When I started Salesforce, we put 1% of our equity 1% of our profit and 1% of all of our employees Time into a foundation today. We've done more than 10 million hours of volunteerism. We've given away more than a billion billion in grants. And we run over 50,000 nonprofits for free on our platform. ",
+    "start_char_index": 81803,
+    "end_char_index": 82103,
+    "response_text": "\"When I started Salesforce, we put 1% of our equity 1% of our profit and 1% of all of our employees Time into a foundation today. We've done more than 10 million hours of volunteerism. We've given away more than a billion billion in grants. And we run over 50,000 nonprofits for free on our platform.\""
+  }
+]

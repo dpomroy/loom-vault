@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: The compute that we procure, it's the lifeblood of our business. It is the most important thing in the company. It's like the canvas on which everything else gets built. And so the decisions we make and how much compute to buy are some of the most consequential and hardest decisions to make in the entire company. ",
+    "start_char_index": 9233,
+    "end_char_index": 9563,
+    "response_text": "\"The compute that we procure, it's the lifeblood of our business. It is the most important thing in the company. It's like the canvas on which everything else gets built. And so the decisions we make and how much compute to buy are some of the most consequential and hardest decisions to make in the entire company.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you buy too much computer, you go out of business. If you buy too little compute, you can't serve your customers and you're not at the frontier. Same thing. ",
+    "start_char_index": 9585,
+    "end_char_index": 9745,
+    "response_text": "\"If you buy too much computer, you go out of business. If you buy too little compute, you can't serve your customers and you're not at the frontier. Same thing.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: When you're building and growing a business exponentially, really small movements in monthly or weekly growth rates result in compounding very, very different outcomes. And so as we're thinking ahead even with our revenue growth, it's really hard to predict this business. And it's really hard. I think humans mostly think linearly and you think incrementally. ",
+    "start_char_index": 13691,
+    "end_char_index": 14067,
+    "response_text": "\"When you're building and growing a business exponentially, really small movements in monthly or weekly growth rates result in compounding very, very different outcomes. And so as we're thinking ahead even with our revenue growth, it's really hard to predict this business. And it's really hard. I think humans mostly think linearly and you think incrementally.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what we found very consistently is by releasing new models that TAM is unlocked in a unique way. More TAM gets unlocked, more use cases are possible. And a good illustration of that is this last four months that we've had at the company, right? We started the year with about $9 billion of run rate revenue and we ended the quarter with north of $30 billion of run rate revenue. That kind of a change is really enabled by these model intelligence leaps and then the products that we build around them. ",
+    "start_char_index": 21502,
+    "end_char_index": 22008,
+    "response_text": "\"What we found very consistently is by releasing new models that TAM is unlocked in a unique way. More TAM gets unlocked, more use cases are possible. And a good illustration of that is this last four months that we've had at the company, right? We started the year with about $9 billion of run rate revenue and we ended the quarter with north of $30 billion of run rate revenue. That kind of a change is really enabled by these model intelligence leaps and then the products that we build around them.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But right now within the company, 90 plus percent of our code is actually written by Claude code. A lot of Claude code's code is written by cloud code. And so you think of this as why do we allocate compute internally? Why would we forego revenue for it? It's because the models themselves are helping us to build that next generation of models. In addition to this capability leap that you would have from the scaling Laws. ",
+    "start_char_index": 25411,
+    "end_char_index": 25836,
+    "response_text": "\"Right now within the company, 90 plus percent of our code is actually written by Claude code. A lot of Claude code's code is written by cloud code. And so you think of this as why do we allocate compute internally? Why would we forego revenue for it? It's because the models themselves are helping us to build that next generation of models.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We talk a lot about how talent density beats talent mass, and I think that's true here. We want the densest collection of AI research talent and inference engineering talent, and that enabled with the Best models is a really winning combination.\n\n",
+    "start_char_index": 28255,
+    "end_char_index": 28502,
+    "response_text": "\"We talk a lot about how talent density beats talent mass, and I think that's true here. We want the densest collection of AI research talent and inference engineering talent, and that enabled with the Best models is a really winning combination.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Changing the pricing for Opus, you see this Jevons paradox, we lowered the price of it, but the consumption went up way, way more than what you would have expected. And so because we hit that sweet spot for customers, they were able to use it a lot more. We had the efficiency to be able to serve it to customers at scale. And then they were able to build that into their workload such that when we released Opus 4.6, it's a model improvement. They can slot it in. We didn't change the price. ",
+    "start_char_index": 45642,
+    "end_char_index": 46135,
+    "response_text": "\"Changing the pricing for Opus, you see this Jevons paradox, we lowered the price of it, but the consumption went up way, way more than what you would have expected. And so because we hit that sweet spot for customers, they were able to use it a lot more. We had the efficiency to be able to serve it to customers at scale. And then they were able to build that into their workload such that when we released Opus 4.6, it's a model improvement. They can slot it in. We didn't change the price.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But today all of our legal entities, we can produce the statutory financial statements using claude. And yes, a human checks it, but all of those financial statements are produced with claude. We also have a more real time platform called Ant Stats and it used to take a lot of time to sift through all the data, get to conclusions, write a memo about it, or publish a regular report on what's happening over the course of the day, what's driving it. We now have a library of skills for CLAUDE that are specific to finance. Last I checked there were over 70 of them that everyone can kind of access through this common repository. And on top of that we built an mfr, a monthly financial review skill, and it can produce our monthly financial review. It's 90 to 95% ready. And then all of our discussion becomes about what do we do, what are the implications, not what exactly happened. ",
+    "start_char_index": 51063,
+    "end_char_index": 51949,
+    "response_text": "\"Today all of our legal entities, we can produce the statutory financial statements using claude. And yes, a human checks it, but all of those financial statements are produced with claude. We also have a more real time platform called Ant Stats and it used to take a lot of time to sift through all the data, get to conclusions, write a memo about it, or publish a regular report on what's happening over the course of the day, what's driving it. We now have a library of skills for CLAUDE that are specific to finance. Last I checked there were over 70 of them that everyone can kind of access through this common repository. And on top of that we built an mfr, a monthly financial review skill, and it can produce our monthly financial review. It's 90 to 95% ready.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then the last linkage, if you're selling to enterprises, we now sell to nine of the Fortune 10. All of those enterprises are entrusting us with customer information, their data, they're interacting with their employees, sometimes even interacting with Their customers as well. Those are the most sensitive workloads. More and more of these businesses are running on Claude and our cloud platform. When you have this investment that we made, and we'll continue to make in safety, interpretability, alignment, that actually inerts the benefit of the enterprise customers as well, and all of our customers, because they want that. If they're going to entrust us with all that access and all that data and the ability to work in the most sensitive workflows within their company, they want a company that they can trust. That's not why we invested in it, but it did have this downstream effect that we've really seen prove out again and again to be a company that is both at the frontier, but one that is investing in safety and that you can Trust. ",
+    "start_char_index": 58899,
+    "end_char_index": 59948,
+    "response_text": "\"The last linkage, if you're selling to enterprises, we now sell to nine of the Fortune 10. All of those enterprises are entrusting us with customer information, their data, they're interacting with their employees, sometimes even interacting with their customers as well. Those are the most sensitive workloads. More and more of these businesses are running on Claude and our cloud platform. When you have this investment that we made, and we'll continue to make in safety, interpretability, alignment, that actually inerts the benefit of the enterprise customers as well, and all of our customers, because they want that.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think it is towards this vision or this goal of a virtual collaborator. And so think of this as something that has context within your organization, that can use all of the tools that are specific to you, whether they be homegrown tools or tools that you purchase, that has memory and the ability to effectively learn from mistakes you've made, but also mistakes that it's made over time. The ability to work over a very long time horizon on not just a task, but an actual idea. ",
+    "start_char_index": 80420,
+    "end_char_index": 80901,
+    "response_text": "\"I think it is towards this vision or this goal of a virtual collaborator. And so think of this as something that has context within your organization, that can use all of the tools that are specific to you, whether they be homegrown tools or tools that you purchase, that has memory and the ability to effectively learn from mistakes you've made, but also mistakes that it's made over time. The ability to work over a very long time horizon on not just a task, but an actual idea.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: The capability and the use cases are playing catch up to where the model is. We are talking about humans in large organizations with a set of tools and practices and things that they've been doing for a really long time. Change is hard to extent that that diffusion hits a wall or slows down or something like that. That could affect the rate of change in terms of revenue growth, the scaling laws slowing down or not holding. ",
+    "start_char_index": 88097,
+    "end_char_index": 88539,
+    "response_text": "\"The capability and the use cases are playing catch up to where the model is. We are talking about humans in large organizations with a set of tools and practices and things that they've been doing for a really long time. Change is hard to extent that that diffusion hits a wall or slows down or something like that. That could affect the rate of change in terms of revenue growth, the scaling laws slowing down or not holding.\""
+  }
+]

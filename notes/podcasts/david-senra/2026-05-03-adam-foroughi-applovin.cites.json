@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And so one, to, to lever up is scary to people, but then two, to lever up to buy your own shares when everyone's telling you your company is a piece of shit, that's really scary to do. ",
+    "start_char_index": 5836,
+    "end_char_index": 6021,
+    "response_text": "The quote lands because the fear was rational \u2014\nstock down 92%, yet he borrowed to buy more.\nThe contrarian move only works if you trust your\nown fundamentals over the market's signal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One is the whole world doesn't like our shares. So if no one's going to buy our shares, why don't we just start buying our own shares? And so we kicked off a really successful buyback. ",
+    "start_char_index": 3364,
+    "end_char_index": 3549,
+    "response_text": "Simple logic, hard to execute under pressure.\nMost founders in a 92% drawdown go defensive.\nForoughi went offensive with leverage. The gap\nbetween knowing this and doing it is enormous."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I didn't go to VCs until knew we were going to be an advertising business.\n\n",
+    "start_char_index": 15599,
+    "end_char_index": 15675,
+    "response_text": "This is the anti-pitch-deck move. He bootstrapped\nthrough the messy pivot phase, only raising when\nthere was real product-market fit. Means he never\nhad to defend bad early decisions to investors."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One of the things that I always looked at for hiring were find people who have a chip on their shoulder, someone who has a reason to push hard. And I had that myself. ",
+    "start_char_index": 30139,
+    "end_char_index": 30306,
+    "response_text": "This is his actual hiring filter \u2014 not credentials,\nnot pedigree. It explains the high school dropout\n(Raf) who became a billionaire deal-maker. Hunger\nis the variable most hiring processes screen out."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, mine was that my family was uprooted out of Iran. We ended up coming here when I was 4. But my dad had one of the most successful real estate development companies in the country. So he was loaded. Very successful. Back in the day, thousands people worked for him and we got booted out of our country. ",
+    "start_char_index": 32036,
+    "end_char_index": 32346,
+    "response_text": "The origin of the chip. His father lost everything\nto revolution, and Foroughi internalised that as\nobligation, not just ambition. That's a different\nquality of drive \u2014 harder to turn off."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I didn't even know what a state owned business was at the point in time it turned out like. And we announced the deal. ",
+    "start_char_index": 39848,
+    "end_char_index": 39967,
+    "response_text": "The China deal nearly destroyed the company not\nthrough malice but through ignorance of geopolitics.\nA board would have flagged CFIUS immediately.\nThis is the clearest case he makes for why\nsix years without one was a mistake."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it was important for me to get it to that point because to your point of having A players, A players don't like to work with B, Cs, Ds, I mean, Ds, you're gonna just burn your A's out. But like anything that's worse than an A player on the team and you're distracting your best for working with those types of people. And like, trying to bring them up to speed is a huge loss because eventually you end up churning out your A. ",
+    "start_char_index": 73426,
+    "end_char_index": 73857,
+    "response_text": "The compounding cost of a mediocre hire isn't\nthe mediocre hire \u2014 it's the A player who leaves\nbecause of them. Most orgs never price this in.\nForoughi did, and fired 40% of the team while\ngrowing revenue ~100% YoY."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we went from somewhere in the neighborhood of hundreds of new hires that we're doing a year, or at least attempting to do a year, to in the tens because people were so spooked about trying to convince me that they need the role, they wouldn't Come to me. ",
+    "start_char_index": 82379,
+    "end_char_index": 82637,
+    "response_text": "Forcing managers to justify headcount to the CEO\nis blunt but effective. The friction is the feature.\nIf a manager won't fight for the hire, they probably\ndidn't need it. This is how you stop autopilot bloat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And because the reason I don't is that now with AI tools, one person who's really good can be as powerful as 10, 20, 50, 100 people. And so why would I go higher in advance of that versus go find those single individuals who could be really good who understand how to deploy agents to tackle jobs that many people would have done before. ",
+    "start_char_index": 90864,
+    "end_char_index": 91202,
+    "response_text": "He's not making a vague AI point here \u2014 he's using\nit as a **reason not to hire ahead of demand**.\nMost companies treat AI as a productivity multiplier\non existing headcount. He treats it as a reason\nto keep headcount flat or shrinking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Your 1x engineer might be 2x more efficient, but your 10x engineer might be 100x more efficient. Not only can they go out and accelerate the rate of speed that they can create experiments and improvements on machine learning models. ",
+    "start_char_index": 98164,
+    "end_char_index": 98397,
+    "response_text": "The non-linearity is the key claim. AI doesn't\nlift everyone equally \u2014 it amplifies judgment,\nnot just output. A-players know how to use it;\nB-players generate more mediocre output faster.\nThis is worth sitting with."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The hope we have is that we can get the local laundromat discovered by someone playing a game because we serve a really good ad to someone who needs their clothes wash. If that happens and we get to that level of scale, this business is going to be much, much bigger than it is today. And the opportunity for us to really impact economic growth for businesses that are small to medium size is going to be much bigger than it is today.\n\n",
+    "start_char_index": 100597,
+    "end_char_index": 101033,
+    "response_text": "This is the long-term bull case stated plainly.\nGaming as a distribution layer for **all** SMB\nadvertising \u2014 not just e-commerce. Whether the\ntargeting gets precise enough is the open question,\nbut the surface area of the opportunity is real."
+  }
+]

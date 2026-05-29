@@ -1,0 +1,100 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And what is astonishing to me about this is that the SaaS and Cloud Revolution it created, we'll call it, between $5 and $10 trillion of value, I would say arguably the three highest profile SaaS companies in the last 10, 12 years are Palantir, Snowflake and Databricks. And these three companies employ thousands of people, tens of thousands collectively. They've all spent 10 years building their businesses. And Anthropic added their combined businesses in one month. Nothing like that has ever happened in the history of capitalism. ",
+    "start_char_index": 8798,
+    "end_char_index": 9335,
+    "response_text": "The comparison is Palantir + Snowflake + Databricks \u2014 three companies, tens of thousands of employees, a decade each of building \u2014 matched in 30 days."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The key input into American electricity prices, which feeds into AI, is in G1, natural gas, water. Bloomberg, that was down 20%. And natural gas in Asia, Europe, everywhere else doubled or tripled. Our relative manufacturing competitiveness improved overnight. ",
+    "start_char_index": 11973,
+    "end_char_index": 12234,
+    "response_text": "The logic: US electricity is gas-indexed, gas dropped 20% domestically while doubling in Asia and Europe \u2014 overnight manufacturing competitiveness gain."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If Taiwan Semi did what Jensen wanted, I think Nvidia could sell $2 trillion of GPUs in 26 or 27. Maybe two and a half trillion, maybe three trillion. But there is a limit where consumers would consume so much they probably would be in an overbuild. So Taiwan Semi, if we don't get a bubble, we need to throw a party for them because they will have single handedly prevented a bubble. ",
+    "start_char_index": 28934,
+    "end_char_index": 29319,
+    "response_text": "But unconstrained supply at that scale probably tips into overbuild. Baker's argument: TSMC's supply discipline is the single mechanism preventing a dot-com style crash."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Taiwan Semi, if we don't get a bubble, we need to throw a party for them because they will have single handedly prevented a bubble. You are starting to see companies go to intel and Samsung.\n\n",
+    "start_char_index": 29184,
+    "end_char_index": 29379,
+    "response_text": "And the pressure valve is already leaking \u2014 companies are starting to go to Intel and Samsung for supply."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "AI is just shifting from all you can eat to pay by the drink. And it turns out people really like to talk to their friends long distance, they really like to talk to their friends on the phone and people really like to use AI and particularly now that one person can have a hundred agents working. So I think the shift to usage based pricing is probably why you will see OpenAI and Anthropic exceed well over $200 billion in ARR this year. ",
+    "start_char_index": 40524,
+    "end_char_index": 40964,
+    "response_text": "The cellular analogy lands well \u2014 usage-based pricing is why Baker thinks OpenAI and Anthropic could exceed $200B ARR this year."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's sad, it's sad for the world because it just means if you can't afford that, you're not at the frontier. ",
+    "start_char_index": 41109,
+    "end_char_index": 41218,
+    "response_text": "if you can't afford the enterprise plan, you're not at the frontier"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Claude even on opus is generating 70% less tokens for the exact same question as we talked about last time. Token quantity equals quality of answer and quality of thinking at some level. And there is an intelligence density per token that also matters. ",
+    "start_char_index": 14852,
+    "end_char_index": 15105,
+    "response_text": "There's an intelligence density per token that also matters \u2014 it's not just volume."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: Yeah, I have a great colleague named Andrew Fox who said prefill picture British naval ship from the 18th century. Pre fill is loading the cannon, decode is firing. And what pre fill literally is is just the model understanding the question, the prompt and then keeping track of its own answer. And that is fundamentally a memory capacity bound problem. Decode is the process of generating new tokens and that is memory bandwidth constraint. ",
+    "start_char_index": 45573,
+    "end_char_index": 46030,
+    "response_text": "Prefill = model understanding the prompt, fundamentally memory-capacity bound. Decode = generating new tokens, memory-bandwidth constrained."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "No, what rapid technological change has done with the disaggregation of pre fill and inference is mean that you can put a Cerebra System or Groq LPUs that Nvidia acquired effectively in front of a hopper or even an ampere, use that hopper and ampere for pre fill and extend the useful life of that GPU until it melts. They do melt, so they have a time but you know, maybe you don't have to run them as fast. This is going to be really good for the whole private credit industry. It's going to help finance the AI buildout because if you can start to finance GPUs at more like 5% or 6% instead of, I think Corey's lowest financing was like low sevens that actually mathematically changes the cost to finance this build out. ",
+    "start_char_index": 50116,
+    "end_char_index": 50839,
+    "response_text": "Put a Cerebras or Groq LPU in front of an older GPU for prefill, run the older hardware until it melts. That changes GPU financing rates from low-7s toward 5\u20136%, materially lowering the cost of the entire AI buildout."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: My single most useful agent is a really good summary of the points that would be interesting to me from podcasts. There's just six hours a day of stuff that I feel like it's in my job description to watch every time somebody from OpenAI Xai, Google cursor, fireworks, base 10, I say nothing else, Jinson, Elon, Dario. I feel compelled to watch and I just don't have that much time. There's some real needles and haystacks. That is what I would say for me is the most useful. ",
+    "start_char_index": 62149,
+    "end_char_index": 62639,
+    "response_text": "Six hours a day of content he feels obligated to watch \u2014 every major AI leader appearance \u2014 distilled to needles in haystacks."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I would just say a violation of Richard Sutton's bitter lesson is for sure the biggest risk to this trade to all of AI. The closer someone is to AI, the more skeptical they are this will occur. ",
+    "start_char_index": 36391,
+    "end_char_index": 36585,
+    "response_text": "The people closest to AI are the most skeptical this violation will occur."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The reason I am a little less skeptical is I think we are very close to ASI. And who knows if the bitter lesson holds for 400 IQ models. ",
+    "start_char_index": 37644,
+    "end_char_index": 37781,
+    "response_text": "Baker is slightly less skeptical because he thinks we're close to ASI \u2014 and who knows if the bitter lesson holds for 400 IQ models."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The machine gun is here. If we do not all become masters of the machine gun, we're getting mastered. So I am trying to become a master of the machine gun. And then I'm optimistic. There's a long period of time where just like if you were a 50 year old samurai veteran of many wars, I fought many wars, Master Dwarf. You will have advantages using the machine gun. ",
+    "start_char_index": 61408,
+    "end_char_index": 61772,
+    "response_text": "The Last Samurai framing: experience and craft still matter, but only if you integrate the new technology. A seasoned investor using AI well will have advantages using the machine gun over someone who isn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There is this upsurge in political violence here in America and as AI increasingly becomes political, I worry that's going to get directed at more and more AI political leaders Whatever I may think or may not think of OpenAI, I think it is terrible that someone threw Molotov cocktails at Sam Altman's house. I am worried that we are headed into a higher variance, higher beta, higher risk world because of AI. ",
+    "start_char_index": 76372,
+    "end_char_index": 76783,
+    "response_text": "Baker flags a higher-variance, higher-beta world as a knock-on risk \u2014 including physical safety concerns for people publicly associated with AI."
+  }
+]

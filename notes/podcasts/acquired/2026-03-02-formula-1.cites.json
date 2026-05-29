@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It goes, Formula one is Ferrari, and Ferrari is Formula one. It's that simple. This is another team owner that is saying that, like a competitive team to Ferrari. And you might know who the team owner was who said that quote.\n\nBen: Hmm, oh, it's Bernie.\n\nDavid: Yep, it was the person who quite literally would replace Enzo in that quote. ",
+    "start_char_index": 29745,
+    "end_char_index": 30084,
+    "response_text": "Said by Bernie Ecclestone about a competitor's team \u2014 the man who would go on to replace Enzo Ferrari as the sport's defining power. The quote eats itself. Bernie understood the Ferrari mystique better than anyone and used it as leverage his entire career."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He said, \"Adding power makes you faster in the streets. Subtracting weight makes you faster everywhere.\" He realized a whole bunch of stuff. Being lighter is better. Having better handling is better, because it's not like these race tracks or NASCAR race tracks where the cars just go around in a circle.\n\n",
+    "start_char_index": 16875,
+    "end_char_index": 17181,
+    "response_text": "Colin Chapman, 1958. This is the founding insight of F1 engineering \u2014 and it still drives the sport's obsession with aerodynamics over raw power. Ferrari ignored it for decades. The teams that internalised it won championships."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I carry out my business in a very unusual way. I don't like contracts. I like being able to look someone in the eye and then shake them by the hand rather than do it the American way with 92 page contracts that no one reads or understands. If I say I'll do something, I'll do it. If I say I won't, I won't.\n\n",
+    "start_char_index": 54734,
+    "end_char_index": 55042,
+    "response_text": "Bernie's operating philosophy in one quote. The no-contracts approach wasn't charm \u2014 it was **strategic ambiguity**. You can't sue someone over a handshake. This is how he extracted 8% when he'd verbally agreed to 2%, and how he sold something four times he never legally owned."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There wasn't enough money on that train for me to be involved. I could have done something bigger. He started to get a flavor of, you know, who Bernie is.\n\nBen: Which actually is correct given what he would go on to do.\n\n",
+    "start_char_index": 34550,
+    "end_char_index": 34771,
+    "response_text": "Bernie's response to questions about the 1963 Great Train Robbery \u2014 \u00a32.6M stolen. He didn't deny it. He just called it small-time. This is pure Bernie: the denial *is* the brand. And given what he'd go on to extract from F1, he wasn't wrong."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: He said that Bernie Ecclestone was someone who sold Formula 1 four times, has never bought it back, has never lost its control, and still owns it. And do you know the most important thing? He never effing owned it in the first place.\n\n",
+    "start_char_index": 88990,
+    "end_char_index": 89230,
+    "response_text": "Eddie Jordan's summary of the whole Bernie saga. The most precise sentence ever spoken about F1's governance. This is the central paradox of the entire business \u2014 control without ownership, extracted through sheer force of personality and strategic opacity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\"Your problem, Max, is you always want things absolutely clear. \"And sometimes it's better if things are not clear.\" So he gets with the program and they pretty quickly become two peas in a pod.\n\n",
+    "start_char_index": 87696,
+    "end_char_index": 87892,
+    "response_text": "Bernie to Max Mosley, his legal right-hand man and eventual FIA president. This is the operating system of the Bernie era. Ambiguity wasn't a bug \u2014 it was how he held leverage over every party simultaneously. Worth remembering when you're tempted to over-document everything."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\"Two decades after Marlboro execs looked at F1 drivers and saw the heirs to the American cowboy, Mateschitz recognized them for what they really were, over-caffeinated adrenaline junkies with scant regard for their personal safety. \u00a0It was a match made in marketing heaven.\"\n\n",
+    "start_char_index": 120505,
+    "end_char_index": 120781,
+    "response_text": "Red Bull replacing tobacco as F1's dominant sponsor category is one of the cleanest brand-fit stories in sports marketing. Marlboro sold **aspiration**. Red Bull sold **identity**. The shift also opened the door to younger demographics that Bernie explicitly didn't want \u2014 because they \"don't buy Rolexes.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\"If an insurance company sponsors a team and that team loses, people don't change their insurance company. But when the Red Bulls lose, people get a new drink.\"\n\n",
+    "start_char_index": 121908,
+    "end_char_index": 122070,
+    "response_text": "The sharpest articulation of why Red Bull *had* to own a team rather than just sponsor one. Their brand equity is directly tied to performance. This also explains why they run at near-zero profit margin \u2014 the racing operation is the marketing department."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "An F1 driver is operating at fighter pilot-like cognitive load for 90 minutes straight. Six Gs under pressure, which means their head weighs like 80 pounds at that moment. Their heart rate is 180 beats a minute or more and they've lost 5% of their body weight during the course of the race. They're doing this making micro decisions thousands of times with no timeouts, no commercial breaks. I don't think there's another sport like it.\n\n",
+    "start_char_index": 64903,
+    "end_char_index": 65341,
+    "response_text": "From Colin Fleming, former Red Bull test driver. The human performance angle is wildly under-covered relative to the engineering. F1 isn't just a car race \u2014 it's an endurance sport for the driver's nervous system. This reframes what \"the best driver\" actually means."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "During the 2019 season, the logistics operation, moving these cars in the circus around, accounts for 64 times the emission of the cars themselves, even when you include practice, qualifying, and races. ",
+    "start_char_index": 202754,
+    "end_char_index": 202957,
+    "response_text": "The sustainability argument for hybrid engines is **a complete farce** and this stat proves it. F1 flies a fleet of seven 777s between races and sends 300 trucks across Europe. The carbon in the power units is a rounding error. The sport is performing sustainability theatre while the actual problem is the global circus logistics model."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then probably the most obviously directly attributable stat to Drive to Survive, the percentage of F1 audience that is women went from 7% to there are reports out there that it's like 40% today.\n\n",
+    "start_char_index": 181663,
+    "end_char_index": 181863,
+    "response_text": "Drive to Survive didn't just grow the audience \u2014 it **restructured it**. A 7% to ~40% female fan shift is a category-level transformation, not a margin improvement. Bernie's \"they don't buy Rolexes\" demographic strategy left 30+ years of fan growth on the table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The NFL monetizes a fan at $127 per year, and Formula 1 monetizes a fan at $7 per year. ",
+    "start_char_index": 228201,
+    "end_char_index": 228289,
+    "response_text": "The single most important number in the whole episode. 830M fans, $7 per fan per year. The bull case for F1 is almost entirely contained in this gap. The structural constraint is inventory \u2014 only 22 races \u2014 but the upside from US penetration and better broadcast products alone is enormous."
+  }
+]

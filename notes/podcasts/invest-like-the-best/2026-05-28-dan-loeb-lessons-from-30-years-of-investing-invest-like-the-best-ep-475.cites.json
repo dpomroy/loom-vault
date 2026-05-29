@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: I'm not natively a tech person, but I think given where the world is today, there was a time when you could say, I'm just going to punt on tech and focus on industrials and consumer and healthcare. I think you have to be a tech person today. ",
+    "start_char_index": 9721,
+    "end_char_index": 9978,
+    "response_text": "\"I'm not natively a tech person, but I think given where the world is today, there was a time when you could say, I'm just going to punt on tech and focus on industrials and consumer and healthcare. I think you have to be a tech person today.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I try to think in terms of that stack, but I also think about what's going on in the three most consequential companies today, Nvidia Anthropic and Elon World, all of his companies collectively. ",
+    "start_char_index": 11254,
+    "end_char_index": 11449,
+    "response_text": "\"I try to think in terms of that stack, but I also think about what's going on in the three most consequential companies today, Nvidia Anthropic and Elon World, all of his companies collectively.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I was totally unfocused on business quality, the moat, return on capital. I barely even thought about relative multiples for different kinds of businesses. All I thought about is am I buying something really cheap that has the following characteristics. ",
+    "start_char_index": 13603,
+    "end_char_index": 13857,
+    "response_text": "\"I was totally unfocused on business quality, the moat, return on capital. I barely even thought about relative multiples for different kinds of businesses. All I thought about is am I buying something really cheap that has the following characteristics.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So he said to the room, it will be your natural tendency to think that this increase in technological innovation and disruption and change that we've been experiencing for the last couple years is an anomaly and that things are going to go back to kind of a steadier type of innovation and growth. But hold on to your seats because things are only going to accelerate from here. ",
+    "start_char_index": 19610,
+    "end_char_index": 19989,
+    "response_text": "\"It will be your natural tendency to think that this increase in technological innovation and disruption and change that we've been experiencing for the last couple years is an anomaly and that things are going to go back to kind of a steadier type of innovation and growth. But hold on to your seats because things are only going to accelerate from here.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: Well, great writing is really about clear thinking and organizing your thoughts, communicating them to people in a clear way to Get a desired outcome. You can also use writing to influence. And in our case, it's been very helpful in getting the attention of other shareholders, sometimes the board itself, shaking them up a little bit, getting media attention focused on a board. ",
+    "start_char_index": 30612,
+    "end_char_index": 31007,
+    "response_text": "\"Great writing is really about clear thinking and organizing your thoughts, communicating them to people in a clear way to get a desired outcome. You can also use writing to influence. And in our case, it's been very helpful in getting the attention of other shareholders, sometimes the board itself, shaking them up a little bit, getting media attention focused on a board.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Where the shortcomings within governance happen is when the board members lose sight of what their duties are as fiduciaries or the composition of the board is such that they aren't really equipped to carry out that duty because there is a lack of deep knowledge or intellectual or talent diversity on the board, or they are thinking excessively about things other than their duty to shareholders. ",
+    "start_char_index": 28582,
+    "end_char_index": 28980,
+    "response_text": "\"Where the shortcomings within governance happen is when the board members lose sight of what their duties are as fiduciaries or the composition of the board is such that they aren't really equipped to carry out that duty because there is a lack of deep knowledge or intellectual or talent diversity on the board, or they are thinking excessively about things other than their duty to shareholders.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The advantage that someone like me being a fundamental investor who doesn't make trading decisions based on computers, is that there are still a lot of market irregularities caused by some very good strategies. But collectively they create these anomalies. ",
+    "start_char_index": 24433,
+    "end_char_index": 24690,
+    "response_text": "\"The advantage that someone like me being a fundamental investor who doesn't make trading decisions based on computers, is that there are still a lot of market irregularities caused by some very good strategies. But collectively they create these anomalies.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because what you find is that if the things that you've identified are badly run, then there's probably 10 times more things that are badly run.\n\n",
+    "start_char_index": 34834,
+    "end_char_index": 34980,
+    "response_text": "\"Because what you find is that if the things that you've identified are badly run, then there's probably 10 times more things that are badly run.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There were a lot of things that I learned that day, but one of the things I took away is that they would hold people very accountable and individually show when people were underperforming. But the interesting thing about it was that because these things were all addressable and fixable, when they found someone that was underperforming, it was celebrated because instead of shamed because look, look what all these things you're doing wrong, we can fix those. ",
+    "start_char_index": 50365,
+    "end_char_index": 50827,
+    "response_text": "\"One of the things I took away is that they would hold people very accountable and individually show when people were underperforming. But the interesting thing about it was that because these things were all addressable and fixable, when they found someone that was underperforming, it was celebrated because instead of shamed because look, look what all these things you're doing wrong, we can fix those.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It was because they were not a convenience store chain. They were a pizza chain masquerading as convenience stores. And I had an analyst who went to Texas and ate pizza. And that kind of an analyst today, I think, is what is different.\n\n",
+    "start_char_index": 61108,
+    "end_char_index": 61345,
+    "response_text": "\"They were not a convenience store chain. They were a pizza chain masquerading as convenience stores. And I had an analyst who went to Texas and ate pizza. And that kind of an analyst today, I think, is what is different.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He said the one thing money doesn't buy you is friends that believed in you when you had nothing.\n\n",
+    "start_char_index": 65462,
+    "end_char_index": 65561,
+    "response_text": "\"He said the one thing money doesn't buy you is friends that believed in you when you had nothing.\""
+  }
+]

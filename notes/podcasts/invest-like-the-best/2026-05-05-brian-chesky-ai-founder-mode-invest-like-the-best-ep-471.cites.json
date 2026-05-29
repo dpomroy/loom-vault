@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "No one is born a good CEO. And the job of CEO is completely counterintuitive. And almost all of your intuition about what to do is wrong. ",
+    "start_char_index": 14527,
+    "end_char_index": 14665,
+    "response_text": "Chesky, 1-143\u2013145."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I had a dream in late 2019 where I felt like I left the company for 10 years and I come back and I was like, somebody had been running the company for 10 years and they like turned it into this like giant political bureaucracy. ",
+    "start_char_index": 16724,
+    "end_char_index": 16952,
+    "response_text": "Chesky, 1-178."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C**: I think AI Founder mode. You're even in significantly more details because you have almost everything on demand. ",
+    "start_char_index": 18987,
+    "end_char_index": 19115,
+    "response_text": "Chesky, 1-210\u2013211."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't think people managers will have any value in the future. When I think people managers, people that only manage people, I think everyone's going to have to be a hybrid people, manager or manager. ",
+    "start_char_index": 21126,
+    "end_char_index": 21329,
+    "response_text": "Chesky, 1-241\u2013242."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The next wave of AI is going to be consumer AI. Consumer AI is going to be the big prize. ",
+    "start_char_index": 24234,
+    "end_char_index": 24324,
+    "response_text": "Chesky, 1-284\u2013285."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm on the board of Y Combinator. 175 companies, last batch, 159 were enterprise. There are no consumer companies because there's no consumer companies. ",
+    "start_char_index": 23965,
+    "end_char_index": 24118,
+    "response_text": "175 companies in the last batch, 159 were enterprise \u2014 effectively zero consumer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The first ay commentator Paul Graham said, It's better to have 100 people love you than a million people sort of like you. ",
+    "start_char_index": 36405,
+    "end_char_index": 36528,
+    "response_text": "Chesky, 1-460."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You keep pushing to go so absurd to 10 stars that suddenly six or seven stars doesn't seem crazy at all. ",
+    "start_char_index": 49444,
+    "end_char_index": 49549,
+    "response_text": "Chesky, 1-671."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I like about AI is I think AI shifts our attention from consumption to creation. ",
+    "start_char_index": 51535,
+    "end_char_index": 51621,
+    "response_text": "Chesky, 1-698."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "See, adulation is like a cup with the hole at the bottom. And you keep filling it in, thinking it's love, except it just keeps coming out the bottom. ",
+    "start_char_index": 55276,
+    "end_char_index": 55426,
+    "response_text": "Chesky, 1-759\u2013760."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I started realizing the software won't endure and the network effect will decently endure. But the ideas of Airbnb, its principles, its mission, the organization, the company, the brand, the identity, the logo, the voice, the community, what it stands for, those things will endure. ",
+    "start_char_index": 73464,
+    "end_char_index": 73747,
+    "response_text": "Chesky, 1-1030\u20131031."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The more time you spend on recruiting, the less time you spend on management because the really good people are self managing. ",
+    "start_char_index": 84364,
+    "end_char_index": 84491,
+    "response_text": "Chesky, 1-1198."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I feel like I'm a designer more than I am a CEO and I might be afforded one of the great biggest canvases of any designer in human history. ",
+    "start_char_index": 88042,
+    "end_char_index": 88182,
+    "response_text": "Chesky, 1-1257."
+  }
+]

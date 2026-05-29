@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: Okay, so at the time, it's the last $10 million investment we're going to make in the UFC.\n\n",
+    "start_char_index": 15507,
+    "end_char_index": 15614,
+    "response_text": "The last $10M bet. Everything or nothing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: It's a wrap. If the Ultimate Fighter didn't work, it's over. So the last $10 million investment, which sucks at the time, we're investing another 10 million. But what doesn't suck is exactly what you just said. The thing is a runaway hit. ",
+    "start_char_index": 15710,
+    "end_char_index": 15964,
+    "response_text": "The last $10M bet. Everything or nothing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then the finale, when we were at the finale, when Stefan Bonner and Forrest Griffin fought, when the fight was over and everybody in the place was stomping their feet, saying, one more round and we go up, we give them both contracts, I was like, I don't give a shit what happens. This is going to end up somewhere. And Spike TV execs took us out in the alley of the arena, and we did a deal on a napkin.\n\n",
+    "start_char_index": 16003,
+    "end_char_index": 16412,
+    "response_text": "This happened immediately after the Bonner vs.\nGriffin finale crowd demanded one more round."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm not sitting there to watch the fucking fights. I'm making sure that I can't control what's happening in the octagon, but I can control what you're seeing on television. And I have a phone there that goes directly to the truck. ",
+    "start_char_index": 34443,
+    "end_char_index": 34674,
+    "response_text": "He has a direct line to the truck and uses it\nin real time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: There is no committee here. There is no whatever. This is a dictatorship. 100% a dictatorship. ",
+    "start_char_index": 34981,
+    "end_char_index": 35091,
+    "response_text": "Said in the context of controlling the live\nbroadcast experience."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm like, man, you don't ever edit a fight. You let the fight play out, and the fans determine whether the fight is good or bad. And you can't control that. ",
+    "start_char_index": 11470,
+    "end_char_index": 11627,
+    "response_text": "His critique of The Contender \u2014 they edited\nfights they thought were boring."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into. ",
+    "start_char_index": 3228,
+    "end_char_index": 3410,
+    "response_text": "His stated reason for the unfiltered press\nconference style."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm literally driving to work the next day, and he calls me, and I'm like, here we go. He's like, fuck it. That's exactly what he said. Fuck it. Let's keep going. And he always says, it's pretty amazing what a good night's sleep can do for you. ",
+    "start_char_index": 9443,
+    "end_char_index": 9688,
+    "response_text": "Lorenzo called back the next morning and said\n\"Fuck it, let's keep going\" \u2014 after nearly\npulling the plug on the whole thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "First of all, Joe Rogan did the first 12 fights for us for free, right? ",
+    "start_char_index": 75542,
+    "end_char_index": 75614,
+    "response_text": "Said while defending Rogan against sponsor\npressure to cut him."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: I cut negative, negative people out of my life so fucking fast. And it don't matter who you are.\n\n",
+    "start_char_index": 72362,
+    "end_char_index": 72475,
+    "response_text": "Said in context of protecting his mental\noperating environment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: First of all, everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it. ",
+    "start_char_index": 50324,
+    "end_char_index": 50566,
+    "response_text": "His response to media criticism of UFC's\nbusiness decisions."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Sports, live sports is a destination. You have to watch it now. ",
+    "start_char_index": 53191,
+    "end_char_index": 53255,
+    "response_text": "His explanation for why streaming platforms\nshould always chase live sport."
+  }
+]

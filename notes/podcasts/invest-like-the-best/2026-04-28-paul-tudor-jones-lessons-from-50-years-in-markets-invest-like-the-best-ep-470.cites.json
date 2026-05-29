@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: You cannot be a trader, investor, whatever term we use, and not be a really good risk manager. Anyone that's really succeeded, investing or trading, is first and foremost a great risk manager. ",
+    "start_char_index": 27403,
+    "end_char_index": 27611,
+    "response_text": "The thing PTJ returns to again and again.\nRisk management isn't a feature of good trading \u2014\nit *is* the job. Everything else is detail."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The biggest problem with AI is that if you think about the way AI is being practiced and deployed right now, it's the build, break, iterate model. Build it, break it, fix it and iterate. That's been the invention model since the beginning of man. Build, break, iterate. But we've never been in a situation where the tail event could be hundreds of millions, if not billions of lives. ",
+    "start_char_index": 28100,
+    "end_char_index": 28484,
+    "response_text": "This is the sharpest framing of the AI risk\nargument I've seen from a non-tech person.\nThe problem isn't the model \u2014 it's that the\n**tail magnitude** has never been this large.\nThe process is fine; the stakes broke the process."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Pretty much the consensus answer is, I think we'll finally do something about it. When 50 or 100 million people die in an accident, it's crazy. ",
+    "start_char_index": 28711,
+    "end_char_index": 28855,
+    "response_text": "This was the answer from modellers at the\nfour biggest AI companies. If that's genuinely\nthe internal posture, it's a damning data point \u2014\n**reactive, not preventive**, from the people\nbuilding the thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: The one thing that I think should be part of this next election, the simplest, most important thing that we can do is we can demand that all AI is watermarked. That's the single most transformative thing that we could possibly do for the country, for the world. Make it a felony. If someone knowingly violates that three times, put them in jail. I want to know what's authentically human and what's not. ",
+    "start_char_index": 30380,
+    "end_char_index": 30799,
+    "response_text": "Concrete, actionable, and almost trivially\nimplementable compared to broader regulation.\nThe fact this hasn't happened yet says something\nuncomfortable about **who the regulation would\ninconvenience**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Bitcoin is unequivocally the best inflation hedge that there is. More than gold, because bitcoin is finite. There's only so much bitcoin that can be mined. ",
+    "start_char_index": 37733,
+    "end_char_index": 37889,
+    "response_text": "PTJ qualifies this immediately with cyber\nwarfare and quantum computing risks \u2014 so he's\nnot simply bullish, he's **conditionally bullish**.\nWorth noting: he made this call in 2020 and\nit worked. That's not luck, it's the trade thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In 2000 we got to 170% and now we're 252. ",
+    "start_char_index": 41744,
+    "end_char_index": 41786,
+    "response_text": "Stock market cap as % of GDP. This single\nnumber is the most alarming thing in the episode.\n1929 peak was 65%. 2000 bubble peak was 170%.\n**We are 48% above the dot-com bubble** on this\nmeasure. Hard to dismiss."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Well the problem is that if you buy the S and P at this current valuation, the 10 year forward returns negative when you buy with the S and P of 22. That's what history shows. ",
+    "start_char_index": 43412,
+    "end_char_index": 43588,
+    "response_text": "Not a hedge-fund-fees pitch \u2014 a valuation\nargument. Buying the S&P now at these PEs has\nhistorically produced **negative 10-year returns**.\nMost retail investors have no idea this is\nthe base rate at current valuations."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I feel like I work so much harder than I did 40 years ago, 30 years ago, because there's more information. Oh my God. I get 800 a thousand emails a day. ",
+    "start_char_index": 45986,
+    "end_char_index": 46139,
+    "response_text": "The information explosion hasn't made elite\ntraders better \u2014 it's made **exquisite execution\nharder**. More signal noise, less time to focus\non the actual moment of the trade.\nRelevant to Loom: curation is the product."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what newspaper writing does is it teaches you you have to write where the conclusion comes first. So unlike writing something and then at the end we get the story here, the end comes first and you have to write it with this incredibly rigid discipline so that every succeeding thing that you write, the most important part is in the first sentence of the first paragraph. ",
+    "start_char_index": 57007,
+    "end_char_index": 57383,
+    "response_text": "PTJ credits journalism training as the\nfoundation of his trading logic framework \u2014\n**conclusion first, then hierarchy of evidence**.\nThat's literally what good macro analysis is.\nAlso: it's exactly how Daniel formats notes."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You retire, you die. ",
+    "start_char_index": 50125,
+    "end_char_index": 50146,
+    "response_text": "Four words from an 83-year-old GP in Palm Beach.\nPTJ says it had a profound impact on him.\nThe mechanism: **identity, cognition, purpose**\nall degrade without active engagement.\n\"If you don't use it, you're going to lose it.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I feel it's a privilege to wake up. And I just hope I fricking kill it so I can give it away.\n\n",
+    "start_char_index": 50820,
+    "end_char_index": 50915,
+    "response_text": "This is the motivation underneath the 2am\nwake-ups and the 50-year grind. Not status,\nnot scorekeeping \u2014 **philanthropy as the point**.\nIt reframes the entire conversation about why\nsomeone this successful keeps going."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The point here is that one simple act of kindness can have waves of betterment. It can be so transformative and so multiplicative. There's no doubt in my mind that 4000 reps of thanking that elderly man to help me as a child inspired me when I saw Harry Reasoner interviewing Gene Lang, to emulate that, in a sense. ",
+    "start_char_index": 15628,
+    "end_char_index": 15944,
+    "response_text": "PTJ traces a direct line from one stranger\nhelping him at age three to founding Robin Hood\nthree decades later. The compounding logic\napplies to kindness the same way it applies to\n**capital** \u2014 reps matter, and the returns are\nnon-linear."
+  }
+]
