@@ -1,57 +1,19 @@
 ---
 type: theme
-name: "Founder Obsession"
-description: "The psychology, drive, sacrifice, and singular focus that characterizes founders and builders who achieve outsized things."
-generated_at: 2026-05-29T17:17:45+00:00
+name: "Founder Drive"
+description: "Quotes about the psychological makeup, obsession, ambition, and identity of founders and builders who pursue uncommon goals."
+generated_at: 2026-05-30T09:53:58+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 62
+quote_count: 30
 ---
 
-# Founder Obsession
+# Founder Drive
 
-The psychology, drive, sacrifice, and singular focus that characterizes founders and builders who achieve outsized things.
+Quotes about the psychological makeup, obsession, ambition, and identity of founders and builders who pursue uncommon goals.
 
 ## Quotes
 
-- "I'm never the most experienced person in any of the rooms of my company, but everyone in my company is the most experienced person in what they need to do in that role." — [[notes/podcasts/all-in/2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take]]
-- "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "We created this principle called creating virtuous cycles of mutual benefit. And what that led us to do is to start this never ending cycle of growth, innovation, success and failures." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "The essence of principle based management... is like, what if you could have a business and a culture, small, medium or large, where everyone knew what to do without being told." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Almost every time when we fail, it comes down to ignoring the principles." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Values first, skill second, credentials last." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "A good experiment is where the value, what you learn from this is higher value from this failure than the cost of the experiment." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "When I started Salesforce, we put 1% of our equity 1% of our profit and 1% of all of our employees Time into a foundation today. We've done more than 10 million hours of volunteerism. We've given away more than a billion billion in grants. And we run over 50,000 nonprofits for free on our platform." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
-- "to lever up to buy your own shares when everyone's telling you your company is a piece of shit, that's really scary to do." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "if no one's going to buy our shares, why don't we just start buying our own shares?" — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "I didn't go to VCs until knew we were going to be an advertising business." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "A players don't like to work with B, Cs, Ds, I mean, Ds, you're gonna just burn your A's out." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "we went from somewhere in the neighborhood of hundreds of new hires that we're doing a year, or at least attempting to do a year, to in the tens because people were so spooked about trying to convince me that they need the role, they wouldn't Come to me." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "one person who's really good can be as powerful as 10, 20, 50, 100 people." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "your 1x engineer might be 2x more efficient, but your 10x engineer might be 100x more efficient." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "if we get the local laundromat discovered by someone playing a game because we serve a really good ad to someone who needs their clothes wash... this business is going to be much, much bigger than it is today." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "If the Ultimate Fighter didn't work, it's over." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Spike TV execs took us out in the alley of the arena, and we did a deal on a napkin." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I'm not sitting there to watch the fucking fights. I'm making sure that I can't control what's happening in the octagon, but I can control what you're seeing on television." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "There is no committee here. There is no whatever. This is a dictatorship." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "You let the fight play out, and the fans determine whether the fight is good or bad." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Joe Rogan did the first 12 fights for us for free." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "if you take a management team with a reputation for brilliance, and a business with a reputation for being bad, it is the business's reputation that will stay intact." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I thought to myself, what is the moral equivalent of the motion picture business in the 1920s? I thought, it's a video game business." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "culture, like character, is tested in the breach. You're not tested when things are going well" — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "And of course he was right. With my desire and my drive, I definitely wasn't normal. Normal people can be happy with a regular life. I was different. I felt there was more to life than just plotting through an average existence." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "Arnold lays out what he learned to get to the top of this very unusual and frankly, widely ridiculed sport of bodybuilding back then and says, hey, wait, the same principles I used to get to the top of this sport, I'm going to use to become a movie star and build a business empire and then goes and does it." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I needed stable emotions, total discipline. I needed to be training for two hours in the morning and two hours at night, concentrating on nothing except perfecting my body and bringing it to its peak. Whatever I thought might hold me back, I avoided." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
@@ -74,5 +36,11 @@ The psychology, drive, sacrifice, and singular focus that characterizes founders
 - "It wasn't joy. It wasn't relief. If I felt anything, it was regret. Good God, I thought, regret, because I honestly wished I could do it all over again." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "I'd tell men and women in their mid-20s not to settle for a job or a profession or even a career. Seek a calling. Even if you don't know what that means, seek it if you're following your calling. The fatigue will be easier to bear. The disappointments will be fuel. The highs will be like nothing you've ever felt." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn't mean stopping. Don't ever stop." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
+- "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
+- "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
+- "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
 - "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]

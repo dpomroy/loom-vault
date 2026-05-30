@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-i
 source_title: "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]"
 source_date: 2026-05-26
 show: "Invest Like the Best"
-themes: ["Geopolitics & Power"]
+themes: ["Misc"]
 generated_at: 2026-05-28T18:35:53+00:00
 agent: note-taker
 model: claude-sonnet-4-6

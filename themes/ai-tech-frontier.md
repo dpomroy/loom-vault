@@ -1,23 +1,28 @@
 ---
 type: theme
-name: "AI & Anthropic"
-description: "The economics, scaling dynamics, enterprise adoption, and existential risks of frontier AI, with particular focus on Anthropic and Claude."
-generated_at: 2026-05-28T18:37:22+00:00
+name: "AI & Tech Frontier"
+description: "Quotes about the current state and trajectory of AI companies, model capabilities, compute economics, and enterprise adoption."
+generated_at: 2026-05-30T09:53:58+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 35
+quote_count: 40
 ---
 
-# AI & Anthropic
+# AI & Tech Frontier
 
-The economics, scaling dynamics, enterprise adoption, and existential risks of frontier AI, with particular focus on Anthropic and Claude.
+Quotes about the current state and trajectory of AI companies, model capabilities, compute economics, and enterprise adoption.
 
 ## Quotes
 
+- "You're right, it's the Saspocalypse. I mean it's not my first Saspocalypse, honestly, but it's the current SAS apocalypse." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
+- "you can't get drunk on the stock price. If you are like focused on today all the time. And that is how you're getting your emotional state, it's not gonna work for you. You have to find a different anchor." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "none of this stuff works if you don't have context. The AI is very probabilistic. That is, it can kind of figure things out, but it needs to be grounded in real data and it needs to have that semantic layer. It needs to be locked down into the truth, into a single source, source of truth. Or it just cannot work well." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "we don't know about those sex bots and we don't know about Nano Banana, but we're going to do coding agents. And it turned out Anthropic was right. And all of a sudden, the rocket ship took off." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "I think the low end of the market is basically finished. I think there, there is no safe space. I think the high end of the market, where Mark operates, where the large monoliths operate, is quite safe." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "The vast majority of those tokens don't need to go to anthropic. There needs to be some intermediary layer that's saying, oh, that one has to go to Anthropic. But these ones can handle by smaller models." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
+- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "The biggest problem with AI is that if you think about the way AI is being practiced and deployed right now, it's the build, break, iterate model. Build it, break it, fix it and iterate. That's been the invention model since the beginning of man. But we've never been in a situation where the tail event could be hundreds of millions, if not billions of lives." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
 - "Pretty much the consensus answer is, I think we'll finally do something about it. When 50 or 100 million people die in an accident, it's crazy." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
 - "The one thing that I think should be part of this next election, the simplest, most important thing that we can do is we can demand that all AI is watermarked." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
@@ -43,9 +48,9 @@ The economics, scaling dynamics, enterprise adoption, and existential risks of f
 - "Claude even on opus is generating 70% less tokens for the exact same question... Token quantity equals quality of answer and quality of thinking at some level." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "Prefill picture British naval ship from the 18th century. Prefill is loading the cannon, decode is firing." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "The disaggregation of pre fill and inference means that I think these GPUs are going to have 10 or 15 year lives." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
+- "My single most useful agent is a really good summary of the points that would be interesting to me from podcasts." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "A violation of Richard Sutton's bitter lesson is for sure the biggest risk to this trade to all of AI." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "The machine gun is here. If we do not all become masters of the machine gun, we're getting mastered." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
-- "But if we co opt it, the danger of co opting these models when they become part of the loop of decision making in these important military systems. Can you imagine if you can create a foundation of fact that is wrong for a model? I could see an alternative universe where the models become complete towers of Babel. We've lost them because of what they've imputed through the junk that we've posted." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "I'm not natively a tech person, but I think given where the world is today, there was a time when you could say, I'm just going to punt on tech and focus on industrials and consumer and healthcare. I think you have to be a tech person today." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]
 - "I try to think in terms of that stack, but I also think about what's going on in the three most consequential companies today, Nvidia Anthropic and Elon World, all of his companies collectively." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]
 - "It will be your natural tendency to think that this increase in technological innovation and disruption and change that we've been experiencing for the last couple years is an anomaly and that things are going to go back to kind of a steadier type of innovation and growth. But hold on to your seats because things are only going to accelerate from here." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]

@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-05-13-krishna-rao-anthro
 source_title: "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]"
 source_date: 2026-05-13
 show: "Invest Like the Best"
-themes: ["Anthropic & AI"]
+themes: ["AI & Tech Frontier"]
 generated_at: 2026-05-27T21:10:32+00:00
 agent: note-taker
 model: claude-sonnet-4-6
