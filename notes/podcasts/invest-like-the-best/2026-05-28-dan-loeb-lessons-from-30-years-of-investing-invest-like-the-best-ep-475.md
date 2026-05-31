@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-f
 source_title: "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]"
 source_date: 2026-05-28
 show: "Invest Like the Best"
-themes: ["AI & Tech Frontier", "Vanguard & Investing"]
+themes: ["AI & Tech Landscape", "Misc", "Vanguard & Investing"]
 generated_at: 2026-05-28T18:36:44+00:00
 agent: note-taker
 model: claude-sonnet-4-6

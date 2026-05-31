@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Sports Business"
-description: "Quotes about how sports leagues, teams, and media rights were built into cultural and commercial powerhouses."
-generated_at: 2026-05-30T09:53:58+00:00
+name: "NFL & Sports Media"
+description: "How the NFL built its cultural dominance, monetized fans, and shaped American media and entertainment."
+generated_at: 2026-05-31T02:04:41+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 24
+quote_count: 23
 ---
 
-# Sports Business
+# NFL & Sports Media
 
-Quotes about how sports leagues, teams, and media rights were built into cultural and commercial powerhouses.
+How the NFL built its cultural dominance, monetized fans, and shaped American media and entertainment.
 
 ## Quotes
 
@@ -29,12 +29,11 @@ Quotes about how sports leagues, teams, and media rights were built into cultura
 - "If the Ultimate Fighter didn't work, it's over." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Spike TV execs took us out in the alley of the arena, and we did a deal on a napkin." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "I'm not sitting there to watch the fucking fights. I'm making sure that I can't control what's happening in the octagon, but I can control what you're seeing on television." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "There is no committee here. There is no whatever. This is a dictatorship." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "You let the fight play out, and the fans determine whether the fight is good or bad." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "He always says, it's pretty amazing what a good night's sleep can do for you." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Joe Rogan did the first 12 fights for us for free." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Sports, live sports is a destination. You have to watch it now." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "if you take a management team with a reputation for brilliance, and a business with a reputation for being bad, it is the business's reputation that will stay intact." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]

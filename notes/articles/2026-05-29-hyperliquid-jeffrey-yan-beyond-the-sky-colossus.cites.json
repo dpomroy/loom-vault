@@ -1,0 +1,72 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "But, while still at HRT, he found Ethereum\u2019s yellow paper, and it described a computer that ran computations the whole world agreed on and no one person could shut down. He was touching finance every day. He could see what it ran on. The paper described a way to replace trust with code. \u201cI felt like I could go and build a thing that would revolutionize finance.\u201d\n\nHe left HRT around April 2018 to build a prediction market where users could bet on the weather or elections or sport. ",
+    "start_char_index": 18882,
+    "end_char_index": 19367,
+    "response_text": "Yan found Ethereum's yellow paper \u2014 a computer\nno single person could shut down \u2014\nwhile touching real finance every day at HRT."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\u201cThere is a lot of sketchy behavior in the space,\u201d he said. \u201cIt may be healthy that people are realizing these things are not what they\u2019re advertised to be.\u201d He does not consider Hyperliquid a crypto company. ",
+    "start_char_index": 5010,
+    "end_char_index": 5219,
+    "response_text": "Yan doesn't defend the industry\nhe's built inside of."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\u201cIf you\u2019re not the first person doing something,\u201d he said, \u201cit\u2019s probably not worth your time to be doing it at all. I genuinely believe that. And if you operate under those assumptions, then reading isn\u2019t very helpful. If there\u2019s already helpful context on what you\u2019re doing, then it\u2019s probably been done. And if it\u2019s been done, why are you doing it?\u201d\n\nIn late 2023, Hyperliquid faced another problem for which crypto had a well-worn playbook. ",
+    "start_char_index": 37923,
+    "end_char_index": 38368,
+    "response_text": "He extends this logic to reading \u2014\nif helpful context exists on what you're doing,\nit's probably already been done."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Hyperliquid was not a company. It was a protocol, and its neutrality from day one was the point. \u201cIf Bitcoin had raised VC rounds,\u201d he said, \u201cI really don\u2019t think it would be Bitcoin. Its entire value proposition would have been destroyed.\u201d Plus, he didn\u2019t need the money. ",
+    "start_char_index": 35879,
+    "end_char_index": 36152,
+    "response_text": "He turned down ~$100M at a $1B valuation.\nHis framing: Hyperliquid isn't a company \u2014\nit's a **protocol**, and neutrality from day one\nwas the whole point."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\u201cAlameda was essential to how FTX worked,\u201d he said. \u201cWe did not want HLP to be essential to how Hyperliquid works.\u201d\n\nThe metrics were climbing, but so were the complaints. ",
+    "start_char_index": 33202,
+    "end_char_index": 33374,
+    "response_text": "He built the community vault to bootstrap\nliquidity only \u2014 then actively worked\nto make it redundant."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He does not consider this unusual, or rather, he considers most people\u2019s relationship with work unusually slack. \u201cI think people are just a bit too soft in general,\u201d he said. \u201cThe brain is an organ. If you need to work more hours, you can train for it.\u201d\n\nHe has learned not to impose this on the team. ",
+    "start_char_index": 42176,
+    "end_char_index": 42478,
+    "response_text": "He's learned not to impose this on the team \u2014\nbut the belief is genuine and consistent\nwith someone who hit 100-hour weeks\nalone in Puerto Rico."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Hyperliquid airdropped 31% of its total token supply to roughly 94,000 early users. There were no conditions or vesting schedules. If you had used the platform and earned points, you woke up that morning with tokens in your wallet, richer than you had been when you had gone to sleep. At the opening price, the airdrop was worth over $1 billion. At all-time highs, it would reach $16 billion. It was the largest wealth transfer in the history of cryptocurrency, and every dollar of it went to users.\n\n",
+    "start_char_index": 47011,
+    "end_char_index": 47512,
+    "response_text": "31% of total token supply\nto ~94,000 early users.\nNo conditions, no vesting.\nAt peak, worth **$16 billion**.\nThe team received nothing on launch day.\nVCs received nothing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\u201cThe fix took a month. It sucks to have to learn it from an attack rather than someone just telling you,\u201d Yan said. Hyperliquid, which has never paid a market maker and never taken a fee for the team, will pay up to a million dollars for a bug report. ",
+    "start_char_index": 51261,
+    "end_char_index": 51513,
+    "response_text": "After the Jelly Jelly exploit cost\nHLP $12M+, Yan acknowledged the gap \u2014\nbut also noted Hyperliquid\nwill pay up to **$1M for a bug report**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When people compete and own their own thing, it leads to a more resilient and scalable system.\u201d\n\nHe said the path of least resistance was to build everything yourself, keep it within one company. They had chosen the opposite. \u201cIt\u2019s the hard way to do things, but we care about how we get to our goal, because how we get there determines what it actually is at the end that we\u2019ve built.\u201d\n\nTrade[XYZ]\u2019s founder told me he thought a day might come when nobody would even know they were using Hyperliquid. ",
+    "start_char_index": 58666,
+    "end_char_index": 59168,
+    "response_text": "He explicitly chose not to build everything\nin-house \u2014 deliberately franchising out\nthe user layer so others could own\nbusinesses on top of Hyperliquid."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it\u2019s really hard to do, and multi-decade goals are very presumptuous.\u201d\n\n\u201cIt\u2019s the difference between Go and chess,\u201d he continued. \u201cIn chess, the better you get, the more moves ahead you read. In Go, there are just too many possibilities. The focus is more on building intuition for the next move rather than trying to read the whole tree.\u201d\n\nI must have looked like I needed more, because he put it yet another way. He had always tried to live by this principle: Be very confident you\u2019re going in the right direction, and execute well on the step you\u2019re taking right now, without knowing exactly where you\u2019re going.\n\n",
+    "start_char_index": 61926,
+    "end_char_index": 62546,
+    "response_text": "He uses Go vs chess as the frame:\nchess rewards reading further ahead,\nGo rewards **intuition for the next move**.\nMulti-decade goals, he says,\nare \"very presumptuous.\""
+  }
+]

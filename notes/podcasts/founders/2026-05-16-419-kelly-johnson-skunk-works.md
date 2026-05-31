@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works.
 source_title: "#419 Kelly Johnson: Skunk Works"
 source_date: 2026-05-16
 show: "Founders"
-themes: ["Founder Drive", "Skunk Works & Execution"]
+themes: ["Misc"]
 generated_at: 2026-05-27T21:07:02+00:00
 agent: note-taker
 model: claude-sonnet-4-6

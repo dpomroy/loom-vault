@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-q
 source_title: "Charles & Chase Koch on How They Quietly Built a $150B Empire"
 source_date: 2026-05-12
 show: "All-In"
-themes: ["Founder Drive", "Misc", "Skunk Works & Execution"]
+themes: ["Founder Psychology", "Misc"]
 generated_at: 2026-05-27T20:57:49+00:00
 agent: note-taker
 model: claude-sonnet-4-6

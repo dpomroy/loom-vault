@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "There's a kind of excited curiosity that's both the engine and the\nrudder of great work. It will not only drive you, but if you let\nit have its way, will also show you what to work on.  ",
+    "start_char_index": 2271,
+    "end_char_index": 2457,
+    "response_text": "The engine/rudder framing is precise in a way most motivation advice isn't. It does two jobs at once \u2014 it drives you forward and it points the direction. Most people treat these as separate problems."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Knowledge expands fractally, and from a\ndistance its edges look smooth, but once you learn enough to get\nclose to one, they turn out to be full of gaps.  ",
+    "start_char_index": 2739,
+    "end_char_index": 2893,
+    "response_text": "This is the best one-sentence explanation of why expertise feels discouraging at first and then accelerating. The smooth-from-a-distance illusion is what puts beginners off and keeps pretenders comfortable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Per-project\nprocrastination is far the more dangerous. You put off starting\nthat ambitious project from year to year because the time isn't\nquite right. When you're procrastinating in units of years, you can\nget a lot not done.\n",
+    "start_char_index": 12691,
+    "end_char_index": 12919,
+    "response_text": "The brutality of \"get a lot not done\" lands. The reason this form of procrastination is so dangerous is the next point: it disguises itself as productivity. You're always busy \u2014 just never on the thing that matters most."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "[[8](#f8n)]  One reason per-project procrastination is so dangerous is that it\nusually camouflages itself as work. You're not just sitting around\ndoing nothing; you're working industriously on something else. So\nper-project procrastination doesn't set off the alarms that per-day\nprocrastination does. You're too busy to notice it.  ",
+    "start_char_index": 12919,
+    "end_char_index": 13252,
+    "response_text": "This is the version of the trap most ambitious people fall into. The alarm never goes off because surface-level you look productive. It's only visible in hindsight \u2014 or when you ask the question directly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The trouble with planning is that it only works for achievements\nyou can describe in advance. You can win a gold medal or get rich\nby deciding to as a child and then tenaciously pursuing that goal,\nbut you can't discover natural selection that way.  ",
+    "start_char_index": 9316,
+    "end_char_index": 9566,
+    "response_text": "The gold medal vs. natural selection contrast is the sharpest version of this argument I've seen. Planning optimises for known targets. The best work is usually in unknown territory \u2014 so plans are a ceiling, not a floor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Boldly chase outlier ideas, even if other people aren't interested\nin them \u2014 in fact, especially if they aren't. If you're excited\nabout some possibility that everyone else ignores, and you have\nenough expertise to say precisely what they're all overlooking,\nthat's as good a bet as you'll find.\n",
+    "start_char_index": 3365,
+    "end_char_index": 3661,
+    "response_text": "The qualifier \"enough expertise to say precisely\" is doing real work here. Without it this is just contrarianism. With it, it's a genuine edge. The combination of conviction + precision is rare \u2014 most people have one or neither."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Originality isn't a process, but a habit of mind. Original thinkers\nthrow off new ideas about whatever they focus on, like an angle\ngrinder throwing off sparks. They can't help it.  ",
+    "start_char_index": 24895,
+    "end_char_index": 25077,
+    "response_text": "This reframes \"how do I be more creative\" as the wrong question entirely. You don't switch originality on for a session \u2014 you either have the underlying habit or you're building it. The angle grinder image is good: it's a **property of the material**, not the motion."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Indeed, if you think about it, a good new idea has to seem bad to\nmost people, or someone would have already explored it. So what\nyou're looking for is ideas that seem crazy, but the right kind of\ncrazy. ",
+    "start_char_index": 29478,
+    "end_char_index": 29682,
+    "response_text": "The follow-on distinction between exciting-bad and merely-bad ideas is the practical payoff. Exciting-bad ideas are \"rich in implications.\" Merely-bad ones are \"depressing.\" That's a real heuristic \u2014 the emotional texture of a bad idea tells you something about whether it's the right kind of bad."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But ideas that are the right kind of\ncrazy tend to be exciting; they're rich in implications; whereas\nideas that are merely bad tend to be depressing.  ",
+    "start_char_index": 29771,
+    "end_char_index": 29923,
+    "response_text": "The follow-on distinction between exciting-bad and merely-bad ideas is the practical payoff. Exciting-bad ideas are \"rich in implications.\" Merely-bad ones are \"depressing.\" That's a real heuristic \u2014 the emotional texture of a bad idea tells you something about whether it's the right kind of bad."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Doing great work is a depth-first search whose root node is the\ndesire to. So \"If at first you don't succeed, try, try again\" isn't\nquite right. It should be: If at first you don't succeed, either\ntry again, or backtrack and then try again.  ",
+    "start_char_index": 53086,
+    "end_char_index": 53328,
+    "response_text": "The CS framing earns its place here \u2014 it separates backtracking (useful) from abandoning the root (fatal). The distinction between giving up on an approach vs. giving up on the goal is one most people don't make explicitly. They either never backtrack or they backtrack all the way out."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "People show much more originality in solving problems than in\ndeciding which problems to solve. Even the smartest can be surprisingly\nconservative when deciding what to work on. People who'd never dream\nof being fashionable in any other way get sucked into working on\nfashionable problems.  ",
+    "start_char_index": 32321,
+    "end_char_index": 32612,
+    "response_text": "The asymmetry between problem selection and problem solving is underappreciated. Smart people apply all their creativity *within* the box, then accept the box as given. Loom is partly a bet that better inputs shift which problems feel visible."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Curiosity is the key to all four steps in doing great work: it will\nchoose the field for you, get you to the frontier, cause you to\nnotice the gaps in it, and drive you to explore them. The whole\nprocess is a kind of dance with curiosity.      \n",
+    "start_char_index": 57094,
+    "end_char_index": 57339,
+    "response_text": "This is the essay's thesis restated as a checklist. Every step has the same root cause, which means if curiosity is compromised \u2014 by prestige-chasing, fashion, fear \u2014 the whole pipeline degrades. It's not one input among many. It's the load-bearing variable."
+  }
+]

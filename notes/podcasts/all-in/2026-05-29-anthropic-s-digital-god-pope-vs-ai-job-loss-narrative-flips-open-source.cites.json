@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And I think the best way to protect yourself from AI is to be the most AI enabled version of yourself you can be. But if you're ambivalent about your job, you're probably not doing that. And you could be, you know, a sitting duck. ",
+    "start_char_index": 9339,
+    "end_char_index": 9570,
+    "response_text": "Gurley's framing. The people at risk aren't those in \"AI-threatened\" jobs \u2014 they're the ones who refuse to engage. Ambivalence is the actual vulnerability, not job category."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: Mark Cuban had had a great quote. He said there are two types of people in the world. Those that use AI to learn faster than they ever could before and those that use AI to avoid learning altogether. And I think it's this notion of high agency or not that's pretty good. ",
+    "start_char_index": 12023,
+    "end_char_index": 12309,
+    "response_text": "Cuban's line, quoted by Gurley. Clean binary. The distinction matters for Loom \u2014 the tool should pull people toward the first camp, not let them coast in the second."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I was going to say that I think the single most marketable skill in the economy right now has got to be proficiency in Claude. If you're going into a firm right now and you're the only one who knows Claude, it would be like you're the only one who knows how to work a spreadsheet or a word processor. The advantage would be enormous. ",
+    "start_char_index": 13834,
+    "end_char_index": 14168,
+    "response_text": "Sacks makes the case clearly. Early advantage in a tool compounds \u2014 the people who built Excel fluency in the 90s had a decade-long edge. Same dynamic, faster clock speed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I just realized, looking at that, that the average person is not going to be able to generate this. I mean, this is why this idea that you're just going to be able to like, throw AI into an organization and it's just magically going to generate value is not true. You have to know how to get value out of it. ",
+    "start_char_index": 15624,
+    "end_char_index": 15937,
+    "response_text": "This is the honest admission the AI hype cycle usually skips. The leverage is real, but it requires genuine craft to unlock. Prompt engineering is a skill gap, not a commodity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D**: I have to tell you that anthropic is a mystery to me. I've never ever seen a company that is both leading their field and the most negatively outspoken commenter on what they do. I've just never seen it. And my initial theory was the regulatory capture theory that they just want to ensure there's regulation. ",
+    "start_char_index": 29550,
+    "end_char_index": 29875,
+    "response_text": "Gurley on Anthropic. The contradiction is the tell. Either it's regulatory capture, or it's something more ideological. Both explanations are more alarming than taking them at face value."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I don't think they think they're writing software. I think they're midwifing a deity here. And I don't know which one I'm more afraid of, the regulatory capture or this second theory I call the Dr. Frankenstein theory. It's more scary to me. I think the second thing, these are delusions.\n\n",
+    "start_char_index": 34771,
+    "end_char_index": 35064,
+    "response_text": "Gurley's \"Dr Frankenstein theory.\" Worth sitting with. Dario's own writing \u2014 the Machines of Loving Grace post \u2014 supports this reading if you take it literally. Most people don't bother."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then he says it could be a capitalist economy of AI systems which then give out resources to humans based on some secondary economy of what the AI systems think makes sense to reward in humans. So that's envisioning a deity of sorts that's going to break ties and decide what humans.\n\n**Speaker C**: It's a computational reward function for humans. It decides how much you're worth.\n\n",
+    "start_char_index": 34362,
+    "end_char_index": 34750,
+    "response_text": "This is Dario's own words, quoted by Gurley. A computational reward function deciding human worth. That's not safety research \u2014 that's a theology. The gap between this and a social credit system is narrower than it looks."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Which is if you brand yourself as the safe AI company and then try to characterize everybody else as a reckless player and reckless AI needs to be stopped. You can see how this would basically further your monopolistic control over this industry. And if you see AI through the lens that, you know, really, frankly, the pope and I see it, which is centralization versus decentralization, I do think that is, you know, one of the key lenses we should have on the technology is whether you want this to be a centralized or decentralized technology, this way of viewing the world leads to more centralization, and I think that's dangerous. ",
+    "start_char_index": 39542,
+    "end_char_index": 40178,
+    "response_text": "Sacks connects the game theory cleanly. Safety branding as moat. Whether it's deliberate or emergent doesn't really matter \u2014 the effect is the same."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So one is that in terms of the red capture agenda that you're seeing in Washington, I think where it's all leading to is an effort to ban open source models or open weight models. There's a lot of breadcrumbs leading here. I think people who want this are being a little bit circumspect. They don't feel like they're quite there in terms of being able to explain it.\n\n",
+    "start_char_index": 52843,
+    "end_char_index": 53211,
+    "response_text": "Sacks's most concrete prediction. The rhetoric about guardrails being \"removable\" on open models is the predicate being built. Watch for this pattern accelerating post-IPO."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B**: We have basically a 14x year over year increase in code generation. That code has to be managed by somebody. You still need humans to look under the hood. And when the amount of code explodes and you get 10x or 100x more code, the complexity also rises as well. So look, we're not hiring 10 times more engineers, but you do need more engineers now to manage all of that code. ",
+    "start_char_index": 85704,
+    "end_char_index": 86095,
+    "response_text": "Sacks's strongest empirical point in the jobs debate. More code means more complexity, not fewer engineers. Jevons Paradox playing out in real time. Relevant for anyone building dev tooling."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I will give my position on this, which is, and it's always been the same, which is there's going to be a massive job displacement that occurs. And that massive job displacement is going to come because CEOs in many cases believe that this technology is going to make people more efficient. They can do more with less and they will be rewarded by the public market by just having higher earnings. ",
+    "start_char_index": 73694,
+    "end_char_index": 74093,
+    "response_text": "JCal's actual position \u2014 displacement is real, but the terminal state is more startups, not mass unemployment. The transition is painful regardless of the destination. Honest framing, even if he gets shouted down."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now, on the other side of the ledger, I believe we'll have a Cambrian explosion in startups. And all these. This talent, if they embrace the tools, to Bill Gurley's point, are going to be able to solve more problems and create small companies of five or 10 people who are laid off from Amazon or Meta and make double their salary or have a better job that they control. I believe that is going to be the ultimate solution. But that transition is going to be extremely painful. ",
+    "start_char_index": 76329,
+    "end_char_index": 76806,
+    "response_text": "JCal's actual position \u2014 displacement is real, but the terminal state is more startups, not mass unemployment. The transition is painful regardless of the destination. Honest framing, even if he gets shouted down."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't think there's any scenario where you just do more for less and all of a sudden everyone has 70% operating margins. That's not going to happen. Someone else is going to come along and do more for less and lower the price. And so the thing that could happen is we could have a productivity boom from lower priced goods and services and the basket of goods that humans are able to buy gets cheaper and cheaper and cheaper. ",
+    "start_char_index": 95684,
+    "end_char_index": 96112,
+    "response_text": "Gurley's most underrated point in the episode. Productivity gains get competed away. The consumer wins, not the incumbent. This is the corrective to the \"AI profits everything\" narrative."
+  }
+]

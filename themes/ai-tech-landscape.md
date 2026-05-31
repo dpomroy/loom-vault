@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "AI & Tech Frontier"
-description: "Quotes about the current state and trajectory of AI companies, model capabilities, compute economics, and enterprise adoption."
-generated_at: 2026-05-30T09:53:58+00:00
+name: "AI & Tech Landscape"
+description: "The competitive dynamics, business models, risks, and transformative potential of AI and the broader technology industry."
+generated_at: 2026-05-31T02:04:41+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 40
+quote_count: 54
 ---
 
-# AI & Tech Frontier
+# AI & Tech Landscape
 
-Quotes about the current state and trajectory of AI companies, model capabilities, compute economics, and enterprise adoption.
+The competitive dynamics, business models, risks, and transformative potential of AI and the broader technology industry.
 
 ## Quotes
 
@@ -19,10 +19,23 @@ Quotes about the current state and trajectory of AI companies, model capabilitie
 - "none of this stuff works if you don't have context. The AI is very probabilistic. That is, it can kind of figure things out, but it needs to be grounded in real data and it needs to have that semantic layer. It needs to be locked down into the truth, into a single source, source of truth. Or it just cannot work well." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "we don't know about those sex bots and we don't know about Nano Banana, but we're going to do coding agents. And it turned out Anthropic was right. And all of a sudden, the rocket ship took off." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "I think the low end of the market is basically finished. I think there, there is no safe space. I think the high end of the market, where Mark operates, where the large monoliths operate, is quite safe." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
+- "I think it's irrelevant at this point. I think that the Chinese models are as competitive as these US models. And they've learned to make these models without having the highest end chips. I think the highest end chips is kind of more of an ego gratification for us." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
 - "The vast majority of those tokens don't need to go to anthropic. There needs to be some intermediary layer that's saying, oh, that one has to go to Anthropic. But these ones can handle by smaller models." — [[notes/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi]]
-- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "I think the best way to protect yourself from AI is to be the most AI enabled version of yourself you can be." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "There are two types of people in the world. Those that use AI to learn faster than they ever could before and those that use AI to avoid learning altogether." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I think the single most marketable skill in the economy right now has got to be proficiency in Claude." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I just realized, looking at that, that the average person is not going to be able to generate this. I mean, this is why this idea that you're just going to be able to like, throw AI into an organization and it's just magically going to generate value is not true." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I've never ever seen a company that is both leading their field and the most negatively outspoken commenter on what they do." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I don't think they think they're writing software. I think they're midwifing a deity here." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "it could be a capitalist economy of AI systems which then give out resources to humans based on some secondary economy of what the AI systems think makes sense to reward in humans." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "If you brand yourself as the safe AI company and then try to characterize everybody else as a reckless player and reckless AI needs to be stopped. You can see how this would basically further your monopolistic control over this industry." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I think where it's all leading to is an effort to ban open source models or open weight models. There's a lot of breadcrumbs leading here." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "We have basically a 14x year over year increase in code generation. That code has to be managed by somebody." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "there's going to be a massive job displacement that occurs... I believe we'll have a Cambrian explosion in startups." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I don't think there's any scenario where you just do more for less and all of a sudden everyone has 70% operating margins. That's not going to happen. Someone else is going to come along and do more for less and lower the price." — [[notes/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source]]
+- "I thought to myself, what is the moral equivalent of the motion picture business in the 1920s? I thought, it's a video game business." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "data sets by their very nature are backward looking. Creativity, by its very nature is forward looking." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "all hits are by their very nature unexpected. That's the most important thing to take away. Things that are data driven in their entirety can't be unexpected." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "The biggest problem with AI is that if you think about the way AI is being practiced and deployed right now, it's the build, break, iterate model. Build it, break it, fix it and iterate. That's been the invention model since the beginning of man. But we've never been in a situation where the tail event could be hundreds of millions, if not billions of lives." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
 - "Pretty much the consensus answer is, I think we'll finally do something about it. When 50 or 100 million people die in an accident, it's crazy." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
 - "The one thing that I think should be part of this next election, the simplest, most important thing that we can do is we can demand that all AI is watermarked." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
@@ -51,6 +64,7 @@ Quotes about the current state and trajectory of AI companies, model capabilitie
 - "My single most useful agent is a really good summary of the points that would be interesting to me from podcasts." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "A violation of Richard Sutton's bitter lesson is for sure the biggest risk to this trade to all of AI." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
 - "The machine gun is here. If we do not all become masters of the machine gun, we're getting mastered." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
+- "But if we co opt it, the danger of co opting these models when they become part of the loop of decision making in these important military systems. Can you imagine if you can create a foundation of fact that is wrong for a model? I could see an alternative universe where the models become complete towers of Babel. We've lost them because of what they've imputed through the junk that we've posted." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "I'm not natively a tech person, but I think given where the world is today, there was a time when you could say, I'm just going to punt on tech and focus on industrials and consumer and healthcare. I think you have to be a tech person today." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]
 - "I try to think in terms of that stack, but I also think about what's going on in the three most consequential companies today, Nvidia Anthropic and Elon World, all of his companies collectively." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]
 - "It will be your natural tendency to think that this increase in technological innovation and disruption and change that we've been experiencing for the last couple years is an anomaly and that things are going to go back to kind of a steadier type of innovation and growth. But hold on to your seats because things are only going to accelerate from here." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]

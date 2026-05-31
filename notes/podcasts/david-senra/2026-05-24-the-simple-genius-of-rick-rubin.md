@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-r
 source_title: "The Simple Genius of Rick Rubin"
 source_date: 2026-05-24
 show: "David Senra"
-themes: ["Creative Work", "Misc"]
+themes: ["Misc"]
 generated_at: 2026-05-28T18:34:00+00:00
 agent: note-taker
 model: claude-sonnet-4-6

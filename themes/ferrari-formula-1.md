@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Formula 1 & Ferrari"
-description: "Quotes about the business, mythology, and culture of Formula 1 racing and the Ferrari brand."
-generated_at: 2026-05-30T09:53:58+00:00
+name: "Ferrari & Formula 1"
+description: "The business, mythology, and cultural mechanics of Ferrari and Formula 1 as luxury and media properties."
+generated_at: 2026-05-31T02:04:41+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 24
 ---
 
-# Formula 1 & Ferrari
+# Ferrari & Formula 1
 
-Quotes about the business, mythology, and culture of Formula 1 racing and the Ferrari brand.
+The business, mythology, and cultural mechanics of Ferrari and Formula 1 as luxury and media properties.
 
 ## Quotes
 

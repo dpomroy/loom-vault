@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-in
 source_title: "Strauss Zelnick, Take-Two Interactive"
 source_date: 2026-05-17
 show: "David Senra"
-themes: ["AI & Tech Frontier", "Creative Work", "Founder Drive", "Misc", "Skunk Works & Execution", "Sports Business"]
+themes: ["AI & Tech Landscape", "Founder Psychology", "Misc", "NFL & Sports Media"]
 generated_at: 2026-05-27T21:03:06+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-fo
 source_title: "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.471]"
 source_date: 2026-05-05
 show: "Invest Like the Best"
-themes: ["AI & Tech Frontier", "Skunk Works & Execution"]
+themes: ["AI & Tech Landscape", "Founder Psychology", "Misc"]
 generated_at: 2026-05-27T21:09:26+00:00
 agent: note-taker
 model: claude-sonnet-4-6
