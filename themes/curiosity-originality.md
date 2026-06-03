@@ -2,10 +2,10 @@
 type: theme
 name: "Curiosity & Originality"
 description: "Curiosity as the driving force of great work, and the primacy of choosing original problems over merely solving them cleverly."
-generated_at: 2026-05-31T02:04:41+00:00
+generated_at: 2026-06-03T02:04:03+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 20
+quote_count: 19
 ---
 
 # Curiosity & Originality
@@ -19,7 +19,6 @@ Curiosity as the driving force of great work, and the primacy of choosing origin
 - "Indeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Originality in choosing problems seems to matter even more than originality in solving them. That's what distinguishes the people who discover whole new fields. So what might seem to be merely the initial step — deciding what to work on — is in a sense the key to the whole game." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on, like an angle grinder throwing off sparks. They can't help it." — [[notes/articles/2026-05-17-how-to-do-great-work]]
-- "But perhaps the worst thing schools do to you is train you to win by hacking the test. You can't do great work by doing that. You can't trick God. So stop looking for that kind of shortcut. The way to beat the system is to focus on problems and solutions that others have overlooked, not to skimp on the work itself." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "There's a kind of excited curiosity that's both the engine and the rudder of great work. It will not only drive you, but if you let it have its way, will also show you what to work on." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Knowledge expands fractally, and from a distance its edges look smooth, but once you learn enough to get close to one, they turn out to be full of gaps." — [[notes/articles/2026-05-18-how-to-do-great-work]]

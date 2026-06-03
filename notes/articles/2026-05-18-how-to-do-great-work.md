@@ -3,7 +3,7 @@ source: notes
 source_path: sources/articles/2026-05-18-how-to-do-great-work.md
 source_title: "How to Do Great Work"
 source_date: 2026-05-18
-themes: ["Curiosity & Originality", "Misc", "Procrastination & Planning"]
+themes: ["Curiosity & Originality", "Founder Drive", "Procrastination & Focus"]
 generated_at: 2026-05-27T20:41:22+00:00
 agent: note-taker
 model: claude-sonnet-4-6

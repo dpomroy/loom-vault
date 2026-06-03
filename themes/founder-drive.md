@@ -1,19 +1,21 @@
 ---
 type: theme
-name: "Founder Psychology"
-description: "The inner drives, obsessions, identity, and emotional patterns that push founders and entrepreneurs to build against the odds."
-generated_at: 2026-05-31T02:04:41+00:00
+name: "Founder Drive"
+description: "The obsessive ambition, sacrifice, and psychological edge that separates founders and champions from everyone else."
+generated_at: 2026-06-03T02:04:03+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 42
+quote_count: 37
 ---
 
-# Founder Psychology
+# Founder Drive
 
-The inner drives, obsessions, identity, and emotional patterns that push founders and entrepreneurs to build against the odds.
+The obsessive ambition, sacrifice, and psychological edge that separates founders and champions from everyone else.
 
 ## Quotes
 
+- "Doing great work means doing something important so well that you expand people's ideas of what's possible." — [[notes/articles/2026-05-18-how-to-do-great-work]]
+- "Write the story you want to read; build the tool you want to use." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "I think people are just a bit too soft in general. The brain is an organ. If you need to work more hours, you can train for it." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
@@ -22,19 +24,13 @@ The inner drives, obsessions, identity, and emotional patterns that push founder
 - "I'm never the most experienced person in any of the rooms of my company, but everyone in my company is the most experienced person in what they need to do in that role." — [[notes/podcasts/all-in/2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take]]
 - "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Almost every time when we fail, it comes down to ignoring the principles." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Values first, skill second, credentials last." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "I didn't go to VCs until knew we were going to be an advertising business." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
 - "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
 - "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "There is no committee here. There is no whatever. This is a dictatorship." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "And of course he was right. With my desire and my drive, I definitely wasn't normal. Normal people can be happy with a regular life. I was different. I felt there was more to life than just plotting through an average existence." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
+- "Arnold lays out what he learned to get to the top of this very unusual and frankly, widely ridiculed sport of bodybuilding back then and says, hey, wait, the same principles I used to get to the top of this sport, I'm going to use to become a movie star and build a business empire and then goes and does it." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I needed stable emotions, total discipline. I needed to be training for two hours in the morning and two hours at night, concentrating on nothing except perfecting my body and bringing it to its peak. Whatever I thought might hold me back, I avoided." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "That told me something. If I had been able to change my body that much, I could also, through the same discipline and determination, change anything else I wanted." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "What separates the champion from the guy that is second best or the loser is the person who really has the psychological advantage. Everything is in the mind. I had a psychological advantage. I had no other things available. It was easy to have that drive and develop this kind of attitude of this is my only way out of this town, I of this village. I always felt my way out was through bodybuilding." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
@@ -44,6 +40,7 @@ The inner drives, obsessions, identity, and emotional patterns that push founder
 - "It might seem like I was handcuffing myself by setting such specific goals, but it was the opposite. I found it liberating. Knowing exactly where I wanted to end up freed me totally to improvise how to get there." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "For me, life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I'm so determined to make millions of dollars that I cannot fail. In my mind, I've already made the millions. Now it's just a matter of going through the motions." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
+- "The cowards never started and the weak died along the way. That leaves us, Phil Knight is quoting his co founder of Nike, Bill Bowerman." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "I had an aching sense that our time is short. Shorter than we ever know. Short as a morning run. And I wanted mine to be meaningful and purposeful and creative and important and above all, different." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "Maybe the only answer, I thought, was to find some prodigious improbable dream that seemed worthy, that seemed fun, that seemed a good fit, and chase it with an athlete's single minded dedication and purpose. Like it or not, life is a game. Whoever denies that truth, whoever simply refuses to play, gets left on the sidelines." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "Because I realized it wasn't selling. I believed in running. I believe that if people got out and ran a few miles every day, the world would be a better place. And I believed these shoes were better to run in. People, sensing my belief, wanted some of that belief for themselves. Belief is irresistible." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
@@ -54,5 +51,3 @@ The inner drives, obsessions, identity, and emotional patterns that push founder
 - "It wasn't joy. It wasn't relief. If I felt anything, it was regret. Good God, I thought, regret, because I honestly wished I could do it all over again." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "I'd tell men and women in their mid-20s not to settle for a job or a profession or even a career. Seek a calling. Even if you don't know what that means, seek it if you're following your calling. The fatigue will be easier to bear. The disappointments will be fuel. The highs will be like nothing you've ever felt." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn't mean stopping. Don't ever stop." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
-- "No one is born a good CEO. And the job of CEO is completely counterintuitive. And almost all of your intuition about what to do is wrong." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I had a dream in late 2019 where I felt like I left the company for 10 years and I come back and I was like, somebody had been running the company for 10 years and they like turned it into this like giant political bureaucracy." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]

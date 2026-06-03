@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Ferrari & Formula 1"
-description: "The business, mythology, and cultural mechanics of Ferrari and Formula 1 as luxury and media properties."
-generated_at: 2026-05-31T02:04:41+00:00
+name: "Ferrari & F1"
+description: "The business, myth, and strategy behind Formula 1 and Ferrari as luxury and sports entertainment empires."
+generated_at: 2026-06-03T02:04:03+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 24
 ---
 
-# Ferrari & Formula 1
+# Ferrari & F1
 
-The business, mythology, and cultural mechanics of Ferrari and Formula 1 as luxury and media properties.
+The business, myth, and strategy behind Formula 1 and Ferrari as luxury and sports entertainment empires.
 
 ## Quotes
 

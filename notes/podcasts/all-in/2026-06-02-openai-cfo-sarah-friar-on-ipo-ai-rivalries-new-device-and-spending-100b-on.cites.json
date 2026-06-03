@@ -1,0 +1,107 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C**: We're going to raise actually north of $120 billion. ",
+    "start_char_index": 1715,
+    "end_char_index": 1783,
+    "response_text": "She says this casually mid-sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think the largest IPO to date was the Aramco, which was about $30 billion. ",
+    "start_char_index": 3390,
+    "end_char_index": 3467,
+    "response_text": "the largest IPO to date was\nAramco at ~$30B."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In the end, the market is a weighing machine, not a popularity machine. No one remembers who went first, Google or Yahoo, Lyft or Uber. ",
+    "start_char_index": 3995,
+    "end_char_index": 4131,
+    "response_text": "She's dismissing the IPO race narrative\ndirectly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think thank God we did because in 26 we still won't have enough compute. ",
+    "start_char_index": 10481,
+    "end_char_index": 10560,
+    "response_text": "This is her central constraint claim."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C**: We're changing into a consumer substrate that I cannot tell you what it is, but by the end of this year we will unveil it early next year, give or buy it. I have seen it, I've tried it. ",
+    "start_char_index": 16858,
+    "end_char_index": 17059,
+    "response_text": "She's confirmed she's tested\nthe device personally."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What Johnny and team are really good at is bringing humanity to devices. And I don't really know how to explain that well, but when you see it, you feel it.\n\n",
+    "start_char_index": 17255,
+    "end_char_index": 17413,
+    "response_text": "Her description: \"bringing\nhumanity to devices... when you see it, you feel it.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C**: Technology can be very mechanistic, but we all know great design just makes everything fade away. Right. It's what at the time. The simple is hard.\n\n",
+    "start_char_index": 17751,
+    "end_char_index": 17915,
+    "response_text": "A rare moment of precision\nin the device conversation."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Like a year ago I built a model for investors that showed agentic revenue. And the story was, we're going to have this thing, we're going to be in the agentic era. We're going to hand it to a developer with natural language, they're going to be able to build, and we think they will pay upwards of maybe $2,000 a month for it. Which is kind of laughable in hindsight, but nobody believed they were like, I don't even know what she's talking about. There's no way that will happen. ",
+    "start_char_index": 23879,
+    "end_char_index": 24360,
+    "response_text": "The $2K/month figure was\nseen as absurd at the time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If Google and Meta had a baby, it would be chatgpt because what you have in Google search, and by the way, we know we have at least 11% of the search market, it's a lot more because actually when you do a Google search and the page refreshes, that counts as one. And ChatGPT, when you do a whole conversation where you might ask for 50 questions, that also only counts as one. So in reality we have a much higher portion, very high intent that is great for advertisers because I'm effectively telling you what I'm doing, right? ",
+    "start_char_index": 32274,
+    "end_char_index": 32802,
+    "response_text": "She's claiming search-level\nintent plus demographic memory."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We have more than that because we have memory. I just told you, it knows who I am. So imagine putting memory and context next to intent. You should have a very potent ad platform which gives you an ability to offer up massive access to the world writ large because now you can pay for it. ",
+    "start_char_index": 32979,
+    "end_char_index": 33268,
+    "response_text": "Memory puts\nthem ahead of Meta's \"people like you\" targeting\n\u2014 they know *you*, not a cohort."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you look at the revenue per token right now, if I was optimizing only for today, I would give every token to the API.\n\n**Speaker D**: Right?\n\n**Speaker C**: Every token to the API? Order of magnitude more than to the consumer. ",
+    "start_char_index": 33320,
+    "end_char_index": 33550,
+    "response_text": "She's admitting the consumer\nproduct is a **strategic bet against\nshort-term revenue optimisation.**"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So just two years ago, we were literally one, we had one CSP, we worked with Microsoft Azure, we sat on one chip, Nvidia, we had one product, ChatGPT, one price point, $20 a month. ",
+    "start_char_index": 25218,
+    "end_char_index": 25399,
+    "response_text": "The contrast with today's multi-CSP,\nmulti-chip stack is striking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Today if you look at our strategy, it's been to go first of all, multiple CSPs, because what CSPs do for us in effect is they shift CapEx into OpEx. So you pay as you get the revenue, so as you're actually utilizing the data centers. So in effect we are riding somewhat on their ability to build and have capex and financing. ",
+    "start_char_index": 25485,
+    "end_char_index": 25811,
+    "response_text": "The strategic\nlogic: CSPs convert CapEx to OpEx \u2014 you\npay as revenue arrives."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The memory I have in my codex, I have a whole ginormous memory file where it knows that I'm me. It knows I'm the CFO of OpenAI. It knows how I like to write things, how I like to say things. It knows what I'm interested in. It actually also knows that I'm a mom, teenagers. I mean, it just carries all this memory and that makes the model more powerful for me. ",
+    "start_char_index": 29355,
+    "end_char_index": 29716,
+    "response_text": "This is the commoditisation\ncounter-argument."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Why we want to be that AI intelligence layer is because a year ago, people talked about the commoditization of the LLMs, and frankly, it's gone the opposite. ",
+    "start_char_index": 29057,
+    "end_char_index": 29215,
+    "response_text": "it's gone\nthe opposite direction."
+  }
+]
