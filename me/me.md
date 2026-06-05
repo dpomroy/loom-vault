@@ -8,7 +8,7 @@ location: UK
 # Fill in what resonates, leave others blank.
 # Multiple frameworks supported.
 mbti: INTJ
-enneagram: ""
+enneagram: 5w6
 big_five:
   openness: high
   conscientiousness: high
