@@ -10,11 +10,11 @@ location: UK
 mbti: INTJ
 enneagram: ""
 big_five:
-  openness: ""
-  conscientiousness: ""
-  extraversion: ""
-  agreeableness: ""
-  neuroticism: ""
+  openness: high
+  conscientiousness: high
+  extraversion: medium
+  agreeableness: medium
+  neuroticism: low
 disc: ""
 strengths_finder: ""
 
