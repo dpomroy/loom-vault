@@ -1,0 +1,247 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "\u201cIt wasn\u2019t that we intended to build a search engine. We built a ranking system to deal with annotations. We wanted to annotate the web, build a system so that after you\u2019d viewed a page, you could click and see what smart comments other people had about it. But how do you decide who gets to annotate a big site like Yahoo? We needed to figure out how to choose which annotations people should look at, which meant we needed to figure out which other sites contained comments that we should classify as authoritative.\u201d Hence PageRank.\n\n",
+    "start_char_index": 17577,
+    "end_char_index": 18113,
+    "response_text": "Larry on PageRank's accidental origin."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Larry would say later, this is a quote from him, \u201cProbably when I was 12, I knew I was going to start a company eventually. I wanted to make the world better. In order to do that, you need to do more than just invent things.\u201d He would say another time later, \u201cYou need to use business and entrepreneurship to make these things real. It\u2019s not enough just to invent them.\u201d\n\nBen: He\u2019s alluding to two things there. ",
+    "start_char_index": 8036,
+    "end_char_index": 8455,
+    "response_text": "Larry's stated ambition from childhood."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The CEO is like, why on earth would we move to your algorithm? I want people to stay on my site. I make money when people stay on my site. I don\u2019t want them to leave my site. You guys are crazy. Get out of here. I\u2019m killing the whole deal.\n\n",
+    "start_char_index": 30031,
+    "end_char_index": 30272,
+    "response_text": "Excite's CEO kills the deal on seeing\nBackRub outperform their own engine."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Google from this point, basically forever was how quickly can we deliver someone something relevant so they can leave Google and I\u2019ve had a good experience finding what they really wanted?\n\n",
+    "start_char_index": 30618,
+    "end_char_index": 30808,
+    "response_text": "Ben's summary of Google's founding\nuser philosophy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "\u201cFrom 1993 to 1996, the web grew from 130 sites to more than 600,000.\u201d If you compute that rate of growth over that four year period, it a 723% growth year over year for four years. ",
+    "start_char_index": 15491,
+    "end_char_index": 15673,
+    "response_text": "Stat from John Battelle's *The Search*."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "These companies weren\u2019t going to focus on search. They were becoming portals. IE they wanted eyeballs, page views. They didn\u2019t understand search and they weren\u2019t technology people.\u201d\n\nBen: And when he says we talked to others, they tried to sell PageRank to Yahoo for $1 million and were rejected. ",
+    "start_char_index": 32053,
+    "end_char_index": 32350,
+    "response_text": "Larry post-rejection, explaining why\nno one bought BackRub."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He writes a check to Larry and Sergey made out to Google Inc. for $100,000, basically just throws it at them, hops in his car and takes off. Google Inc. does not exist yet. ",
+    "start_char_index": 40064,
+    "end_char_index": 40237,
+    "response_text": "The Bechtolsheim moment is one of the\ngreat founder folklore stories \u2014 but the\ndetail that the entity didn't exist yet\nmakes it genuinely funny. Conviction so\nhigh he couldn't be bothered with the\npaperwork."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Google was forced to do distributed computing because their index file was too large to store on any one machine, no matter how big or fancy it could be.\n\n",
+    "start_char_index": 58676,
+    "end_char_index": 58836,
+    "response_text": "This is the key structural insight of\nthe whole episode. The architecture\nthat became Google's moat wasn't a\nvision \u2014 it was a workaround.\nNecessity and genius are often the\nsame thing in retrospect."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: I read that industry average server hardware failure rate at the time was around 3%\u20134% per year. Google\u2019s hardware failure was over 10% per year. But the whole system was designed that it didn\u2019t matter. It was all just replicated.\n\n",
+    "start_char_index": 60130,
+    "end_char_index": 60369,
+    "response_text": "This is how you turn a weakness into a\ndesign principle. Most companies would\nsee 10% failure as a crisis. Google\nbaked it in as an assumption and built\naround it. That's the move."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: And the net of this is that Google can scale, period, but also can scale way more cheaply as search traffic rises and as the index keeps growing and getting bigger than anyone else out there on the market. Once the business model kicks in, this is why Google search has a 87% gross margin on it.\n\n",
+    "start_char_index": 62086,
+    "end_char_index": 62390,
+    "response_text": "The 87% gross margin doesn't come from\nthe ad product \u2014 it comes from\ninfrastructure decisions made in a\ngarage. The business model gets all the\ncredit; the engineering deserves\nequal billing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We don\u2019t want to write the business plan in the pitch deck. You write the business plan in the pitch deck.\n\n",
+    "start_char_index": 67779,
+    "end_char_index": 67887,
+    "response_text": "Larry and Sergey handing their Series A\npitch to employee number nine \u2014 a\nrecent undergrad \u2014 tells you\neverything about how seriously they\ntook the monetisation question at this\nstage. Brilliant product, zero\ncommercial instinct."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The main Google business, innovative new business model that they\u2019re going to pursue here. They are going to sell Google search technology to enterprises so that companies can use the same amazing consumer Google search technology to search their own documents and intranets. This is the business plan for Google for the Series A.\n\nBen: You know that this feels like to me? ",
+    "start_char_index": 68242,
+    "end_char_index": 68616,
+    "response_text": "The actual Google Series A pitch was\nenterprise search software. Worth\nsitting with that. The company that\nwould invent the most lucrative ad\nbusiness in history thought the money\nwas in selling intranet search to\ncorporates."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: The quote is from Sir Michael Maritz. He comes to Doug and they\u2019re running Sequoia Capital together at the time. He says, \u201cDoug, we\u2019ve never paid so much for so little.\u201d\n\nDavid: That\u2019s the lore. ",
+    "start_char_index": 76280,
+    "end_char_index": 76480,
+    "response_text": "The Sequoia partner's line after Google's Series A produced no revenue and the dot-com bubble burst. The attribution is contested \u2014 Moritz, Doerr, Vinod \u2014 but nobody wants to own it now. Tells you everything about how close Google came to being written off."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Just think about this for a minute. Think about everything that Google is today\u2014never goes down, uniVercelly available basically everywhere in the world on every device. It\u2019s fricking Google. In 1999, they shut Google down so that they could serve Netscape\u2019s users.\n\n",
+    "start_char_index": 85867,
+    "end_char_index": 86141,
+    "response_text": "The contrast with today's always-on Google makes this almost absurd. But it was the right call \u2014 prioritise the partner deal over your own consumer product when survival depends on it. Most founders would've flinched."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Jeff Dean codes it up so that dynamically as users are searching, if there\u2019s a query that is related at all to any book in the Amazon library catalog, Google will dynamically generate a text ad saying, go buy this book at Amazon, insert an Amazon affiliate link, and drive traffic over to Amazon.\n\nThe amazing thing is, of course it actually works. ",
+    "start_char_index": 80554,
+    "end_char_index": 80910,
+    "response_text": "Validating a billion-dollar ad model through affiliate links is genuinely elegant startup thinking. They didn't just test click-through rate \u2014 the affiliate structure gave them **full-funnel data**, impressions through to purchase conversion."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Bill had this very radical idea, the best search results should be determined by the free market with dollars. Whoever is willing to pay the most is probably the very best search result for your given query.\n\nSpammers who aren\u2019t relevant to your search, can\u2019t afford to pay because there\u2019s not going to be super high conversion. But super legitimate businesses that would actually solve the pain point that you\u2019re searching for could. ",
+    "start_char_index": 100028,
+    "end_char_index": 100463,
+    "response_text": "Gross was booed for this at TED in 1998. He was also basically right. The insight is that **willingness to pay** is a proxy for relevance in commercial search \u2014 spammers can't afford high bids on queries they can't convert."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He just thought they were obvious. He just thought, this is the way it should be done. Of course it should be build per click. Of course there should be an auction and the highest bidder is the one that wins.\n\nThe nuts and the bolts of it are that right before going public, the lawyers flagged, Hey, you really should patent some of this. But they were just outside the window of what was patentable because he shared them more than a year ago on stage at TED, so the ideas were no longer eligible.\n\n",
+    "start_char_index": 104961,
+    "end_char_index": 105462,
+    "response_text": "Gross didn't patent pay-per-click or keyword auctions because he disclosed them publicly at TED \u2014 which put them outside the patentability window. **The idea was so obvious to him he didn't protect it.** One of the costliest assumptions in tech history."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Anyone who\u2019s used Google in the last few years knows the world basically ended up exactly the way Bill Gross envisioned. It\u2019s one column of results. The first few are sponsored. In Google\u2019s case, they label them even less than Bill was labeling them at GoTo. Then it\u2019s followed by the organic results after that. What was once criticized as absolutely heretical has come to become basically the dominant model of search and search monetization today.\n\n",
+    "start_char_index": 106969,
+    "end_char_index": 107421,
+    "response_text": "The irony is sharp: Larry and Sergey initially agreed paid search was unethical, launched AdWords with a visually separated \"sponsored\" pane to signal purity \u2014 and then quietly converged on exactly what Gross built. **The moral high ground evaporated when the revenue model worked.**"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It\u2019s not just fully pay-to-play where if you pay the most, you get placed at the top. But actually we incorporate as part of our ad ranking system how effective your ads are at click-through rate. ",
+    "start_char_index": 114392,
+    "end_char_index": 114589,
+    "response_text": "\"It's not just fully pay-to-play where if you pay the most, you get placed at the top. But actually we incorporate as part of our ad ranking system how effective your ads are at click-through rate.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Click-through rates are a proxy for relevance.\n\n",
+    "start_char_index": 115466,
+    "end_char_index": 115514,
+    "response_text": "\"Click-through rates are a proxy for relevance.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It becomes for a set of months, the greatest arbitrage in the history of the Internet was to click on your own ads.\n\n",
+    "start_char_index": 117644,
+    "end_char_index": 117761,
+    "response_text": "\"It becomes for a set of months, the greatest arbitrage in the history of the Internet was to click on your own ads.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There\u2019s a great quote in Ken Auletta\u2019s book about this where Omid says, \u201cYou\u2019re betting the company if you do that, and Larry Page responds, we should be able to monetize the pages. If not, we deserve to go out of business.\u201d\n\nDavid: Well, that\u2019s great. ",
+    "start_char_index": 131491,
+    "end_char_index": 131744,
+    "response_text": "\"You're betting the company if you do that, and Larry Page responds, we should be able to monetize the pages. If not, we deserve to go out of business.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Having marketplace liquidity means you always generate the most revenue per search versus other smaller search engines. It\u2019s not just that unit costs go down, it\u2019s that as they scale, their revenue per search actually goes up due to the auction system.\n\n",
+    "start_char_index": 138844,
+    "end_char_index": 139098,
+    "response_text": "\"Having marketplace liquidity means you always generate the most revenue per search versus other smaller search engines. It's not just that unit costs go down, it's that as they scale, their revenue per search actually goes up due to the auction system.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Eventually, it just doesn\u2019t make economic sense for a competitor to match your pricing. They literally will run out of money to try to spend the way that you can spend because your monetization per user is so high. ",
+    "start_char_index": 141563,
+    "end_char_index": 141778,
+    "response_text": "\"Eventually, it just doesn't make economic sense for a competitor to match your pricing. They literally will run out of money to try to spend the way that you can spend because your monetization per user is so high.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: And just to be really clear about what\u2019s happening here, when users are downloading programs, what apps used to be called to run on their computers, Google is paying the maker of that program to include a Trojan horse payload of the Google toolbar, which will then become a Trojan horse that lives in your internet browser and Internet Explorer, and Google will make a lot more money from you.\n\nBen: The most horrible way to describe this is that it\u2019s adware, it\u2019s spyware, it\u2019s a Trojan.\n\nDavid: But users loved it. ",
+    "start_char_index": 147242,
+    "end_char_index": 147766,
+    "response_text": "Google paid third-party software makers to bundle the toolbar \u2014 a move the hosts acknowledge is technically \"adware\" or \"spyware\" \u2014 yet users loved it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Legendary Google engineer Jeff Dean builds AdSense in six weeks. The whole system.\n\n",
+    "start_char_index": 154667,
+    "end_char_index": 154751,
+    "response_text": "Jeff Dean built the entire AdSense system in roughly six weeks, and by the end of 2003 it was doing over **$1 million a day** in revenue."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "By the end of the year, just a few months later, it\u2019s doing over $1 million dollars a day in revenue.\n\n",
+    "start_char_index": 157755,
+    "end_char_index": 157858,
+    "response_text": "Jeff Dean built the entire AdSense system in roughly six weeks, and by the end of 2003 it was doing over **$1 million a day** in revenue."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As he\u2019s playing around with this, he has this idea. Well if our core business is indexing organic results and showing some ads, maybe in addition to indexing and searching this organic results out of your mail folder, I should just go grab ads from our ad database, just display them around, and see how well the content matches.\n\nHe\u2019s showing this off internally. Larry and Sergey see it and they go, wait. Does this work on websites too? So the thing that led to AdSense\u2026\n\nDavid: Ah, this was the beginning of the idea for AdSense.\n\nBen: Was actually part of the prototyping process of Gmail.\n\n",
+    "start_char_index": 177813,
+    "end_char_index": 178409,
+    "response_text": "Paul Buchheit was experimenting with pulling ads from Google's database to display alongside Gmail content when Larry and Sergey saw it and asked: \"Does this work on websites too?\" \u2014 and that question became AdSense."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: There\u2019s a reason why when you look at the legacy of the Google IPO, dual class share structure, great idea. Everybody does it. Dutch auction IPO, not a great idea. Nobody has done it since.\n\n",
+    "start_char_index": 173101,
+    "end_char_index": 173299,
+    "response_text": "The hosts are blunt: dual-class shares became the template for every major tech IPO; the Dutch auction was a failed experiment nobody repeated."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: I feel like this is the most unique insight of this episode is whoa, these are economies of scale that don\u2019t just reduce your costs as you get bigger, but it increases your revenue as you get bigger.\n\n",
+    "start_char_index": 182669,
+    "end_char_index": 182875,
+    "response_text": "The core insight of the episode. Most scale businesses amortise fixed costs \u2014 Google's auction model means more users literally raise the clearing price. That's a structurally different beast."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A culture of thinking insanely big mostly by inexperienced, untainted people, that helps you with creativity, that helps you come up with new ideas. It was like the naivete of kids on a college campus who are dreaming, matched with the brain power of the very best PhDs, and this hardcore belief that whatever our big ideas are, we always have to think with scale.\n\n",
+    "start_char_index": 181028,
+    "end_char_index": 181394,
+    "response_text": "The naivety framing is underrated. Domain ignorance is a feature when you're reinventing a category \u2014 expertise anchors you to what's already been tried."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I think by studying the way that search played out, how did monetization work? How did the value chains work? How did distribution work? How did monetization work that uniquely enabled distribution? Where did all the competitive dynamics come from? This is a \u2018history doesn\u2019t repeat but it rhymes,\u2019 and God, does this rhyme.\n\n",
+    "start_char_index": 184302,
+    "end_char_index": 184632,
+    "response_text": "The AI parallel is the actual reason this episode exists \u2014 not nostalgia. Monetisation, distribution, and competitive dynamics from 1996\u20132002 are replaying now."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We talked about this earlier, but if Larry and Sergey had met and started working on this a few years earlier, it would\u2019ve been Yahoo. Because the web was just so much smaller. You didn\u2019t need a technology-based search engine to understand it.\n\nThen if they\u2019d started a few years later, it would\u2019ve been too late. It would\u2019ve already been too big. You would\u2019ve needed too much technology and power to make it work. It was the perfect window.\n\n",
+    "start_char_index": 185450,
+    "end_char_index": 185893,
+    "response_text": "Timing as moat is undersold. The window to build Google was genuinely narrow \u2014 a few years either side and the same people with the same ideas lose. Worth holding in mind for AI bets right now."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The Google of yesterday, the Microsoft of long ago. That company that\u2019s on the cusp of changing the world, that\u2019s still small enough, where each employee has a huge impact on the organization, where you know you\u2019ll kick yourself in three years if you don\u2019t jump on the bandwagon now, even after someone had told you it was rolling toward the promised land.\u2019 That was Google. Google was \u2018that\u2019 company. Microsoft was the first \u2018that\u2019 company. Google was \u2018that\u2019 company, and then Facebook was \u2018that\u2019 company.\u201d\n\nBen: That\u2019s exactly right.\n\n",
+    "start_char_index": 192814,
+    "end_char_index": 193351,
+    "response_text": "The \"that company\" framing is useful shorthand for identifying once-in-a-decade compounders early. The uncomfortable follow-up question is: which company holds that label today \u2014 and is it already obvious?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It may have become clear at some point that search actually is important, but the portals couldn\u2019t really pivot to it because they couldn\u2019t give up all of their portal ad revenues.\n\n",
+    "start_char_index": 187313,
+    "end_char_index": 187500,
+    "response_text": "Classic innovator's dilemma, clean example. Yahoo's revenue stream was the thing that made it impossible to compete. A cautionary structure that repeats constantly \u2014 including in how incumbents are responding to AI now."
+  }
+]

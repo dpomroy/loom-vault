@@ -1,0 +1,324 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Steven Levy writes in In the Plex that the perception of Google\u2019s ventures beyond search at the time was that the company was tossing balls into the air like a drunken juggler. They were a pure play in investors\u2019 eyes, and now they\u2019re messing it up. ",
+    "start_char_index": 5839,
+    "end_char_index": 6089,
+    "response_text": "Wall Street saw chaos where Google saw strategy. The \"pure play\" label was a trap \u2014 diversification looked like distraction, but the moat being built was enormous."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Google\u2019s entire money printing machine was built on top of Microsoft\u2019s and at two layers. To this point, over 90% of Google search queries were done on Windows PCs, and 90% were done in Internet Explorer running on those PCs. Google\u2019s got the killer app for the web in search. The thing under them is a browser owned by Microsoft, and the thing under that is an operating system owned by Microsoft. They exist at the pleasure of Microsoft at this point in history.\n\n",
+    "start_char_index": 17769,
+    "end_char_index": 18235,
+    "response_text": "The dependency risk here was existential, not theoretical. One hostile move from Microsoft \u2014 throttle IE, tweak Windows defaults \u2014 and the whole business is threatened. This is why the web-as-platform play wasn't optional."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They need to build up leverage with consumers, with users, that they\u2019re going to demand rich web applications so that if Microsoft ever tries to disadvantage Google or disadvantage web apps and things moving to the web, really the only defense against that is if consumers have already adopted this stuff and love it and would revolt. This is what Gmail is.\n\n",
+    "start_char_index": 20034,
+    "end_char_index": 20393,
+    "response_text": "Classic defensive moat via **consumer lock-in**. Don't fight the platform owner directly \u2014 make the platform irrelevant by making users unwilling to give up what lives on top of it. Smart."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He\u2019s working on it, and he discovers a little known feature of JavaScript called the XMLHttpRequest, which lets a webpage fetch automatically new XML data from a server without reloading the page. Paul\u2019s like, oh my God. This is gold. This is the birth of AJAX\u2014Asynchronous JavaScript and XML.\n\n",
+    "start_char_index": 14494,
+    "end_char_index": 14789,
+    "response_text": "One obscure browser API \u2014 originally built by **Microsoft** for Outlook Web Access \u2014 becomes the technical foundation of the entire Web 2.0 era. Deep irony: Microsoft's own tool helped make the OS irrelevant."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it is safe to say that the idea of display ads that are content-matched against your Gmail did contribute to the idea for the first version of AdSense, which are essentially the same thing. Content-matched ads just on a publisher website instead of the content of your inbox.\n\n",
+    "start_char_index": 26457,
+    "end_char_index": 26738,
+    "response_text": "AdSense \u2014 one of the most lucrative ad products ever built \u2014 traces back to a developer hacking the search ads database into his own inbox prototype. **Accidental innovation** that Larry and Sergey immediately recognised as obvious."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This enables startups like Zillow, Uber, eventually DoorDash, Airbnb. Think about all the companies that just couldn\u2019t exist without the Google Maps API.\n\n",
+    "start_char_index": 34722,
+    "end_char_index": 34877,
+    "response_text": "The Maps API was **infrastructure-as-strategy**. Give it away nearly free, seed an entire startup ecosystem, and every company built on it deepens the web's dominance over the desktop. Google wins whether or not those companies succeed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "For the first five to maybe eight years, Google was the only one that had a passion for this and a willing to spend into the giant hole that you need to create maps of the whole world. ",
+    "start_char_index": 36041,
+    "end_char_index": 36226,
+    "response_text": "Early moat-building through sheer willingness to\nburn money. Maps is a reminder that **first-mover\nadvantage** isn't about being first \u2014 it's about\nbeing the only one who won't flinch at the cost."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Google, though, that\u2019s fine. Microsoft can keep all the dollars. All we care about is people use the web. ",
+    "start_char_index": 43446,
+    "end_char_index": 43552,
+    "response_text": "This is the cleanest articulation of Google's\nasymmetric strategy: **let Microsoft have the\nrevenue**, just erode the moat. Worth remembering\nwhen thinking about how incumbents can be attacked\nwithout out-earning them."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But basically, the way to think about the market is that Google has the vast majority of users and usage of productivity software, and Microsoft still has the vast majority of dollars. ",
+    "start_char_index": 45614,
+    "end_char_index": 45799,
+    "response_text": "Users \u2260 revenue, and Google is fine with that.\nThe split outcome \u2014 **Google owns behaviour,\nMicrosoft owns budget** \u2014 is a stable equilibrium\nneither side needs to break."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They were losing about a billion dollars a year run rate on $30 million in revenue. The amount of money they lost was almost exactly equal to a penny per view.\n\n",
+    "start_char_index": 63976,
+    "end_char_index": 64137,
+    "response_text": "A **penny per view** is one of those units that\nmakes the scale visceral. The CFO was right to be\nscared \u2014 this only works if you already own the\ninfrastructure and can wait years to fix the\nbusiness model."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "YouTube, right early on said, you\u2019re a 50 ish percent partner, which takes you a decade longer to get profitable, but helps you build that base.\n\n",
+    "start_char_index": 69474,
+    "end_char_index": 69620,
+    "response_text": "Deliberately **trading margin for supply-side\nloyalty** is a hard call to defend internally for\na decade. The 50% split is what made YouTube\nimpossible to displace \u2014 creators had no incentive\nto leave."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It abstracts the need at all to create or run a business. It really just simplifies it down to make content that people watch. You will get money for it. You don\u2019t have to do anything else in between.\n\n",
+    "start_char_index": 69838,
+    "end_char_index": 70040,
+    "response_text": "This is the most honest description of what\n**platform-as-employer** actually means. Relevant\nto Loom \u2014 the feed that removes friction between\nattention and value is the one that wins."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Last year in 2024, YouTube ads alone did $36 billion in revenue, half goes to creators, they have 18 billion left to play with and they\u2019ve had two decades to figure out how to get their variable costs down for video hosting, bandwidth compute for encoding, music, licensing, all that stuff. ",
+    "start_char_index": 74649,
+    "end_char_index": 74940,
+    "response_text": "YouTube's $36B in ad revenue with a 50% creator split is the number that reframes the whole deal. The \"infrastructure costs will kill them\" bear case turned out to be completely wrong."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "YouTube is already bigger than Disney\u2019s media business and this year will likely become bigger than Disney\u2019s entire business.\n\n",
+    "start_char_index": 76343,
+    "end_char_index": 76470,
+    "response_text": "The Disney comparison is the clearest way to communicate YouTube's scale to a non-tech audience. Theme parks, cruise ships, merchandise \u2014 all of it, beaten by a website where people upload videos for free."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: This was the big Dan Mon to our meta episode last fall was, hey, social networking, such as the conception of it existed in the mid two thousands and 2010s is dead. It\u2019s gone. It bifurcated into private messaging and public media.\n\n",
+    "start_char_index": 79392,
+    "end_char_index": 79631,
+    "response_text": "This is the cleanest framing of a shift that took years to name. The \"social graph\" era is over \u2014 what replaced it is either intimate (WhatsApp) or anonymous-broadcast (YouTube, TikTok, Reels)."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Google then submits their LOI for $3.1 billion and it includes a clause where they can\u2019t shop the deal around during this diligence period. The whole Google team goes to New York, they rent out this big room at a hotel near DoubleClick\u2019s offices. ",
+    "start_char_index": 92093,
+    "end_char_index": 92340,
+    "response_text": "The \"hell or high water\" clause that follows this is the real move \u2014 Google essentially said: no diligence, no conditions, just cash. That's how you win a competitive deal against a Ballmer blank cheque."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There are ways that it like systematically advantages you to own the exchange when you also own the network. This is only checking the box of strengthening our business without checking any of the other boxes and you basically never heard Google executives get up on a stage where they\u2019re inspiring people about the future of the company and talk about basically anything DoubleClick is doing.\n\n",
+    "start_char_index": 95353,
+    "end_char_index": 95748,
+    "response_text": "This is the honest framing of DoubleClick \u2014 it's a vertical integration play, not a mission-driven product. Google executives never evangelised it publicly because there's nothing inspiring to say about owning ad plumbing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Every year for the last 18 years, Google has been the number one seller of advertising of any kind in the world.\n\n",
+    "start_char_index": 99451,
+    "end_char_index": 99565,
+    "response_text": "That streak \u2014 starting 2007 \u2014 is what makes the AI transition genuinely existential for Alphabet. The $200B search business depends on users querying a box. If that behaviour changes, the whole empire wobbles."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: This I think, helps you understand a little bit what\u2019s at stake in the era of AI. This is literally the trillion or five or $10 trillion question is, can Google keep being the number one seller of advertising in the world, even through this sea change? ",
+    "start_char_index": 99578,
+    "end_char_index": 99836,
+    "response_text": "They frame it well: \"the trillion or five or $10 trillion question\" is whether Google holds that position through the AI wave."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This group is sitting there within Google for a couple of years, almost like a latent sleeper cell within Google. They\u2019re just ready to activate as soon as the Microsoft threat becomes real.\n\n",
+    "start_char_index": 108845,
+    "end_char_index": 109037,
+    "response_text": "The Firefox engineers Google quietly hired weren't just charity \u2014 they were a loaded weapon waiting for context. Larry and Sergey were playing a longer game than anyone around them realised."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Imagine if 90% of Google happened on Internet Explorer and all of a sudden Microsoft launches Bing.\n\nBen: Right? There\u2019s no amount of money suddenly that you could pay Microsoft where they would keep you as the default search engine. \u00a0They just want all the traffic to go to Bing. ",
+    "start_char_index": 109740,
+    "end_char_index": 110021,
+    "response_text": "This is the actual existential threat \u2014 not Bing's quality, but **distribution control**. No amount of product superiority survives being the non-default on a hostile platform."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: I don\u2019t think it is an exaggeration to say that Chrome kept the web alive.\n\nBen: Yeah.\n\nDavid: As a viable platform for applications.\n\nBen: Yep. Microsoft certainly didn\u2019t have an incentive to do it in the business model they were in at the time and Apple doesn\u2019t,\n\nDavid: They had every incentive not to. ",
+    "start_char_index": 120312,
+    "end_char_index": 120625,
+    "response_text": "Microsoft had every incentive to let the web rot, and Apple's post-iPhone incentives pointed toward **native apps**. Without Google forcing the pace, the open web likely loses to walled gardens a decade earlier than anyone expected."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: There is no more important distribution point for search than the web browser.\n\nBen: It is the way to monetize a browser. Basically the single way to monetize a browser.\n\n",
+    "start_char_index": 127058,
+    "end_char_index": 127236,
+    "response_text": "This is the single sentence that explains Chrome, the Apple deal, and the entire DOJ case. **Browsers are the tollgate** \u2014 owning one or paying for placement in one is the only model that exists."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: If they don\u2019t buy Android and they don\u2019t get started basically in the month that they did, this market belongs to Microsoft\n\nDavid: or Apple\n\nBen:. ",
+    "start_char_index": 140168,
+    "end_char_index": 140321,
+    "response_text": "The counterfactual is underrated. Apple takes the integrated slot; Microsoft licenses to every panicking OEM. Google gets **squeezed out of mobile entirely** \u2014 the platform shift that matters most, and they'd have had no seat at the table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: There\u2019s going to be a fully integrated player, which Apple was going to be and then there\u2019s going to be an OEM plus licensed operating system. The model would\u2019ve just been that Microsoft sells operating systems, a mobile operating system. Great point to the OEMs who were freaking out that Apple was going to run away with it.\n\n",
+    "start_char_index": 140469,
+    "end_char_index": 140802,
+    "response_text": "The counterfactual is underrated. Apple takes the integrated slot; Microsoft licenses to every panicking OEM. Google gets **squeezed out of mobile entirely** \u2014 the platform shift that matters most, and they'd have had no seat at the table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It\u2019s funny how giving it away for free as a startup is counter signal. It makes you look desperate. But if you\u2019re Google it\u2019s like, oh, they must have a really good plan here.\n\n",
+    "start_char_index": 141201,
+    "end_char_index": 141383,
+    "response_text": "The **same strategy reads differently** depending on who's executing it. Andy Rubin's free OS pitch got ignored by carriers; Google's identical pitch got taken seriously. Credibility is distribution."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Full on classic Steve Jobs, supposedly at an Apple all hands meeting, this is actually a little later, but he is overheard and quoted leaked to the press as saying we did not enter the search business. They entered the phone business. Make no mistake, Google wants to kill the iPhone. We won\u2019t let them.\n\n",
+    "start_char_index": 145742,
+    "end_char_index": 146047,
+    "response_text": "Classic Jobs. The framing is revealing \u2014 he saw it as **territorial invasion**, not competition. Whether he was right is debatable; Google's goal was protecting search, not killing Apple."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Before the droid, there was this whole consumer electronics product category of dedicated GPS devices. People old enough to remember, might remember this. Tom Toms nav Techs people would buy Garmin, these devices. They would put them in their cars, you also paid a monthly subscription fee for the service of the turn by turn navigation. Overnight this entire product category gets obsoleted, sherlocked, gone. ",
+    "start_char_index": 155494,
+    "end_char_index": 155912,
+    "response_text": "Turn-by-turn navigation as the **killer feature** is under-remembered. This is a clean example of a free software product destroying an entire hardware category overnight \u2014 the same playbook that should worry anyone building in a space Google might enter."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "IBM was dominant in mainframes and then lost their dominance in the PC era. Microsoft was dominant in PCs and then lost their dominance in the web era. Google was dominant on the web and stayed dominant in the mobile era. ",
+    "start_char_index": 161918,
+    "end_char_index": 162140,
+    "response_text": "The **pattern is the point**. Every dominant tech company gets one era. Google broke the rule. That's what makes Android strategically extraordinary rather than just commercially successful."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There\u2019s no way you can compete with free, let alone less than free, where they are paying you to take something of value for free.\n\n",
+    "start_char_index": 160491,
+    "end_char_index": 160623,
+    "response_text": "Bill Gurley called this early. The **\"less than free\" framing** is the sharpest way to describe Android's go-to-market \u2014 and it directly mirrors how Google thinks about TAC across the whole business: spend to own the distribution layer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Even though the PlayStore made 7 billion in 2019, the important thing is that Android is still primarily protecting the core search ads business and making sure that traffic doesn\u2019t go elsewhere.\n\n",
+    "start_char_index": 171529,
+    "end_char_index": 171726,
+    "response_text": "The Play Store's $7bn operating income in 2019 sounds big until you put it next to **$30bn in core search operating income** that same year. Android was never a profit centre \u2014 it was insurance."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: I think that the strategy was pretty tight at the top level and they just didn\u2019t actually need to communicate it down very far. Most people that I talked to said, I don\u2019t know, I was just trying to build great products that people love.\n\n",
+    "start_char_index": 176428,
+    "end_char_index": 176671,
+    "response_text": "This is a **genuinely interesting organisational claim** \u2014 that strategic opacity was a feature, not a failure of communication. Hard to know if that's true or just flattering revisionism. Product people always say this; it doesn't mean leadership planned it that way."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It was not based on a core technical insight, it was not consensus driven, it was top down command and control style led by the person that you mentioned earlier, Vic Gundotra. ",
+    "start_char_index": 181896,
+    "end_char_index": 182078,
+    "response_text": "Google Plus broke every rule that made Google work \u2014 no bottom-up insight, no engineer passion, just mandated execution."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Company-Wide bonuses were based on the success of Google Plus, they even went so far as to put little plus one buttons on mobile advertisements. Like those little banner ads at the bottom.\n\n",
+    "start_char_index": 184328,
+    "end_char_index": 184518,
+    "response_text": "Tying comp to a product with no product-market fit is how you poison a culture fast."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They reached deep to integrate with these other products. ",
+    "start_char_index": 183501,
+    "end_char_index": 183559,
+    "response_text": "Forcing integration into YouTube \u2014 a product that was already winning \u2014 to serve a failing one is a textbook case of internal politics overriding user value."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They even reached into YouTube comments and YouTube comments became Google plus posts, they almost killed the golden goose.\n\n",
+    "start_char_index": 184795,
+    "end_char_index": 184920,
+    "response_text": "Forcing integration into YouTube \u2014 a product that was already winning \u2014 to serve a failing one is a textbook case of internal politics overriding user value."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What great breakthrough consumer service did they launch after Google Plus?\n\nDavid: I got nothing.\n\n",
+    "start_char_index": 190208,
+    "end_char_index": 190308,
+    "response_text": "Ben asks it straight and David has nothing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "YouTube is the winning paradigm in \u201csocial media and UGC media\u201d. They should have just done nothing and just watch the money printer go burr.\n\n",
+    "start_char_index": 192815,
+    "end_char_index": 192958,
+    "response_text": "The correct move was obvious in hindsight \u2014 and arguably visible at the time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is Larry talking in the year 2000 artificial intelligence would be the ultimate version of Google. If we had the ultimate search engine, it would understand everything on the web. It would understand exactly what you wanted and it would give you the right thing.\n\nThat\u2019s obviously artificial intelligence to be able to answer any question basically because almost everything is on the web. We\u2019re nowhere near doing that now. However, we can get incrementally closer to that. ",
+    "start_char_index": 200286,
+    "end_char_index": 200766,
+    "response_text": "Larry said this in **2000**. Twenty-five years before LLMs went mainstream."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Almost all of Google\u2019s successful products are based on a core technology insight that is underneath the whole thing. The type of insight that could be in an academic journal. ",
+    "start_char_index": 215687,
+    "end_char_index": 215868,
+    "response_text": "Ben's thesis, held until the end deliberately."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It\u2019s funny, as someone told me this in the research, it has been batting around in my head and then I\u2019m reading Eric Schmidt\u2019s book and Eric Schmidt said he would ask PMs, what is your core technical insight that makes it all work?\n\nAnd if there wasn\u2019t a good answer, he wouldn\u2019t fund the project. ",
+    "start_char_index": 218421,
+    "end_char_index": 218719,
+    "response_text": "Schmidt operationalised this instinct as a funding gate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Not the reason why Android, unlike these other ones there\u2019s a clear line between, it\u2019s almost like the Google products that succeed wildly organically except for Android are ones where there\u2019s almost no product. The technology solution is just so incredible that it is directly the user experience and you get the technology breakthrough as the experience.\n\n",
+    "start_char_index": 217586,
+    "end_char_index": 217944,
+    "response_text": "Ben draws the line between Google's organic wins and its engineered failures."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Google Plus, Google Wave these are like products. These are like user experiences that people come up with that don\u2019t necessarily have a breakthrough technology underneath them. ",
+    "start_char_index": 218015,
+    "end_char_index": 218193,
+    "response_text": "The failures named explicitly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They don\u2019t know how some people can make an Instagram and those people are not Google.\n\n",
+    "start_char_index": 218999,
+    "end_char_index": 219087,
+    "response_text": "Blunt and correct."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This period at Google is a run like nobody\u2019s ever had.\n\n",
+    "start_char_index": 215320,
+    "end_char_index": 215376,
+    "response_text": "David's summary of the 2005\u20132011 era."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Then in its next six years from 2005 to 2011, Google built seven (!) more billion+ user products: Gmail, Maps, Drive and Docs, YouTube, Chrome, Android, and Photos \u2014 all either started from scratch internally or acquired as startups that were still in their infancy. This six-year period of wild innovation STILL stands unmatched in technology history\u2026 no other tech company counts more than four billion+ user products in its portfolio total. ",
+    "start_char_index": 227994,
+    "end_char_index": 228438,
+    "response_text": "Seven billion-plus user products in six years \u2014 no other tech company has four total."
+  }
+]
