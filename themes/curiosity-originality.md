@@ -1,16 +1,16 @@
 ---
 type: theme
 name: "Curiosity & Originality"
-description: "Curiosity as the driving force of great work, and the primacy of choosing original problems over merely solving them cleverly."
-generated_at: 2026-06-03T02:04:03+00:00
+description: "Curiosity as the driving force of great work, and originality as a habit of mind rather than a deliberate process."
+generated_at: 2026-06-07T02:08:35+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 19
+quote_count: 18
 ---
 
 # Curiosity & Originality
 
-Curiosity as the driving force of great work, and the primacy of choosing original problems over merely solving them cleverly.
+Curiosity as the driving force of great work, and originality as a habit of mind rather than a deliberate process.
 
 ## Quotes
 
@@ -22,7 +22,6 @@ Curiosity as the driving force of great work, and the primacy of choosing origin
 - "Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "There's a kind of excited curiosity that's both the engine and the rudder of great work. It will not only drive you, but if you let it have its way, will also show you what to work on." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Knowledge expands fractally, and from a distance its edges look smooth, but once you learn enough to get close to one, they turn out to be full of gaps." — [[notes/articles/2026-05-18-how-to-do-great-work]]
-- "Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on, like an angle grinder throwing off sparks. They can't help it." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "A good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "People show much more originality in solving problems than in deciding which problems to solve. Even the smartest can be surprisingly conservative when deciding what to work on." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Be professionally curious about a few topics and idly curious about many more." — [[notes/articles/2026-05-18-how-to-do-great-work]]

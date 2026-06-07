@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "We can see that the unicorn economy on average since September of 24 is up 70%. ",
+    "start_char_index": 2587,
+    "end_char_index": 2667,
+    "response_text": "The headline number."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Mathematically, if you put both together, you can see that the funding per Unicorn has increased 5x since 2021. So we have fewer unicorns that are each raising more. ",
+    "start_char_index": 3446,
+    "end_char_index": 3612,
+    "response_text": "Fewer companies, each\nraising much more."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "SpaceX, Stripe, Anthropic, Databricks, Revolut, ByteDance, Anduril. We have Internet, we have AI, we have fintech, we have space Tech. I'd feel pretty comfortable owning this index if I could for the next decade plus. ",
+    "start_char_index": 5094,
+    "end_char_index": 5312,
+    "response_text": "The \"Magnificent Eight\"\nindex spanning Internet, AI, fintech, space."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you add up the totality of just those three companies, you can see that it's basically going to be more than the 10 years combined, Which ultimately means if you remember, and you were there when I presented the first All In Summit in 2024, you we knew our ecosystem was out of balance. We were consuming way more cash than we were returning, which is just a fundamental imbalance. And you can see that now, even pre the liquidity events that I just mentioned, our ecosystem is significantly more balanced and that will continue to improve. ",
+    "start_char_index": 6341,
+    "end_char_index": 6885,
+    "response_text": "The ecosystem was\nconsuming far more than it returned \u2014 that\nimbalance is now correcting sharply."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now we know one defining feature of this era has been how quickly these companies are scaling. And if we just look at whether it's the PC or the Internet or the mobile, anthropic in particular is scaling like no other company that we've ever seen. ",
+    "start_char_index": 10422,
+    "end_char_index": 10670,
+    "response_text": "Unprecedented scaling\nrelative to PC, Internet, and mobile eras."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But how interesting that if you're a center corn, 100 billion or more the odds. And by the way, we're putting in public and private companies, you now have a 31% chance of having had a 10x. This kind of flies, in my opinion, in different than maybe we would have expected. ",
+    "start_char_index": 11322,
+    "end_char_index": 11595,
+    "response_text": "Counterintuitive:\n**scale increases** the probability of further\n10x, not decreases it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And my fundamental view, and we'll kind of call this our couture framework, is that the reason is that the quality of SpaceX's business model increases the more you launch. So in phase one, which we call pre constellation, you're just trying your rockets and we know rockets are hard and maybe you have a few government customers and that's a one time revenue business and it's unpredictable. Then you get into your initial ramp and now you might have one constellation. ",
+    "start_char_index": 9098,
+    "end_char_index": 9569,
+    "response_text": "Pre-constellation:\none-time government revenue. Post-constellation:\nrecurring subscriber revenue."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I do think that the narrative of oh, these models are commodities and these companies are going to get. I think that's been pretty thoroughly disproven now. ",
+    "start_char_index": 23332,
+    "end_char_index": 23489,
+    "response_text": "Laffont pushes back\non the commoditisation thesis directly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But ultimately, and I think chamath, you agree with this, the public market is the great test equalizer. ",
+    "start_char_index": 21243,
+    "end_char_index": 21348,
+    "response_text": "Public scrutiny \u2014\nshort sellers, politicians, debaters \u2014 will\ntest whether valuations are real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:23:09]: The scale, it will be the great antiseptic. It will not care about my bullshit presentation or you know, and so I love that, I love that these companies are going to have to face the scrutiny, both SpaceX OpenAI and anthropic of the market. ",
+    "start_char_index": 21386,
+    "end_char_index": 21652,
+    "response_text": "Public scrutiny \u2014\nshort sellers, politicians, debaters \u2014 will\ntest whether valuations are real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:31:09]: Could we see a price war between OpenAI and Anthropic as a question? Right. If these companies have so much capital, is one of them ever going to pull a price lever to try and compete with the other rationally?\n\n",
+    "start_char_index": 30234,
+    "end_char_index": 30471,
+    "response_text": "If excess capital\nfloods in, one player could pull a **price lever**\nto compete \u2014 echoing ride-sharing wars."
+  }
+]

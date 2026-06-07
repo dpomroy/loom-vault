@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And I remember Daniel looks at me. He's like, dara, since when is life about happiness? Interesting comment. He's like, it's about impact. Uber is a company that has impact on the world. It's important. It's in trouble. Why wouldn't you take a shot at this? ",
+    "start_char_index": 9637,
+    "end_char_index": 9895,
+    "response_text": "Daniel Ek's line to Dara at Sun Valley."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:07:05]: The most important how is simplifying the situation and breaking down what seems like an unassailable problem into its component parts. Vector mathematics. If you have a three dimensional complex interaction, you can just break it down to each dimension. And if you solve each dimension and you bring it all together, you can actually solve pretty complex issues and equations into its component parts. And the same is true in business. ",
+    "start_char_index": 12211,
+    "end_char_index": 12673,
+    "response_text": "Vector mathematics applied to chaos: decompose a\nthree-dimensional mess, solve each axis, reassemble."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think for whatever reason, it doesn't help. Overthinking things doesn't help. It only makes things worse. And I'm able to approach things kind of from an engineering mindset. I studied engineering school, which is, what are the problems? Let me list them, and let me have an approach to solving each of them. Test and learn. ",
+    "start_char_index": 15006,
+    "end_char_index": 15337,
+    "response_text": "His stress management: list the problems, build an\napproach, test and learn \u2014 no rumination."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it's the challenges in life that form you. And it's the overcoming of these challenges that give, I think, humans a profound satisfaction. And if you, as a parent, are overcoming these challenges for your kids, you're actually doing them a disservice long term. Whereas short term, you think that you're doing them a favor. You're giving them an easier life. A happy life is not necessarily an easy life. ",
+    "start_char_index": 18890,
+    "end_char_index": 19299,
+    "response_text": "Challenges form you; overcoming them gives\n**profound satisfaction**; solving them *for* your kids is the\ndisservice."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:22:55]: So we are a supply led company. The more drivers we have in the marketplace, the more restaurants that we're wiring up for you, a more blatant demand that we have. And it's one of the lessons that I learned when it came from Expedia to Uber. At Expedia, we were really focused on demand, how many consumers can we get to the website, etc. And we were demand first company, and then we would build out hotel inventory and flight inventory in response to demand. At Uber, everything is upside down. ",
+    "start_char_index": 29618,
+    "end_char_index": 30140,
+    "response_text": "At Expedia, demand came first; at Uber,\n**supply is recruited first** \u2014 drivers, restaurants, grocers \u2014\nand demand follows."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The first thing we do is actually go out and recruit drivers, recruit merchants and restaurants, groceries, couriers, and then just the demand shows up. I don't mean it's not that easy, but the biggest opportunity and challenge we have is making sure that we secure every Single supply. Every single car out there that's going to take you from point A to B. Every single restaurant, every single retailer, every single grocer. If we do that, the demand will take care of itself.\n\n",
+    "start_char_index": 30447,
+    "end_char_index": 30927,
+    "response_text": "At Expedia, demand came first; at Uber,\n**supply is recruited first** \u2014 drivers, restaurants, grocers \u2014\nand demand follows."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what we're seeing is consumers love the product and AVs that are on our network are 30% or more busy than, let's say 1P AVs who aren't using our network, that 30% in terms of trips per vehicle per day, in terms of revenue per vehicle per day, can make a huge difference in terms of your ROI of investing in these expensive cars.\n\n",
+    "start_char_index": 32736,
+    "end_char_index": 33070,
+    "response_text": "That 30% in trips and revenue per vehicle per day can make a\n**huge difference** in ROI on expensive cars."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we're going to have some players, for example, a wave who's focused on building one end to end model that they license to OEMs. And we will be responsible essentially for all the demand. ",
+    "start_char_index": 36659,
+    "end_char_index": 36849,
+    "response_text": "The demand-aggregator thesis in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think the same will be true of avs, which is it's terrific technology, it is going to be safer than human beings. But how does it interact with emergency service providers? How do we make sure that the technology is available to everybody, not just the wealthy. ",
+    "start_char_index": 37906,
+    "end_char_index": 38174,
+    "response_text": "Dara naming the real pre-mortem risk: public legitimacy, not engineering."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The number of drivers joining the platform is increasing because it looks like AVs are actually adding incremental demand to the platform. ",
+    "start_char_index": 38447,
+    "end_char_index": 38586,
+    "response_text": "Counter-intuitive early signal \u2014 AVs expanding the pie rather than cannibalising driver earnings."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "For a driver who's on the app six hours a day, we are getting much better. We've got to put ourselves in the shoes of our merchant partners, of our delivery partners. ",
+    "start_char_index": 49082,
+    "end_char_index": 49249,
+    "response_text": "The **P95 bug** framing is the sharp part here \u2014 a rare consumer glitch is a weekly event for a full-time driver."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And every time I've witnessed them, and I work for him for 20 plus years, it's the filtering that gets the edge out of the story or out of the situation. And it's often the edge that gives you an edge, not the average. ",
+    "start_char_index": 64435,
+    "end_char_index": 64654,
+    "response_text": "Barry Diller's information philosophy distilled."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm looking for those troublemakers constantly. And that requires random interactions that are less efficient than the structured processes that have been put in front of me. ",
+    "start_char_index": 69196,
+    "end_char_index": 69371,
+    "response_text": "The **mutation** metaphor is genuinely useful \u2014 cultural monocultures don't evolve, they stagnate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the math is simple, which is you want to make sure that your costs grow slower than your revenue and good things happen over a long period of time. ",
+    "start_char_index": 71926,
+    "end_char_index": 72078,
+    "response_text": "Dara's capital allocation framing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I prioritize growth. I prioritize innovation over buybacks. If you're building the company right, you'll do both.\n\n",
+    "start_char_index": 73074,
+    "end_char_index": 73193,
+    "response_text": "His explicit priority ranking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I found in my life that the more successful you are, the more you tend to talk and the less you tend to listen. ",
+    "start_char_index": 73473,
+    "end_char_index": 73585,
+    "response_text": "A trap he's clearly watched peers fall into."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And authority doesn't mean that you're right, but so many people do. ",
+    "start_char_index": 73716,
+    "end_char_index": 73785,
+    "response_text": "The subtle version of the same point."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if I'm not wrong, if I'm not making mistakes, it's just not very interesting.\n\n",
+    "start_char_index": 74592,
+    "end_char_index": 74675,
+    "response_text": "His stated relationship with being wrong."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And until I met her, I was always living the life that I thought I was supposed to, and I was always the person who I thought you wanted me to be. ",
+    "start_char_index": 76611,
+    "end_char_index": 76758,
+    "response_text": "His answer to \"kindest thing anyone's done for you.\""
+  }
+]

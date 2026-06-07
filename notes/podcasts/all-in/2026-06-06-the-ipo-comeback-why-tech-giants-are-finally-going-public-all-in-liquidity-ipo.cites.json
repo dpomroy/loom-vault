@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Look, I think you do all this work and I think it's really difficult to overestimate the amount of garbage that's involved in going public. The number of meetings where you look on the zoom and there are 130 attendees. And the amount of times you review these documents and the commas move and just no values added. ",
+    "start_char_index": 5394,
+    "end_char_index": 5710,
+    "response_text": "Feldman's framing: 130 people on a Zoom, commas moving in documents, zero value added."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Your engineering projects have made no progress since the day you weren't public. And you go back to work and you have some new constituents that you have to address and communicate with. But the core parts of your business, you have more money in the bank, but not a damn thing changes in the important parts of your business. ",
+    "start_char_index": 5804,
+    "end_char_index": 6132,
+    "response_text": "You go back to work, you have new constituents to address, but the core business is unchanged \u2014 more money in the bank, and that's about it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Going public gives you access to liquidity for early shareholders, whether that's the early employees or early investors. And that's great. It gives you cash for the company. That's great. And I do think it helps your business as well because the maturing event gives you more credibility to various customers. And for us, we work with biggest agricultural customers, big governments, civil governments, defense and intelligence, all of those sort of actors, they want to know you're going to be around.\n\n",
+    "start_char_index": 9992,
+    "end_char_index": 10497,
+    "response_text": "It gives cash to the company and \u2014 importantly \u2014 credibility: customers like governments and large agricultural players need to know you're going to be around."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think that where we're seeing this is that AI is now enabling the. It's basically reducing the barrier to entry so that more people can get access to this. ",
+    "start_char_index": 12640,
+    "end_char_index": 12798,
+    "response_text": "AI is reducing the barrier to entry so more people can access Earth observation data \u2014 but the models still need the underlying data to be any good."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But a thing that people don't know that is actually perhaps more important is that we've had a miniaturization of satellites so that the same satellite that used to cost a billion dollars and weighed 20 tons now costs a few kilograms or a few tens or hundreds of kilograms and can do just as much stuff, if not more. It's the same as the sort of mainframe computer to desktop revolution, Computer revolution for space. And it's unlocking, just like mainframes to desktops, unlock loads of applications. This is unlocking loads of applications. ",
+    "start_char_index": 14202,
+    "end_char_index": 14746,
+    "response_text": "It's the mainframe-to-desktop revolution for space \u2014 and just like that transition, it's unlocking loads of new applications."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we figured out that when launch costs come down to about $200 to $300 a kilogram, it would be cheaper, just simply cheaper to put the data centers in space. Now we're about $1,000 a kilogram, just over that right today. But that's come down about 10x in the last 10 years on the current trajectory with Starship in particular, I would expect the launch cost to Come down there in two to three years. ",
+    "start_char_index": 17222,
+    "end_char_index": 17626,
+    "response_text": "Currently sitting just over $1,000/kg; that's down ~10\u00d7 in 10 years. On current Starship trajectory, Marshall expects the threshold in two to three years."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You can put a solar panel in a sun synchronous dawn dusk orbit where you're 247 looking at the sun. So you can have a solar panel that collects and gathers five times more energy per solar panel than on the ground and you don't have to have batteries or anything else. ",
+    "start_char_index": 18220,
+    "end_char_index": 18489,
+    "response_text": "sun-synchronous orbit means 24/7 sun exposure, five times more energy per panel than ground-based, no batteries needed"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And our view as computer architects is if you want to be 20 times better than somebody, your architecture can't look like them. It can't. They have enjoyed and eaten all the low hanging fruit. So if you build a gpu, the odds that you're better than Nvidia and RV are approximately zero. That led us to a fundamentally different architecture. ",
+    "start_char_index": 23798,
+    "end_char_index": 24140,
+    "response_text": "If you want to be 20\u00d7 better, your architecture can't look like theirs \u2014 they've already eaten all the low-hanging fruit. That's what led Cerebras to a fundamentally different approach."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "How big is the market for slow search today? Right. Zero. How big is the market for dial up, it's zero. How long do you wait for a website to resolve before you click away? 3 seconds, 5 seconds? You will not wait for AI. We have to deliver it to you in real time. And that's what we saw, that's what we built.\n\n",
+    "start_char_index": 25008,
+    "end_char_index": 25319,
+    "response_text": "Zero. How big is the market for dial-up? Zero. You won't wait for AI \u2014 it has to be delivered in real time. That's what they built for."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:39]: I think historically more money is made after IPO than before.\n\n**Speaker D** [0:27:42]: Yeah.\n\n**Speaker B** [0:27:43]: I think every single study shows that there is more money to be made both in percentage and in what we care about, which is absolutely.\n\n",
+    "start_char_index": 28419,
+    "end_char_index": 28702,
+    "response_text": "Every study shows it \u2014 both in percentage terms and in absolute dollars. The amount of money you can put to work in most venture companies pre-IPO is modest; post-IPO, when things are going well, the opportunity is vastly larger."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:55]: And so the amount of money that it's possible to put to work in most venture companies is very modest. I mean, there are two or three or five outliers, but for the most part, you can only put a relatively little bit of money to work. By the time we get public, there's a lot more money there, things are going well and the opportunity to make vastly more is after ipo, not before.\n\n",
+    "start_char_index": 28733,
+    "end_char_index": 29140,
+    "response_text": "Every study shows it \u2014 both in percentage terms and in absolute dollars. The amount of money you can put to work in most venture companies pre-IPO is modest; post-IPO, when things are going well, the opportunity is vastly larger."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'd say all the cool stuff that we're doing with LLMs now is really based on just the text of the Internet being absorbed into these models, which is incredibly powerful already. But they don't know shit about the real world. I call them blind. They don't know about that farm field that flood the security situation around the corner. If you give them real world data, then they can answer real world problems. And that's going to open up gazillions of applications for these AI models, I call them. ",
+    "start_char_index": 32658,
+    "end_char_index": 33159,
+    "response_text": "They don't know about the farm field, the flood, the security situation around the corner. Give them real-world data and they can answer real-world problems \u2014 opening up a massive new class of applications."
+  }
+]

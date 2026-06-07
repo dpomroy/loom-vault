@@ -4,7 +4,7 @@ source_path: sources/podcasts/acquired/2025-10-06-google-the-ai-company.md
 source_title: "Google: The AI Company"
 source_date: 2025-10-06
 show: "Acquired"
-themes: []
+themes: ["Google History"]
 generated_at: 2026-06-06T10:29:47+00:00
 agent: note-taker
 model: claude-sonnet-4-6

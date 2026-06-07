@@ -1,16 +1,16 @@
 ---
 type: theme
 name: "Procrastination & Focus"
-description: "The subtle dangers of avoiding ambitious work, and how planning-versus-doing tradeoffs shape outcomes."
-generated_at: 2026-06-03T02:04:03+00:00
+description: "The hidden dangers of avoiding ambitious work, whether through per-project procrastination, over-planning, or mistaking busyness for progress."
+generated_at: 2026-06-07T02:08:35+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 10
+quote_count: 12
 ---
 
 # Procrastination & Focus
 
-The subtle dangers of avoiding ambitious work, and how planning-versus-doing tradeoffs shape outcomes.
+The hidden dangers of avoiding ambitious work, whether through per-project procrastination, over-planning, or mistaking busyness for progress.
 
 ## Quotes
 
@@ -20,6 +20,8 @@ The subtle dangers of avoiding ambitious work, and how planning-versus-doing tra
 - "Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "The trouble with planning is that it only works for achievements you can describe in advance. You can win a gold medal or get rich by deciding to as a child and then tenaciously pursuing that goal, but you can't discover natural selection that way." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Morale compounds via work: high morale helps you do good work, which increases your morale and helps you do even better work. But this cycle also operates in the other direction." — [[notes/articles/2026-05-18-how-to-do-great-work]]
+- "Doing great work means doing something important so well that you expand people's ideas of what's possible." — [[notes/articles/2026-05-18-how-to-do-great-work]]
+- "Write the story you want to read; build the tool you want to use." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "One reason per-project procrastination is so dangerous is that it usually camouflages itself as work. You're not just sitting around doing nothing; you're working industriously on something else." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "The trouble with planning is that it only works for achievements you can describe in advance. You can win a gold medal or get rich by deciding to as a child and then tenaciously pursuing that goal, but you can't discover natural selection that way." — [[notes/articles/2026-05-29-how-to-do-great-work]]

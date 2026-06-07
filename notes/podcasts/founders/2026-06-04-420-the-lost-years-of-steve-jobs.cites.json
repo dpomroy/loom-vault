@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake. ",
+    "start_char_index": 771,
+    "end_char_index": 979,
+    "response_text": "The defining frame for the whole period."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Between now and when you have a product, you are the product, my friend. And so you better be nice to people.\n\n",
+    "start_char_index": 15585,
+    "end_char_index": 15696,
+    "response_text": "Paul Rand \u2014 30 years older, zero patience \u2014 cuts through Steve's volatility in one line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Steve responds, my self identity does not revolve around being a businessman.\n\nDo I recognize that? This is what I do. I think of myself more As a person who builds neat things, and that is very common when people are trying to build neat or great things, they want to retain control over the process as much as possible. ",
+    "start_char_index": 18203,
+    "end_char_index": 18529,
+    "response_text": "Steve frames himself as someone who **builds neat things** \u2014 not a businessman."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As time went on, the deep shit list started to look less like an existential priority list and more like Steve's personal wish list. He kept piling on features, adding costs and making last minute demands.\n\n",
+    "start_char_index": 24742,
+    "end_char_index": 24949,
+    "response_text": "He kept piling on features, adding costs and making last minute demands."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He goes, we are over a year late.\n\nThe competition has progressed more than we expected. Our product is at twice as expensive as we imagined. The computer is still not working. You must reset expectations.\n\n",
+    "start_char_index": 27545,
+    "end_char_index": 27752,
+    "response_text": "Daniel Lewin's memo is a five-bullet death sentence for the company's original thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most important thing you're competing with is not another company, but it is your own ability to execute. He seems to be blissfully unaware that they are unable to execute at the moment.\n\n",
+    "start_char_index": 22030,
+    "end_char_index": 22222,
+    "response_text": "Steve said this while being blissfully unaware they couldn't execute."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Every operating assumption we had has been proved wrong. The product wasn't ready, the budget has collapsed and the strategy keeps shifting. We are set up for continued failure.\n\n",
+    "start_char_index": 37954,
+    "end_char_index": 38133,
+    "response_text": "The clearest diagnosis of Next's rot \u2014 and it came\nfrom inside. Not one assumption held. This is what\nhappens when a founder substitutes reality distortion\nfor actual product-market fit."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know what my mistake was? I gave Steve too much dang money.\n\nWhen you have too much money, you just don't have that hunger. And you start spending money on floating staircases and $10,000 chairs, which Steve did both of. ",
+    "start_char_index": 41431,
+    "end_char_index": 41656,
+    "response_text": "Ross Perot nails it. **Constraint is the forcing\nfunction** \u2014 remove it and you get floating\nstaircases and $10k chairs instead of a\nshipping product. Easy money killed the urgency."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He was choosing purity over survival.\n\n",
+    "start_char_index": 41715,
+    "end_char_index": 41754,
+    "response_text": "Four words that explain most startup failures.\nSteve's aesthetic obsession with hardware\n**overrode basic commercial sense** for nearly a\ndecade. Pretty objects don't pay payroll."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "After six years in business, NEXT own leadership couldn't agree on what business they were actually in. ",
+    "start_char_index": 42339,
+    "end_char_index": 42443,
+    "response_text": "Andy Grove walks in, asks one question, and\nexposes the whole charade. **No shared definition\nof the business** = no coherent strategy.\nSix years in. Staggering."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something.\n\n",
+    "start_char_index": 53232,
+    "end_char_index": 53347,
+    "response_text": "Ed Catmull's insight is the practical key to\nworking with any strong-willed founder. Don't\n**push conclusions** \u2014 surface facts and let them\narrive there. Took everyone else years to learn\nwhat Ed figured out early."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Gil failed to grasp what Steve's 12 years in the wilderness had given him. Steve came away not only with better skills for building technology, but better strategies for getting exactly what he wanted. ",
+    "start_char_index": 60678,
+    "end_char_index": 60880,
+    "response_text": "This is the whole thesis of the excerpt in two\nsentences. **Failure was the curriculum.** The\nSteve who walked back into Apple was categorically\nmore dangerous than the one who got fired."
+  }
+]

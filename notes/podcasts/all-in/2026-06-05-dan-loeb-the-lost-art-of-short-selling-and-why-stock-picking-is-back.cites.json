@@ -1,0 +1,72 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:00:06]: The lost art of short selling has come back and it's absolutely critical. ",
+    "start_char_index": 1680,
+    "end_char_index": 1779,
+    "response_text": "The framing matters \u2014 \"lost art\" implies it was\nstructural, not cyclical."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I got to watch their thought process and I was like a Chinese corporation that was copying and reverse engineering and taking everything in and creating my database of knowledge and my own operating system. Kind of taking the best out of what all these different people did.\n\n",
+    "start_char_index": 7587,
+    "end_char_index": 7863,
+    "response_text": "Loeb watched Tepper and others closely \u2014\nnot as a student, but as a collector, extracting\nthe best of each."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:09:10]: You could be technologically illiterate or just say, I don't do it. And you could also be even more or less, you know, up until the gfc, I think you could be more or less economically illiterate and make a lot of money.\n\n",
+    "start_char_index": 10030,
+    "end_char_index": 10276,
+    "response_text": "The implication is blunt: two full categories\nof ignorance were viable strategies."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Activism without proxy contests is like Catholicism without hell.\n\n",
+    "start_char_index": 2153,
+    "end_char_index": 2220,
+    "response_text": "Loeb in one line: the threat has to be\ncredible, or no one moves."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think one thing that we've avoided is kind of evaluation, solely valuation based approach. I've just seen, I've seen too many people get run over by shorts that have dumb valuations, but they get captured on Reddit or one of these other things and they just get there. ",
+    "start_char_index": 16969,
+    "end_char_index": 17240,
+    "response_text": "Pure valuation shorts are a trap \u2014 the market\ncan stay irrational longer than you stay\nsolvent, especially with retail coordination\nnow."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The home building industry was first structurally impaired because of the way that they were all pretending to be nvr, which is they all pretending to be Asset light, but they had massive commitments to these land pools which in things that they said were options, but they were really very committed in the capital and that that value was going on but. ",
+    "start_char_index": 17514,
+    "end_char_index": 17868,
+    "response_text": "The short thesis here is accounting opacity \u2014\ncalling option-like commitments \"options\" when\nthey're really fixed capital obligations."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Nvidia, which is a $5 billion company and people feel like it's sort of a ceiling on it. I think we'll look back at some point in time and say that was a foolish way to think about Nvidia given its dominant position and its valuation relative.\n\n",
+    "start_char_index": 21779,
+    "end_char_index": 22024,
+    "response_text": "The argument: people are anchoring on absolute\nmarket cap ($5T feels like a ceiling) rather\nthan earnings multiples and competitive\nmoat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Nvidia feels like a safe short. By the way, Google was a safe short. Amazon was a safe short. ",
+    "start_char_index": 22561,
+    "end_char_index": 22658,
+    "response_text": "The structural reason: long/short pods\n**need** to be short something, so dominant\nlarge-caps become the path of least resistance\nfor the short book."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The problem is that the unions and the basic principles that we all use in business, which is accountability and merit and cultivating talent, is set aside for the benefit of adults who are part of these unions. And it's a systemic thing. It's not a lack of money. ",
+    "start_char_index": 24637,
+    "end_char_index": 24902,
+    "response_text": "Loeb's education thesis: the failure is\n**structural**, not financial."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's no recourse through the system to get someone with a life sentence out of jail. This will only work with a presidential pardon. ",
+    "start_char_index": 28573,
+    "end_char_index": 28709,
+    "response_text": "The system has no self-correction mechanism\nfor its worst outcomes."
+  }
+]

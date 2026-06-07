@@ -1,7 +1,7 @@
 # Me
 
 ## Identity
-name: Daniel
+name: Dan
 location: UK
 
 ## Personality Framework

@@ -1,34 +1,37 @@
 ---
 type: theme
-name: "Founder Drive"
-description: "The obsessive ambition, sacrifice, and psychological edge that separates founders and champions from everyone else."
-generated_at: 2026-06-03T02:04:03+00:00
+name: "Drive & Ambition"
+description: "The inner psychology of people who pursue outsized goals — the hunger, discipline, belief, and identity that separate champions from the rest."
+generated_at: 2026-06-07T02:08:36+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 37
+quote_count: 44
 ---
 
-# Founder Drive
+# Drive & Ambition
 
-The obsessive ambition, sacrifice, and psychological edge that separates founders and champions from everyone else.
+The inner psychology of people who pursue outsized goals — the hunger, discipline, belief, and identity that separate champions from the rest.
 
 ## Quotes
 
-- "Doing great work means doing something important so well that you expand people's ideas of what's possible." — [[notes/articles/2026-05-18-how-to-do-great-work]]
-- "Write the story you want to read; build the tool you want to use." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "I think people are just a bit too soft in general. The brain is an organ. If you need to work more hours, you can train for it." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It's the hard way to do things, but we care about how we get to our goal, because how we get there determines what it actually is at the end that we've built." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "Be very confident you're going in the right direction, and execute well on the step you're taking right now, without knowing exactly where you're going." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "Probably when I was 12, I knew I was going to start a company eventually. I wanted to make the world better. In order to do that, you need to do more than just invent things." — [[notes/podcasts/acquired/2025-06-30-google-the-origin-of-search]]
+- "I knew a rough road lay ahead, for my goal ultimately was to build a broad-based firm. And I took on my new leadership role in the same way I had left my previous leadership role. Fired with enthusiasm." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
 - "I'm never the most experienced person in any of the rooms of my company, but everyone in my company is the most experienced person in what they need to do in that role." — [[notes/podcasts/all-in/2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take]]
 - "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
 - "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "A players don't like to work with B, Cs, Ds, I mean, Ds, you're gonna just burn your A's out." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "we went from somewhere in the neighborhood of hundreds of new hires that we're doing a year, or at least attempting to do a year, to in the tens because people were so spooked about trying to convince me that they need the role, they wouldn't Come to me." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "one person who's really good can be as powerful as 10, 20, 50, 100 people." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "your 1x engineer might be 2x more efficient, but your 10x engineer might be 100x more efficient." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "There is no committee here. There is no whatever. This is a dictatorship." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "And of course he was right. With my desire and my drive, I definitely wasn't normal. Normal people can be happy with a regular life. I was different. I felt there was more to life than just plotting through an average existence." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "Arnold lays out what he learned to get to the top of this very unusual and frankly, widely ridiculed sport of bodybuilding back then and says, hey, wait, the same principles I used to get to the top of this sport, I'm going to use to become a movie star and build a business empire and then goes and does it." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I needed stable emotions, total discipline. I needed to be training for two hours in the morning and two hours at night, concentrating on nothing except perfecting my body and bringing it to its peak. Whatever I thought might hold me back, I avoided." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
@@ -51,3 +54,7 @@ The obsessive ambition, sacrifice, and psychological edge that separates founder
 - "It wasn't joy. It wasn't relief. If I felt anything, it was regret. Good God, I thought, regret, because I honestly wished I could do it all over again." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "I'd tell men and women in their mid-20s not to settle for a job or a profession or even a career. Seek a calling. Even if you don't know what that means, seek it if you're following your calling. The fatigue will be easier to bear. The disappointments will be fuel. The highs will be like nothing you've ever felt." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn't mean stopping. Don't ever stop." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
+- "I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
