@@ -1,0 +1,149 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "But in theory, I think functional orgs tend to dissolve into politics without the tenure. Without the tenure is the key. So at Spotify, most of the people that work for me, many have worked for me for 14, 15 years. I think the average is maybe seven, eight years. ",
+    "start_char_index": 16369,
+    "end_char_index": 16633,
+    "response_text": "This is the underrated insight: org structure and **leadership tenure** are inseparable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You can't win. You can only not lose as much. So the way I think about it, you have a bunch of organizational principles. ",
+    "start_char_index": 19522,
+    "end_char_index": 19644,
+    "response_text": "Brutal honesty about org design."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So, like, the problem wasn't that there wasn't a good enough podcast product. The problem was that they didn't get any distribution. So we chose to take the pain of doing a single app with all the complexity comes with that for the benefit of reaching what was then already 300 something million users, maybe, but it was much harder. ",
+    "start_char_index": 24492,
+    "end_char_index": 24826,
+    "response_text": "The podcast lesson: the problem wasn't product quality, it was **distribution**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Without naming which ones, on many of the big platforms, people regretted almost 60% of the time they spent or more. And these were young people. And what shocked me was before I saw that survey, I knew that these were insanely high engagement platforms, but I kind of mistakenly thought that they were there because they wanted to be there. I'm like, they're probably enjoying it. Turns out when you ask them, they're like, no, I'm trapped. I feel horrible about the time I spent. ",
+    "start_char_index": 30918,
+    "end_char_index": 31400,
+    "response_text": "The no-regrets data is the strongest thing in this excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we've kept going into these things that are considered by ourselves and users, time well spent. But we never fully articulated that as a strategy externally. We've only recently started talking about it.\n\n",
+    "start_char_index": 29124,
+    "end_char_index": 29332,
+    "response_text": "Worth noting: this was an **instinct first**, strategy second."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There is a promise for Generative AI to be the most addictive algorithm you have ever heard of, because now we can understand you so deeply, there is potential for darkness over there. ",
+    "start_char_index": 42604,
+    "end_char_index": 42789,
+    "response_text": "The clearest warning in the whole excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I think when you pay with your own money, that is very, very well aligned with optimizing for what is good for the user. Whereas if in a pure advertising based model your incentives are clearly to maximize time spent at any cost. ",
+    "start_char_index": 41523,
+    "end_char_index": 41756,
+    "response_text": "The structural argument for subscription."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So my mission now is to sort of give back control to consumers over these algorithms. And it's contrarian, but I think it's the right bet.\n\n",
+    "start_char_index": 44573,
+    "end_char_index": 44713,
+    "response_text": "Worth flagging as directly relevant to Loom's design direction."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The best way, I think, to describe Generative AI is that finally computers understand English. It used to be a small population of about 1 million developers on GitHub who could talk to computers. Now we all can. ",
+    "start_char_index": 43791,
+    "end_char_index": 44004,
+    "response_text": "Clean framing of the GenAI shift."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One is when we created our strategy we bet on three things and they were all basically counter positions to Apple deliberately. One was freemium. ",
+    "start_char_index": 65989,
+    "end_char_index": 66135,
+    "response_text": "Textbook asymmetric strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The second was personalization because Apple was I would almost say against data at the time. ",
+    "start_char_index": 66426,
+    "end_char_index": 66520,
+    "response_text": "Textbook asymmetric strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The third was Ubiquiti. ",
+    "start_char_index": 66635,
+    "end_char_index": 66659,
+    "response_text": "Textbook asymmetric strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it was also to your point, for us this was not optional. We either died or we did this\n\n**Speaker A** [0:55:43]: back against the wall. ",
+    "start_char_index": 67185,
+    "end_char_index": 67325,
+    "response_text": "The execution variable that strategy frameworks miss."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:00:55]: So I literally ask my agent, filter for rage, bait filter for clickbait, filter for, you know, politics. ",
+    "start_char_index": 73703,
+    "end_char_index": 73833,
+    "response_text": "This is the most **actionable** line in the excerpt.\nExplicit prompt-level control over your information\nenvironment. Most people don't realise this is\nalready possible."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is the kind of user control that you can have now that very few people understand that you can have yet. ",
+    "start_char_index": 73847,
+    "end_char_index": 73957,
+    "response_text": "This is the most **actionable** line in the excerpt.\nExplicit prompt-level control over your information\nenvironment. Most people don't realise this is\nalready possible."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:02:09]: Premeditated media.\n\n",
+    "start_char_index": 75173,
+    "end_char_index": 75219,
+    "response_text": "Two words. The **whole concept** in one coinage.\nDeciding what you'll consume before your\nin-the-moment self gets tempted. Direct relevance\nto Loom's core design challenge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:02:10]: Is something that I think everyone should at least have access to if they want to. It works for me, and I think it will work for a Lot of people. ",
+    "start_char_index": 75251,
+    "end_char_index": 75422,
+    "response_text": "Two words. The **whole concept** in one coinage.\nDeciding what you'll consume before your\nin-the-moment self gets tempted. Direct relevance\nto Loom's core design challenge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So what is interesting is, can you give people the chance to decide their own future ahead of time? This is the idea behind the taste profile and behind these agents. ",
+    "start_char_index": 74221,
+    "end_char_index": 74388,
+    "response_text": "The **design philosophy** behind Spotify's agent\nwork. It's Ulysses-and-the-mast applied to\nmedia consumption. Worth stealing as a\nframing for Loom's feed curation layer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:12:40]: Periods of change. When things are stable, market share, stay stable. You don't eat market share. So when there's change, there's risk, you can lose market share. But that is also when you have the most opportunity to eat market share. ",
+    "start_char_index": 88075,
+    "end_char_index": 88336,
+    "response_text": "Clean and **counterintuitive**: volatility is the\nproduct. Disruption isn't the threat \u2014\nit's the only window to gain ground.\nThe calm periods are a trap."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But that Comfort takes a long while to build. You can't expect someone to come in, especially if they come from corporate America and expect them to stand up to you, because usually there are consequences. You just get fired.\n\n",
+    "start_char_index": 77935,
+    "end_char_index": 78162,
+    "response_text": "**Psychological safety** doesn't come from policy,\nit comes from repeated proof of no consequences.\nThat takes years \u2014 which is exactly why\ntenure matters for honest feedback loops."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if I'm going to make some far fetched analogies, maybe this is one of the challenges that Apple had with machine learning and AI. On average they were slightly too old to see that probably people in their org knew all about it, were all over, was too late to see it. They should have just gotten someone at a more senior level sooner. ",
+    "start_char_index": 85053,
+    "end_char_index": 85392,
+    "response_text": "A pointed **diagnosis** wrapped in a disclaimer.\nTenure culture's biggest blind spot: missing\nparadigm shifts that younger hires would've\nspotted immediately. Apple as the cautionary tale."
+  }
+]

@@ -1,19 +1,22 @@
 ---
 type: theme
-name: "Costco Model"
-description: "How Costco's operating philosophy — low SKUs, low prices, membership fees, and scale efficiency — creates a durable and nearly uncopiable business."
-generated_at: 2026-06-07T02:08:35+00:00
+name: "Costco & Retail"
+description: "How Costco built a durable, near-uncopiable retail model through low SKUs, membership economics, inventory velocity, and relentless customer alignment."
+generated_at: 2026-06-10T02:09:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 26
+quote_count: 29
 ---
 
-# Costco Model
+# Costco & Retail
 
-How Costco's operating philosophy — low SKUs, low prices, membership fees, and scale efficiency — creates a durable and nearly uncopiable business.
+How Costco built a durable, near-uncopiable retail model through low SKUs, membership economics, inventory velocity, and relentless customer alignment.
 
 ## Quotes
 
+- "Sam Walton actually wrote in Made in America, that he stole more ideas from Sol than anyone else in his business career." — [[notes/podcasts/acquired/2023-08-21-costco]]
+- "Sol stumbles into figuring out that if you are a membership club, you're not open to the general public. You can skirt these laws and sell below the manufacturer's minimum price." — [[notes/podcasts/acquired/2023-08-21-costco]]
+- "We're good at creating businesses, we're not as good at running businesses." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "the deeper you dig, the more good things you find. Usually, it's the exact opposite of that." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "Nothing about Costco is an accident from the extra wide parking spaces to the whole rotisserie chickens." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "It turns out that there is really one pretty sure thing, at least in America, probably the whole world, that if you sell something at lower prices than anywhere else, you're going to sell a lot of it, no matter what hoops people have to jump through." — [[notes/podcasts/acquired/2023-08-21-costco]]

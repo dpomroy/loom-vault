@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Google History"
-description: "The story of Google's rise — from search algorithm to advertising empire to AI frontier — and the strategic decisions that defined each era."
-generated_at: 2026-06-07T02:08:36+00:00
+name: "Google's History"
+description: "The full arc of Google's rise — from search algorithm to advertising empire to mobile dominance to AI inflection point — and the strategic decisions that shaped it."
+generated_at: 2026-06-10T02:09:45+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 118
 ---
 
-# Google History
+# Google's History
 
-The story of Google's rise — from search algorithm to advertising empire to AI frontier — and the strategic decisions that defined each era.
+The full arc of Google's rise — from search algorithm to advertising empire to mobile dominance to AI inflection point — and the strategic decisions that shaped it.
 
 ## Quotes
 

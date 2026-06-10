@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:02:54]: In six weeks, we found vulnerabilities which would have normally taken us five to seven years to find.\n\n",
+    "start_char_index": 4737,
+    "end_char_index": 4866,
+    "response_text": "The headline result from their Mythos test."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you put it on ultra mode, which is persistent thinking, so it keeps trying until it gets an answer, you can actually daisy chain vulnerabilities. That is finding a new attack path into your vulnerabilities. ",
+    "start_char_index": 5226,
+    "end_char_index": 5436,
+    "response_text": "Daisy-chaining means finding **novel attack paths**, not just cataloguing known ones."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:04:29]: I think we're three months away, if not already, from this being available in the wild.\n\n",
+    "start_char_index": 6754,
+    "end_char_index": 6868,
+    "response_text": "Arora's timeline on Mythos-level capability reaching open/Chinese models."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you're an analytical SaaS company, it's over.\n\n",
+    "start_char_index": 9735,
+    "end_char_index": 9785,
+    "response_text": "Blunt verdict, no hedging."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What's going to happen is step one, we will take away UI and let agents do the work ui, enterprise software and consumer software. UI is the worst thing we did as technologists.\n\n",
+    "start_char_index": 12886,
+    "end_char_index": 13065,
+    "response_text": "The argument: agents remove the need for UI entirely \u2014 humans shouldn't be the interface between data and action."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The false positive rate on mythos was 30%.\n\n",
+    "start_char_index": 24245,
+    "end_char_index": 24289,
+    "response_text": "Buried after all the capability hype \u2014 and it's the most important number in the episode."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the problem is it's great for attack, it's horrible for defense. It finds. 30% of the time it finds something. I found a problem. And you say, let's plug the hole. Wait, there wasn't a hole there in the first place.\n\n",
+    "start_char_index": 24477,
+    "end_char_index": 24697,
+    "response_text": "The asymmetry in plain language."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think I still believe models are going to become a utility layer you'll be able to buy intelligence on the fly. Or you can say, I don't need 180 IQ person to go do this task. Give me 120 IQ and I need a 250 IQ to do this task. I'll pay $10 for this. For this, I'll pay $0.01. ",
+    "start_char_index": 18448,
+    "end_char_index": 18726,
+    "response_text": "The IQ-on-demand framing is useful."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So if you look at already what's happening in the market, right, the profit pools are in applications, not in models. ",
+    "start_char_index": 18968,
+    "end_char_index": 19086,
+    "response_text": "The structural bet underlying everything Arora is doing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you can be the best at leveraging AI to run the most efficient enterprise business in the world, your operating margin can be far in excess of the industry and if you can. If you can crack that code.\n\n",
+    "start_char_index": 38039,
+    "end_char_index": 38243,
+    "response_text": "This is Arora's internal M&A thesis restated."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think we're going to have more people at Palo Alto on the technology side than we've ever had before. Because I think AI is causing everything to ask for a transformation. So I have more technical people today than I would have had if AI didn't exist.\n\n",
+    "start_char_index": 39564,
+    "end_char_index": 39819,
+    "response_text": "Counter-consensus view on headcount."
+  }
+]

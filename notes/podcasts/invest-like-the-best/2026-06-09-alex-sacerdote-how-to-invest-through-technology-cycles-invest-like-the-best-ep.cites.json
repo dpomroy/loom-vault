@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "The big kicker was code, and this is the true unlock of AI. In the first few years we knew AI would be big, but we were skeptical. Also we made large investments because we knew the training would be there, but we weren't sure how much revenue might come and if it could truly replace labor. ",
+    "start_char_index": 10977,
+    "end_char_index": 11269,
+    "response_text": "The framing here is important \u2014 even a bull wasn't sure AI could replace labour early on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "At that time people were spending $100 a day on tokens, which if you do the math comes out to 20 or 30 thousand dollars a year. And if you think about how many coders there are in the world, 20 million. You've got a half a trillion dollar market just from coding alone. And mind you, that was on 7, 8, 9 month old technology. ",
+    "start_char_index": 12009,
+    "end_char_index": 12335,
+    "response_text": "$100/day per power user \u00d7 20M coders \u2014 rough but the order of magnitude is hard to argue with, especially on 7-9 month old tech."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Karpathy said last year its code tools could write 20% and 80% would be handwritten. That flipped when the latest model came out and now he hasn't written a line of code except in English. ",
+    "start_char_index": 13018,
+    "end_char_index": 13211,
+    "response_text": "Karpathy is about as credible a signal as you get here \u2014 this isn't a pundit flip-flopping, it's a practitioner reporting observed reality."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The world doesn't think exponentially, and they're so focused on the next year, the next quarter. Very few people believe you can accurately predict two, three, four years out. But if you follow and understand the S curve, you know the moats and you know how to model, you really can predict these great things. ",
+    "start_char_index": 24611,
+    "end_char_index": 24923,
+    "response_text": "This is the actual edge being described \u2014 not information advantage but *time horizon* advantage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:25:27]: Andy Grove says when you have strategic inflection points, you can't trust the data. And strategic inflection points are about intuition, anecdotal evidence. ",
+    "start_char_index": 29130,
+    "end_char_index": 29313,
+    "response_text": "Strong counter-intuitive point for a quant-heavy era."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's okay to miss the first hundred percent. Peter Lynch. I started at Fidelity and he loved to mentor the kids. So I got some time with him. He said, white out the chart. It's all about the future. ",
+    "start_char_index": 31039,
+    "end_char_index": 31238,
+    "response_text": "Psychologically the hardest thing in growth investing \u2014 anchoring to a past price you missed is how you stay out of multi-baggers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, the old way of software is like using pen and paper or it's like a horse and buggy. The new way of software is like a jet engine or frankly the transporter from Star Trek. It's so revolutionary changing that it feels like it has to be disruptive. ",
+    "start_char_index": 42153,
+    "end_char_index": 42408,
+    "response_text": "The framing is stark on purpose. If you believe it, traditional software incumbents aren't just slow \u2014 they're a **different category** of thing. That's a sell signal, not a hold."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So even if AI is not going to be disruptive, they're spending it on anthropic tokens because there's faster ROI there. Second, if they're spending all that money over there, it pushes on the budget. So that hurts them. ",
+    "start_char_index": 42579,
+    "end_char_index": 42798,
+    "response_text": "This is the underrated headwind. Software companies lose **budget share** even in the scenario where AI doesn't disrupt them. Two problems, not one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now you go to AI, the workloads are growing 10x every year and they're pushing every single aspect of this hardware to the physical limits of what it can do. Not only are you creating tremendous unit growth, but we call it the decommoditization of the hardware industry. ",
+    "start_char_index": 48340,
+    "end_char_index": 48611,
+    "response_text": "The **decommoditisation** thesis in one sentence. Every boring part of the server stack \u2014 memory, PCBs, networking \u2014 is suddenly innovation-constrained again. That's where the alpha is hiding."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You've gone from a 5% grow or low margin to a 35%, 40, 50 top line CAGR for the next four years with rising margins on top of that, there's shortages of everything. ",
+    "start_char_index": 51881,
+    "end_char_index": 52046,
+    "response_text": "He's talking about PCB suppliers and copper clad laminate \u2014 the most unglamorous part of the stack. **Boring hardware** with software-company growth rates is exactly the kind of mispricing that doesn't last long."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the AI can be a great reporter. It can't pick into the future. ",
+    "start_char_index": 63658,
+    "end_char_index": 63724,
+    "response_text": "Clean, honest line. AI handles the **blocking and tackling** \u2014 notes, quarter reviews, getting up to speed fast. The synthesis layer \u2014 what changed, what does it mean for the thesis \u2014 stays human. Relevant for how Loom should position itself."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it takes a hundred people, 100 diversified PMs to realize Google's not a loser, it's a winner. And can we figure that out before 95% of those generalists PMs? And we've been able to do it.\n\n",
+    "start_char_index": 68709,
+    "end_char_index": 68903,
+    "response_text": "The **large-cap alpha** argument is counterintuitive but logical. More capital required to move consensus = more lag = more edge for the specialist. Institutions are structurally underweight mega-cap tech, which is the opportunity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In tech, you gotta go out and talk to people. ",
+    "start_char_index": 70032,
+    "end_char_index": 70078,
+    "response_text": "The bluntest line in the excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we do 2,500 3,000 face to face meetings with management teams. ",
+    "start_char_index": 70078,
+    "end_char_index": 70144,
+    "response_text": "That's a serious number."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Munger and Buffett talk about compounding knowledge. We've been compounding that knowledge for 20 years. ",
+    "start_char_index": 70144,
+    "end_char_index": 70249,
+    "response_text": "The deliberate echo of Buffett/Munger language is strategic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That research engine can support all these products and it's the same people that do Publix and the Private. ",
+    "start_char_index": 70484,
+    "end_char_index": 70593,
+    "response_text": "One team, multiple vehicles."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But he said, I've been at Goldman for 41 years. How about I come and join you? ",
+    "start_char_index": 71366,
+    "end_char_index": 71445,
+    "response_text": "The detail that lands here"
+  }
+]

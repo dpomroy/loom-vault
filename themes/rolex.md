@@ -1,16 +1,17 @@
 ---
 type: theme
-name: "Rolex & Watches"
-description: "The history and strategy of Rolex and the luxury watch industry, from technical innovation to brand identity and market positioning."
-generated_at: 2026-06-07T02:08:35+00:00
-agent: theme-tagger
+name: "Rolex"
+description: "Watch business, luxury branding"
+generated_at: 2026-06-10T02:10:33+00:00
+agent: theme-follower
 model: claude-sonnet-4-6
+custom: true
 quote_count: 47
 ---
 
-# Rolex & Watches
+# Rolex
 
-The history and strategy of Rolex and the luxury watch industry, from technical innovation to brand identity and market positioning.
+Watch business, luxury branding
 
 ## Quotes
 

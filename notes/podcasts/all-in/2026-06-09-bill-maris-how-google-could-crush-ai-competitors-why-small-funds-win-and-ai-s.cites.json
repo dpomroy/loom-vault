@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Which takes me to lesson three, which is don't bet against computer science. I've seen it happen many, many times in many, many fields. If you apply the right kind of computer science at the right time to the right problem, you will get to the right answers. ",
+    "start_char_index": 9090,
+    "end_char_index": 9349,
+    "response_text": "This is Maris's third lesson and the one\nwith the most durable signal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But small funds outperform large funds. This is simply the math. This is not an opinion I'm trying to convince you of. ",
+    "start_char_index": 10447,
+    "end_char_index": 10566,
+    "response_text": "Maris frames this as arithmetic, not\npreference."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if we look at top decile performance of DPI, funds smaller than 750 million, average return of 4.76x and funds larger than a billion 2.42x funds below 750 million across that time period represented 95% of top decile performers with discontinuous return compression above 750 million. ",
+    "start_char_index": 10863,
+    "end_char_index": 11152,
+    "response_text": "The sharpest data point in the whole talk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now if you have a $7 billion fund and we do the same math, you've got to return 210 billion. 7 billion to 70 times 3x is 210 billion, which exceeds the total venture backed M and A and IPO exit value in most years. ",
+    "start_char_index": 11769,
+    "end_char_index": 11984,
+    "response_text": "This makes the large-fund problem\nmathematically explicit."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "However, if I'm Google and I don't speak for Google and I decide to arbitrarily cut the cost of, you know, tokens to 80%, I'm going to cut them. What happens to the business models of OpenAI anthropic at that point?\n\n",
+    "start_char_index": 15502,
+    "end_char_index": 15719,
+    "response_text": "This is the scenario the AI hype cycle\nignores entirely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's been said before a trillion for spend commitments on $60 billion of revenue and now you're going to go to the public and hope that retail is going to pick that up.\n\n",
+    "start_char_index": 17211,
+    "end_char_index": 17381,
+    "response_text": "Maris is pointing at a valuation\ncredibility problem, not just a growth\nstory."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And my objection is don't say you're doing this for the benefit of humanity and do the other thing.\n\n",
+    "start_char_index": 18378,
+    "end_char_index": 18479,
+    "response_text": "One sentence. No hedging."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Just like it wasn't better stories that would make better games. It was controllers and physics engines and GPUs. And those are the parts of the AI cycle that I'm interested in, which is all the platforms that need to be built.\n\n",
+    "start_char_index": 21666,
+    "end_char_index": 21895,
+    "response_text": "This is where Maris's investment thesis\nbecomes concrete."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think we're at the Atari command line stage of AI and we're going to get to the PlayStation 10 stage in the next five years.\n\n",
+    "start_char_index": 22063,
+    "end_char_index": 22191,
+    "response_text": "Clean framing of the gap between\ncurrent AI and where it's heading."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So a $5 billion venture fund that returns 1.01x gets to say that they are in the 75th percentile and can raise their next fund. And no one at the Stanford Endowment is going to get in trouble for writing that check. ",
+    "start_char_index": 28076,
+    "end_char_index": 28292,
+    "response_text": "This is the incentive rot at the\ncore of large-fund VC."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so the incentives are broken in all those ways and the pendulum will swing back. ",
+    "start_char_index": 29229,
+    "end_char_index": 29314,
+    "response_text": "Maris's final verdict on the\ncurrent VC structure."
+  }
+]
