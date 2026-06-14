@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Sports & Media Empires"
-description: "How the NFL, Formula 1, and UFC built their leagues into dominant media and entertainment businesses through control, branding, distribution, and fan psychology."
-generated_at: 2026-06-10T02:09:45+00:00
+name: "Sports & Media Business"
+description: "How the NFL, Formula 1, UFC, and other sports properties built dominant franchises through brand control, media strategy, and league-level thinking."
+generated_at: 2026-06-14T02:08:02+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 38
+quote_count: 48
 ---
 
-# Sports & Media Empires
+# Sports & Media Business
 
-How the NFL, Formula 1, and UFC built their leagues into dominant media and entertainment businesses through control, branding, distribution, and fan psychology.
+How the NFL, Formula 1, UFC, and other sports properties built dominant franchises through brand control, media strategy, and league-level thinking.
 
 ## Quotes
 
@@ -26,6 +26,7 @@ How the NFL, Formula 1, and UFC built their leagues into dominant media and ente
 - "The NFL has built basically no technology, basically no distribution and basically no direct relationship with the audience. And they'll still be fine." — [[notes/podcasts/acquired/2026-01-27-the-nfl]]
 - "Communist capitalism is alive and well." — [[notes/podcasts/acquired/2026-01-27-the-nfl]]
 - "Upon any eventual sale or monetization of the ownership stake that private equity would have in an NFL franchise, a portion of the returns on that investment get skimmed off the top and go back to the NFL and then get distributed equally among all 32 NFL team ownership groups." — [[notes/podcasts/acquired/2026-01-27-the-nfl]]
+- "Formula one is Ferrari, and Ferrari is Formula one. It's that simple." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
 - "Adding power makes you faster in the streets. Subtracting weight makes you faster everywhere." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
 - "I carry out my business in a very unusual way. I don't like contracts. I like being able to look someone in the eye and then shake them by the hand rather than do it the American way with 92 page contracts that no one reads or understands. If I say I'll do something, I'll do it. If I say I won't, I won't." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
 - "There wasn't enough money on that train for me to be involved. I could have done something bigger." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
@@ -37,6 +38,18 @@ How the NFL, Formula 1, and UFC built their leagues into dominant media and ente
 - "During the 2019 season, the logistics operation, moving these cars in the circus around, accounts for 64 times the emission of the cars themselves, even when you include practice, qualifying, and races." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
 - "The percentage of F1 audience that is women went from 7% to there are reports out there that it's like 40% today." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
 - "The NFL monetizes a fan at $127 per year, and Formula 1 monetizes a fan at $7 per year." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
+- "Ferrari will always deliver one car less than the market demand." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "There is not a direct correlation between Ferrari victories on the track and the number of cars that you can sell. But if for many years you do not win, it means that you do not add wood to the fire of the myth." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "He is, quote, an agitator of men." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Canetti described the miracle that was America, the aggressiveness of its people, their childlike acquisitiveness, and their bourgeois credulities. Yet there was a rich upper class whose tastes were European. He knew they would pay a king's ransom for Enzo's elite machines." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "And wealthy Americans are extremely interested in when they're considering if they're going to buy an extremely expensive, rare automobile? They love that cold shoulder of an artist, creating the car mysteriously in some small town in Italy who's just interested in racing." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Ferrari 348 was a shit car. It was the worst car we ever made. Everything was missing. It had no personality. It had no technology. It wasn't state of the art in anything." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Fiat's attempt, their best solution to fixing the problem of the road car business, is to produce more road cars, which is the cardinal sin of luxury strategy management." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Luca is the one who realised that Ferrari is a luxury company. To Enzo, Ferrari was a racing company that sold a connection to that to its clients." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Ferrari is Hermès and Manchester United smashed together. And that makes it super different." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Ferrari will never make another one like it again." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "In luxury, you never want a customer to feel like they've done it all. You want a place for them to graduate to." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "The profit per car average exceeded $170,000. That is more than the entire retail price of your average luxury sedan." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
 - "If the Ultimate Fighter didn't work, it's over." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Spike TV execs took us out in the alley of the arena, and we did a deal on a napkin." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "I'm not sitting there to watch the fucking fights. I'm making sure that I can't control what's happening in the octagon, but I can control what you're seeing on television." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
@@ -45,10 +58,7 @@ How the NFL, Formula 1, and UFC built their leagues into dominant media and ente
 - "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "He always says, it's pretty amazing what a good night's sleep can do for you." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Joe Rogan did the first 12 fights for us for free." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
 - "Sports, live sports is a destination. You have to watch it now." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "the idea in 01 when we started the business was that technology would supercharge media and create lots of value and destroy value. And of course that's a story now that's more resonant than ever." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "they looked around, they're like, who is the least valuable executive at this company that we can put in charge of new media? And that was me." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "most human beings are wired to believe that which is going on now will never change. But the actual state of play is exactly what is going on now will change. It will always change." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "if you take a management team with a reputation for brilliance, and a business with a reputation for being bad, it is the business's reputation that will stay intact." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I thought to myself, what is the moral equivalent of the motion picture business in the 1920s? I thought, it's a video game business." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]

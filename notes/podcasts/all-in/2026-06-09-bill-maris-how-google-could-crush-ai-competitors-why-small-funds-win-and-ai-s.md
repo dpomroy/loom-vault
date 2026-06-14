@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-09-bill-maris-how-google-could-crus
 source_title: "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage"
 source_date: 2026-06-09
 show: "All-In"
-themes: ["AI & Software Markets", "Misc"]
+themes: ["AI Market & Investing", "Misc"]
 generated_at: 2026-06-10T02:06:13+00:00
 agent: note-taker
 model: claude-sonnet-4-6

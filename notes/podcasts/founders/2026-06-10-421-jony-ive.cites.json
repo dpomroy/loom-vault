@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "We kept going back to the beginning again and again and again and again. Do we need this part? Can we get that part to perform the function of these other four parts? It became an exercise to reduce and reduce and reduce.\n\n",
+    "start_char_index": 682,
+    "end_char_index": 905,
+    "response_text": "This is the method, not the aesthetic. Most people treat simplicity as a style choice \u2014 Jony treated it as a rigorous interrogation loop. The output looks effortless because the process was relentless."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I really despise is when I sense some carelessness in a product. ",
+    "start_char_index": 4967,
+    "end_char_index": 5037,
+    "response_text": "Short, but load-bearing. Carelessness is a moral failure for Jony, not just a quality-control miss. His father's workshop built this instinct into him before he ever touched a computer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The more I learned about this cheeky, almost rebellious company, the more it appealed to me as it unapologetically pointed to an alternative in a complacent and creatively bankrupt industry.\n\nApple stood for something and had a reason for being that wasn't just about making money. ",
+    "start_char_index": 8229,
+    "end_char_index": 8511,
+    "response_text": "Jony didn't join Apple for money or status \u2014 he joined because the *soul* of the product told him something real about the people who made it. That's a rare hiring signal and a useful reminder: what does your product telegraph about you?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I worked out what I was good at and what I was bad at. It became pretty clear what I wanted to do. I was really only interested in design. I was neither interested nor good at building a business.\n\n",
+    "start_char_index": 15104,
+    "end_char_index": 15302,
+    "response_text": "Most founders treat self-awareness like a weakness to hide. Jony treated it as a routing decision \u2014 find the environment where your obsession is the whole job, not a fraction of it. Apple gave him that."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says the businessman wants to create something for everyone which leads to products that are middle of the road. It becomes about consensus and that's why you rarely see the spark of genius.\n\n",
+    "start_char_index": 25792,
+    "end_char_index": 25987,
+    "response_text": "This is the pre-Jobs Apple autopsy in two sentences. Consensus-driven design isn't a process problem \u2014 it's a **vision** problem. You can't committee your way to something great."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He said most people make the mistake of thinking design is what it looks like. People think it's this veneer that the designers are handed this box and told make it look good. That's not what we think design is.\n\nIt's not just what it looks like and feels like. Design is how it works. ",
+    "start_char_index": 32091,
+    "end_char_index": 32377,
+    "response_text": "Jobs and Jony were aligned on this from day one. The reason pre-Jobs Apple failed isn't that they had bad designers \u2014 it's that engineers set the **constraints** and designers decorated the result. Jobs flipped the order of authority."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Johnny explained, if you're scared of something, then you won't touch it.\n\nI could see my mom being scared to touch this. So I thought, if there's a handle on it, it makes a relationship possible. It's approachable, it's intuitive, it gives you permission to touch. ",
+    "start_char_index": 38051,
+    "end_char_index": 38317,
+    "response_text": "The handle story is a masterclass in **emotional design** \u2014 function as a trojan horse for feeling. Most designers would've called a handle a carry feature. Jony called it a relationship."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When we took this to the engineers, they came up with 38 reasons they couldn't do it. And I said, no, no, we're doing this. And they said, well, why? And I said, because I'm the CEO and I think it can be done.\n\nAnd they did it. ",
+    "start_char_index": 38969,
+    "end_char_index": 39197,
+    "response_text": "This is what a **design-first CEO** actually looks like in practice. The 38 reasons aren't wrong \u2014 they just don't outweigh the vision. Most companies never get this person in the room."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Here's another great quote by Jony I've the thing is, it's very easy to be different, but very difficult to be better. ",
+    "start_char_index": 44000,
+    "end_char_index": 44119,
+    "response_text": "Four words that should be pinned above every product brief. **Different is cheap**; better requires taste, discipline, and someone willing to hold the line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He said, no, Johnny, you're just really vain. You just want people to like you.\n\nI'm surprised at you. I thought you held the work up as the most important, not how you believe you were perceived by other people. And Johnny says, and I was terribly cross Because I knew he was right. ",
+    "start_char_index": 46641,
+    "end_char_index": 46925,
+    "response_text": "Steve's brutality here is actually correct, which is why it landed. **Protecting the team from hard feedback** is often about the manager's ego, not the team's wellbeing. Jony knew it the moment he heard it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It says innovation is rarely about a big idea. More usually it's about a series of small ideas brought together in a new and better way. ",
+    "start_char_index": 49766,
+    "end_char_index": 49903,
+    "response_text": "The **\"eureka\" narrative** around Apple products is almost entirely false. It was relentless iteration on small details most people never consciously notice. That's a harder truth to sell, but a more useful one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Our goal isn't to make money.\n\nOur goal, absolutely Apple, is not to make money. This may sound a little flippant, but it's the truth. Our goal, and what gets us excited is to try to make great products. We trust that if we are successful, people will like them and if we are operationally competent, we will make a profit.\n\nBut we are very clear about our goal. ",
+    "start_char_index": 57063,
+    "end_char_index": 57426,
+    "response_text": "Easy to dismiss as founder mythology \u2014 but this is a real **operating principle** that explains why Apple didn't build a netbook. Money-first companies optimise for margin; product-first companies occasionally build the iPad."
+  }
+]

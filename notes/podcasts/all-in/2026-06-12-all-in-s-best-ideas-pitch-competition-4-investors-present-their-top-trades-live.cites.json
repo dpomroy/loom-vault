@@ -1,0 +1,149 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "We do not need AI demand to keep the power markets incredibly tight for the next 20 years. AI demand just turbocharges. That's all it does. ",
+    "start_char_index": 16318,
+    "end_char_index": 16458,
+    "response_text": "The cleanest line in the whole excerpt. Dreyfus is separating the structural thesis from the hype \u2014 power scarcity was already the trade. AI is a multiplier, not the premise."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you believe that artificial intelligence is going to be helpful for national security and military affairs, then you either have it or you're dead. ",
+    "start_char_index": 18435,
+    "end_char_index": 18586,
+    "response_text": "Dreyfus escalates his argument in three steps \u2014 scientific breakthroughs, robotics, then national security. The third one lands hardest because it reframes power infrastructure as a **sovereignty** issue, not just an investment one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "With a data center, you put electricity in, and on the other end, instead of gasoline or jet fuel, out comes photons or tokens or intelligence, whatever you want to call it, but it's the same thing. ",
+    "start_char_index": 18967,
+    "end_char_index": 19166,
+    "response_text": "The data centre-as-refinery analogy is genuinely useful. It maps a familiar commodity-world mental model onto AI infrastructure \u2014 makes the **capex intensity** and input dependency obvious."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Rarely have I ever seen a company in six years buy half their float back. ",
+    "start_char_index": 6347,
+    "end_char_index": 6421,
+    "response_text": "Cowen buries the lead slightly \u2014 this is actually the strongest signal in his MGM pitch. Buybacks at that scale combined with an activist buyer at 26% is a **structural squeeze** on supply, regardless of the Japan/Dubai optionality."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But what he's really doing is now trying to pick off the company to get the Japanese opportunity, which we think is worth will more than double the stock. ",
+    "start_char_index": 8705,
+    "end_char_index": 8860,
+    "response_text": "Cowen's read on Diller is the most interesting interpretive move in the MGM pitch. If correct, the $48 bid is an **opening offer**, not fair value \u2014 and the market is pricing it as a takeout rather than a floor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The market started caring about it about three years before it opened. So that the answer is they should care about it. The reality is it tends to be about three years before it opens. Well, we're almost in that time frame, which is why we think it's opportunistically the right period of time. ",
+    "start_char_index": 13708,
+    "end_char_index": 14003,
+    "response_text": "Cowen uses Macau as a timing **precedent** for when the Osaka option gets priced in. That's a reasonable data point \u2014 the market does tend to re-rate on visibility horizon, not opening date."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker F** [0:27:51]: Generally speaking, investing in biotech companies is a horrible idea sandwiched somewhere between movies, wineries and spacs. ",
+    "start_char_index": 29401,
+    "end_char_index": 29553,
+    "response_text": "The self-aware opener is doing real work \u2014 it pre-empts the obvious objection and signals the pitcher knows the base rate. The follow-up reframe (\"poker players\u2026 focus on margin of safety\") is the actual thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Of course, at EcoR1, we consider ourselves poker players in a sector where virtually everyone else is a momentum investor. Betting on science, we focus on margin of safety. ",
+    "start_char_index": 29709,
+    "end_char_index": 29882,
+    "response_text": "The self-aware opener is doing real work \u2014 it pre-empts the obvious objection and signals the pitcher knows the base rate. The follow-up reframe (\"poker players\u2026 focus on margin of safety\") is the actual thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And that's by design because we don't want to fall in love with the science. We fall in love with the risk reward. ",
+    "start_char_index": 29937,
+    "end_char_index": 30052,
+    "response_text": "Probably the most transferable idea in the whole pitch. Applies directly to any domain where technical enthusiasm crowds out sober probability-weighted returns \u2014 horse racing included."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Modern day radiopharmaceuticals, like a swarm of microdrones small enough to navigate the bloodstream and find their target by molecular recognition. Then detonate a precisely sized warhead with a blast radius of 100 microns or the diameter of a single cell. An autonomous assassination with the force of a bunker buster and minimum collateral damage. ",
+    "start_char_index": 32346,
+    "end_char_index": 32698,
+    "response_text": "The military framing isn't just theatre \u2014 it maps meaningfully onto actual mechanism-of-action differences between modalities. 100-micron blast radius vs. full-body chemo is a genuinely useful mental model for understanding why specificity matters."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Generics generally don't traffic in radiopharma, and because the class involves radioisotopes, it's off limits to China. So unlike most of biotech, there's a real moat. ",
+    "start_char_index": 34863,
+    "end_char_index": 35032,
+    "response_text": "This is the moat argument in two sentences. The actinium supply chain is a Cold War artefact \u2014 US Radium-233 waste \u2014 so the barrier isn't IP, it's physical supply. Hard to replicate, hard to route around."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Geodnet fundamentally is a new uses a technology called RTK or real time kinematics where you can localize your location down to about 2 centimeters for context, GPS, roughly the precision is about 2 meters. So you're getting about 100x accuracy for very precise geolocation. ",
+    "start_char_index": 43930,
+    "end_char_index": 44206,
+    "response_text": "The core product claim in plain numbers. 2cm vs 2m is the entire value proposition \u2014 everything else (drones, ag robots, AV mapping) is just a list of who needs that gap closed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So today the Geo Net network is taking of that 11 million in revenue. Roughly 80% of it is being used to make open market purchases of Geo tokens. ",
+    "start_char_index": 49976,
+    "end_char_index": 50123,
+    "response_text": "This is what separates Geodnet from most DePIN failures: it's a real buyback, on-chain and verifiable, not a promise. The other 20% covers all R&D and sales \u2014 the unit economics are unusually tight for this stage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That means $8.8 million right now per year is going into buying Geo Net tokens on the open market. What's amazing is that last 20% is they're covering all their R and D costs and scaling out. ",
+    "start_char_index": 50263,
+    "end_char_index": 50455,
+    "response_text": "This is what separates Geodnet from most DePIN failures: it's a real buyback, on-chain and verifiable, not a promise. The other 20% covers all R&D and sales \u2014 the unit economics are unusually tight for this stage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As Oleg said, if you ever get a biotech company that can become a platform and they have a mechanism, whether it's of drugging, whether it's targeting, if you have something that is broadly applicable, that is when you can get these really really big hundred billion dollar plus outcomes in biotech which are rare. ",
+    "start_char_index": 65819,
+    "end_char_index": 66134,
+    "response_text": "The platform-vs-one-trick framing is the right lens for early biotech. The rare part is doing the work \u2014 most drugs are point solutions. Actis gets credit for having a credible platform story."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker H** [1:00:14]: I feel about crypto exactly the way I do about snowboarding. ",
+    "start_char_index": 66473,
+    "end_char_index": 66559,
+    "response_text": "Honest self-awareness from a 25-year equities investor. Knowing where your edge ends is underrated discipline \u2014 most people expand into new asset classes and just lose money with extra steps."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I have 25 years of lessons, learnings, pain scars from investing in equities and public securities and just crypto. It's a little bit like snowboarding for me, but like, you know.\n\n",
+    "start_char_index": 66784,
+    "end_char_index": 66969,
+    "response_text": "Honest self-awareness from a 25-year equities investor. Knowing where your edge ends is underrated discipline \u2014 most people expand into new asset classes and just lose money with extra steps."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They're making a million bucks a day in incremental ebitda every day that they have a show at the Sphere at the Venetian Hotel, which is an unbelievable statistic which tells you that when you have the entertainment draw, the gambling revenue just flies.\n\n",
+    "start_char_index": 67575,
+    "end_char_index": 67831,
+    "response_text": "A single data point that reframes the MGM thesis entirely. The bull case isn't just gaming \u2014 it's entertainment as a **demand multiplier** on the underlying asset."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Talon is maybe 3x upside, 5x upside, but it's eight years out. And I think one of the other challenges with Talon that I would kind of use as a valuation metric is I think it's more interest rate sensitive than MGM is because the power purchase agreements really are where a lot of the revenue comes from. So you're going to get a discount rate that's a function of where interest rates are sitting. ",
+    "start_char_index": 68445,
+    "end_char_index": 68845,
+    "response_text": "The holding period kills it for most. Add **interest rate sensitivity** through power purchase agreement discounting and the 15x headline number compresses fast if rates stay elevated. Good pitch, wrong macro moment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think the China risk is legit because I've seen it across the board in biotech, everything gets ripped off and people go to China, but they could have a hit and Lilly could bid on it in six months if they actually get a good readout. So there's certainly upside, but the downside is probably 50, 75% if they get a bad readout or China or some new modality comes out. ",
+    "start_char_index": 69370,
+    "end_char_index": 69739,
+    "response_text": "Classic binary biotech payoff structure \u2014 50-75% downside on a bad readout or IP theft, acquisition premium on a good one. The **acquisition optionality** is real but it doesn't change the lottery ticket nature of the bet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's going to replace all RTK and all GPS in the next decade. It's an inevitable piggyback on systems that are already going up.\n\n",
+    "start_char_index": 69876,
+    "end_char_index": 70006,
+    "response_text": "Boldest claim of the episode. \"Inevitable\" is doing a lot of heavy lifting here \u2014 the judges mostly ranked Geodnet last, which suggests conviction wasn't contagious. Worth watching, not buying on a thesis alone."
+  }
+]

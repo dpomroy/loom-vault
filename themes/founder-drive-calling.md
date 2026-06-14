@@ -1,39 +1,26 @@
 ---
 type: theme
-name: "Founder Drive"
-description: "The psychology, ambition, obsession, and personal sacrifice that characterizes founders and elite performers across sports, business, and creative fields."
-generated_at: 2026-06-10T02:09:45+00:00
+name: "Founder Drive & Calling"
+description: "The psychology of founders and entrepreneurs who treat their work as a calling — the obsession, sacrifice, self-belief, and hunger that separates builders from the rest."
+generated_at: 2026-06-14T02:08:02+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 50
+quote_count: 69
 ---
 
-# Founder Drive
+# Founder Drive & Calling
 
-The psychology, ambition, obsession, and personal sacrifice that characterizes founders and elite performers across sports, business, and creative fields.
+The psychology of founders and entrepreneurs who treat their work as a calling — the obsession, sacrifice, self-belief, and hunger that separates builders from the rest.
 
 ## Quotes
 
+- "Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care." — [[notes/articles/2026-05-17-how-to-do-great-work]]
+- "Write the story you want to read; build the tool you want to use." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "I think people are just a bit too soft in general. The brain is an organ. If you need to work more hours, you can train for it." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It's the hard way to do things, but we care about how we get to our goal, because how we get there determines what it actually is at the end that we've built." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "Be very confident you're going in the right direction, and execute well on the step you're taking right now, without knowing exactly where you're going." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "Probably when I was 12, I knew I was going to start a company eventually. I wanted to make the world better. In order to do that, you need to do more than just invent things." — [[notes/podcasts/acquired/2025-06-30-google-the-origin-of-search]]
-- "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "We created this principle called creating virtuous cycles of mutual benefit. And what that led us to do is to start this never ending cycle of growth, innovation, success and failures." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "A players don't like to work with B, Cs, Ds, I mean, Ds, you're gonna just burn your A's out." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "one person who's really good can be as powerful as 10, 20, 50, 100 people." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "your 1x engineer might be 2x more efficient, but your 10x engineer might be 100x more efficient." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
-- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "And of course he was right. With my desire and my drive, I definitely wasn't normal. Normal people can be happy with a regular life. I was different. I felt there was more to life than just plotting through an average existence." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "Arnold lays out what he learned to get to the top of this very unusual and frankly, widely ridiculed sport of bodybuilding back then and says, hey, wait, the same principles I used to get to the top of this sport, I'm going to use to become a movie star and build a business empire and then goes and does it." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I needed stable emotions, total discipline. I needed to be training for two hours in the morning and two hours at night, concentrating on nothing except perfecting my body and bringing it to its peak. Whatever I thought might hold me back, I avoided." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
@@ -60,7 +47,39 @@ The psychology, ambition, obsession, and personal sacrifice that characterizes f
 - "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
 - "It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
 - "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Steve wanted grokking from team members, which he describes as full body absorption of the company's DNA." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Between now and when you have a product, you are the product, my friend. And so you better be nice to people." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "The most important thing you're competing with is not another company, but it is your own ability to execute." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "As time went on, the deep shit list started to look less like an existential priority list and more like Steve's personal wish list." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Somehow $100,000 had become the company's standard spending unit, as if Steve's logo had set the baseline for what constituted normal expenses." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Every operating assumption we had has been proved wrong. The product wasn't ready, the budget has collapsed and the strategy keeps shifting. We are set up for continued failure." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "You know what my mistake was? I gave Steve too much dang money. When you have too much money, you just don't have that hunger." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "He was choosing purity over survival." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Gil failed to grasp what Steve's 12 years in the wilderness had given him. Steve came away not only with better skills for building technology, but better strategies for getting exactly what he wanted." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Steve doesn't know how to do anything but lead." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "His self identity does not revolve around being a businessman." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "Between now and when you have a product, you are the product, my friend. And so you better be nice to people." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "You know what my mistake was? I gave Steve too much dang money. When you have too much money, you just don't have that hunger." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "As time went on, the deep shit list started to look less like an existential priority list and more like Steve's personal wish list." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "We are over a year late. The competition has progressed more than we expected. Our product is twice as expensive as we imagined. The computer is still not working. You must reset expectations." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "The most important thing you're competing with is not another company, but it is your own ability to execute." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "Every operating assumption we had has been proved wrong. The product wasn't ready, the budget has collapsed and the strategy keeps shifting. We are set up for continued failure." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "He was choosing purity over survival." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
-- "You retire, you die." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "I feel it's a privilege to wake up. And I just hope I fricking kill it so I can give it away." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
+- "After six years in business, NEXT own leadership couldn't agree on what business they were actually in." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "Gil failed to grasp what Steve's 12 years in the wilderness had given him. Steve came away not only with better skills for building technology, but better strategies for getting exactly what he wanted." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "We kept going back to the beginning again and again and again and again. Do we need this part? Can we get that part to perform the function of these other four parts? It became an exercise to reduce and reduce and reduce." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "What I really despise is when I sense some carelessness in a product." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The more I learned about this cheeky, almost rebellious company, the more it appealed to me as it unapologetically pointed to an alternative in a complacent and creatively bankrupt industry." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "I worked out what I was good at and what I was bad at. It became pretty clear what I wanted to do. I was really only interested in design. I was neither interested nor good at building a business." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The businessman wants to create something for everyone which leads to products that are middle of the road. It becomes about consensus and that's why you rarely see the spark of genius." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Most people make the mistake of thinking design is what it looks like. People think it's this veneer that the designers are handed this box and told make it look good. That's not what we think design is. It's not just what it looks like and feels like. Design is how it works." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "If you're scared of something, then you won't touch it. I could see my mom being scared to touch this. So I thought, if there's a handle on it, it makes a relationship possible. It's approachable, it's intuitive, it gives you permission to touch." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "When we took this to the engineers, they came up with 38 reasons they couldn't do it. And I said, no, no, we're doing this." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The thing is, it's very easy to be different, but very difficult to be better." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "No, Johnny, you're just really vain. You just want people to like you. I'm surprised at you. I thought you held the work up as the most important, not how you believe you were perceived by other people." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Innovation is rarely about a big idea. More usually it's about a series of small ideas brought together in a new and better way." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Our goal isn't to make money. Our goal, and what gets us excited is to try to make great products. We trust that if we are successful, people will like them and if we are operationally competent, we will make a profit." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]

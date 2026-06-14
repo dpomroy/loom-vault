@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:07:34]: Well, I mean, for me, if you, you referenced inflation is soaring. Well, just recently, that's primarily driven by energy prices right now. Now, why are those energy prices high? Well, because the President decided to hold Iran accountable. ",
+    "start_char_index": 9133,
+    "end_char_index": 9399,
+    "response_text": "Fetterman's framing here is sharp \u2014 he's reordering the cost-benefit, not denying the pain of energy prices."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "No one thinks $5 a gallon is great, but if you allow Iran to become nuclear, you know, that's going to seem quaint, you know, if $5 a gallon, holding it too. ",
+    "start_char_index": 9806,
+    "end_char_index": 9964,
+    "response_text": "Fetterman's framing here is sharp \u2014 he's reordering the cost-benefit, not denying the pain of energy prices."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The entire Democratic Party, including myself, we were so wrong about the filibuster. In my cycle in 2020, every single Democrat identified. We have to. We have to eliminate the filibuster. Seems like it made sense now. And thank God, Thank God we had people that stood there, whether it's Senator Manchin or Senator Sinema. You know, history has vindicated their wisdom to do that thing. ",
+    "start_char_index": 11752,
+    "end_char_index": 12141,
+    "response_text": "Fetterman credits Manchin and Sinema \u2014 the two Democrats who blocked filibuster elimination \u2014 saying history has vindicated them."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because right now, listen, I am a beneficiary of capitalism. I have been wildly fortunate because of capitalism. But we are gonna lose capitalism unless we find a combination of ways to address it. ",
+    "start_char_index": 16139,
+    "end_char_index": 16337,
+    "response_text": "McCormick frames himself as a capitalism beneficiary who believes the system itself is now at risk from wealth concentration."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:30:34]: There's enormous misinformation and I think that misinformation is largely being driven by China and outside forces. And then there's just legitimate not understanding, not knowing. And we need to do a much better job of making sure that the outlines of what these data centers mean to communities is clear. ",
+    "start_char_index": 31046,
+    "end_char_index": 31379,
+    "response_text": "McCormick draws a line between deliberate foreign-driven disinfo and genuine local misunderstanding, arguing both need different responses."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Dean and I hosted an energy and innovation summit in Pennsylvania last July. We had $92 billion of investment committed. We had the energy CEOs, the AI CEOs, big investors, global investors. We had Senator Fetterman came, Governor Shapiro came, the President came, the Cabinet came. ",
+    "start_char_index": 29845,
+    "end_char_index": 30128,
+    "response_text": "McCormick's PA energy and innovation summit in July drew energy CEOs, AI CEOs, Fetterman, Governor Shapiro, the President, and the Cabinet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most secure job in Pennsylvania right now is a secure welder. ",
+    "start_char_index": 38487,
+    "end_char_index": 38553,
+    "response_text": "McCormick and Fetterman both agree: electricians and welders in their late teens and early 20s are making over $100k a year on data centre and energy sites, and employers can't hire fast enough."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:37:52]: An electrician.\n\n**Speaker B** [0:37:53]: An electrician. Honestly, these folks are coming out, they're getting the training, they're in their late teens, early 20s, they're making more than 100 grand a year in these sites. And they can't build, they can't hire quick enough, they can't find enough people to meet the demand. ",
+    "start_char_index": 38584,
+    "end_char_index": 38935,
+    "response_text": "McCormick and Fetterman both agree: electricians and welders in their late teens and early 20s are making over $100k a year on data centre and energy sites, and employers can't hire fast enough."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:35:08]: Last night, event you described that we have six to eight months ahead of China, Right? Is that right? ",
+    "start_char_index": 35899,
+    "end_char_index": 36027,
+    "response_text": "Fetterman says America is six to eight months ahead of China in AI, making a Democratic-led moratorium on data centres a strategic gift to Beijing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Okay, so now my party is driving for a moratorium for data centers. Do you think China doesn't love that? Again, that's why there are parts behind some of driving this view. You want to give that race to China? ",
+    "start_char_index": 36033,
+    "end_char_index": 36244,
+    "response_text": "Fetterman says America is six to eight months ahead of China in AI, making a Democratic-led moratorium on data centres a strategic gift to Beijing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:25:35]: Well, a seat or a job is, is not. I'm always going to be, I'm going to be honest and I'm always going to have, you know, my votes or my opinions are going to be what I happen to believe is true. You know, it's not a seat worth trying to maintain if I'm going to lie or to pretend that things aren't absolutely true. Yeah, absolutely. I can be primaried and there are some Democrats that are angry at me. If they're angry at me for supporting Israel, they have at it. ",
+    "start_char_index": 26425,
+    "end_char_index": 26917,
+    "response_text": "Fetterman acknowledges he can be primaried, but says he'd rather lose the seat than vote against his actual beliefs \u2014 specifically on Israel and opposing government shutdowns."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Collectively, $300 million were spent to destroy our reputations. Think what $300 million could do for Pennsylvania or for people that was spent to destroy reputations. You know, you're terrible. I am terrible. That's the absurdity of the American politics. ",
+    "start_char_index": 43601,
+    "end_char_index": 43859,
+    "response_text": "Fetterman's point: the money spent on negative campaigning against both of them could have gone directly into the state instead."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Second, I don't think it's just Democrats. I mean, we have no.\n\n**Speaker A** [0:40:20]: The America first movement is now in this horseshoe exactly aligned with.\n\n**Speaker B** [0:40:25]: We have the far left and the far right.\n\n**Speaker C** [0:40:27]: Yes.\n\n**Speaker B** [0:40:28]: Converging on an anti dance.\n\n",
+    "start_char_index": 41191,
+    "end_char_index": 41507,
+    "response_text": "McCormick notes that opposition to data centres isn't just a Democrat problem \u2014 the far right America First movement has landed in the same place as the far left, creating a horseshoe coalition against AI infrastructure."
+  }
+]

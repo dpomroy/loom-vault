@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Rolex & Luxury"
-description: "The history and strategic logic of Rolex and the luxury watch industry — brand mythology, manufacturing discipline, and the transformation of a functional object into a status artifact."
-generated_at: 2026-06-10T02:09:45+00:00
+name: "Rolex & Luxury Brands"
+description: "How Rolex and the watch industry built enduring luxury brands by controlling supply, redefining their market, and turning technological obsolescence into an asset."
+generated_at: 2026-06-14T02:08:02+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 60
+quote_count: 47
 ---
 
-# Rolex & Luxury
+# Rolex & Luxury Brands
 
-The history and strategic logic of Rolex and the luxury watch industry — brand mythology, manufacturing discipline, and the transformation of a functional object into a status artifact.
+How Rolex and the watch industry built enduring luxury brands by controlling supply, redefining their market, and turning technological obsolescence into an asset.
 
 ## Quotes
 
@@ -67,16 +67,3 @@ Constraints producing durable outputs again. Also: Panerai fans have no idea.
 - "Rolex is positioned at the perfect point on the curve of price and quantity. They're the most optimally-positioned supply-demand curve company I think we've ever covered." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "The brand with mass appeal, that all the newbies want, that sells a million a year, is also the one of the highest quality." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Rolex and Apple are mirror image companies in a lot of ways." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "Formula one is Ferrari, and Ferrari is Formula one. It's that simple." — [[notes/podcasts/acquired/2026-03-02-formula-1]]
-- "Ferrari will always deliver one car less than the market demand." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "There is not a direct correlation between Ferrari victories on the track and the number of cars that you can sell. But if for many years you do not win, it means that you do not add wood to the fire of the myth." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "He is, quote, an agitator of men." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Canetti described the miracle that was America, the aggressiveness of its people, their childlike acquisitiveness, and their bourgeois credulities. Yet there was a rich upper class whose tastes were European. He knew they would pay a king's ransom for Enzo's elite machines." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "And wealthy Americans are extremely interested in when they're considering if they're going to buy an extremely expensive, rare automobile? They love that cold shoulder of an artist, creating the car mysteriously in some small town in Italy who's just interested in racing." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Ferrari 348 was a shit car. It was the worst car we ever made. Everything was missing. It had no personality. It had no technology. It wasn't state of the art in anything." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Fiat's attempt, their best solution to fixing the problem of the road car business, is to produce more road cars, which is the cardinal sin of luxury strategy management." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Luca is the one who realised that Ferrari is a luxury company. To Enzo, Ferrari was a racing company that sold a connection to that to its clients." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Ferrari is Hermès and Manchester United smashed together. And that makes it super different." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "Ferrari will never make another one like it again." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "In luxury, you never want a customer to feel like they've done it all. You want a place for them to graduate to." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
-- "The profit per car average exceeded $170,000. That is more than the entire retail price of your average luxury sedan." — [[notes/podcasts/acquired/2026-04-13-ferrari]]

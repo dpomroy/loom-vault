@@ -1,16 +1,16 @@
 ---
 type: theme
-name: "Google's History"
-description: "The full arc of Google's rise — from search algorithm to advertising empire to mobile dominance to AI inflection point — and the strategic decisions that shaped it."
-generated_at: 2026-06-10T02:09:45+00:00
+name: "Google & AI History"
+description: "The full arc of Google's rise — from search and advertising dominance to inventing the Transformer, facing the innovator's dilemma, and competing in the AI era."
+generated_at: 2026-06-14T02:08:02+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 118
 ---
 
-# Google's History
+# Google & AI History
 
-The full arc of Google's rise — from search algorithm to advertising empire to mobile dominance to AI inflection point — and the strategic decisions that shaped it.
+The full arc of Google's rise — from search and advertising dominance to inventing the Transformer, facing the innovator's dilemma, and competing in the AI era.
 
 ## Quotes
 

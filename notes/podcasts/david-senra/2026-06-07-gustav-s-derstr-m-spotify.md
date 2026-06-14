@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify.m
 source_title: "Gustav Söderström, Spotify"
 source_date: 2026-06-07
 show: "David Senra"
-themes: ["Misc"]
+themes: ["Operational Excellence"]
 generated_at: 2026-06-10T02:07:42+00:00
 agent: note-taker
 model: claude-sonnet-4-6

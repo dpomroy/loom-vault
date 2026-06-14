@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake. ",
+    "start_char_index": 762,
+    "end_char_index": 970,
+    "response_text": "The framing that matters: this isn't a story about genius \u2014 it's a story about a brilliant person being **wrong**, repeatedly, at scale. That's rarer and more useful to study."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Steve wanted grokking from team members, which he describes as full body absorption of the company's DNA.\n\n",
+    "start_char_index": 7441,
+    "end_char_index": 7548,
+    "response_text": "He preached deep team loyalty and then turned over **every co-founder**. The gap between the ideal he articulated and the culture he actually created is the whole NeXT story in miniature."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Between now and when you have a product, you are the product, my friend. And so you better be nice to people.\n\n",
+    "start_char_index": 15576,
+    "end_char_index": 15687,
+    "response_text": "Paul Rand \u2014 30 years older, zero tolerance for nonsense \u2014 was the only person who cut through early. **Reputation is the first product.** Jobs ignored this completely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most important thing you're competing with is not another company, but it is your own ability to execute. He seems to be blissfully unaware that they are unable to execute at the moment.\n\n",
+    "start_char_index": 22021,
+    "end_char_index": 22213,
+    "response_text": "Said while the company **couldn't execute at all.** This is the quote that stings most \u2014 he could diagnose the disease and still be the cause of it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As time went on, the deep shit list started to look less like an existential priority list and more like Steve's personal wish list. He kept piling on features, adding costs and making last minute demands.\n\n",
+    "start_char_index": 24733,
+    "end_char_index": 24940,
+    "response_text": "Scope creep disguised as urgency. He kept **adding features** while the company bled cash and missed every deadline. Classic founder trap: mistaking taste for strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Somehow $100,000 had become the company's standard spending unit, as if Steve's logo had set the baseline for what constituted normal expenses. ",
+    "start_char_index": 15840,
+    "end_char_index": 15984,
+    "response_text": "This is how **culture actually gets set** \u2014 not by what the founder says, but by what the founder spends. The logo fee wasn't just expensive; it was a policy statement."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Every operating assumption we had has been proved wrong. The product wasn't ready, the budget has collapsed and the strategy keeps shifting. We are set up for continued failure.\n\n",
+    "start_char_index": 37945,
+    "end_char_index": 38124,
+    "response_text": "Next's internal diagnosis, brutally accurate.\nThe rare moment someone in the building\nsaid the quiet part loud \u2014 and Steve\nignored it anyway."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know what my mistake was? I gave Steve too much dang money.\n\nWhen you have too much money, you just don't have that hunger. And you start spending money on floating staircases and $10,000 chairs, which Steve did both of. ",
+    "start_char_index": 41422,
+    "end_char_index": 41647,
+    "response_text": "Ross Perot nails it. Floating staircases\nand $10k chairs when you're burning\n$39M over budget. Constraints are a\nfeature, not a bug \u2014 Steve needed\nscarcity, not a cheque."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He was choosing purity over survival.\n\n",
+    "start_char_index": 41706,
+    "end_char_index": 41745,
+    "response_text": "Four words that explain a decade of\nbad decisions. The hardware obsession,\nthe beautiful objects \u2014 Steve mistook\naesthetics for strategy. This is the\ntrap every founder-aesthete risks."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something.\n\n",
+    "start_char_index": 53223,
+    "end_char_index": 53338,
+    "response_text": "Ed Catmull's insight is the practical key\nto working with any high-conviction,\nfast-talking leader. Don't push \u2014 give\nthem data and wait. Let them arrive."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Gil failed to grasp what Steve's 12 years in the wilderness had given him. Steve came away not only with better skills for building technology, but better strategies for getting exactly what he wanted. ",
+    "start_char_index": 60669,
+    "end_char_index": 60871,
+    "response_text": "This is the thesis of the whole episode.\nThe exile wasn't punishment \u2014 it was\ngraduate school. Gil thought he was\nhiring a chastened entrepreneur;\nhe was handing the keys to a\nfully-loaded version."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Steve doesn't know how to do anything but lead.\n\n",
+    "start_char_index": 60057,
+    "end_char_index": 60106,
+    "response_text": "Shortest quote, biggest warning.\nEveryone around Gil saw it coming.\nThe only person who didn't was Gil."
+  }
+]
