@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave
 source_title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
 source_date: 2026-06-10
 show: "All-In"
-themes: ["Geopolitics & Power", "Misc"]
+themes: ["Geopolitics & Power"]
 generated_at: 2026-06-14T02:03:27+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nik
 source_title: "#418 Phil Knight: Founder of Nike"
 source_date: 2026-05-07
 show: "Founders"
-themes: ["Founder Drive & Calling"]
+themes: ["Founder Psychology"]
 generated_at: 2026-05-27T21:06:19+00:00
 agent: note-taker
 model: claude-sonnet-4-6

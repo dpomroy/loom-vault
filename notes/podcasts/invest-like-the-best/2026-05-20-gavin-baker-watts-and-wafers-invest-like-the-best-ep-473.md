@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-
 source_title: "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]"
 source_date: 2026-05-20
 show: "Invest Like the Best"
-themes: ["AI Market & Investing", "Geopolitics & Power"]
+themes: ["AI & Tech Markets"]
 generated_at: 2026-05-28T18:35:01+00:00
 agent: note-taker
 model: claude-sonnet-4-6

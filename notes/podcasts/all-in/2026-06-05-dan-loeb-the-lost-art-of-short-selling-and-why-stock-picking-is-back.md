@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-05-dan-loeb-the-lost-art-of-short-s
 source_title: "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back"
 source_date: 2026-06-05
 show: "All-In"
-themes: ["AI Market & Investing", "Misc"]
+themes: ["AI & Tech Markets", "Misc", "Vanguard & Investing"]
 generated_at: 2026-06-07T02:04:37+00:00
 agent: note-taker
 model: claude-sonnet-4-6

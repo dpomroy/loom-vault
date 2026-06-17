@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:10:59]: I think courage because one thing that I think a lot about is I think capitalism rewards risk more than anything else. I think a lot of people think it's like meritocracy or hard work, which I think is silly. There are a lot of people working really hard and not making a lot of money. So it's not hard work. ",
+    "start_char_index": 15348,
+    "end_char_index": 15682,
+    "response_text": "Kareem's framing here is blunt and correct."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "For me, at least, my definition of risk, or how I've experienced it is you need to not know what's going to happen. Genuinely, you're going to discover something new. I think it needs to be coupled with a high potential for shame needs to be. You can fail in a way that feels scary or maybe associated with shame. And when you're doing that, you're genuinely about to discover something new and learn from it. And that's when you can take real risk. ",
+    "start_char_index": 16629,
+    "end_char_index": 17079,
+    "response_text": "His definition adds a second condition most people skip: the failure has to carry real **shame-potential**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The only judge of anything is yourself and your own self respect. You have to be doing it so that you feel like what you've done is interesting and worthwhile. And when you're an ambitious person, your judgment is actually way higher than anyone else because you know everything that you're thinking and you know everything that you've done. So I know everything that I'm thinking about or doing, and my standards are higher than anyone else.\n\n",
+    "start_char_index": 20947,
+    "end_char_index": 21391,
+    "response_text": "External validation is structurally broken as a goal \u2014 ambitious people hold themselves to a higher standard than anyone else can, because they have full information."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Through my journey, I had this moment where I was like, you know what? I'm not going to create from a place of lack anymore. And I went around probably pretty annoyingly telling people I have everything I need. I'm good. ",
+    "start_char_index": 24982,
+    "end_char_index": 25203,
+    "response_text": "A deliberate shift, not a passive one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "People are still doing stuff and they have things you can create from a place of wholeness. And in fact you will be less destructive in the world. I think you'll create less damage. ",
+    "start_char_index": 25606,
+    "end_char_index": 25788,
+    "response_text": "His counter to the \"chip on shoulder\" VC trope: you **can** create from wholeness, and you'll cause less damage doing it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I kept wanting to go towards the end and then I had this big flash of insight that I try to remember, but it said whenever you're picturing the future or anticipating the future, it's kind of like Freud's death drive. The only thing that happens in the future is you die. The far future, whatever it is, and so you're accelerating that. And as soon as I had that thought, it's kind of the death drive. Thinking about the future is the death drive. And so I like immediately felt back in my own body in the moment and felt the boredom of where I was. ",
+    "start_char_index": 32016,
+    "end_char_index": 32566,
+    "response_text": "The insight snapped him back into his body and into **present boredom** \u2014 which he describes as delicious."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I realized that I have an accumulation tendency where I'm like, where's the food going to come from? And in the company I noticed, I'm like, where's the next ARR going to come from? Now I'm aware of that and I'm like aware of when I have enough and then I can take more risk. I don't need to accumulate something that's way beyond actually what we need.\n\n",
+    "start_char_index": 32949,
+    "end_char_index": 33308,
+    "response_text": "Recognising the scarcity reflex \u2014 in food, in revenue \u2014 let him **take more risk** by not hoarding beyond actual need."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One way is that we over invest in things that people typically underinvested. We've over invested in recruiting, in brand, in content, in community building. ",
+    "start_char_index": 37213,
+    "end_char_index": 37371,
+    "response_text": "The contrarian move isn't a secret tactic \u2014 it's just\n**funding the things everyone else treats as overhead.**\nClay's brand reputation didn't happen by accident."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Everybody talks about hiring fast and firing fast. We've had people who nine months in, were floundering and were like, this person is excellent. I know they are, but what's going on here? Is it the role? Is it the context? Is it our decision making that's limiting them? Eventually we find an amazing spot for that person and they become a superstar 50% of the time. ",
+    "start_char_index": 38213,
+    "end_char_index": 38581,
+    "response_text": "The \"fire fast\" dogma is lazy pattern-matching. Kareem\nis arguing the **bottleneck is often the context**, not\nthe person \u2014 and that distinction takes time to\ndiagnose. Most managers won't do the work."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But we're building a guitar. With a guitar, there's just six strings and 12 frets. But you could spend your whole life just getting better at that. And you can only be playing one style of music, and it's still like new. ",
+    "start_char_index": 47159,
+    "end_char_index": 47380,
+    "response_text": "This is the **depth vs. commodity** framing in one image.\nThe microwave/guitar split is a useful test for any\nproduct decision: are you adding features or deepening\nthe instrument? Directly relevant to how Loom's feed\nmechanics should be designed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think this idea of accepting more sounds as music is actually a helpful product principle. Just a way of being where you can start to think, what are all these other ways of being that you think are off that actually could be productive or useful if you put them in the right context.\n\n",
+    "start_char_index": 46136,
+    "end_char_index": 46424,
+    "response_text": "The \"**Emancipation of Dissonance**\" frame is\nsurprisingly useful: what behaviour or workflow do you\ncurrently dismiss as off that would actually work given\nthe right context? Worth running as a deliberate prompt\nwhen evaluating new feature ideas."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So if you don't have a vision, then you don't have a vision. If you do have a vision, then you do have a vision. I think it's important to not say something that actually isn't happening. ",
+    "start_char_index": 48950,
+    "end_char_index": 49138,
+    "response_text": "Blunt and correct. The startup world **fetishises the\norigin myth** \u2014 the visionary founder who always knew.\nKareem is calling that out as retrospective fiction that\nactively misleads people who are still figuring it out."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But maybe we can institutionalize these things rather than trying to scale things that become zombies or become worse versions of their former selves and then complain about it when we're incentivizing everybody to scale no matter what. ",
+    "start_char_index": 62651,
+    "end_char_index": 62888,
+    "response_text": "The **death doula for companies** idea is genuinely\nunderexplored. Nobody has built the institutional\ninfrastructure for graceful company endings because the\nVC incentive structure makes that conversation almost\nimpossible to have."
+  }
+]

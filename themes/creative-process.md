@@ -1,19 +1,26 @@
 ---
 type: theme
 name: "Creative Process"
-description: "How artists, producers, and designers approach the act of making — finding the idea, protecting it, and knowing what to remove."
-generated_at: 2026-06-14T02:08:02+00:00
+description: "Quotes about creativity, design, making things, and the craft behind great art, music, film, and products."
+generated_at: 2026-06-17T02:05:34+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 22
+quote_count: 85
 ---
 
 # Creative Process
 
-How artists, producers, and designers approach the act of making — finding the idea, protecting it, and knowing what to remove.
+Quotes about creativity, design, making things, and the craft behind great art, music, film, and products.
 
 ## Quotes
 
+- "I thought to myself, what is the moral equivalent of the motion picture business in the 1920s? I thought, it's a video game business." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "culture, like character, is tested in the breach. You're not tested when things are going well" — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "data sets by their very nature are backward looking. Creativity, by its very nature is forward looking." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "all hits are by their very nature unexpected. That's the most important thing to take away. Things that are data driven in their entirety can't be unexpected." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "If you're stacking a lot of things on top of each other, each one of those things becomes less important." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "The fact that I didn't know what I was doing allowed it to be true to what hip hop was." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "I thought the word meant to build up. Like, I think of production as building. And really what I was doing was taking apart and reducing." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "Sometimes, for the sake of the whole work, removing things about you really love is part of the process." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
@@ -24,7 +31,6 @@ How artists, producers, and designers approach the act of making — finding the
 - "Jimmy is in the banking business and you're in the church business. And that's the difference." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "I think most of what I do is not really about music. I happen to work in music, but it's not about the music." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
 - "Each of those installments are real. So it's always true. It doesn't mean that's who you are forever. It's who you are in that moment." — [[notes/podcasts/david-senra/2026-05-24-the-simple-genius-of-rick-rubin]]
-- "naval, who is a friend of mine and of Jared's, he always says, escape competition through authenticity. If you're competing, it's because you're copying. You know, build something that fully comes from you and that will feel most right. And it's also the thing that's least replicable." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
 - "I think it requires a tremendous amount of discipline to create stillness. I have to be much more intentional about creating a contemplative routine than I did maybe 20 years ago. There's just a lot more coming at me. So I have to create a lot of boundaries for myself in my day." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
 - "People will say trust your instinct, but I think instinct has to be developed. So my instinct when I was 22 is different from my instinct today because I think instinct is honed and refined over time. I think first and foremost, you have to get started, so you have to try things. And those micro wins, that felt as big as the massive ones today, you start to develop reps and patterns and confidence, which is so important." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
 - "the idea that meaning can often be redeemed by the struggle. You don't find meaning when things are easy. You find meaning when things are difficult. And when things are extremely difficult, it's often that same meaning that helps you endure." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
@@ -36,3 +42,60 @@ How artists, producers, and designers approach the act of making — finding the
 - "there's nothing uglier than a beautiful non functional space. Like that's, to me, that's not a masterpiece because it wasn't fully thought through. So when you can combine something that is architecturally incredibly meaningful and beautiful and intentional with a highly functional space." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
 - "only boring people get bored, like there's too much to learn. But I also tell them in the context of this all the time, that you never learn anything while you're talking. You only learn when you're listening and when you're observing." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
 - "it did give me a lot of perspective, and it gave me the ability to really, like, mark things in my mind to market, create a lot more simplicity for myself, really only commit to building things that I would be passionate about over the long term." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
+- "There's this truth out there that eventually your org chart shows up in your product." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Functional orgs tend to dissolve into politics without the tenure. Without the tenure is the key." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "The comfort takes a long while to build. You can't expect someone to come in, especially if they come from corporate America and expect them to stand up to you, because usually there are consequences." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Maybe it's one of the challenges that Apple had with machine learning and AI. On average they were slightly too old to see that probably people in their org knew all about it, were all over, was too late to see it." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "You can't win. You can only not lose as much." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "We chose to take the pain of doing a single app with all the complexity that comes with that for the benefit of reaching what was then already 300 something million users." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "On many of the big platforms, people regretted almost 60% of the time they spent or more." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "We've kept going into these things that are considered by ourselves and users, time well spent. But we never fully articulated that as a strategy externally." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "when you pay with your own money, that is very, very well aligned with optimizing for what is good for the user. Whereas if in a pure advertising based model your incentives are clearly to maximize time spent at any cost." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "my mission now is to sort of give back control to consumers over these algorithms. And it's contrarian, but I think it's the right bet." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "I literally ask my agent, filter for rage bait filter for clickbait, filter for, you know, politics." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Premeditated media." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Can you give people the chance to decide their own future ahead of time? This is the idea behind the taste profile and behind these agents." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "we bet on three things and they were all basically counter positions to Apple deliberately. One was freemium... The second was personalization... The third was Ubiquiti." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "for us this was not optional. We either died or we did this." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "When things are stable, market share, stay stable. You don't eat market share. So when there's change, there's risk, you can lose market share. But that is also when you have the most opportunity to eat market share." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Every company says they do that. Most of them are full of shit." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Getting at underlying factors is inherently a long term strategy and it's a difficult one and it's timely." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "You go to your first conclusion and you stop thinking." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Steve had such a powerful voice that it didn't matter when he spoke. He was going to have this extremely strong effect on the dynamics of the room, and he understood that." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "There was nothing that Steve ever said that had not been said by somebody else before in one of those meetings." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Paying attention to the dynamics of those rooms is the job. They're the ones that are making the movies. I'm not making the movie." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "When we're done that we will have created Michael Eisner's Worst Nightmare." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Nobody ever asked, what are you doing? And there are no secrets. We're not hiding anything ever." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "If the team is together and they're laughing and then they're angsting and all that together, then that's when you say, okay, we just keep going." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "If you take on a hard problem and you just keep pushing on it, then the fact that it was hard is what's going to make it different." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "if you don't have a film out there, then you want people to enjoy going to the movies" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Quality is the best business plan." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "I do think that if I know that I'm wrong half the time, that I catch it earlier. I spend less time on the wrong decision." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "trying to answer it is an act of separation... I never was" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "It's not how much can I do on my own? It's how much can I do with others?" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "there were three times in the history of Pixar in which a group arose that felt like they were second class and we missed it and we were looking for it" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "it doesn't matter what you say, they're emulating the behaviors that they see" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "if somebody violates a rule of common sense... you don't make a rule so that nobody else makes the same mistake" — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "We kept going back to the beginning again and again and again and again. Do we need this part? Can we get that part to perform the function of these other four parts? It became an exercise to reduce and reduce and reduce." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "What I really despise is when I sense some carelessness in a product." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The more I learned about this cheeky, almost rebellious company, the more it appealed to me as it unapologetically pointed to an alternative in a complacent and creatively bankrupt industry." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "I worked out what I was good at and what I was bad at. It became pretty clear what I wanted to do. I was really only interested in design. I was neither interested nor good at building a business." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The businessman wants to create something for everyone which leads to products that are middle of the road. It becomes about consensus and that's why you rarely see the spark of genius." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Most people make the mistake of thinking design is what it looks like. People think it's this veneer that the designers are handed this box and told make it look good. That's not what we think design is. It's not just what it looks like and feels like. Design is how it works." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "If you're scared of something, then you won't touch it. I could see my mom being scared to touch this. So I thought, if there's a handle on it, it makes a relationship possible. It's approachable, it's intuitive, it gives you permission to touch." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "When we took this to the engineers, they came up with 38 reasons they couldn't do it. And I said, no, no, we're doing this." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "The thing is, it's very easy to be different, but very difficult to be better." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "No, Johnny, you're just really vain. You just want people to like you. I'm surprised at you. I thought you held the work up as the most important, not how you believe you were perceived by other people." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Innovation is rarely about a big idea. More usually it's about a series of small ideas brought together in a new and better way." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "Our goal isn't to make money. Our goal, and what gets us excited is to try to make great products. We trust that if we are successful, people will like them and if we are operationally competent, we will make a profit." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "we're building a guitar. With a guitar, there's just six strings and 12 frets. But you could spend your whole life just getting better at that." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
+- "I think this idea of accepting more sounds as music is actually a helpful product principle." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
+- "maybe we can institutionalize these things rather than trying to scale things that become zombies or become worse versions of their former selves" — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
+- "Indeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-17-how-to-do-great-work]]
+- "A good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-18-how-to-do-great-work]]
+- "Indeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it." — [[notes/articles/2026-05-29-how-to-do-great-work]]
+- "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "Be very confident you're going in the right direction, and execute well on the step you're taking right now, without knowing exactly where you're going." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "naval, who is a friend of mine and of Jared's, he always says, escape competition through authenticity. If you're competing, it's because you're copying. You know, build something that fully comes from you and that will feel most right. And it's also the thing that's least replicable." — [[notes/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an-authentic-life]]
+- "The only judge of anything is yourself and your own self respect. You have to be doing it so that you feel like what you've done is interesting and worthwhile." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]

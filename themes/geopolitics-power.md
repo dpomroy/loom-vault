@@ -1,16 +1,16 @@
 ---
 type: theme
 name: "Geopolitics & Power"
-description: "Observations on military strategy, great power competition, political institutions, and how adversaries exploit openness."
-generated_at: 2026-06-14T02:08:02+00:00
+description: "Quotes on global power dynamics, military strategy, AI in national security, Iran, China, and the nature of authoritarian regimes."
+generated_at: 2026-06-17T02:05:34+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 28
+quote_count: 22
 ---
 
 # Geopolitics & Power
 
-Observations on military strategy, great power competition, political institutions, and how adversaries exploit openness.
+Quotes on global power dynamics, military strategy, AI in national security, Iran, China, and the nature of authoritarian regimes.
 
 ## Quotes
 
@@ -19,6 +19,7 @@ Observations on military strategy, great power competition, political institutio
 - "The entire Democratic Party, including myself, we were so wrong about the filibuster." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "We are gonna lose capitalism unless we find a combination of ways to address it." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "There's enormous misinformation and I think that misinformation is largely being driven by China and outside forces." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
+- "We had $92 billion of investment committed." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "The most secure job in Pennsylvania right now is a seasoned welder." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "Now my party is driving for a moratorium for data centers. Do you think China doesn't love that?" — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "It's not a seat worth trying to maintain if I'm going to lie or to pretend that things aren't absolutely true." — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
@@ -26,12 +27,7 @@ Observations on military strategy, great power competition, political institutio
 - "We have the far left and the far right converging on an anti" — [[notes/podcasts/all-in/2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc]]
 - "We do not need AI demand to keep the power markets incredibly tight for the next 20 years. AI demand just turbocharges. That's all it does." — [[notes/podcasts/all-in/2026-06-12-all-in-s-best-ideas-pitch-competition-4-investors-present-their-top-trades-live]]
 - "If you believe that artificial intelligence is going to be helpful for national security and military affairs, then you either have it or you're dead." — [[notes/podcasts/all-in/2026-06-12-all-in-s-best-ideas-pitch-competition-4-investors-present-their-top-trades-live]]
-- "The biggest problem with AI is that if you think about the way AI is being practiced and deployed right now, it's the build, break, iterate model. Build it, break it, fix it and iterate. That's been the invention model since the beginning of man. But we've never been in a situation where the tail event could be hundreds of millions, if not billions of lives." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "Pretty much the consensus answer is, I think we'll finally do something about it. When 50 or 100 million people die in an accident, it's crazy." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "The one thing that I think should be part of this next election, the simplest, most important thing that we can do is we can demand that all AI is watermarked." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "Bitcoin is unequivocally the best inflation hedge that there is. More than gold, because bitcoin is finite." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
-- "I became a believer and am a believer that I think maybe one thing that the market was mispricing... the Strait of Hormuz being closed is actually relatively awesome for America." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
-- "There is this upsurge in political violence here in America and as AI increasingly becomes political, I worry that's going to get directed at more and more AI political leaders." — [[notes/podcasts/invest-like-the-best/2026-05-20-gavin-baker-watts-and-wafers-invest-like-the-best-ep-473]]
+- "With a data center, you put electricity in, and on the other end, instead of gasoline or jet fuel, out comes photons or tokens or intelligence, whatever you want to call it, but it's the same thing." — [[notes/podcasts/all-in/2026-06-12-all-in-s-best-ideas-pitch-competition-4-investors-present-their-top-trades-live]]
 - "So winning is politically defined. The Strait of Hormuz was open before this contingency at the end of the day. And so if all we get is, is the Strait of Hormuz back open strategically, maybe was the juice worth the squeeze?" — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "There's this hybridization that happened in certain parts of the Shia Muslim world through the works of Shiriadi, which is a hybridization of Marxism and martyrdom together... And to say if you martyr yourself, you're winning, you're ascending. It's such a satanical philosophy because it promotes internal destruction and sacrifice to the limit as evidence that you're winning." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "Dictators are enormously strong and enormously weak at the same time. This is actually like a good frame for our entire conversation, which is to say we have to be able to hold two competing ideas in the same vessel. And both can be true." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
@@ -40,5 +36,3 @@ Observations on military strategy, great power competition, political institutio
 - "The rate of technological change in the commercial world becomes this direct input into the capabilities that you can project for mass. Drones have been used since the Vietnam War. But you wouldn't think that drones became commercially viable and cheap and by virtue of that became a new article of war. Because they were so inexpensive, the cost of losing one is low." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "These continuing resolutions kill industry and that is something I consistently worry about because we are going to lose these companies through CRS and through the absence of multi year authority. Because right now the capital markets are working for these businesses and they're able to outpace the innovation of the department and the Congress in order to move faster. But capital markets aren't things that trees unlimited." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
 - "Gulf War Two, we tried to remake the environment in our image instead of remaking it in our interest. Now we're operating almost exclusively to try and remake these environments in our interest and not in our image." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
-- "But if we co opt it, the danger of co opting these models when they become part of the loop of decision making in these important military systems. Can you imagine if you can create a foundation of fact that is wrong for a model? I could see an alternative universe where the models become complete towers of Babel. We've lost them because of what they've imputed through the junk that we've posted." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
-- "But our enemies use our freedoms so successfully against us. And I think the real issue of our time will be as they use these freedoms against us, how will we have to fence them in to prevent them from being completely polluted." — [[notes/podcasts/invest-like-the-best/2026-05-26-darren-farber-on-iran-china-and-the-rise-of-neoprimes-invest-like-the-best-ep]]
