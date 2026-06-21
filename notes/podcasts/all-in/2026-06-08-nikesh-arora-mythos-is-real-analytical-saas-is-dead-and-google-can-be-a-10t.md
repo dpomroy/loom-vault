@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-08-nikesh-arora-mythos-is-real-anal
 source_title: "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company"
 source_date: 2026-06-08
 show: "All-In"
-themes: ["AI & Tech Markets"]
+themes: ["AI Industry"]
 generated_at: 2026-06-10T02:05:31+00:00
 agent: note-taker
 model: claude-sonnet-4-6

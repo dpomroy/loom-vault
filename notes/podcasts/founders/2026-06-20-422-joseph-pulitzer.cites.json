@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "In the 19th century, when America became an industrial nation and Carnegie provided the steel, Rockefeller the oil, Morgan the money, and Vanderbilt the railroads, Joseph Pulitzer was the midwife to the birth of the modern mass media. ",
+    "start_char_index": 401,
+    "end_char_index": 636,
+    "response_text": "The framing matters. Pulitzer belongs in\nthe same sentence as the robber barons \u2014\nnot as a footnote about a journalism prize."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He was so industrious that he became a positive annoyance to others who felt less inclined to work. ",
+    "start_char_index": 11228,
+    "end_char_index": 11328,
+    "response_text": "This is the clearest signal of what\nseparates Pulitzer from everyone around\nhim at this stage \u2014 it's not talent,\nit's **output rate**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "To be a newspaper editor was to do more than report on the world.\n\nIt was to shape it. ",
+    "start_char_index": 13427,
+    "end_char_index": 13514,
+    "response_text": "He found his calling fast and knew it\nimmediately. This isn't retrospective\nmythology \u2014 he felt the **leverage** of\nthe medium from day one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So he says, those who own newspapers scarcely ever make them. The persons who do own them are scarcely fit to write the smallest and most unimportant part of the paper. ",
+    "start_char_index": 26728,
+    "end_char_index": 26897,
+    "response_text": "This is Pulitzer's **moat articulated**.\nOperators who came from inside always\nbeat financiers who came from outside \u2014\ntrue in railroads, true in media,\nprobably true in whatever you're building."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It is an important opportunity. This is perhaps a fortune, and you ought not to expect me to neglect it. I must have business to occupy my mind and heart.\n\n",
+    "start_char_index": 29320,
+    "end_char_index": 29476,
+    "response_text": "Said to his wife **on their wedding evening**.\nNot a red flag he hid \u2014 he announced it\nupfront. Admirable honesty, grim outcome\nfor everyone around him."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Feeling the sharp anxiety of potential failure, Pulitzer learned to ask questions that provided him with the most realistic take on the financial health of his paper. He honed his questioning down to a precise mix of queries, yielding a statistical portrait that revealed in a single glance where things stood until the end of his life. ",
+    "start_char_index": 33157,
+    "end_char_index": 33494,
+    "response_text": "The daily metrics ritual \u2014 copies printed,\nsold, returned, ad lines, costs \u2014 isn't\njust discipline. It's **fear converted\ninto process**. He never stopped doing\nthis until he died."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Simply put, Pulitzer was a Democrat in politics, but a despot in the office. ",
+    "start_char_index": 41819,
+    "end_char_index": 41896,
+    "response_text": "The gap between public platform and private behaviour is a recurring theme here. He championed labour in print and fired unionising printers before lunch. Worth filing next to every founder who talks about values publicly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If there was a Pulitzer formula, it was a story written so simply that anyone could read it and so colorfully that no one would forget it. ",
+    "start_char_index": 47551,
+    "end_char_index": 47690,
+    "response_text": "This is a content strategy in one sentence. Accessibility plus memorability \u2014 the same tension every product with a wide audience has to solve. Most people optimise for one and sacrifice the other."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he says the most valuable and most successful paper will generally be that which has the most enemies. ",
+    "start_char_index": 50233,
+    "end_char_index": 50340,
+    "response_text": "Contrarian, and probably right. Enemies are evidence of a strong editorial position \u2014 something generic, hedge-everything products never generate. Pulitzer treated controversy as a growth metric."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A giant intelligence eternally condemned to the darkest of dungeons. A caged eagle furiously belaboring the bars.\n\n",
+    "start_char_index": 55564,
+    "end_char_index": 55679,
+    "response_text": "This is the image the book offers for his final 20 years \u2014 blind, in chronic pain, running a global media empire by dictated telegram. Striking that his output barely dropped. The cage was real; the work continued anyway."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says that was the beginning of the end.\n\n",
+    "start_char_index": 55096,
+    "end_char_index": 55140,
+    "response_text": "He said this looking back at going blind in his early 40s. The brutal irony: the obsessive late-night reading that made him great is almost certainly what destroyed his eyesight. The edge and the ruin were the same thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "25 years married. How strange it seems, she wrote, when we think that a hundred years hence, not one of us now living will be alive to care or to know or to enjoy or to suffer. What does it all amount to? To a puff of smoke which makes a few rings and then disappears into nothingness.\n\n",
+    "start_char_index": 59683,
+    "end_char_index": 59970,
+    "response_text": "Kate's letter closes the excerpt and it lands hard. She'd been repeatedly shut out of his life. This isn't a philosophical musing \u2014 it's a woman describing a marriage that didn't happen. The real cost of the obsession, not the blindness."
+  }
+]

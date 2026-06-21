@@ -1,22 +1,23 @@
 ---
 type: theme
 name: "Doing Great Work"
-description: "Quotes about what drives exceptional creative and intellectual output — curiosity, morale, ambition, and the mindset behind meaningful work."
-generated_at: 2026-06-17T02:05:34+00:00
+description: "Quotes about what drives exceptional creative and intellectual output — curiosity, originality, problem selection, and the compounding nature of morale and momentum."
+generated_at: 2026-06-21T02:05:17+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 39
+quote_count: 31
 ---
 
 # Doing Great Work
 
-Quotes about what drives exceptional creative and intellectual output — curiosity, morale, ambition, and the mindset behind meaningful work.
+Quotes about what drives exceptional creative and intellectual output — curiosity, originality, problem selection, and the compounding nature of morale and momentum.
 
 ## Quotes
 
 - "There's a kind of excited curiosity that's both the engine and the rudder of great work. It will not only drive you, but if you let it have its way, will also show you what to work on." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "One reason per-project procrastination is so dangerous is that it usually camouflages itself as work. You're not just sitting around doing nothing; you're working industriously on something else. So per-project procrastination doesn't set off the alarms that per-day procrastination does. You're too busy to notice it." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "In most cases the recipe for doing great work is simply: work hard on excitingly ambitious projects, and something good will come of it. Instead of making a plan and then executing it, you just try to preserve certain invariants." — [[notes/articles/2026-05-17-how-to-do-great-work]]
+- "Indeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Originality in choosing problems seems to matter even more than originality in solving them. That's what distinguishes the people who discover whole new fields. So what might seem to be merely the initial step — deciding what to work on — is in a sense the key to the whole game." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Morale compounds via work: high morale helps you do good work, which increases your morale and helps you do even better work. But this cycle also operates in the other direction: if you're not doing good work, that can demoralize you and make it even harder to. Since it matters so much for this cycle to be running in the right direction, it can be a good idea to switch to easier work when you're stuck, just so you start to get something done." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on, like an angle grinder throwing off sparks. They can't help it." — [[notes/articles/2026-05-17-how-to-do-great-work]]
@@ -26,6 +27,7 @@ Quotes about what drives exceptional creative and intellectual output — curios
 - "Knowledge expands fractally, and from a distance its edges look smooth, but once you learn enough to get close to one, they turn out to be full of gaps." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on, like an angle grinder throwing off sparks. They can't help it." — [[notes/articles/2026-05-18-how-to-do-great-work]]
+- "A good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "People show much more originality in solving problems than in deciding which problems to solve. Even the smartest can be surprisingly conservative when deciding what to work on." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "The trouble with planning is that it only works for achievements you can describe in advance. You can win a gold medal or get rich by deciding to as a child and then tenaciously pursuing that goal, but you can't discover natural selection that way." — [[notes/articles/2026-05-18-how-to-do-great-work]]
 - "Morale compounds via work: high morale helps you do good work, which increases your morale and helps you do even better work. But this cycle also operates in the other direction." — [[notes/articles/2026-05-18-how-to-do-great-work]]
@@ -39,17 +41,7 @@ Quotes about what drives exceptional creative and intellectual output — curios
 - "The trouble with planning is that it only works for achievements you can describe in advance. You can win a gold medal or get rich by deciding to as a child and then tenaciously pursuing that goal, but you can't discover natural selection that way." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "If you're excited about some possibility that everyone else ignores, and you have enough expertise to say precisely what they're all overlooking, that's as good a bet as you'll find." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on, like an angle grinder throwing off sparks. They can't help it." — [[notes/articles/2026-05-29-how-to-do-great-work]]
+- "Indeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "Doing great work is a depth-first search whose root node is the desire to. So 'If at first you don't succeed, try, try again' isn't quite right. It should be: If at first you don't succeed, either try again, or backtrack and then try again." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "People show much more originality in solving problems than in deciding which problems to solve. Even the smartest can be surprisingly conservative when deciding what to work on." — [[notes/articles/2026-05-29-how-to-do-great-work]]
 - "Curiosity is the key to all four steps in doing great work: it will choose the field for you, get you to the frontier, cause you to notice the gaps in it, and drive you to explore them." — [[notes/articles/2026-05-29-how-to-do-great-work]]
-- "A concentration of a few good people solving problems far in advance—and at a fraction of the cost—of other groups by applying the simplest, most straightforward methods possible to develop and produce new projects. All it is really is the application of common sense to some pretty tough problems." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "There's a tendency today, which I hate to see, towards design by committee, reviews and recommendations, conferences and consultations by those not directly doing the job... Nothing very stupid will result, but nothing brilliant either. And it's in the brilliant concept that a major advance is achieved." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "Most companies, while desiring the benefits, will not pay the price in revised methods and procedures for setting up a Skunk Works type operation. They will not delegate the authority to one individual, as Lockheed did in my case." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "The number of people having any connection with the project must be restricted in an almost vicious manner. Use a small number of good people." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "I have a philosophy that those who design aircraft should also fly them. The engineer knows where the quarter inch bolts may be marginal, where the flaps are likely to, what the flaps are likely to do or not do. I've shared the concern of the pilot that's so important." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "I figured I needed to have the hell scared out of me once a year in order to keep a proper balance and viewpoint on designing new aircraft." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "It was and is important for an engineer to keep up with the advancing technology. Studying still held for me the same fascination that it had when I discovered the Carnegie Library. On one vacation in those early years, I reworked all the problems and Fred Weeks classic book, Aircraft Propeller Design. On another vacation, I reworked every problem in Dr. Clyde E. Love's differential and integral calculus. I was determined not to lose my capability in mathematics, and I enjoyed both those vacations for many years." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "Mistakes are acceptable. Concealed mistakes are not. Johnson's standards were brutal, but productive mistakes were allowed, but they had to be reported immediately with recommendations for correction." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
-- "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]

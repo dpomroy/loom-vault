@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-04-thomas-laffont-the-4t-ai-ipo-wav
 source_title: "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox"
 source_date: 2026-06-04
 show: "All-In"
-themes: ["AI & Tech Markets"]
+themes: ["AI Industry"]
 generated_at: 2026-06-07T02:03:53+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -1,53 +1,26 @@
 ---
 type: theme
 name: "Founder Psychology"
-description: "Quotes about the internal experience of building — drive, identity, obsession, resilience, vision, and what separates great founders from the rest."
-generated_at: 2026-06-17T02:05:34+00:00
+description: "Quotes about the inner drives, identity, and mental posture of founders and builders — obsession, ambition, resilience, self-belief, and the calling behind great companies."
+generated_at: 2026-06-21T02:05:17+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 105
+quote_count: 63
 ---
 
 # Founder Psychology
 
-Quotes about the internal experience of building — drive, identity, obsession, resilience, vision, and what separates great founders from the rest.
+Quotes about the inner drives, identity, and mental posture of founders and builders — obsession, ambition, resilience, self-belief, and the calling behind great companies.
 
 ## Quotes
 
-- "Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care." — [[notes/articles/2026-05-17-how-to-do-great-work]]
-- "There is a lot of sketchy behavior in the space. It may be healthy that people are realizing these things are not what they're advertised to be." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "If Bitcoin had raised VC rounds, I really don't think it would be Bitcoin. Its entire value proposition would have been destroyed." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "Alameda was essential to how FTX worked. We did not want HLP to be essential to how Hyperliquid works." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
+- "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "I think people are just a bit too soft in general. The brain is an organ. If you need to work more hours, you can train for it." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It's the largest wealth transfer in the history of cryptocurrency, and every dollar of it went to users." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It sucks to have to learn it from an attack rather than someone just telling you." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It's the hard way to do things, but we care about how we get to our goal, because how we get there determines what it actually is at the end that we've built." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "I didn't learn a lot, I learned everything. Absolutely everything I know, I learned from Sol." — [[notes/podcasts/acquired/2023-08-21-costco]]
-- "Sam Walton actually wrote in Made in America, that he stole more ideas from Sol than anyone else in his business career." — [[notes/podcasts/acquired/2023-08-21-costco]]
-- "Sol stumbles into figuring out that if you are a membership club, you're not open to the general public. You can skirt these laws and sell below the manufacturer's minimum price." — [[notes/podcasts/acquired/2023-08-21-costco]]
-- "We're good at creating businesses, we're not as good at running businesses." — [[notes/podcasts/acquired/2023-08-21-costco]]
-- "I'm never the most experienced person in any of the rooms of my company, but everyone in my company is the most experienced person in what they need to do in that role." — [[notes/podcasts/all-in/2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take]]
+- "Probably when I was 12, I knew I was going to start a company eventually. I wanted to make the world better. In order to do that, you need to do more than just invent things." — [[notes/podcasts/acquired/2025-06-30-google-the-origin-of-search]]
 - "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "We created this principle called creating virtuous cycles of mutual benefit. And what that led us to do is to start this never ending cycle of growth, innovation, success and failures." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "The essence of principle based management... is like, what if you could have a business and a culture, small, medium or large, where everyone knew what to do without being told." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Almost every time when we fail, it comes down to ignoring the principles." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Values first, skill second, credentials last." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "A good experiment is where the value, what you learn from this is higher value from this failure than the cost of the experiment." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "Viktor Frankl... says the problem today is ever more people have the means to live and no meaning to live for." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
-- "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "I didn't even know what a state owned business was at the point in time" — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "A players don't like to work with B, Cs, Ds, I mean, Ds, you're gonna just burn your A's out." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "we went from somewhere in the neighborhood of hundreds of new hires that we're doing a year, or at least attempting to do a year, to in the tens because people were so spooked about trying to convince me that they need the role, they wouldn't Come to me." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "one person who's really good can be as powerful as 10, 20, 50, 100 people." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "your 1x engineer might be 2x more efficient, but your 10x engineer might be 100x more efficient." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
-- "There is no committee here. There is no whatever. This is a dictatorship." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
-- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
 - "And of course he was right. With my desire and my drive, I definitely wasn't normal. Normal people can be happy with a regular life. I was different. I felt there was more to life than just plotting through an average existence." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "Arnold lays out what he learned to get to the top of this very unusual and frankly, widely ridiculed sport of bodybuilding back then and says, hey, wait, the same principles I used to get to the top of this sport, I'm going to use to become a movie star and build a business empire and then goes and does it." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
 - "I needed stable emotions, total discipline. I needed to be training for two hours in the morning and two hours at night, concentrating on nothing except perfecting my body and bringing it to its peak. Whatever I thought might hold me back, I avoided." — [[notes/podcasts/founders/2026-04-19-417-arnold-schwarzenegger]]
@@ -94,28 +67,13 @@ Quotes about the internal experience of building — drive, identity, obsession,
 - "After six years in business, NEXT own leadership couldn't agree on what business they were actually in." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "Gil failed to grasp what Steve's 12 years in the wilderness had given him. Steve came away not only with better skills for building technology, but better strategies for getting exactly what he wanted." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
-- "No one is born a good CEO. And the job of CEO is completely counterintuitive. And almost all of your intuition about what to do is wrong." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I had a dream in late 2019 where I felt like I left the company for 10 years and I come back and I was like, somebody had been running the company for 10 years and they like turned it into this like giant political bureaucracy." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I think AI Founder mode. You're even in significantly more details because you have almost everything on demand." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "It's better to have 100 people love you than a million people sort of like you." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "adulation is like a cup with the hole at the bottom. And you keep filling it in, thinking it's love, except it just keeps coming out the bottom." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I started realizing the software won't endure and the network effect will decently endure. But the ideas of Airbnb, its principles, its mission, the organization, the company, the brand, the identity, the logo, the voice, the community, what it stands for, those things will endure." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "The more time you spend on recruiting, the less time you spend on management because the really good people are self managing." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I feel like I'm a designer more than I am a CEO and I might be afforded one of the great biggest canvases of any designer in human history." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
+- "He was so industrious that he became a positive annoyance to others who felt less inclined to work." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "It is an important opportunity. This is perhaps a fortune, and you ought not to expect me to neglect it. I must have business to occupy my mind and heart." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Much as I love my work and always have, perhaps more than most people, I always believe life should be shared to be really meaningful." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
 - "Dara, since when is life about happiness? It's about impact." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
 - "A happy life is not necessarily an easy life." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
 - "until I met her, I was always living the life that I thought I was supposed to, and I was always the person who I thought you wanted me to be." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "The most important how is simplifying the situation and breaking down what seems like an unassailable problem into its component parts." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "Overthinking things doesn't help. It only makes things worse." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "We are a supply led company... if we do that, the demand will take care of itself." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "I prioritize growth. I prioritize innovation over buybacks. If you're building the company right, you'll do both." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "it's the filtering that gets the edge out of the story or out of the situation. And it's often the edge that gives you an edge, not the average." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "I'm looking for those troublemakers constantly. And that requires random interactions that are less efficient than the structured processes that have been put in front of me." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "the more successful you are, the more you tend to talk and the less you tend to listen." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "authority doesn't mean that you're right, but so many people do." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "If I'm not wrong, if I'm not making mistakes, it's just not very interesting." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
-- "I think capitalism rewards risk more than anything else. I think a lot of people think it's like meritocracy or hard work, which I think is silly." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
-- "For me, at least, my definition of risk, or how I've experienced it is you need to not know what's going to happen. Genuinely, you're going to discover something new." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
+- "The only judge of anything is yourself and your own self respect. You have to be doing it so that you feel like what you've done is interesting and worthwhile." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
 - "I'm not going to create from a place of lack anymore." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
-- "I have an accumulation tendency where I'm like, where's the food going to come from? And in the company I noticed, I'm like, where's the next ARR going to come from." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
-- "if you don't have a vision, then you don't have a vision. If you do have a vision, then you do have a vision. I think it's important to not say something that actually isn't happening." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]

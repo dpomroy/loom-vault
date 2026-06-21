@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:02:28]: What is being formed in the United States right now is the Great American Politburo. ",
+    "start_char_index": 5428,
+    "end_char_index": 5538,
+    "response_text": "Friedberg's core claim: a coalition of Warren/Sanders/Khanna types are arranging power \u2014 deciding capital flows, enriching their families \u2014 while framing it as justice."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The new oligarchs are taking their seats, they're arranging the chairs, they're determining who will be chairman of the Politburo, who will assign what workforce to do what efforts for them, which $600 million stock trades their families will make to benefit and enrich themselves as they fly around in their private jets on the taxpayers money. And we are watching it all before our very eyes as individual liberties are eroded. ",
+    "start_char_index": 5673,
+    "end_char_index": 6103,
+    "response_text": "Friedberg's core claim: a coalition of Warren/Sanders/Khanna types are arranging power \u2014 deciding capital flows, enriching their families \u2014 while framing it as justice."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:08:16]: The threshold for learned helplessness is far, far lower than one may think. I grew up on welfare, and my mother was initially a housekeeper, and then she was a nurse's aide. She was probably making 8, 9, 10 bucks an hour. My father couldn't get a job, so we were on welfare. And Welfare was probably 17, 18, $19,000 a year at the time in Canada. And it's a family of five. But it was just enough that my dad just spent this cycle between drinking and not working, drinking and not working. ",
+    "start_char_index": 11710,
+    "end_char_index": 12226,
+    "response_text": "Chamath draws on his own childhood \u2014 family on ~$17-19k/year Canadian welfare \u2014 to make the point personal: his father could have taken an $8-10/hr job but didn't, cycling between drinking and not working."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You do not get economic mobility. If the government is giving you a job or giving you money, you lose economic mobility. You become indentured to the government. ",
+    "start_char_index": 10019,
+    "end_char_index": 10181,
+    "response_text": "Friedberg's clearest one-liner on why government transfer programmes are self-defeating."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He doesn't have one more dollar in the bank than he did the day before the ipo. He doesn't have more stuff, doesn't have more houses or anything that you could buy with money. Literally his balance sheet is exactly the same. It consists of the same thing. It's just that the public is putting a higher value on the shares of stock in SpaceX that he already owned. And he's not selling. ",
+    "start_char_index": 22687,
+    "end_char_index": 23073,
+    "response_text": "Sacks makes the mechanics plain: Elon's balance sheet didn't change \u2014 the public simply repriced shares he already held, which he's locked up and not selling."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think it was Joseph Schumpeter who explained this, that basically you've got this intelligentsia in a society like ours where they don't make things, they don't make the machines that make things, they just make words and, I guess, ideas. And most of those ideas are just wrong. They're just made up. And they become resentful of the fact that there are all these people who are able to create not just stuff, but the machines that make the stuff. And that in our society, that is the thing that creates the greatest reward financially. ",
+    "start_char_index": 35186,
+    "end_char_index": 35725,
+    "response_text": "Sacks credits Schumpeter: the intellectual class produces hot air, not machines, and becomes resentful of those who create actual value \u2014 because the market rewards the latter far more."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And they would have placed that bet 10 years ago, when the company was worth 100 billion or 10 billion or 500 billion, but they weren't allowed to because we have a corrupt system in our government that says rich people, the top 4 or 5% of this country are smart enough to buy private company stocks, and the 95% are too stupid to. And it's antiquated and it has to change. And you should be able to buy whatever you want. If you want to buy crypto, you can. If you want to buy a private company, you can. ",
+    "start_char_index": 34171,
+    "end_char_index": 34677,
+    "response_text": "Calacanis on accredited investor rules: the top 4-5% can buy private company stock, the other 95% legally can't \u2014 even though they were watching SpaceX launch rockets for a decade and would have backed it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:39:54]: So again, normally I wouldn't mention names at all, but this is all widely reported. Okay. In any event, they, I think, try to convey their findings to Anthropic. I think there was some sort of breakdown in communication. I don't really understand, but they felt the need to escalate it to the White House. And it's almost like a whistleblower. ",
+    "start_char_index": 44829,
+    "end_char_index": 45199,
+    "response_text": "Sacks walking on eggshells here \u2014 but the shape of what he's describing is clear: Amazon tested Fable, found a real jailbreak, couldn't get Anthropic to act, and escalated to the White House like a whistleblower."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They claim to be the AI safety company, and yet here the White House is reacting to credible information about a major security threat from Anthropic's own partner. And instead of basically saying, yes, we'll react on this right away, they get the Heisman. ",
+    "start_char_index": 46903,
+    "end_char_index": 47160,
+    "response_text": "Sacks lands the contradiction cleanly. The safety brand becomes a liability the moment you argue with a cabinet secretary about whether a jailbreak is \"really\" serious."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Look, once you're in one of these situations, it's always harder to extricate yourself than to avoid getting in them in the first place, because the trust is broken. The trust is now gone. ",
+    "start_char_index": 49054,
+    "end_char_index": 49243,
+    "response_text": "This is the durable lesson. It's not about this model or this administration \u2014 it's about institutional trust as a non-renewable resource."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So instead of a diverse, robust, open ecosystem, giving a tool that is the fundamental unlock for humans, we are now going to debate gatekeeping and duopoly versus oligopoly. They have created a total mess, and it's a shame.\n\n",
+    "start_char_index": 53745,
+    "end_char_index": 53971,
+    "response_text": "Chamath's argument is structural, not personal: Frontier Lab behaviour is the proximate cause of hyperscaler consolidation. The mess was preventable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When your safety framework requires that someone hold the keys and your analysis Keeps concluding the other key holders can't be trusted. You've built a machine that outputs me no matter what you feed it. Eak would call that a God complex. The more precise term is epistemic exceptionalism. ",
+    "start_char_index": 69748,
+    "end_char_index": 70039,
+    "response_text": "Claude's own analysis of Dario \u2014 prompted by Chamath \u2014 names it precisely: epistemic exceptionalism. Not arrogance, something more subtle and more durable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Notice that misunderstanding presumes that if everyone simply understood correctly, they'd agree with him. That word choice under stress is the closest thing in the public record to the tell. It's not megalomania. It's the quieter, more defensible feeling conviction that disagreement is downstream of error. ",
+    "start_char_index": 70855,
+    "end_char_index": 71164,
+    "response_text": "The \"tell\" is the word choice under pressure. Calling a political and security conflict a *misunderstanding* is a load-bearing reveal about how Dario models disagreement."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think Dario went to Washington very early on and convinced key officials in the Biden administration of this idea that AI was extremely dangerous and needed to be controlled by the government. In some sort of merger between the government and then a very small number of hand selected companies, two or three of them. ",
+    "start_char_index": 72966,
+    "end_char_index": 73290,
+    "response_text": "The accusation is specific: Dario sold existential risk framing to capture regulators, then pushed for a **small cartel** of hand-selected companies."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They see competition as a nefarious force, so they want centralization. They effectively want to create a cartel. And that is their view of AI safety. ",
+    "start_char_index": 73863,
+    "end_char_index": 74014,
+    "response_text": "This is the load-bearing claim of the whole Anthropic segment. \"AI safety\" reframed as **anti-competitive ideology.**"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's a deep arrogance to technologists. A deep arrogance, and we know it. It's what drives all of us. But that arrogance always leads to these existential conclusions. ",
+    "start_char_index": 77767,
+    "end_char_index": 77938,
+    "response_text": "Freeberg's point lands harder than the Sachs line \u2014 he's **indicting everyone**, including himself, not just Anthropic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The truth is that if he had to release Mythos with no guardrails in April, he would have exposed the company to massive legal exposure because thousands of companies would have gotten hacked. And it would have been very easy to say that was a foreseeable consequence of releasing Mythos with no safety features, no guardrails. ",
+    "start_char_index": 79812,
+    "end_char_index": 80139,
+    "response_text": "Sachs strips away the **noble framing**: delaying wasn't a sacrifice for humanity, it was basic liability management."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think it's a very big deal because even if they restarted the program, even if they resourced the equipment, rebuilt the intelligence to do it, etc. Etc. It's going to take years to a decade to 15 years plus to build enough enriched uranium to build a nuclear weapon. That would kind of be the natural setback, if you will, that provides some defense for the conditions that we really care about. ",
+    "start_char_index": 88936,
+    "end_char_index": 89335,
+    "response_text": "Freeberg's best moment in this excerpt. If the **uranium actually leaves the country**, the deal has real strategic value regardless of other vague commitments."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Haven't we tried that before? The forever wars of Iraq and Afghanistan? Really going to sign up for another one of those? I don't think so. ",
+    "start_char_index": 87992,
+    "end_char_index": 88132,
+    "response_text": "Sachs's counter to the neocon \"finish the job\" crowd is simply historical precedent. The **alternative on offer is regime change via ground troops** \u2014 which nobody actually wants to fund or fight."
+  }
+]

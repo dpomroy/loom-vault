@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-07-inside-the-private-stock-market-
 source_title: "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries"
 source_date: 2026-06-07
 show: "All-In"
-themes: ["AI & Tech Markets", "Vanguard & Investing"]
+themes: ["AI Industry", "Investing & Markets", "Misc"]
 generated_at: 2026-06-10T02:04:54+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-06-09-alex-sacerdote-how
 source_title: "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]"
 source_date: 2026-06-09
 show: "Invest Like the Best"
-themes: ["AI & Tech Markets", "Misc"]
+themes: ["AI Industry", "Investing & Markets", "Misc"]
 generated_at: 2026-06-10T02:09:13+00:00
 agent: note-taker
 model: claude-sonnet-4-6
