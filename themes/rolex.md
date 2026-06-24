@@ -2,11 +2,11 @@
 type: theme
 name: "Rolex"
 description: "Watch business, luxury branding"
-generated_at: 2026-06-21T02:05:23+00:00
+generated_at: 2026-06-24T02:10:27+00:00
 agent: theme-follower
 model: claude-sonnet-4-6
 custom: true
-quote_count: 47
+quote_count: 46
 ---
 
 # Rolex
@@ -42,7 +42,6 @@ Constraints producing durable outputs again. Also: Panerai fans have no idea.
 - "They change the markings on the bezel from 60 minutes or 60 demarcations that it was on the Turn-O-Graph to 24 hours. Then they add in a fourth hand on the movement that moves at a 24 hour movement." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Paul on a whim says, here, take this one. It keeps good time, and gives the boyfriend the watch, the Paul Newman Daytona." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "This was a huge moment of, oh wow, these things aren't just purchases. They're investments and you can trade in them." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "It is incorrect to describe markets by the products in them. You should describe markets by the job to be done." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Since 1735, there has never been a quartz Blancpain watch, and there never will be." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "It was a feat of jujutsu to take the weakness of the mechanical watch, the old technology, inaccurate, labor-intensive, expensive to produce, and turn them into strengths." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Wealthy people don't need an instrument that tells time. They want a beautiful and exclusive object on their wrist." — [[notes/podcasts/acquired/2025-02-24-rolex]]

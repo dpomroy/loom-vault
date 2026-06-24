@@ -1,0 +1,352 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "There's a great quote in the book Walt Disney: An American Original by Bob Thomas that says, \"before Disney, cartoons were slapdash, two-dimensional characters in bizarre movement before elemental backgrounds. Disney insisted on rounded, humanized figures. He wanted the humor to come out of the character, not the outrageous action.\" ",
+    "start_char_index": 34617,
+    "end_char_index": 34952,
+    "response_text": "The Bob Thomas quote nails the actual competitive advantage early: not technology, not distribution \u2014 **character depth**. Everyone else was doing gags; Walt wanted you to *care* about the thing doing the gag. That's the whole Disney flywheel in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And in Walt's mind, who really is always thinking about how can I make a career out of this, this is also what makes it super attractive to him because the whole industry of animation is so new. He figures that he can quickly become as good or better than anyone else in the world at it. Unlike if he's gonna try and be the best commercial artist in the world, you know, good luck young Walt Disney in Kansas City, Missouri.\n\n",
+    "start_char_index": 19979,
+    "end_char_index": 20405,
+    "response_text": "Classic **frontier logic** \u2014 find the field where the clock just started. Walt wasn't the most talented artist in America; he just picked the arena where talent hadn't had time to compound yet. Relevant for anyone entering an emerging tech space today."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now, whatever the exact truth of that story is, there is no doubt that somewhere in Marceline, in prepubescent Walt's mind, a connection is forged between these two great forces: art and commerce. And that would go on to drive not only the rest of his life, but the company, the studio, the movies. I mean, change America.\n\n",
+    "start_char_index": 12652,
+    "end_char_index": 12976,
+    "response_text": "The hosts frame this as the founding insight of the whole company \u2014 and it's a good frame. Most creative people treat commerce as a necessary evil. Walt treated it as **part of the art**. That tension is what makes Disney unusual versus every other studio."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Walt's father Elias was sort of a frustrated entrepreneur. He was variously a carpenter, landlord, farmer, newspaper route owner, and eventually a failed jelly factory investor. But Elias's younger brother Robert\u2014Walt's Uncle Robert\u2014was the successful one in the family. He was a real estate speculator, among other things. And that is what brought the family to Chicago at the turn of the century. He had invested in a bunch of real estate in Chicago and the Midwest. And so Elias came also to seek his fortune there. ",
+    "start_char_index": 10048,
+    "end_char_index": 10570,
+    "response_text": "Worth noting that Walt's father Elias was a **serial entrepreneurial failure** \u2014 carpenter, landlord, farmer, newspaper route, jelly factory. Walt inherited the ambition and shed the bad luck. The apple didn't fall far; it just landed on better soil."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And when you look at Disney's profits today, it is in a whole different league than Paramount or Universal or Warner Brothers or any of the other sorta classic Hollywood studios. The business of feature film production is a mediocre one, especially by the standards of what we study on this show here with Acquired, except for Disney.\n\n",
+    "start_char_index": 5933,
+    "end_char_index": 6269,
+    "response_text": "The whole framing device for the episode in one line. Paramount, Universal, Warner Bros \u2014 all structurally weak businesses. **Disney is the anomaly.** The episode is really asking: why does one company escape the economics that crushes every competitor?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Roy talks through with him and says, \"okay, let's get right to work,\" and he literally stands up and leaves the hospital ward. It's like, all right, my tuberculosis is behind me.\n\nDavid: And the two of them founded the Disney Brothers Cartoon Studio right there in October 1923. As a true partnership between the brothers. Roy manages the business and the finances. Walt manages the creative, and they get to work.\n\n",
+    "start_char_index": 31691,
+    "end_char_index": 32107,
+    "response_text": "Roy walking out of a TB ward to go **run a cartoon studio** is the kind of founder commitment story that gets mythologised \u2014 but the division of labour that follows is the real point. Roy does finance, Walt does creative, and they don't overlap. That clarity is underrated as a founding structure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He's got no customer contract. He's got no employees. He's got no intellectual properties. Suddenly, the enterprise value\u2014the entire value of Walt Disney Studios\u2014is effectively zero.\n\n",
+    "start_char_index": 40156,
+    "end_char_index": 40340,
+    "response_text": "The Oswald collapse is a clean case study in what actually constitutes enterprise value. Strip out IP, contracts, and talent retention \u2014 you have nothing. Walt learned this the hard way so you don't have to."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It is an extremely bitter lesson for Walt and for Roy, and it is one that you can bet they never forget for the rest of their lives. And really, like everything in Disney's history and all of the enterprise value that Disney has built, that we will see all across the rest of this episode traces back to this moment.\n\n",
+    "start_char_index": 40352,
+    "end_char_index": 40670,
+    "response_text": "Everything Disney builds \u2014 every theme park, every franchise \u2014 is downstream of this humiliation. Founding trauma as competitive advantage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You need to go do something leveraging a new piece of technology or a new platform. You gotta come at it from an orthogonal way in order to leapfrog and make people pay attention to you. Otherwise you're just a, like, smaller, worse also-ran.\n\n",
+    "start_char_index": 49109,
+    "end_char_index": 49353,
+    "response_text": "The silent Mickeys failed because they were just Oswald with shorter ears. Synchronized sound wasn't a feature \u2014 it was the wedge. Same logic applies anywhere you're entering a market late against an entrenched competitor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It turned out that sound was the critical enabling technology for animation to go beyond a novelty and allow the characters that are on screen to actually have personality that audiences connect with.\n\n",
+    "start_char_index": 50479,
+    "end_char_index": 50681,
+    "response_text": "This is the non-obvious insight. Sound mattered more for cartoons than for live-action because drawings can't emote on their own. The technology didn't just improve the product \u2014 it unlocked the entire category."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Disney has made himself the Life Savers of animation. ",
+    "start_char_index": 56961,
+    "end_char_index": 57015,
+    "response_text": "The distributor's insult becomes the mission statement. Brand recognition is the only durable moat when your talent and your IP can both be stolen \u2014 Walt proved it by surviving Iwerks defecting without a scratch."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But the important thing here is that Walt really did sort of either discover or invent this business model of the intellectual property flywheel that we see replicated all over the place today.\n\nDavid: I mean, I think it really revealed itself to him and Roy in these early years of Mickey. ",
+    "start_char_index": 70397,
+    "end_char_index": 70688,
+    "response_text": "Worth noting it was **accidental** \u2014 a random guy on a street offering $300 for tablet rights, a theater manager's idea for a kids' club. The model revealed itself; Walt just had the sense to recognise it and scale it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: That's on the value capture side, but on the value creation side, which I think is the more important thing, Mickey is always available to work.\n\n",
+    "start_char_index": 72020,
+    "end_char_index": 72171,
+    "response_text": "The clearest statement of why animated IP beats talent IP.\nNo contract disputes, no mortality risk, no PR scandals.\nThis is a structural moat that Marvel and Star Wars still\ncan't fully replicate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: And Mickey doesn't age.\n\n",
+    "start_char_index": 72189,
+    "end_char_index": 72219,
+    "response_text": "The clearest statement of why animated IP beats talent IP.\nNo contract disputes, no mortality risk, no PR scandals.\nThis is a structural moat that Marvel and Star Wars still\ncan't fully replicate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you structure the nodes of the flywheel right, the additional exposure reinforces the core IP.\n\n",
+    "start_char_index": 75208,
+    "end_char_index": 75307,
+    "response_text": "The non-obvious insight isn't \"build a flywheel\" \u2014\nit's that secondary-medium exposure\n*strengthens* rather than dilutes the primary.\nMost brand managers get this backwards."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Walt would say later about Snow White, \"We had decided there was only one way we could successfully do Snow White, and that was to go for broke, shoot the works. There would be no compromise on money, talent, or time. We did not know whether the public would go for a cartoon feature, but we were darn sure that audiences would not buy a bad cartoon feature.\" ",
+    "start_char_index": 82631,
+    "end_char_index": 82991,
+    "response_text": "Walt knew the failure mode: a *bad* animated feature\nwould kill the category and the studio simultaneously.\nQuality wasn't idealism \u2014 it was risk management."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What's happening at Disney isn't just the intersection of art and commerce. It's the three-way intersection of art and commerce and engineering, and always has been.\n\n",
+    "start_char_index": 98136,
+    "end_char_index": 98303,
+    "response_text": "This reframe matters. Most people file Disney under\n\"creative company.\" The multiplane camera, cel animation,\nthe Rainbow Room \u2014 these are **engineering problems.**\nThat's the part competitors couldn't copy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben, as you were saying, all the art and the work that goes into it, 2 million sketches and 250,000 finished drawings and cels go into Snow White. This is at a scale so beyond what anybody else in the entire entertainment industry is doing. ",
+    "start_char_index": 99437,
+    "end_char_index": 99678,
+    "response_text": "The moat wasn't just talent or IP \u2014\nit was **industrial process** running at a scale\nnobody else had built the infrastructure to match.\nGothic cathedral is the right analogy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Time Magazine writes prophetically that Snow White is an authentic masterpiece to be shown in theaters and beloved by new generations long after the current crop of Hollywood stars, writers, and directors are sleeping where no prince's kiss can wake them. ",
+    "start_char_index": 102528,
+    "end_char_index": 102784,
+    "response_text": "Worth sitting with how right this turned out to be.\nThe critic understood durability before Disney\nhad even proven the flywheel commercially.\nAnd it directly echoes the Mickey-doesn't-age point\nmade at the top of this excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Snow White was the very first movie soundtrack ever created and sold to the public. ",
+    "start_char_index": 108349,
+    "end_char_index": 108433,
+    "response_text": "The soundtrack wasn't just a revenue stream \u2014\nit was a **new category**. Before this,\naudiences had zero way to take the\nexperience home. Disney didn't find\nthat gap; they invented it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There were no sound movie soundtrack albums before then, and it is a huge hit both because, you know, it's a great soundtrack, but like before this album, there was never anything that audiences could take home actually of the picture that they saw in theaters. ",
+    "start_char_index": 108465,
+    "end_char_index": 108727,
+    "response_text": "The soundtrack wasn't just a revenue stream \u2014\nit was a **new category**. Before this,\naudiences had zero way to take the\nexperience home. Disney didn't find\nthat gap; they invented it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: They are shaving off every piece of their current self and future cash flows to rebet the farm.\n\nDavid: Yup.\n\nBen: That is the way to think about this.\n\n",
+    "start_char_index": 119967,
+    "end_char_index": 120125,
+    "response_text": "Ben's framing here is exact.\nThis isn't bold strategy \u2014 it's **compulsive\nescalation**. Walt couldn't modulate\nambition to match financial reality,\nand the employees paid the price."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Yeah\n\nDavid: A labor magazine would write afterwards, Walt Disney's speech recruited more members for the Screen Cartoonists Guild than a year of campaigning. ",
+    "start_char_index": 125325,
+    "end_char_index": 125489,
+    "response_text": "A masterclass in how **not** to handle\na labour crisis. Walt genuinely believed\nhe could talk people out of legitimate\ngrievances with a 3-hour lecture about\nsurvival of the fittest. Catastrophic\nself-awareness failure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It no longer feels like his family. It feels like a creation he's made that has sort of run away from his control.\n\n",
+    "start_char_index": 128139,
+    "end_char_index": 128260,
+    "response_text": "This is the **real cost** of the strike \u2014\nnot the union deal or the 500 layoffs.\nWalt's psychological detachment from\nthe studio shaped every decision he\nmade for the next 25 years, including\nthe pivot to theme parks."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Yep, Roy has a great quote that he would tell the Wall Street Journal many years later: \"Our product is practically eternal.\" And it's so true.\n\n",
+    "start_char_index": 140431,
+    "end_char_index": 140583,
+    "response_text": "Roy's line, not Walt's \u2014 and Roy was\nusually the **sober one**. When the\naccountant says your IP is eternal,\nyou've built something genuinely\nunusual. The Vault wasn't a strategy;\nit was a lucky discovery that became\na structural moat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It just happened that 7 years later they had a big cash crunch, they needed some easy profits, and they put Snow White back in theaters. And 7 years, you know, give or take a couple years, basically becomes the core Disney IP cadence to this very day.\n\n",
+    "start_char_index": 139015,
+    "end_char_index": 139268,
+    "response_text": "They **stumbled into** one of the most\ndurable business rhythms in media history.\nCash desperation in 1944 accidentally\nsolved the IP-dilution problem that\nkills most franchises. Frozen's release\nschedule still runs on this logic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: As we talked about earlier, live action doesn't feed the flywheel, at least for Disney, in quite the same way.\n\n",
+    "start_char_index": 145392,
+    "end_char_index": 145511,
+    "response_text": "Live-action simply doesn't generate the durable merchandise and IP loops that animation does."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So this is a great quote in a PBS American Experience documentary by historian Nancy Koehn, where she's reflecting on Walt in this moment. And her quote is, \"I can't control my employees, turns out. I can't control the larger stage right now. I can't even completely control my company. So here's a world I can recreate down to the smallest detail that is mine and perfect.\"\n\n",
+    "start_char_index": 154246,
+    "end_char_index": 154622,
+    "response_text": "Historian Nancy Koehn's framing of Walt's psychological state during the train obsession period."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: He is the Walt Disney who has come up with a crazy new idea based on his obsessive hobby with model trains that the board of Disney Studios has basically rejected. And so he has gone full crackpot, like Colonel Kurtz style, and started his own separate company on the Disney campus where he is poaching and recruiting some of the best Disney animators and artists to come over and stop doing animation and start working with him building a theme park. ",
+    "start_char_index": 158533,
+    "end_char_index": 158992,
+    "response_text": "The board of Disney Studios had rejected the idea, so Walt set up WED Enterprises independently and started pulling talent away from his own studio."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: So yeah, at the time, the prevailing sentiment in Hollywood was that TV was a threat, that if Hollywood movie studios started putting their content on TV, it would steal audiences away from the theaters. ",
+    "start_char_index": 170476,
+    "end_char_index": 170687,
+    "response_text": "The prevailing Hollywood sentiment was that TV was a threat \u2014 putting content on TV would steal audiences from theatres."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That is actually more than the amount of income they had received ever cumulatively from first-run animated features. If you add up all the pluses and all the minuses, by 1957, the money they had made ever in profit dollars from their first release films was a hair over $7 million. And they made, by your estimates, $7.5 million.\n\n",
+    "start_char_index": 179060,
+    "end_char_index": 179392,
+    "response_text": "Davy Crockett merchandise revenue exceeded the **cumulative profit** from every first-run animated feature Disney had ever released \u2014 over $7 million by 1957."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He said, \"I regard television as one of our most important channels for the development of a new motion picture audience. Millions of televiwers never go to a picture theater and countless others infrequently. In these highly competitive days, we must use the television screen along with every other promotional medium to increase our potential audience.\"\n\n",
+    "start_char_index": 180512,
+    "end_char_index": 180870,
+    "response_text": "\"I regard television as one of our most important channels for the development of a new motion picture audience. Millions of televiewers never go to a picture theater and countless others infrequently. In these highly competitive days, we must use the television screen along with every other promotional medium to increase our potential audience.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We gave that stat earlier, all the way in the '20s, that the average American went to theaters over 40 times. By 1947, that number was down to about 32 times, and by 1956, the year after Disneyland opened, it was down to 14 times per year.\n\n",
+    "start_char_index": 179766,
+    "end_char_index": 180007,
+    "response_text": "Walt said this in 1950, when average American cinema attendance was already falling \u2014 dropping from 40+ times a year in the '20s to 14 times by 1956."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It was the world's largest live telecast ever. 83 million people tuned in to watch from home, which means that nearly half of America watched this broadcast.\n\n",
+    "start_char_index": 193133,
+    "end_char_index": 193292,
+    "response_text": "\"It was the world's largest live telecast ever. 83 million people tuned in to watch from home, which means that nearly half of America watched this broadcast.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Yeah, I mean, even the Super Bowl today, which is the biggest television event in America, only gets about 40% of U.S. households tuning in.\n\n",
+    "start_char_index": 194149,
+    "end_char_index": 194298,
+    "response_text": "Even the Super Bowl today only pulls ~40% of US households."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They've got the past, they've got the future with Tomorrowland and Frontierland and Adventureland, but no sign of the present so you can be completely immersed and disconnected from your day-to-day troubles.\n\n",
+    "start_char_index": 187674,
+    "end_char_index": 187883,
+    "response_text": "\"They've got the past, they've got the future with Tomorrowland and Frontierland and Adventureland, but no sign of the present so you can be completely immersed and disconnected from your day-to-day troubles.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Disney Parks and Cruises today does $36 billion in revenue and $10 billion in profit per year. That is twice the amount of profit that their entertainment division produces.\n\n",
+    "start_char_index": 196734,
+    "end_char_index": 196909,
+    "response_text": "\"Disney Parks and Cruises today does $36 billion in revenue and $10 billion in profit per year. That is twice the amount of profit that their entertainment division produces.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Right. They're a source of IP development, not just a sink of IP development.\n\n",
+    "start_char_index": 204124,
+    "end_char_index": 204208,
+    "response_text": "\"They're a source of IP development, not just a sink of IP development.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Walt's EPCOT was going to be, in his own words, a living blueprint of the future where people actually live a life they can't find anywhere else in the world, a showcase to the world for the ingenuity and imagination of American free enterprise. ",
+    "start_char_index": 223380,
+    "end_char_index": 223629,
+    "response_text": "\"Walt's EPCOT was going to be, in his own words, a living blueprint of the future where people actually live a life they can't find anywhere else in the world, a showcase to the world for the ingenuity and imagination of American free enterprise.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: I mean, Mickey with synchronized sound, Snow White with the first animated feature film, the Burbank campus, plowing cash into all the expensive failures after Snow White, Disneyland, every point in his life he was betting the farm over and over and over again, and he always pushed all his chips in. ",
+    "start_char_index": 228770,
+    "end_char_index": 229076,
+    "response_text": "\"Mickey with synchronized sound, Snow White with the first animated feature film, the Burbank campus, plowing cash into all the expensive failures after Snow White, Disneyland, every point in his life he was betting the farm over and over and over again, and he always pushed all his chips in.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: But Roy is not Walt, and he's not willing to bet the company. Like Walt was. So he does see Walt Disney World through, but he dramatically scales it back, mostly because he doesn't want to take on any additional debt for the company. So he sets a goal that he's gonna get this thing constructed without raising debt for the company.\n\n",
+    "start_char_index": 230676,
+    "end_char_index": 231017,
+    "response_text": "\"Roy is not Walt, and he's not willing to bet the company. Like Walt was. So he does see Walt Disney World through, but he dramatically scales it back, mostly because he doesn't want to take on any additional debt for the company.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But then 12 years later, by the end of this period in 1984, parks and consumer products generate $250 million of operating income on over $1 billion in revenue, while film and TV barely breaks even with only $2.2 million in operating income.\n\n",
+    "start_char_index": 235087,
+    "end_char_index": 235330,
+    "response_text": "\"12 years later, by the end of this period in 1984, parks and consumer products generate $250 million of operating income on over $1 billion in revenue, while film and TV barely breaks even with only $2.2 million in operating income.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So really, the biggest problem, what this comes down to, is that American myth-making moved on. It moved elsewhere. So this is the era when George Lucas makes Star Wars and Steven Spielberg makes Indiana Jones and E.T., and these guys become the new American storytellers, not Disney and not Disney Animation. ",
+    "start_char_index": 236617,
+    "end_char_index": 236927,
+    "response_text": "\"American myth-making moved on. It moved elsewhere. So this is the era when George Lucas makes Star Wars and Steven Spielberg makes Indiana Jones and E.T., and these guys become the new American storytellers, not Disney and not Disney Animation.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: And Disney is playing a many-decade compounding game, which can take three decades to really kick in. And all these other studios change ownership every decade. And so there's really not the right, like, ownership incentive structure to play a three-decade game.\n\n",
+    "start_char_index": 246057,
+    "end_char_index": 246326,
+    "response_text": "\"Disney is playing a many-decade compounding game, which can take three decades to really kick in. And all these other studios change ownership every decade. And so there's really not the right, like, ownership incentive structure to play a three-decade game.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So mine is Disney managed to take not only a set of IP and build their flywheel real, but a cohesive set of IP, an opinionated universe of timeless stories about durable emotional story arcs that are universally applicable, that work together as one. ",
+    "start_char_index": 252010,
+    "end_char_index": 252261,
+    "response_text": "The word **opinionated** is doing heavy lifting here. It's not just breadth of IP \u2014 it's that every story fits a consistent emotional grammar. That's the thing competitors can't copy quickly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They can't fully avoid being a hits-based business. They are a movie studio, but they've gotten about as far away from it as they possibly can.\n\n",
+    "start_char_index": 252372,
+    "end_char_index": 252517,
+    "response_text": "Honest constraint-acknowledgement. The flywheel reduces variance but doesn't eliminate it \u2014 important when thinking about any IP-driven business model, including how Loom might surface pattern recognition across creative industries."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Art and commerce, those two things got married in Walt's head. ",
+    "start_char_index": 252940,
+    "end_char_index": 253010,
+    "response_text": "Three words per concept, maximum compression. This is the thesis sentence for the entire company \u2014 and it's the rarest combination because most organisations optimise for one and hollow out the other."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When Disney is at its best, what they make is not just a commercial product. It exists at a higher level than that, and it is married to this incredible commerce engine that is in and of itself beautiful. ",
+    "start_char_index": 253074,
+    "end_char_index": 253279,
+    "response_text": "The claim that the **commerce engine itself** is beautiful is the interesting part \u2014 Disneyland as aesthetic object, not just revenue vehicle. Most businesses treat monetisation as a necessary ugliness."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Which really comes down to Walt always playing the long game and always being willing-\n\nBen: -to bet the whole farm and being right enough times and managing to survive through the times where he was wrong that it worked.\n\n",
+    "start_char_index": 251734,
+    "end_char_index": 251957,
+    "response_text": "Survival is the underrated variable here. Being right enough **and** not dying when wrong is the actual formula \u2014 it's not genius, it's compounding with a stop-loss on catastrophe."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "During Walt\u2019s era, Disney operated like an unhinged moonshot factory, blowing its finances on one seemingly crazy project after another, like the very first feature-length animated film or a theme park inspired by Walt's fascination with model trains (spoiler: Disneyland).\n\n",
+    "start_char_index": 262720,
+    "end_char_index": 262995,
+    "response_text": "Good reframe. \"Unhinged moonshot factory\" is accurate and unflattering in the best way \u2014 it strips the retrospective inevitability off what was genuinely chaotic capital allocation at the time."
+  }
+]
