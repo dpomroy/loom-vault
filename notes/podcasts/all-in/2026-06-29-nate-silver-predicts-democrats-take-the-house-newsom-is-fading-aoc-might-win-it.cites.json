@@ -1,0 +1,100 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Partisanship is the gravity that dictates every election in the US Right. ",
+    "start_char_index": 25072,
+    "end_char_index": 25146,
+    "response_text": "Silver argues that 43 of 50 states can be called with 97% confidence right now for 2028 \u2014 not because of rigging, but because polarisation is so structurally entrenched."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But 43 of the 50 states stated we could probably predict right now with 97% confidence who they'll vote for in 2028. ",
+    "start_char_index": 25272,
+    "end_char_index": 25389,
+    "response_text": "Silver argues that 43 of 50 states can be called with 97% confidence right now for 2028 \u2014 not because of rigging, but because polarisation is so structurally entrenched."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's because polarization and partisanship are very powerful forces that we can't seem to escape from. ",
+    "start_char_index": 25422,
+    "end_char_index": 25525,
+    "response_text": "Silver argues that 43 of 50 states can be called with 97% confidence right now for 2028 \u2014 not because of rigging, but because polarisation is so structurally entrenched."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I've done some consulting work on like the Indian election where you literally have polling stations in the Himalayas and they actually stagger their elections, but once election day happens, they count their vote within 24 hours. I think it's ridiculous and very failed state that California takes longer than that. ",
+    "start_char_index": 14375,
+    "end_char_index": 14692,
+    "response_text": "Silver has consulted on Indian elections \u2014 where polling stations exist in the Himalayas and results land within 24 hours \u2014 and uses that as a direct benchmark against California's multi-week count."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But if you're going to have five different ways to vote, and I say this to someone with experience like actually trying to build election night models and being on national TV on election nights, these blue shifts or red shifts are somewhat predictable and are going to be inevitable consequence of having different mechanisms to vote where you have different cues in the line. ",
+    "start_char_index": 20504,
+    "end_char_index": 20882,
+    "response_text": "Silver's point is that blue and red shifts are \"somewhat predictable and are going to be inevitable consequence of having different mechanisms to vote where you have different cues in the line.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They haven't won the close elections recently except for Obama who conspicuously at least kind of made rhetoric to trying to bridge a divide between the parties. Obama still has a, I looked at this today, a 57% approval rating post facto with independence. Biden is at 20%. ",
+    "start_char_index": 27125,
+    "end_char_index": 27399,
+    "response_text": "Silver contrasts Obama \u2014 who \"at least kind of made rhetoric to trying to bridge a divide between the parties\" \u2014 with Biden's collapse to 20% approval among independents post-presidency."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The establishment doesn't seem to have an understanding of the fact that almost every election Now, Obama in 2012 was, I guess the exception. Almost every election now is a change election. We might ping pong back and forth for many cycles. ",
+    "start_char_index": 33148,
+    "end_char_index": 33389,
+    "response_text": "Silver's argument is that the Kerry-Hillary-Kamala pattern of picking the \"least unacceptable candidate\" keeps failing because nearly every modern election is a change election \u2014 and the party may just ping-pong back and forth for many cycles."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Donald Trump and our approval ratings now is down to 38%. People are upset about Iran, they're upset about gas prices, they're upset about just fatigue of having, you know, a singular center star of politics over the past, you know, Trump kind of is like it's fatiguing a little bit. And so like it's an uphill battle for the gop. Democrats might do their best to, to give Republicans a fighting chance despite that.\n\n",
+    "start_char_index": 34277,
+    "end_char_index": 34695,
+    "response_text": "Trump is at 38% approval, with voters upset about Iran, gas prices, and general fatigue \u2014 Silver calls 2028 an uphill battle for the GOP \u2014 yet flags that Democratic self-sabotage could hand it back."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most neglected voters in the US are people who are culturally a little bit more conservative, but economically more progressive. Potentially, but not quite in the same way that you get from an aoc. They support small business. They are wary of conglomerations of power. ",
+    "start_char_index": 38856,
+    "end_char_index": 39130,
+    "response_text": "The gap Silver identifies here is real and underserved. These voters support small business, distrust concentrated power, and don't fit the AOC mould \u2014 but they also don't fit the GOP one either."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think combining a little bit of the right kind of anti oligarch rhetoric with moderation on some of the issues, you know, on the WOKE stuff, I get that term already feels like it's becoming outdated. But still supporting small business, especially for men, young men still want to feel as though they control their own destiny. A lot of them feel like they don't do that anymore. But I don't think they necessarily want all that much hand holding. ",
+    "start_char_index": 39557,
+    "end_char_index": 40007,
+    "response_text": "Silver's electoral prescription in one sentence: populism on **economics**, moderation on **culture**. The \"young men want agency\" point is the part most Democratic strategists are still refusing to hear."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:46:28]: Yeah, look, for me, I don't think a person should have a correlated stance on taxes and abortion and Gaza and the free market and whatever else. Partisanship is a very powerful force to squish this very complicated array of political issues we have in the United States into just one dimension. Blue versus red or left versus right. And social media. Twitter in particular, I think is a very effective mechanism for that. ",
+    "start_char_index": 49210,
+    "end_char_index": 49657,
+    "response_text": "Silver's actual critique of social media here is structural, not moral \u2014 it's a **compression machine**. Every complex position gets flattened to red/blue."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Prediction markets say Democrats are around, I think 80 or 85% to take the house and 40 or 45% to take the Senate. Those both seem pretty reasonable to me. I think, if anything, it's a little bit low on the House. I think it might be more like 85 or 90. ",
+    "start_char_index": 53226,
+    "end_char_index": 53480,
+    "response_text": "Silver's rare moment of **over-riding** the markets rather than deferring to them. He thinks House probability is closer to 85-90%."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Newsom has fallen in Democratic primary polls from around 25% to 15%. He's fallen on polymarket from like 33% to 22% or something. I think he was benefiting from some degree of name recognition. Whereas now Democrats see a candidate like John Ossoff in Georgia, another good looking young guy, but actually has a credential, which Newsom will never have, of having won an election in a purple state and being a younger, fresher face. ",
+    "start_char_index": 58818,
+    "end_char_index": 59252,
+    "response_text": "The drop is real and the cause is clear: fresher faces with **actual purple-state credentials** (Ossoff) are absorbing his name-recognition advantage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know, I wouldn't discount, by the way, someone like an aoc. I'm not sure if she'll run. Someone like Chuck Schumer might be very vulnerable in the 2028 primary, for example. She has a lot of time to wait. But, like, I could see, like, again, in New York. It's New York. So therefore you can't extrapolate too much from New York. However, people saying we are sick and tired of the Democratic establishment. I'll take a more separate version or more left wing version, but not the same. ",
+    "start_char_index": 59520,
+    "end_char_index": 60010,
+    "response_text": "Silver draws the explicit parallel to how the GOP establishment kept winning primaries \u2014 until it didn't. AOC as the **Democratic Trump** is the analogy he's implying without quite saying it."
+  }
+]

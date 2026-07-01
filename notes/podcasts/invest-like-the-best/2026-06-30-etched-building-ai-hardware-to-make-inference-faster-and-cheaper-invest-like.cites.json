@@ -1,0 +1,163 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And the reality is the entire semiconductors and data center industry is built on buffer. And what I mean by that is every part of the stack, from the EDA tools to the power modules to the circuit boards to the chip design and standard cells, everything is built to be general purpose for everything. Not just in the data center, but Iot on the edge and so forth. And when you have a specific use case you're really trying to design for, you can change the constraints a lot. ",
+    "start_char_index": 9451,
+    "end_char_index": 9927,
+    "response_text": "Every layer of the stack \u2014 EDA tools, power modules, boards, standard cells \u2014 is built general-purpose. Not for AI data centres specifically."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you tape out your chip, there's this concept called corners, which is, you know, what temperatures are you going to be able to run at this clock speed. The default configurations for a lot of these EDA tools assume that you're going to be running your chips in freezing temperatures. Now I don't know about you, but I've never seen an AI data center with ice in it. So, you know, we can feel pretty confident that our chips don't need to run at full speed at 0 degrees Celsius. In fact, like they're never really going to be running below 80 degrees Celsius anyway. And just by knowing that that's a constraint that doesn't matter, we can make a ton of changes throughout the entire system. ",
+    "start_char_index": 10254,
+    "end_char_index": 10950,
+    "response_text": "Default EDA tool configurations assume chips run at freezing temperatures. Etched simply excluded that corner \u2014 chips will never run below 80\u00b0C anyway \u2014 and unlocked a cascade of optimisations throughout the system."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The thing that matters is flops and flops density and people talk about flops often as a headline number, but in reality you should care about the flops you're getting when you're running real workloads there's this concept called MFU or model flops utilization, which is, you know, for every peak flop advertised, how many cents on the dollar are you actually getting? And on GPUs you often get somewhere between 20 and 50% depending on the workload. And actually you can provably not run at 100% because you have a thermal issue where as you increase the FLOP utilization, you have more transistors going on and off, you draw more power, and the chip will self regulate and actually lower its clock speed to make sure it doesn't overheat. ",
+    "start_char_index": 16484,
+    "end_char_index": 17225,
+    "response_text": "The headline FLOP number is marketing. Model FLOP utilisation is the real metric \u2014 and GPU thermal throttling means 100% is provably unreachable: more transistors switching means more heat, which auto-reduces clock speed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Bitcoin miners run at under a quarter of the voltage of GPUs. So this is obviously physically possible. The question is, are there issues with GPU architectures that make it unable to run at these voltages? And when we looked at the problem for a long time, we were able to create a new mechanism of running at much lower voltages, a new type of power delivery that we call low voltage inference. And we think all AI chips in the future are going to be low voltage chips. ",
+    "start_char_index": 18311,
+    "end_char_index": 18783,
+    "response_text": "Bitcoin miners already run at under a quarter of GPU voltage \u2014 so the physics is proven. The question was whether GPU architectural constraints blocked it. Etched concluded they didn't, and built the mechanism."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We think people ask the wrong question here. People often ask how much memory bandwidth is on your chip. It should be asking how much memory bandwidth is on your full scale up cluster. What we were able to do is add way, way more bandwidth and a much lower latency from chip to chip to our interconnects. It allows us to be able to go serve models at this much higher speed because you can go use the SRAM and the HBM from the full scale up cluster as a single pool. And that's our second key technical bet, what we call cluster scale memory. ",
+    "start_char_index": 19123,
+    "end_char_index": 19666,
+    "response_text": "Etched reframes the decode problem at cluster level \u2014 treating SRAM and HBM across all chips as a single unified pool. Their custom interconnect stack makes this viable by slashing chip-to-chip latency."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It was 2022, I was realizing all of these companies are spending all the money they raise on compute. And I had this realization as I was working on some of my own stuff that like, oh my God, all the products I want to build are going to cost tens of millions of dollars a year in inference. This is not going to be tenable like the cost structure of every software company and the cogs is not going to be like zero anymore for an incremental user. It's going to be quite high and it's going to be a function of inference. And then the opex of every business is going to also be inference as people use more and more coding agents. So fundamentally it seems like inference is going to be really important. And it feels like we are on a decade march for inference to become the biggest market in the world. ",
+    "start_char_index": 32109,
+    "end_char_index": 32915,
+    "response_text": "The realisation came from watching every startup spend all its capital on compute. The COGS of software is no longer near-zero \u2014 it's a function of inference spend, and so is the opex as coding agents proliferate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think for us it's also the best vendor is no vendor. As much as possible, we want to vertically integrate the entire product, both because we get more performance, but we can move way faster. ",
+    "start_char_index": 37220,
+    "end_char_index": 37414,
+    "response_text": "Vertical integration as a **speed** argument, not just a quality one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we found three people that we thought could fit the bill and we talked to all of them and two of them have just retired. And one of them was planning to do one more generation for Nvidia and then retire. His name's Brian and over time we convinced him to join. ",
+    "start_char_index": 41648,
+    "end_char_index": 41913,
+    "response_text": "They mapped the entire Nvidia rack lineage, identified three humans on earth who qualified, and chased the one still working."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And you'd be surprised by the amount of people who say yes after the first conversation is pretty low. But the amount of people who say yes after the 20th conversation is surprisingly high.\n\n",
+    "start_char_index": 40251,
+    "end_char_index": 40442,
+    "response_text": "Persistence as a **recruiting primitive**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There is another very famous AI chip company that took 10 months to go from getting their silicon back to having them running inference in Iraq. And this was publicly announced to their investors. And it was a really big deal. We were able to do it in 40 days. And it's because by the time the chip came back, everything was boring. The software was already written, the rack was already there, the production line was already set up. ",
+    "start_char_index": 52751,
+    "end_char_index": 53186,
+    "response_text": "The **prefetching** strategy \u2014 building everything in parallel before the chip arrives \u2014 compressed a 10-month industry benchmark to 40 days."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Which is the exciting part about super low latency decode is wall clock time on long horizon tasks becomes much shorter. So a year long compute build would now take a month and that month long compute build will now take three days and that three day compute build will now take seven hours and so forth and so forth. ",
+    "start_char_index": 62088,
+    "end_char_index": 62406,
+    "response_text": "Compounding **latency reduction** on long-horizon tasks is the real unlock \u2014 not chat speed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And one of the things that we started with was the decision explicitly not to build an arbitrary graph compiler, not to support arbitrary Pytorch, not to support arbitrary cuda, not to support arbitrary ONNX graphs. But instead we envisioned a world where there was going to be under 100 models that actually mattered, and they were all going to look very similar from the underlying mathematical perspective, and that we were going to build primitives using physics that were going to accelerate these as much as humanly possible, and we were going to allow the most sophisticated customers to have direct access to the hardware and do whatever they want. And that has saved us a tremendous amount of time not having to build a compiler, and that has allowed us to actually get much more performance. ",
+    "start_char_index": 67111,
+    "end_char_index": 67913,
+    "response_text": "Etched's entire software bet rests on this constraint \u2014 skip the **general-purpose compiler**, build physics-level primitives for a small, stable model landscape."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Which was it fundamentally is not existential for my company for this product to win. ",
+    "start_char_index": 71770,
+    "end_char_index": 71856,
+    "response_text": "The recruit's logic is devastating: Google won't fail if TPUs fail, Meta won't fail if MTIA fails, OpenAI won't fail if Jalape\u00f1o fails \u2014 but Etched fails if Etched fails."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Meta won't fail if MTIA fails, Microsoft won't fail if Maya fails. And OpenAI won't fail if Jalapeno fails. Ultimately, this is our product. It is like completely unsurprising that the best chip in the world is built by a company that only builds that chip. It's Nvidia. And for us it is completely existential for us to get as much token capacity online as possible. ",
+    "start_char_index": 72008,
+    "end_char_index": 72376,
+    "response_text": "The recruit's logic is devastating: Google won't fail if TPUs fail, Meta won't fail if MTIA fails, OpenAI won't fail if Jalape\u00f1o fails \u2014 but Etched fails if Etched fails."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we realized, wait a minute, there's a problem where the back pressuring logic across a clock domain crossing is failing and this is going to cause the chip to produce wrong results and it is very, very hard to solve. We realized there was one and only one way to solve it. As we had to go line up two clock signals on our chip to within 50 picoseconds, that is literally 50 trillionths of a second. And we had to go get the signals aligned to this super small granularity and do it on every chip 2 billion times a second.\n\n",
+    "start_char_index": 74609,
+    "end_char_index": 75136,
+    "response_text": "The clock domain crossing failure was producing wrong results and there was exactly one fix: align two clocks to 50ps precision, 2 billion times a second."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:58:44]: We had people quit that. People literally were like this problem is unsolvable and best of luck guys. Well, when you have a problem like that, step one is okay, let's assume the problem is solvable. How would it be solved? ",
+    "start_char_index": 75204,
+    "end_char_index": 75452,
+    "response_text": "People quit over it. The response was: assume the problem is solvable \u2014 how would it be solved?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "At the time, the biggest semiconductor fundraisers for a Series a was around 40, 50 million dollars. We were looking at this, and we were just tallying the bill. We're like, we think we're going to spend $100 million in the next 12 months. If we really want to do this, if we want to actually get to scale and actually get the performance we're talking about. This is going to be extremely capital intensive. How the hell are we going to pull this off?\n\n",
+    "start_char_index": 80760,
+    "end_char_index": 81214,
+    "response_text": "At the time the biggest semiconductor Series A was $40-50M. Etched was tallying a $100M spend requirement with $15M in the bank, and every major Valley investor had already passed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think as much as possible, thinking about supply chain early in the design decisions, because if you have the most performant product and you can't produce it, then you're just a podcast.\n\n",
+    "start_char_index": 96348,
+    "end_char_index": 96543,
+    "response_text": "The line lands as a joke but it's a real strategic point: supply chain has to be designed in from the start, not bolted on after performance is proven."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And while we're being futuristic, I think this is the second to last year where a majority of the workforce is going to be human. I think in 2027 you're going to see there's going to be more agents doing knowledge work than humans. And it's going to be extremely interesting to see what happens. ",
+    "start_char_index": 102872,
+    "end_char_index": 103168,
+    "response_text": "The claim: 2027 is when agent knowledge workers outnumber humans in that category \u2014 and what happens after that is described as simply unfathomable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The way you want this to scale is not that, oh, if I want to go serve 10 times more tokens, I buy 10 times more servers. ",
+    "start_char_index": 107378,
+    "end_char_index": 107499,
+    "response_text": "That's the **broken model** Etched is building against."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It must be some solution where if I want to go serve 10 times more tokens, then I get some economies of scale benefit with my set cluster scale memory tech that allows me to then not charge as much as 10 times more for those NAC tokens.\n\n",
+    "start_char_index": 107499,
+    "end_char_index": 107737,
+    "response_text": "The **thesis in one sentence** \u2014 cluster-scale memory tech should produce falling per-token costs as volume grows, not flat or rising ones."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you get surgery, you're more likely to live, but you have to assume you'll never be able to walk again. If you get radiation, you'll be able to walk again, but it's not the same probability that you'll live. ",
+    "start_char_index": 108243,
+    "end_char_index": 108454,
+    "response_text": "The **trade-off framing** is stark \u2014 mobility vs. survival probability, handed to a 16-year-old to decide."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I was in a wheelchair and I needed to move to Boston for multiple months and both of my parents decided to move out and drop everything they were doing and live with me. ",
+    "start_char_index": 109226,
+    "end_char_index": 109396,
+    "response_text": "The **kindest thing** question lands differently when the answer is this."
+  }
+]

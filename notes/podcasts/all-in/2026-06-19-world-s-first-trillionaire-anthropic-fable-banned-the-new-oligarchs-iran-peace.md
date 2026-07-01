@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-19-world-s-first-trillionaire-anthr
 source_title: "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal"
 source_date: 2026-06-19
 show: "All-In"
-themes: ["AI Industry", "Misc"]
+themes: ["Misc"]
 generated_at: 2026-06-21T02:03:47+00:00
 agent: note-taker
 model: claude-sonnet-4-6

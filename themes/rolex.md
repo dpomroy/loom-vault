@@ -2,11 +2,11 @@
 type: theme
 name: "Rolex"
 description: "Watch business, luxury branding"
-generated_at: 2026-06-28T02:00:54+00:00
+generated_at: 2026-07-01T02:10:48+00:00
 agent: theme-follower
 model: claude-sonnet-4-6
 custom: true
-quote_count: 46
+quote_count: 45
 ---
 
 # Rolex
@@ -50,7 +50,6 @@ Constraints producing durable outputs again. Also: Panerai fans have no idea.
 - "They can have three bad years in a row, and the CEO might not get fired. And they're playing a different game." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Rolex is just one foundation in Switzerland. The most ironclad privacy foundation–friendly laws in the world." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "We don't have shareholders. I don't need to make my quarter. I don't need to make next year. We have enough cash cushion that we can ride this thing out." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "It's very hard for a business to ever get smaller than its largest ever." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "I honestly think the biggest reason to do it was so no one else buys it." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "I think it's an innovation lab. It's a way to protect Rolex's brand, because if there's something new and interesting that might be a fad, that customers seem to be caring about in the watch world, Tudor can go and implement it, and they can figure out how to produce it." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "The shield protects the crown. The Tudor shield protects the Rolex crown, which makes total sense. It's so that they don't ever have to risk doing something dumb chasing a competitor with Rolex, and Tudor can always go figure it out." — [[notes/podcasts/acquired/2025-02-24-rolex]]

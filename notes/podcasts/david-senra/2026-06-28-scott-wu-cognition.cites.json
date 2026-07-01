@@ -1,0 +1,142 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It's like a tree search where you're exploring the different options in the decision tree and you're trying to figure out how to lead to victory. That's the only thing I do in my life.\n\n",
+    "start_char_index": 4146,
+    "end_char_index": 4332,
+    "response_text": "Wu isn't being dramatic here \u2014 he means it literally."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:04:38]: Salty just means that you take offense to the idea of losing.\n\n",
+    "start_char_index": 8812,
+    "end_char_index": 8900,
+    "response_text": "Clean definition."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My co founder has a slime which I've always loved, which is we've been spending all this time living in survival mode as a species, and now we're going to be living in creative mode. And I think that's right. I think Minecraft survival mode is where you are like, you know, you're growing food, you're like, making sure you're safe from the monsters at night and whatever. And like, creative mode is just like, everything's up to you. You know, you have all the resources at your disposal. If you want something to happen, it'll happen. And the only question for you is, like, what you want to make happen. ",
+    "start_char_index": 18659,
+    "end_char_index": 19266,
+    "response_text": "The Minecraft framing is Wu's co-founder's, not his \u2014 but he endorses it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:21:12]: Here's what I'd say is the way that folks typically predict the future or think about what happens next is they pattern match based on what they've seen historically. And they say, okay, well, for 100 years it's always been like this and it's probably safe to assume that it will be. And 99% of the time that works great. And in these particular periods where things actually move and they're real things that are different, those are the 1% of times where it truly is different. Now you just kind of, rather than any kind of pattern matching, what really matters is just thinking about things from first principles like AI. ",
+    "start_char_index": 29501,
+    "end_char_index": 30151,
+    "response_text": "Wu's argument is that pattern-matching works 99% of the time \u2014 but this is a 1% moment where the discontinuity is real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's the famous METR report which was saying a couple years ago, AI would do about 10 to 20 seconds worth of human work without interruption. And then you'd have to guide it or direct it or it would make a mistake or something like that. 10 seconds, 20 seconds. And that's just doubled every couple months, basically. And now we're talking about hours of work. ",
+    "start_char_index": 30151,
+    "end_char_index": 30515,
+    "response_text": "The METR doubling curve is the most concrete, falsifiable claim in this excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if you just ask from a first principles question, well, why can't that be days? Or why can't that be weeks or months of work? And then what does the world look like if everybody has an agent that can just do months of work for them at a time? Then you get to a pretty different conclusion from what we've all seen and what we've all lived for the last several years. ",
+    "start_char_index": 30794,
+    "end_char_index": 31165,
+    "response_text": "Wu's point is that extrapolating the doubling curve leads to a structurally different world \u2014 one where the bottleneck is no longer execution but knowing what you want."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you start a company, you kind of have nothing, you have no right to exist, is maybe one way to put it. ",
+    "start_char_index": 47191,
+    "end_char_index": 47299,
+    "response_text": "Startups have no right to exist by default \u2014 no resources, no brand. The only lever is directional conviction held early and executed on hard."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The reason that you are sometimes able to anyway is if you really plant your flag in the ground and put a stake into what you think the future is and you run like hell towards that and if you turn out to be right on some of the core things. ",
+    "start_char_index": 47701,
+    "end_char_index": 47942,
+    "response_text": "Startups have no right to exist by default \u2014 no resources, no brand. The only lever is directional conviction held early and executed on hard."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But the idea that you would work with AI as a coworker rather than as a tool or a chatbot, I think was, I mean, over the last couple years has obviously like really grown. And I think it was like very important for us, for our brand, for recruiting, for, you know, customer work, everything for us to be, you know, the first ones that actually planted that flag in the ground and said that.\n\n",
+    "start_char_index": 48156,
+    "end_char_index": 48548,
+    "response_text": "Being first to plant that flag \u2014 even with a 13%-benchmark product \u2014 paid off in brand, recruiting, and customer trust."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I remember the first time that it did a real task. I could not sleep that night. And so it's just showing that.\n\n",
+    "start_char_index": 42939,
+    "end_char_index": 43052,
+    "response_text": "The task was setting up MongoDB \u2014 mundane by any measure. But seeing the **exponential curve ahead** from a single success is what drove conviction through the hate cycle."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "People talk about, oh, yeah, we rank our engineers by how many tokens they're spending. Well, let's try and rank people by how much output they're actually producing or how much good work is actually getting done. ",
+    "start_char_index": 62754,
+    "end_char_index": 62968,
+    "response_text": "Token spend as a productivity metric is the new lines-of-code fallacy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think for us it's true. It's like we are just going to care so much more about it. Like what does it look like to build software end to end at Goldman Sachs or at Mercedes Benz or something like that? And there's a lot of nuance in that and there's a lot of messiness in that. ",
+    "start_char_index": 68256,
+    "end_char_index": 68539,
+    "response_text": "The Spotify/Daniel Ek argument: **focus beats resources** because caring more compounds into product depth that generalists can't match."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so Devin is purposefully meant to be a compound model system. ",
+    "start_char_index": 64217,
+    "end_char_index": 64283,
+    "response_text": "Model-agnostic routing \u2014 Anthropic, OpenAI, Google, open-source, their own \u2014 chosen per sub-task. **Switzerland positioning** means customers trust them to optimise cost/performance without a vendor bias baked in."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so Devin, rather than being pegged to one model and saying, oh, we're only going to serve you GPT for this, or we're only going to serve you opfiz for this, Devon can use any of the different models that has in its arsenal, which include all of these models from Anthropic, OpenAI, Google, et cetera, but also our own models or open source models out there. And it will dynamically go and choose these models for these tasks.\n\n",
+    "start_char_index": 66197,
+    "end_char_index": 66628,
+    "response_text": "Model-agnostic routing \u2014 Anthropic, OpenAI, Google, open-source, their own \u2014 chosen per sub-task. **Switzerland positioning** means customers trust them to optimise cost/performance without a vendor bias baked in."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the reality is like it's in some sense a bit of an uncreative way to think about things. I think like, if there was like one thing that, okay, here's what we all know is going to be the end state future and everybody's just working toward it and whoever has the most resources toward it with. And of course, yeah, it's like we know who has the most resources today, right? But if there are millions of problems out there to solve, there's lots of different things. ",
+    "start_char_index": 72431,
+    "end_char_index": 72900,
+    "response_text": "The \"but Microsoft/Google will do it\"\nobjection assumes one knowable end-state\nwhere resources win."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:00:57]: And the way that I say it sometimes is like, we would sell if we thought it was the most ambitious thing to do. It's kind of an oxymoron, because obviously. But, you know, it's like my genuine answer in the sense that, like, that's, like, what we care about, you know, it's like. ",
+    "start_char_index": 78222,
+    "end_char_index": 78527,
+    "response_text": "Wu's stated sell condition \u2014 and he\nadmits it's a near-oxymoron."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:59:01]: Like, maybe it's not possible to build a new independent business because everything else, you know, it's like all the apps\n\n**Speaker A** [0:59:05]: are going to do everything, all the\n\n**Speaker B** [0:59:06]: opportunities take it, you know, and it's\n\n**Speaker A** [0:59:08]: like, guys, those people aren't founders. Founders are rationally optimistic.\n\n",
+    "start_char_index": 75340,
+    "end_char_index": 75724,
+    "response_text": "Senra's response to nihilism about\nindependent company-building: people\nwho think it's too late simply\naren't founders."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:59:12]: They're just not founders.\n\n",
+    "start_char_index": 75756,
+    "end_char_index": 75809,
+    "response_text": "Senra's response to nihilism about\nindependent company-building: people\nwho think it's too late simply\naren't founders."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But if we felt like, you know, we could have gone for it all, we could have pushed harder and we did it. Like that, I think, is like, I just. I don't think we would, like, live with ourselves in that outcome. ",
+    "start_char_index": 83096,
+    "end_char_index": 83305,
+    "response_text": "Wu's real reason for staying\nindependent: **regret-avoidance**,\nnot ambition in the abstract."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know, it's like we want to achieve our potential and build what we were meant to build, you know? And maybe that's something, and maybe that's nothing, but, like, you'd rather find out than see. ",
+    "start_char_index": 83477,
+    "end_char_index": 83676,
+    "response_text": "Wu frames Cognition as a question\nhe needs answered \u2014 **potential** as\nthe north star, outcome secondary."
+  }
+]

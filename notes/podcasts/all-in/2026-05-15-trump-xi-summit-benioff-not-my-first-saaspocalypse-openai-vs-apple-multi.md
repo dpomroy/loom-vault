@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-05-15-trump-xi-summit-benioff-not-my-f
 source_title: "Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño"
 source_date: 2026-05-15
 show: "All-In"
-themes: ["AI Industry", "Misc"]
+themes: ["AI & Software Now", "Misc"]
 generated_at: 2026-05-27T20:59:29+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Success can only be achieved through repeated failure. In fact, success represents 1% of your work, which results only from the 99% that is called failure.\n\n",
+    "start_char_index": 5971,
+    "end_char_index": 6128,
+    "response_text": "The maths here are worth sitting with. Not \"failure is okay\" \u2014 failure is the *majority* of the work, by design. Honda lived this, not just said it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And because I was by nature fond of fumbling with machinery, I was quick in acquiring skills.\n\nWhatever I did in those years, no matter how trivial, profited me. For in the long run, there is no waste in life. ",
+    "start_char_index": 14474,
+    "end_char_index": 14684,
+    "response_text": "The \"no waste\" framing is the cleaner idea here. He used it to justify the partying, the apprenticeship grind, even wartime loss. It's a useful lens \u2014 but it can also become post-hoc rationalisation if you're not careful."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I happened on the idea of fitting an engine to a bicycle simply because I did not want to ride the incredibly crowded trains and buses myself. ",
+    "start_char_index": 24112,
+    "end_char_index": 24255,
+    "response_text": "The best products often start as personal fixes. Honda didn't do market research \u2014 he solved his own problem in a resource-constrained environment. Classic necessity-driven invention."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, since I found pleasure in the fact that a thing of my own invention was proving useful and was appreciated by people, I was not paying much attention to profits. Honda was facing bankruptcy. Since many of the products had sold were just not being paid for.\n\n",
+    "start_char_index": 29928,
+    "end_char_index": 30195,
+    "response_text": "This nearly killed him. **Obsession without a Fujisawa** is a bankruptcy waiting to happen. The genius-plus-operator pairing isn't optional \u2014 it's structural."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I have always felt a person who cannot mix with people of different temperaments is rather a useless person.\n\n",
+    "start_char_index": 31033,
+    "end_char_index": 31143,
+    "response_text": "Surprising line from someone as stubborn and uncompromising as Honda. He understood his own gaps clearly enough to actively recruit against them \u2014 that's rare self-awareness in a maverick."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A group of private businesses held a meeting and decided to ask the government to adopt measures to promote exports and discourage imports to Japan. I did not participate because I felt strongly that we should not choose the easy path of asking for the government's help.\n\n",
+    "start_char_index": 35591,
+    "end_char_index": 35864,
+    "response_text": "Every other manufacturer lobbied for protection. Honda wanted to **win on merit**. This is a values statement as much as a business decision \u2014 and it shaped everything that followed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My feeling was that even if our company went bankrupt after importing production machine tools, this did not mean I was squandering resources because the machines would remain and be working for the people no matter what happened to me. ",
+    "start_char_index": 36763,
+    "end_char_index": 37000,
+    "response_text": "The \"resources belong to the mission, not the man\" framing is rare. Most founders protect the company; Honda protected the capability. That's a different risk calculus entirely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Honda's ads didn't set out to sell their own products. They sold motorcycling. ",
+    "start_char_index": 41340,
+    "end_char_index": 41419,
+    "response_text": "Category creation before product selling \u2014 this is the move. Most companies skip straight to conversion; Honda understood you first have to make the behaviour socially acceptable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One thing that must not be forgotten is that research means a succession of failures. That more than 99% of our research is total failure.\n\nHad we left research in the parent company, it would have been treated like a stepchild. For that company's purpose is the pursuit of profits. Since good research cannot be treated as simply as an appendage on manufacturing, I decided that it would have to be a separate, distinct operation. ",
+    "start_char_index": 44102,
+    "end_char_index": 44534,
+    "response_text": "The structural insight here is sharp: if R&D sits inside a profit-seeking company, it will be quietly strangled. Spinning it out wasn't organisational tidiness \u2014 it was **survival for the function**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A research organization should be structured to enable individuals to make the best of their ability, whereas a manufacturing company should be organized to yield maximum efficiency. ",
+    "start_char_index": 44639,
+    "end_char_index": 44822,
+    "response_text": "These two goals are genuinely in conflict. Honda saw that clearly enough to build a wall between them. Most companies pretend the tension doesn't exist and then wonder why innovation dies."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's one of my favorite parts of the book says the unique feature of Mr. Honda's personality has been that once he gets an idea, he pursues it regardless of what's in the way. I think the best comparison is with Edwin Land of Polaroid, who seems to be a similar type of individual. I think the thing that made Honda outstanding is that he concentrated on engines.\n\nAs an engineer, this was the one thing on which he focused all of his attention. ",
+    "start_char_index": 46049,
+    "end_char_index": 46495,
+    "response_text": "This is Obuka \u2014 Sony's founding engineer \u2014 characterising Honda. Worth noting: the comparison to Edwin Land is precise. Both were **technologist-obsessives** who bent the company around a single domain."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Looking back in my work, I feel that I have made nothing but mistakes. A series of failures, a series of regrets. Although I made one mistake after another, my mistakes of failures were never due to the same reason.\n\nI never made the same mistake and I always tried my hardest and succeeded in improving my efforts. ",
+    "start_char_index": 52797,
+    "end_char_index": 53113,
+    "response_text": "The sting is in the next line \u2014 he never made the **same mistake twice**. That's the only version of failure tolerance that actually compounds into something."
+  }
+]
