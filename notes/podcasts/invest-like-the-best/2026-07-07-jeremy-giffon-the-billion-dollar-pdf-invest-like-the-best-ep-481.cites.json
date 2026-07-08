@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:03:43]: You really realize in let's say long term private markets that the great filter for funds is their storytelling ability, fundamentally because their product which is realized cash returns take a decade. The thing that you're selling in the interim, whether it's through, you know, a quarterly update or your event, or just your one on one conversations with your LPs is really just narrative. ",
+    "start_char_index": 7859,
+    "end_char_index": 8277,
+    "response_text": "The **interim product is pure narrative** \u2014 quarterly updates,\nevents, LP calls. Returns are the proof, but they come last.\nMost managers never reckon with this honestly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That's an interesting scenario because it's one of these instances where merely because the company the story again, the narrative of the company is that it's seven years old. Let's say the company has really started to inflect. Maybe it's because of AI or maybe it's because of something else, but they're six or seven years into their life. It's very difficult for those companies to get funding because the story is, well, okay fine, you grew 200% last year. In absolute terms, you're only at 8 million of revenue and you're seven years in. Whereas I think literally if you just changed the name and told a different story and just sort of arbitrarily started the clock two years ago, that company would actually be like really hot. ",
+    "start_char_index": 8454,
+    "end_char_index": 9190,
+    "response_text": "This is a genuinely underrated structural arbitrage.\nA **7-year-old company re-inflecting is priced as stale**;\nthe same metrics on a 2-year-old company get funded instantly.\nThe business is identical \u2014 only the story changed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because otherwise I've been shocked at sort of how hostile insider bridge rounds really are. I think this is like an under discussed part of venture.\n\n",
+    "start_char_index": 9920,
+    "end_char_index": 10071,
+    "response_text": "Liquidation preferences, ratchets, warrants \u2014\n**extractive terms are tolerated when they're optimistic**.\nA downside ratchet gets booed; an upside option at today's\nprice gets celebrated. Both steal from founders. Worth\nremembering when reading any \"supportive insider\" bridge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:05:39]: Just they have 3x liquidation preferences or warrants or ratchets or other things. If you're extractive to the downside, everyone sort of booze you. But if you're extractive for the upside, where you say I want the right to invest at the same price in two years from now, they're both like similarly extractive. But because one is like an optimistic extractive, everyone loves that one.\n\n",
+    "start_char_index": 10105,
+    "end_char_index": 10518,
+    "response_text": "Liquidation preferences, ratchets, warrants \u2014\n**extractive terms are tolerated when they're optimistic**.\nA downside ratchet gets booed; an upside option at today's\nprice gets celebrated. Both steal from founders. Worth\nremembering when reading any \"supportive insider\" bridge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What people don't appreciate about X is that everyone gets served the same 500 tweets per day. There's hundreds of millions of daily active users. And the thing that people who don't post don't realize is just the poster to lurker ratio on these things is enormous. ",
+    "start_char_index": 14539,
+    "end_char_index": 14805,
+    "response_text": "The **uni-feed collapses opinion diversity** at scale.\nHundreds of millions of lurkers all reading the same thing \u2014\nand the poster-to-lurker ratio means a tiny group\nis setting the agenda for everyone else."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's this idea of what is the story and what's interesting One of the things I get emails about the most is a comment I made somewhere about how like posting is the last great meritocracy. I get emails about that because people are like. That really clicked in my head and I started posting. And posting changes your life if you're good at it. That's still true today, maybe more true than ever. ",
+    "start_char_index": 16696,
+    "end_char_index": 17095,
+    "response_text": "Strong claim, but the **algorithm change makes it plausible**.\nA new account with a clean post can now reach 500M people.\nOld Twitter rewarded accumulated followings; new Twitter\nrewards the post itself. The moat shifted from distribution\nto quality \u2014 which is genuinely more meritocratic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One very clear way is the science class sort of inherited the priesthood after the actual priests. And then you can always look which class is subservient to the next to see who's next. The science class becomes subservient to the billionaire class. This is certainly the Epstein lesson, which is all the scientists are clamoring around this sort of money and glamour Now. I think the billionaire class has become subservient to the posting class. ",
+    "start_char_index": 32877,
+    "end_char_index": 33325,
+    "response_text": "The succession logic is clean:\n**priests \u2192 scientists \u2192 billionaires \u2192 posters**.\nYou can always spot who's next by watching which class\nstarts deferring to the new one.\nThe Epstein anecdote about scientists chasing money\nis the same pattern one level down."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I really think it's kind of crass to say, but I think billionaire is like a state of mind between like private markets and net worth as a concept and then inflation. Billionaire is now something you can just be dubbed. I think you'll come to see billionaire as sort of this political label that's only tangentially related. ",
+    "start_char_index": 35595,
+    "end_char_index": 35919,
+    "response_text": "The inflation argument alone deflates \"billionaire\" as a real wealth signal. It's become a vibe, not a number."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Time is fixed. The new scarcity is just like attention you can draw on the screen.\n\n",
+    "start_char_index": 36630,
+    "end_char_index": 36714,
+    "response_text": "Time is fixed \u2014 that's his anchor point. Everything else inflates away, so **attention** becomes the only real store of value."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:31:11]: I think my takeaway from that would simply be that one should not fool themselves that they are looking for anything other than entertainment in all the media that they consume. It is produced to be entertaining. It's selected to be entertaining, it's edited to be entertaining. The job to be done of what is on the screen is to entertain You. ",
+    "start_char_index": 39656,
+    "end_char_index": 40025,
+    "response_text": "It's produced, selected, and edited to entertain. The whole \"this podcast is educational\" framing is just Rolex calling itself an investment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Probably the most enlightened way to consume this media is to not read it yourself. Get the filtered takes from people around you at dinners and lunches and stuff. And you just let them first of all expose themselves to the radiation and then come back and tell you what's interesting or not on there.\n\n",
+    "start_char_index": 40711,
+    "end_char_index": 41014,
+    "response_text": "Let people in your network absorb the feed and surface what matters at dinner. Social filtering beats algorithmic filtering."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "To me it's very obvious that every white collar job is totally fake and made up in the sense that these are not contingent for shelter and food and medicine and other necessities. I'm not talking about those, but most jobs do not touch those, or if they do, they touch it in a very, very derivative way. ",
+    "start_char_index": 45835,
+    "end_char_index": 46139,
+    "response_text": "He's not being edgy \u2014 he's making a structural point. Most jobs exist because **capital needs somewhere to go**, not because the output is essential."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "To put it crudely, a bit of a Walmart effect in software, which is that the future looks like low gross margins, razor thin net margins, huge scale. And this is probably a problem if the SaaS provider is the mom and pop shop. Walmart's coming to town.\n\n",
+    "start_char_index": 64562,
+    "end_char_index": 64815,
+    "response_text": "SaaS sold copies of strings at near-zero marginal cost. AI sells **compute** \u2014 you re-run the cost every inference. High margins were always downstream of that string model, and that model is done."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think a lot of investors are in the like feel clever, look smart game more than the money game. ",
+    "start_char_index": 78121,
+    "end_char_index": 78219,
+    "response_text": "The cleanest diagnosis of why most investment processes are broken. If your edge is **impressing LPs**, you will systematically avoid the obvious trades that actually pay."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm a bigger and bigger believer in the simplicity, which is you probably want to be long Elon Musk that level of idea. I actually think the gift is being able to sell that idea and maybe even dress up. I think a lot of the investing media actually serves for the people who are really good to dress up those ideas in a way that makes them feel differentiated and smart enough to what is actually sort of long Elon or long Bitcoin. ",
+    "start_char_index": 78517,
+    "end_char_index": 78949,
+    "response_text": "The uncomfortable implication: **great ideas are simple**, and the intellectual apparatus around them is largely dressing. Investing media exists to make \"long Elon\" feel like a differentiated thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One story that I absolutely love cutting through the mess and getting to like complete clarity on how to evaluate an investment is from Richard Rainwater, which is there's these stories about him that he would basically come into his office with a yellow legal pad and you would write out your thesis on one page and then you would tell him what percentage of your net worth you're going to put in the deal. And based on your one page thesis and the percentage of the net worth that it was going to put in, he would say yes or no. ",
+    "start_char_index": 79433,
+    "end_char_index": 79964,
+    "response_text": "Rainwater's filter is brilliant because it **forces two things at once**: clarity of reasoning AND skin-in-the-game signalling. Neither is comfortable. That's the point."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I tried to write one that followed a very simple rule which was a obviously I was going to post it on Twitter and LinkedIn. Anything you post has to be a good standalone post. It can't be something that you wouldn't share if you didn't know me. I think what's so important in any sales pitch, which is what a job description should be, is disqualifying who you don't want. ",
+    "start_char_index": 81445,
+    "end_char_index": 81818,
+    "response_text": "Job descriptions as **self-selecting filters** \u2014 not documentation. The hiring insight here is about disqualification, not attraction. Same logic applies to how you'd write a cold-pitch or a product landing page."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I don't care who you are when you're taking bets that are an order of magnitude larger than any amount of money you've ever had, there's just a psychological factor there versus when you're taking bets that are maybe sort of negligible to you. Part of the reason I think it's easier for people to outperform individuals is it's easy to take a flyer on a stock with a marginal fraction of your net worth that you don't feel you need to explain and you're not going to be judged on later than it is to do with maybe a dollar amount that's more money than you have going to affect your track record and you're going to have to explain it and all these other factors that are not related to do you think this is a good investment or not?\n\n",
+    "start_char_index": 71273,
+    "end_char_index": 72012,
+    "response_text": "The **grip tightens** as the stakes grow relative to your net worth \u2014 and tight grip kills returns. This is a real edge for wealthy managers, not just a status observation."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "None of that exists because I think tech views itself as the ultimate philanthropy is the business that you're building. I don't think Silicon Valley today has the same sort of reflexive need to justify or document or even launder what they're doing through going to book parties and arts and all this stuff. ",
+    "start_char_index": 87849,
+    "end_char_index": 88158,
+    "response_text": "This is Silicon Valley's **founding myth** and its blind spot simultaneously. The self-righteousness removes the corrective pressure that forced finance to translate gains into culture, art, and accountability."
+  }
+]

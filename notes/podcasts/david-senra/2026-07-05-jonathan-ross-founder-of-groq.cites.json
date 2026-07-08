@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:00:10]: So the most interesting part about it is the call where the idea was first floated was about three weeks before money was in the bank.\n\n",
+    "start_char_index": 3722,
+    "end_char_index": 3883,
+    "response_text": "The call where the idea was first floated was about three weeks before money was in the bank."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There is no one strategy, there is no one perfect architecture. So the realization was you put these two things together and you defeat the bottlenecks across all of the different MATMLs.\n\n",
+    "start_char_index": 5410,
+    "end_char_index": 5599,
+    "response_text": "There is no one strategy, there is no one perfect architecture. So the realization was you put these two things together and you defeat the bottlenecks across all of the different MATMLs."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So you said success in the information age was about being able to answer questions. Success in the AI age will be about being able to ask the right questions. ",
+    "start_char_index": 11005,
+    "end_char_index": 11165,
+    "response_text": "Success in the information age was about being able to answer questions. Success in the AI age will be about being able to ask the right questions."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The fewer constraints. The fewer constraints that you give someone, the more freedom they have to solve the problem and the more freedom they have to surprise you with the solution. ",
+    "start_char_index": 20768,
+    "end_char_index": 20950,
+    "response_text": "The fewer constraints that you give someone, the more freedom they have to solve the problem and the more freedom they have to surprise you with the solution."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:16:14]: The only way for your team to innovate without you being the innovator is they must be able to surprise you in a good way, which means you must not over constrain the goal.\n\n",
+    "start_char_index": 22651,
+    "end_char_index": 22850,
+    "response_text": "The only way for your team to innovate without you being the innovator is they must be able to surprise you in a good way, which means you must not over constrain the goal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now, when you're watching some of these wagers that are happening in Silicon Valley with people putting in big bets, it's because that used to be what. What's changed, though, is that unlike the Keynesian beauty contest where the winner is the one with the most money, in reality there's a point at which you get enough money and you don't need more. And for the first time in history, the startups are not starved for cash. They have all they need and more. So now everyone's getting funded to the level that they need. And putting more money in is not an advantage, but people are still acting as if putting more money in gives that startup an advantage.\n\n",
+    "start_char_index": 32165,
+    "end_char_index": 32823,
+    "response_text": "When you're watching some of these wagers that are happening in Silicon Valley with people putting in big bets, it's because that used to be what. What's changed, though, is that unlike the Keynesian beauty contest where the winner is the one with the most money, in reality there's a point at which you get enough money and you don't need more. And for the first time in history, the startups are not starved for cash. They have all they need and more. So now everyone's getting funded to the level that they need. And putting more money in is not an advantage, but people are still acting as if putting more money in gives that startup an advantage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But the generation of tokens is the hard part. That's the thinking. Reading is easier than writing. ",
+    "start_char_index": 35372,
+    "end_char_index": 35472,
+    "response_text": "The LPU/GPU split in one sentence.\nMost inference debate obsesses over throughput\nnumbers \u2014 Ross cuts to the **conceptual reason**\nwhy the split matters in the first place."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Right now, bring in the LPU and you can go deeper, faster, you can search faster. And so you can actually make a model smarter by making it faster. And so the realization is now that you've got this ability to reflect, think deeply and change the outcome based on your thinking, being able to think faster makes you think smarter. ",
+    "start_char_index": 40636,
+    "end_char_index": 40967,
+    "response_text": "The AlphaGo/TPU story earns this claim \u2014 Move 37\nwas in the training data all along, GPUs just\ncouldn't **find it in time**. Speed isn't UX polish;\nit changes what the model can discover."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:34:59]: So one of the things that we hired for at Grok was reality quotient, which is different from intelligence quotient. And the way to think of it is there are plenty of really smart people who wouldn't recognize reality if it tapped them on the shoulder.\n\n",
+    "start_char_index": 42400,
+    "end_char_index": 42678,
+    "response_text": "Reality Quotient vs IQ \u2014 useful framing.\nHigh IQ + low RQ produces elaborate, internally\nconsistent stories that are **completely wrong**.\nWorth applying to anyone you're about to hire."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Simple example, MySpace was focused on number of accounts signed up. Facebook focused on monthly active users. It was the dominant game. ",
+    "start_char_index": 43372,
+    "end_char_index": 43509,
+    "response_text": "Clean example of RQ in practice: both companies\nwere \"winning\" by their own metric; only one metric\n**actually predicted survival**. The question for\nLoom: what's your dominant game right now?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "On the other hand, if you express intentional leadership, you say, I intend to do this. People don't tend to offer their opinion, but if it's very wrong and there's a reason, they will push back. ",
+    "start_char_index": 55161,
+    "end_char_index": 55357,
+    "response_text": "Intentional leadership vs asking for opinions.\nAsking invites **pessimism**; stating intent filters\nfor only the feedback that genuinely matters.\nRoss lost two LLM opportunities before he stopped\nsoliciting permission from his own team."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And there had been incidents where a submarine had dived where the hatch was open, and no one wanted to push back because the commander was command and controlling, and they were used to doing whatever the commander said. But when people would use its intentional leadership and say, I intend to move the boat down to 500ft, then all of a sudden, someone said, wait, the hatch is open.\n\n",
+    "start_char_index": 55714,
+    "end_char_index": 56101,
+    "response_text": "Intentional leadership vs asking for opinions.\nAsking invites **pessimism**; stating intent filters\nfor only the feedback that genuinely matters.\nRoss lost two LLM opportunities before he stopped\nsoliciting permission from his own team."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The biggest flip in my hiring was when I went from looking for positives, which is what you do when you're trying to grow talent, to looking for negatives, which is what you do when you're trying to select talent.\n\n",
+    "start_char_index": 66440,
+    "end_char_index": 66655,
+    "response_text": "Growing people = show the positive path.\n**Selecting** people = hunt for disqualifying negatives.\nThese are different cognitive modes; conflating them\nis how smart founders hire organisational problems."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He was very intentionally taunting the other players so that a loss would be humiliating to force himself to perform at superhuman levels. ",
+    "start_char_index": 70930,
+    "end_char_index": 71069,
+    "response_text": "Ross's read on Jordan: the trash-talk wasn't ego, it was **self-imposed stakes engineering**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Most people can be quite content with the status quo, and they're not going to keep pushing to innovate. You have to have a personality where you are constantly discontent if you're going to keep pushing things forward.\n\n",
+    "start_char_index": 74583,
+    "end_char_index": 74804,
+    "response_text": "This is the whole thesis."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if it takes us an extra year to cure cancer because we don't have enough compute, that's my fault. Every single person who dies from cancer, every single person who becomes old and infirm and dies, There could come a point we don't know. There could come a point where AI comes up with ways to slow aging. All of that, I feel, is on my shoulders, and I need to perform. ",
+    "start_char_index": 75156,
+    "end_char_index": 75530,
+    "response_text": "Ross makes the cost of **under-performance concrete** \u2014 not quarterly targets, but lives lost and aging unslowed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I'm seeing is that code is becoming almost free, the marginal cost is approaching zero, and it's shifting the way that things are done for professional engineers, where you just implement the thing, you experience it and you say re implement it in this different way. ",
+    "start_char_index": 77995,
+    "end_char_index": 78268,
+    "response_text": "The structural shift Ross is describing: the \"**no engineer**\" role \u2014 the person whose job is to say what can't be built \u2014 becomes obsolete when implementation cost collapses."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And my answer is stop teaching them to answer questions and start teaching them to ask questions. ",
+    "start_char_index": 80606,
+    "end_char_index": 80704,
+    "response_text": "Clean, quotable inversion."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you create homework or a test for kids if they can look up the answer online or if they can ask AI to solve it, you haven't taught them what they need for the next stage, but if you give them a problem where they have to ask the questions and get AI to solve it, then you have.\n\n",
+    "start_char_index": 81130,
+    "end_char_index": 81414,
+    "response_text": "Ross's test for whether a curriculum is **AI-era fit**: if a student can get AI to solve it without real prompting skill, the lesson is already obsolete."
+  }
+]

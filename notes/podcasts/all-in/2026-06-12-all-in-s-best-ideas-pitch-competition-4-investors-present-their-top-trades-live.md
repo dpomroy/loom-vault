@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-12-all-in-s-best-ideas-pitch-compet
 source_title: "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live"
 source_date: 2026-06-12
 show: "All-In"
-themes: ["Misc"]
+themes: ["Business Models", "Investing & Markets", "Misc"]
 generated_at: 2026-06-14T02:05:10+00:00
 agent: note-taker
 model: claude-sonnet-4-6

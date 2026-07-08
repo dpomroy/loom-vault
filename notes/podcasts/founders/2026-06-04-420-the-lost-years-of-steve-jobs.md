@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jo
 source_title: "#420 The Lost Years of Steve Jobs"
 source_date: 2026-06-04
 show: "Founders"
-themes: ["Founder Psychology", "Misc"]
+themes: ["Building Teams", "Founder Psychology"]
 generated_at: 2026-06-07T02:06:30+00:00
 agent: note-taker
 model: claude-sonnet-4-6

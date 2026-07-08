@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-06-28-423-soichiro-honda.md
 source_title: "#423 Soichiro Honda"
 source_date: 2026-06-28
 show: "Founders"
-themes: ["Founder Psychology", "Misc"]
+themes: ["Culture & IP", "Founder Psychology", "Misc"]
 generated_at: 2026-07-01T02:07:51+00:00
 agent: note-taker
 model: claude-sonnet-4-6

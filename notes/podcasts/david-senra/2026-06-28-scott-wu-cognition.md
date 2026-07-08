@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-06-28-scott-wu-cognition.md
 source_title: "Scott Wu, Cognition"
 source_date: 2026-06-28
 show: "David Senra"
-themes: ["AI & Software Now", "Founder Psychology", "Misc"]
+themes: ["AI & Software", "Founder Psychology"]
 generated_at: 2026-07-01T02:06:47+00:00
 agent: note-taker
 model: claude-sonnet-4-6

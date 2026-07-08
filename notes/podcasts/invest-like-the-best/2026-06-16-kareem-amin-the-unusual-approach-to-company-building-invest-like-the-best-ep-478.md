@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-un
 source_title: "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]"
 source_date: 2026-06-16
 show: "Invest Like the Best"
-themes: ["Founder Psychology", "Misc"]
+themes: ["Building Teams", "Founder Psychology", "Investing & Markets"]
 generated_at: 2026-06-17T02:04:56+00:00
 agent: note-taker
 model: claude-sonnet-4-6
