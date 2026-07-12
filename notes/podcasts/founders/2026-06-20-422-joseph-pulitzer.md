@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-06-20-422-joseph-pulitzer.md
 source_title: "#422 Joseph Pulitzer"
 source_date: 2026-06-20
 show: "Founders"
-themes: ["Culture & IP", "Founder Psychology"]
+themes: ["Misc"]
 generated_at: 2026-06-21T02:04:45+00:00
 agent: note-taker
 model: claude-sonnet-4-6

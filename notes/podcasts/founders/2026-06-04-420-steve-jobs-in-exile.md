@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-06-04-420-steve-jobs-in-exile.md
 source_title: "#420 Steve Jobs In Exile"
 source_date: 2026-06-04
 show: "Founders"
-themes: ["Building Teams", "Founder Psychology"]
+themes: ["Founder Psychology", "Misc"]
 generated_at: 2026-06-14T02:06:11+00:00
 agent: note-taker
 model: claude-sonnet-4-6

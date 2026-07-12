@@ -4,7 +4,7 @@ source_path: sources/podcasts/acquired/2026-06-22-the-walt-disney-company.md
 source_title: "The Walt Disney Company"
 source_date: 2026-06-22
 show: "Acquired"
-themes: ["Business Models", "Culture & IP", "Founder Psychology"]
+themes: ["Business Models & Strategy", "Sports & Media Empires"]
 generated_at: 2026-06-24T02:06:12+00:00
 agent: note-taker
 model: claude-sonnet-4-6

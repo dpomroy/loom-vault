@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-04-19-417-arnold-schwarzenegger.md
 source_title: "#417 Arnold Schwarzenegger"
 source_date: 2026-04-19
 show: "Founders"
-themes: ["Founder Psychology", "Misc"]
+themes: ["Founder Psychology"]
 generated_at: 2026-05-27T21:05:26+00:00
 agent: note-taker
 model: claude-sonnet-4-6

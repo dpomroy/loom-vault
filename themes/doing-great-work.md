@@ -1,8 +1,8 @@
 ---
 type: theme
 name: "Doing Great Work"
-description: "Quotes about what drives exceptional creative and intellectual output, including curiosity, originality, problem selection, morale, and the nature of ambitious projects."
-generated_at: 2026-07-08T02:05:32+00:00
+description: "Quotes about curiosity, originality, problem selection, and what separates exceptional creative and intellectual output from ordinary effort."
+generated_at: 2026-07-12T02:06:04+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
 quote_count: 31
@@ -10,7 +10,7 @@ quote_count: 31
 
 # Doing Great Work
 
-Quotes about what drives exceptional creative and intellectual output, including curiosity, originality, problem selection, morale, and the nature of ambitious projects.
+Quotes about curiosity, originality, problem selection, and what separates exceptional creative and intellectual output from ordinary effort.
 
 ## Quotes
 

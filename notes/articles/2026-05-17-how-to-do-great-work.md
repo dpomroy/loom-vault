@@ -3,7 +3,7 @@ source: notes
 source_path: sources/articles/2026-05-17-how-to-do-great-work.md
 source_title: "How to Do Great Work"
 source_date: 2026-05-17
-themes: ["Doing Great Work", "Founder Psychology"]
+themes: ["Doing Great Work", "Misc"]
 generated_at: 2026-05-27T20:40:30+00:00
 agent: note-taker
 model: claude-sonnet-4-6

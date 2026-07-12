@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "The greatest thing Jobs designed was his business.\n\n",
+    "start_char_index": 650,
+    "end_char_index": 702,
+    "response_text": "The most important design insight in the book, buried in the opening."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Brilliant thinking is rare, but courage is even in shorter supply than genius. ",
+    "start_char_index": 10523,
+    "end_char_index": 10602,
+    "response_text": "The contrarian question isn't hard to answer intellectually \u2014\nit's hard to say out loud."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most contrarian thing of all is not to oppose the crowd, but to think for yourself. And the way to do that is to ask yourself this question. What valuable company is nobody building? ",
+    "start_char_index": 15436,
+    "end_char_index": 15623,
+    "response_text": "Thiel's contrarianism isn't performative contrarianism.\nThe useful question isn't \"what does everyone else believe?\"\nIt's \"**what valuable company is nobody building?**\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "All happy companies are different.\n\nEach one earns a monopoly by solving a unique problem. All failed companies are the same. They failed to escape competition. ",
+    "start_char_index": 17808,
+    "end_char_index": 17969,
+    "response_text": "The Tolstoy inversion is genuinely good framing.\n**Differentiation isn't a nice-to-have** \u2014 it's the only\nmechanism by which a business survives long-term."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you focus on near term growth above all else, you miss the most important question you should be asking. Will this business still be around a decade from now? ",
+    "start_char_index": 24990,
+    "end_char_index": 25152,
+    "response_text": "Growth is measurable so people optimise for it.\n**Durability is invisible** until the business collapses."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The perfect target market for a startup is a small group of particular people concentrated together and served by few or no Competitors. Once you create and dominate a niche market, then you should gradually expand into related and slightly broader markets. ",
+    "start_char_index": 31069,
+    "end_char_index": 31327,
+    "response_text": "Start tiny, **own it completely**, then expand.\nAmazon's real founding story is a niche-first thesis with\na secret \"everything store\" endgame \u2014 not a bookstore vision."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The most important things are singular. One market will probably be better than all others. One distribution strategy usually dominates all others too. ",
+    "start_char_index": 38384,
+    "end_char_index": 38536,
+    "response_text": "The power law isn't just about outcomes \u2014\nit's a decision-making framework. Most\nfounders hedge. Thiel's saying the hedge\nis the mistake."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Every correct answer is necessarily a secret. Something important and unknown, something hard to do, but doable.\n\n",
+    "start_char_index": 39978,
+    "end_char_index": 40092,
+    "response_text": "The prompt \"what valuable company is\nnobody building?\" is deceptively sharp.\nIt filters for **contrarian + feasible**\nsimultaneously \u2014 most idea frameworks\nonly do one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A great company is a conspiracy to change the world. When you share your secret, the recipient becomes a fellow conspirator. ",
+    "start_char_index": 42918,
+    "end_char_index": 43043,
+    "response_text": "The conspiracy framing reframes hiring and\npitching completely. You're not selling a\njob \u2014 you're **inducting someone into a\nsecret**. Changes who you want to recruit."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Superior sales and distribution by itself can create a monopoly even with no product differentiation.\n\nThe converse is not true. ",
+    "start_char_index": 49634,
+    "end_char_index": 49763,
+    "response_text": "This is the line most technical founders\nneed tattooed somewhere visible.\n**Distribution beats product** in a\nstraight fight \u2014 Thiel is unusually blunt\nabout this for a tech investor."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But advertising doesn't exist to make you buy a product right away. It exists to embed subtle impressions that will drive sales later. ",
+    "start_char_index": 50381,
+    "end_char_index": 50516,
+    "response_text": "Most builders treat advertising as a\ndirect-response tool and then conclude\nit doesn't work. Wrong frame entirely \u2014\nit's **slow infrastructure**, not a\nvending machine."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Jobs returned to Apple 12 years later shows how the most important task in business, the creation of new value, cannot be reduced to a formula and applied by professionals. When he was hired as an interim CEO of Apple in 1997, the impeccably credentialed executives who preceded him had steered the company nearly to bankruptcy. ",
+    "start_char_index": 58493,
+    "end_char_index": 58822,
+    "response_text": "The \"credentialed professional\" framing is\nthe real dig here. Bureaucratic competence\nnearly killed Apple. **Vision isn't a\nprocess** \u2014 you can't hire it in."
+  }
+]

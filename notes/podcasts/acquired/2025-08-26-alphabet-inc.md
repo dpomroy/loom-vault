@@ -4,7 +4,7 @@ source_path: sources/podcasts/acquired/2025-08-26-alphabet-inc.md
 source_title: "Alphabet Inc."
 source_date: 2025-08-26
 show: "Acquired"
-themes: ["AI & Software", "Business Models"]
+themes: ["Google & AI History"]
 generated_at: 2026-06-06T10:26:26+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-02-openai-cfo-sarah-friar-on-ipo-ai
 source_title: "OpenAI CFO Sarah Friar on IPO, AI Rivalries, New Device, and Spending $100B+ on Compute"
 source_date: 2026-06-02
 show: "All-In"
-themes: ["AI & Software"]
+themes: ["AI Industry Dynamics", "Misc"]
 generated_at: 2026-06-03T02:02:41+00:00
 agent: note-taker
 model: claude-sonnet-4-6

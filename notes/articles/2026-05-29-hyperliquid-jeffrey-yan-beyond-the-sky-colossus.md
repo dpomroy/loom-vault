@@ -3,7 +3,7 @@ source: notes
 source_path: sources/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus.md
 source_title: "Hyperliquid & Jeffrey Yan: Beyond the Sky - Colossus"
 source_date: 2026-05-29
-themes: ["Business Models", "Founder Psychology", "Misc"]
+themes: ["Business Models & Strategy", "Founder Psychology", "Misc"]
 generated_at: 2026-05-31T02:03:02+00:00
 agent: note-taker
 model: claude-sonnet-4-6

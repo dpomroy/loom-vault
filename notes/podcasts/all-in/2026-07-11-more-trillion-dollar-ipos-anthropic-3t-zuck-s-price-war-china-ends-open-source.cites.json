@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "He said, write down our token costs are doubling every 45 days.\n\n",
+    "start_char_index": 8123,
+    "end_char_index": 8188,
+    "response_text": "This is the most honest line in the episode."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he said, honestly, what we're finding out is that you need to use a lot more tokens to get to this next iteration of improvement because we've effectively already asymptoted. ",
+    "start_char_index": 8577,
+    "end_char_index": 8756,
+    "response_text": "The asymptote framing is the key claim here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I suspect that if you can get out now, you should get out now before all of that starts to seep into the water table. Because I think that's probably what allows you to get out at a huge price and raise a huge amount of money.\n\n",
+    "start_char_index": 9085,
+    "end_char_index": 9316,
+    "response_text": "Chamath is explicitly saying the IPO timing\nis defensive \u2014 raise big before the ROI\nquestion becomes loud."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think the thing that's different is that intelligence is the largest TAM we've ever seen in the history of the world. These guys are penetrating it. ",
+    "start_char_index": 26253,
+    "end_char_index": 26404,
+    "response_text": "Brad's bull case in one line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The economic value, the share of wallet, is actually increasing to the frontier labs, while the share of tokens these Commodity tokens is obviously going up, you know, to the other guys. ",
+    "start_char_index": 32420,
+    "end_char_index": 32607,
+    "response_text": "This directly contradicts the post-DeepSeek\nnarrative that open-source would commoditise\nfrontier models into irrelevance."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think that what I can tell you after this UN commission that I joined with Benioff and Jensen and Brad Smith, there is not a single country in the world that is not trying to figure out its own sovereign AI strategy. And I don't think they believe using a closed source American model is the answer. ",
+    "start_char_index": 34115,
+    "end_char_index": 34417,
+    "response_text": "Chamath's UN commission experience\ngives this weight \u2014 this isn't punditry,\nit's a firsthand read of the room."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I think this is a case of the spirit is willing, but the flesh is weak. I mean, they are willing, they would like to diversify off of these close models, but they are unable to do it. ",
+    "start_char_index": 46219,
+    "end_char_index": 46406,
+    "response_text": "The sharpest line in the excerpt. Most enterprise AI cost-cutting talk is just that \u2014 talk. The technical lift of token routing is a real moat for the frontier labs, whether they intended it or not."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think that open source went from 19% last year to 11% this year. So open source as a share of enterprise spending is actually decreasing. ",
+    "start_char_index": 46486,
+    "end_char_index": 46626,
+    "response_text": "Counterintuitive given the noise around open weights. The narrative and the data are pointing in opposite directions \u2014 worth filing for anyone building on the assumption that open source is eating the frontier."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So what he said is that for mature use cases, yeah, you want to go open, but for immature use cases, which are all the new things people are discovering right now, you're just going to want to use the most capable general model that you can. And then once you figure out what the workflow is and what the workload is going to be and exactly what you're trying to accomplish, then you can use a small, highly trained model. ",
+    "start_char_index": 48309,
+    "end_char_index": 48732,
+    "response_text": "This is the cleanest framework in the whole excerpt. It reframes the open-vs-closed debate as a **maturity curve**, not a horse race. Directly relevant to how I think about model choices for Loom and the trading pipeline."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so this is, I think the tactic is you stay open until you catch the frontier or you get close to it, and then there's a really compelling incentive to go close because you want to capture all the value for yourself.\n\n",
+    "start_char_index": 63090,
+    "end_char_index": 63311,
+    "response_text": "Describes OpenAI's own history and now maps cleanly onto Chinese labs. The open-source generosity was always conditional \u2014 useful pattern when evaluating how long to rely on any \"free\" model."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:59:59]: Just by the way, I think the absolute best thing that could happen for America in terms of winning the AI race against China is if China somehow sprouted their own doomer community. Yes, we need like a Chinese yud over there.\n\n",
+    "start_char_index": 66368,
+    "end_char_index": 66620,
+    "response_text": "Dry and genuinely funny, but also a real point \u2014 regulatory self-sabotage is a strategic vulnerability. The argument applies symmetrically to the US side."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you just look at the load growth that's expected between now and 2050, we are about three entire California's worth of energy short. And that's just assuming regular consumption of devices and cars, fridges and televisions and computers. ",
+    "start_char_index": 68861,
+    "end_char_index": 69102,
+    "response_text": "The **energy constraint** is the under-discussed ceiling on everything else in this conversation \u2014 tokens, sovereignty stacks, chip production. Software debates are moot if the electrons aren't there."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think the antidote to more socialism is more capitalism. And as I told the president, this is more capitalism.\n\n",
+    "start_char_index": 80241,
+    "end_char_index": 80359,
+    "response_text": "The clearest ideological thesis of the segment \u2014 and Brad delivers it as a bumper sticker, not an argument. Whether you buy the framing or not, it's the engine driving the whole programme."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So you can donate up to $5,000 a year to your kid as long as they're under 18. And it's not just you, it's any friends and family or others can contribute as well, which is new. And then they get tax free compounding until they're 18 and your employer can contribute up to $2,500 tax free. ",
+    "start_char_index": 82326,
+    "end_char_index": 82616,
+    "response_text": "Tax-free compounding until 18, employer contributions of up to $2,500 also tax-free \u2014 this is the mechanic that CPAs are excited about, and it's genuinely novel."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And this is where I think it gets really amazing is because if you start with 2 to $300,000 at age 18, you'll be at $10 million plus by age 60 if you just let it compound. ",
+    "start_char_index": 84334,
+    "end_char_index": 84506,
+    "response_text": "Assumes standard historical market returns \u2014 not guaranteed, but not a crazy assumption either over a 42-year horizon."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know, if a kid doesn't have any money. It's hard to get excited about learning about money. But if a kid's in the game and has 12,000 bucks in the seventh grade. Now you got my attention. ",
+    "start_char_index": 99329,
+    "end_char_index": 99521,
+    "response_text": "This is the most underrated argument in the whole segment. Financial literacy education is notoriously ineffective in the abstract \u2014 skin in the game changes the incentive to actually learn."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And our objective was not we want to build the best thing that the government's ever launched. We wanted to build one of the best consumer products, period, that's ever been launched.\n\n",
+    "start_char_index": 102952,
+    "end_char_index": 103137,
+    "response_text": "And apparently the App Store ratings and engagement back that up \u2014 which, for a government-adjacent product, is genuinely noteworthy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:34:35]: And any Silicon Valley consumer company would be thrilled with the numbers that we're seeing, the ratings that we're seeing, the engagement that we're seeing. ",
+    "start_char_index": 103185,
+    "end_char_index": 103369,
+    "response_text": "And apparently the App Store ratings and engagement back that up \u2014 which, for a government-adjacent product, is genuinely noteworthy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What Governor Moore from Maryland said yesterday, he said Republicans and Democrats have been trying to do something that looks like this, feels like this for 40 years. This guy got it done. Give him credit. ",
+    "start_char_index": 103733,
+    "end_char_index": 103941,
+    "response_text": "Governor Moore of Maryland's framing \u2014 and it's the most politically useful quote in the segment because it comes from a Democrat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The easiest compounding in the world. The easiest compounding in the world is between 0 and 25.\n\n",
+    "start_char_index": 109506,
+    "end_char_index": 109603,
+    "response_text": "The whole account framing hangs on this line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Social Security takes 12.4% of my W2 income and puts it into something akin to the black hole of government. I don't own it, I don't control it. If I ask a room of 3,000 people how much they've contributed, they have no idea. If I die, I don't have title, it doesn't pass to my heirs, etc. So it's really not mine. ",
+    "start_char_index": 106703,
+    "end_char_index": 107018,
+    "response_text": "The contrast being drawn: Social Security is\nmoney you never own, can't track, can't\ninherit."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think the market gap, Brad, correct me if I'm wrong, but basically the market gap that was created here is, is that you can't get an ira, which is basically a tax Advantage savings account, until you have your first job. Right. And get earnings. Correct, Correct. Which would be for most people at age 22 plus. So for that first 22 years, you're\n\n**Speaker C** [1:39:54]: not in the game.\n\n",
+    "start_char_index": 108238,
+    "end_char_index": 108634,
+    "response_text": "The actual market gap being plugged: no\ntax-advantaged vehicle exists before earned\nincome, which locks most people out until\ntheir mid-twenties."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:39:57]: And you're effectively giving every child at birth ira. You know, it's a Trump account that has certain rules. It's actually better than an IRA.\n\n",
+    "start_char_index": 108731,
+    "end_char_index": 108902,
+    "response_text": "Framed as better than an IRA because employers\nand third parties can contribute to it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But the most important thing, you know, like I say this, you know, Buffett's like, the secret is to find a really small snowball on a really long hill. Okay. But the size of the hill in this country, we've cut off the first third of the hill forever. Nobody saves anything until they're 25. ",
+    "start_char_index": 109209,
+    "end_char_index": 109500,
+    "response_text": "The Buffett snowball metaphor applied\nto policy: the slope exists, but nobody\nstarts rolling until they're 25."
+  }
+]

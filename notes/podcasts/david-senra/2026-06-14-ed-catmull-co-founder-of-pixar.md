@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pi
 source_title: "Ed Catmull, Co-founder of Pixar"
 source_date: 2026-06-14
 show: "David Senra"
-themes: ["Building Teams"]
+themes: ["Business Models & Strategy", "Misc", "Sports & Media Empires"]
 generated_at: 2026-06-17T02:03:43+00:00
 agent: note-taker
 model: claude-sonnet-4-6

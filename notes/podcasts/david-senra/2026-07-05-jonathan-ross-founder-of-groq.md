@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-07-05-jonathan-ross-founder-of-gr
 source_title: "Jonathan Ross, Founder of Groq"
 source_date: 2026-07-05
 show: "David Senra"
-themes: ["AI & Software", "Culture & IP", "Founder Psychology", "Misc"]
+themes: ["AI Industry Dynamics", "Founder Psychology", "Misc"]
 generated_at: 2026-07-08T02:03:27+00:00
 agent: note-taker
 model: claude-sonnet-4-6

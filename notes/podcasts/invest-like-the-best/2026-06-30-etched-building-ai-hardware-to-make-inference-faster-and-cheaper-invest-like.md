@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-06-30-etched-building-ai
 source_title: "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]"
 source_date: 2026-06-30
 show: "Invest Like the Best"
-themes: ["AI & Software", "Misc"]
+themes: ["AI Industry Dynamics", "Misc"]
 generated_at: 2026-07-01T02:10:06+00:00
 agent: note-taker
 model: claude-sonnet-4-6
