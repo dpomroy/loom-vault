@@ -1,28 +1,43 @@
 ---
 type: theme
 name: "Founder Psychology"
-description: "Quotes about the mindset, drive, identity, and psychological makeup of founders, entrepreneurs, and builders who pursue audacious goals."
-generated_at: 2026-07-12T02:06:04+00:00
+description: "The mindset, motivations, identity, and personal drives of entrepreneurs and obsessive builders across business and creative fields."
+generated_at: 2026-07-15T02:04:25+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 61
+quote_count: 91
 ---
 
 # Founder Psychology
 
-Quotes about the mindset, drive, identity, and psychological makeup of founders, entrepreneurs, and builders who pursue audacious goals.
+The mindset, motivations, identity, and personal drives of entrepreneurs and obsessive builders across business and creative fields.
 
 ## Quotes
 
+- "Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care." — [[notes/articles/2026-05-17-how-to-do-great-work]]
 - "I felt like I could go and build a thing that would revolutionize finance." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "If you're not the first person doing something, it's probably not worth your time to be doing it at all." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "I think people are just a bit too soft in general. The brain is an organ. If you need to work more hours, you can train for it." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
-- "It's the hard way to do things, but we care about how we get to our goal, because how we get there determines what it actually is at the end that we've built." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "Be very confident you're going in the right direction, and execute well on the step you're taking right now, without knowing exactly where you're going." — [[notes/articles/2026-05-29-hyperliquid-jeffrey-yan-beyond-the-sky-colossus]]
 - "Probably when I was 12, I knew I was going to start a company eventually. I wanted to make the world better. In order to do that, you need to do more than just invent things." — [[notes/podcasts/acquired/2025-06-30-google-the-origin-of-search]]
+- "You will destroy this entire industry." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
+- "I knew a rough road lay ahead, for my goal ultimately was to build a broad-based firm. And I took on my new leadership role in the same way I had left my previous leadership role. Fired with enthusiasm." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
 - "I needed to be capability bounded, not industry bounded." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
+- "We created this principle called creating virtuous cycles of mutual benefit. And what that led us to do is to start this never ending cycle of growth, innovation, success and failures." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
+- "If you're not failing at everything, you're not doing anything new." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
+- "I walked in my boss's office and fired myself." — [[notes/podcasts/all-in/2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire]]
 - "find people who have a chip on their shoulder, someone who has a reason to push hard." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
 - "my family was uprooted out of Iran... my dad had one of the most successful real estate development companies in the country... and we got booted out of our country." — [[notes/podcasts/david-senra/2026-05-03-adam-foroughi-applovin]]
+- "I grew up, you know, in the 70s and 80s, where I used to see CEOs reading canned statements from lawyers and things like that and just fake phony bullshit that I was never into." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "I cut negative, negative people out of my life so fucking fast. And it don't matter who you are." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "Everything that we've done over the last 25 years has never been done before. And we continue to do things that have never been done before. There's a vision for this business, and literally none of them know it." — [[notes/podcasts/david-senra/2026-05-10-dana-white-ufc]]
+- "we essentially did a hostile takeover with no money. The reason we did that is we had no money. So it was really our only choice." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "I left. I took a 95% pay cut and move my family from our beautiful house in West LA to Atherton to a rental house that was going to be torn down." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "we are going to give you the resources, creative and financial to pursue your passion. We're not going to interfere creatively. We want you to make the best video games on earth." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "It's like a tree search where you're exploring the different options in the decision tree and you're trying to figure out how to lead to victory. That's the only thing I do in my life." — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
+- "Salty just means that you take offense to the idea of losing." — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
+- "We've been spending all this time living in survival mode as a species, and now we're going to be living in creative mode." — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
+- "The reason that you are sometimes able to anyway is if you really plant your flag in the ground and put a stake into what you think the future is and you run like hell towards that" — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
 - "Founders are rationally optimistic. They're just not founders." — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
 - "we would sell if we thought it was the most ambitious thing to do" — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
 - "we could have gone for it all, we could have pushed harder and we did it. I just don't think we would live with ourselves in that outcome." — [[notes/podcasts/david-senra/2026-06-28-scott-wu-cognition]]
@@ -50,28 +65,43 @@ Quotes about the mindset, drive, identity, and psychological makeup of founders,
 - "It wasn't joy. It wasn't relief. If I felt anything, it was regret. Good God, I thought, regret, because I honestly wished I could do it all over again." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "I'd tell men and women in their mid-20s not to settle for a job or a profession or even a career. Seek a calling. Even if you don't know what that means, seek it if you're following your calling. The fatigue will be easier to bear. The disappointments will be fuel. The highs will be like nothing you've ever felt." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
 - "And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn't mean stopping. Don't ever stop." — [[notes/podcasts/founders/2026-05-07-418-phil-knight-founder-of-nike]]
-- "Between now and when you have a product, you are the product, my friend. And so you better be nice to people." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
-- "You know what my mistake was? I gave Steve too much dang money. When you have too much money, you just don't have that hunger." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "I was 12 years old when I decided I would be an aircraft designer. My whole life from that time was aimed at preparing for that goal." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "Three times I was offered a company presidency at Lockheed and three times I declined it. To me, there is no better job within the corporation than head of Advanced Development Projects... I was doing what I wanted to do since I was 12 years old." — [[notes/podcasts/founders/2026-05-16-419-kelly-johnson-skunk-works]]
+- "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Steve wanted grokking from team members, which he describes as full body absorption of the company's DNA." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
 - "He was choosing purity over survival." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "Steve did not want to be guided in his thinking. He wanted to know what the facts are on which to base something." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
 - "Steve doesn't know how to do anything but lead." — [[notes/podcasts/founders/2026-06-04-420-steve-jobs-in-exile]]
+- "It is probably the defining point of Steve Jobs life because you will see one of the most brilliant entrepreneurs, maybe the greatest entrepreneur to ever live, just make mistake after mistake after mistake." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "His self identity does not revolve around being a businessman." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
-- "You know what my mistake was? I gave Steve too much dang money. When you have too much money, you just don't have that hunger." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
+- "After six years in business, NEXT own leadership couldn't agree on what business they were actually in." — [[notes/podcasts/founders/2026-06-04-420-the-lost-years-of-steve-jobs]]
 - "The more I learned about this cheeky, almost rebellious company, the more it appealed to me as it unapologetically pointed to an alternative in a complacent and creatively bankrupt industry." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
 - "I worked out what I was good at and what I was bad at. It became pretty clear what I wanted to do. I was really only interested in design. I was neither interested nor good at building a business." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
 - "The businessman wants to create something for everyone which leads to products that are middle of the road. It becomes about consensus and that's why you rarely see the spark of genius." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
 - "No, Johnny, you're just really vain. You just want people to like you. I'm surprised at you. I thought you held the work up as the most important, not how you believe you were perceived by other people." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
-- "Our goal isn't to make money. Our goal, and what gets us excited is to try to make great products. We trust that if we are successful, people will like them and if we are operationally competent, we will make a profit." — [[notes/podcasts/founders/2026-06-10-421-jony-ive]]
+- "He was so industrious that he became a positive annoyance to others who felt less inclined to work." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "It is an important opportunity. This is perhaps a fortune, and you ought not to expect me to neglect it. I must have business to occupy my mind and heart." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "To be a newspaper editor was to do more than report on the world. It was to shape it." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "Simply put, Pulitzer was a Democrat in politics, but a despot in the office." — [[notes/podcasts/founders/2026-06-20-422-joseph-pulitzer]]
+- "I was by nature fond of fumbling with machinery, I was quick in acquiring skills. Whatever I did in those years, no matter how trivial, profited me. For in the long run, there is no waste in life." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
+- "I happened on the idea of fitting an engine to a bicycle simply because I did not want to ride the incredibly crowded trains and buses myself." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
+- "Since I found pleasure in the fact that a thing of my own invention was proving useful and was appreciated by people, I was not paying much attention to profits." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
+- "I did not participate because I felt strongly that we should not choose the easy path of asking for the government's help." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
 - "The unique feature of Mr. Honda's personality has been that once he gets an idea, he pursues it regardless of what's in the way." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
+- "Looking back in my work, I feel that I have made nothing but mistakes. A series of failures, a series of regrets." — [[notes/podcasts/founders/2026-06-28-423-soichiro-honda]]
 - "Brilliant thinking is rare, but courage is even in shorter supply than genius." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
 - "The most contrarian thing of all is not to oppose the crowd, but to think for yourself." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
-- "No one is born a good CEO. And the job of CEO is completely counterintuitive. And almost all of your intuition about what to do is wrong." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
+- "If you buy the S and P at this current valuation, the 10 year forward returns negative when you buy with the S and P of 22. That's what history shows." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
+- "You retire, you die." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
+- "I feel it's a privilege to wake up. And I just hope I fricking kill it so I can give it away." — [[notes/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep-470]]
 - "I had a dream in late 2019 where I felt like I left the company for 10 years and I come back and I was like, somebody had been running the company for 10 years and they like turned it into this like giant political bureaucracy." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I think AI Founder mode. You're even in significantly more details because you have almost everything on demand." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
+- "What I like about AI is I think AI shifts our attention from consumption to creation." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
 - "adulation is like a cup with the hole at the bottom. And you keep filling it in, thinking it's love, except it just keeps coming out the bottom." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "I feel like I'm a designer more than I am a CEO and I might be afforded one of the great biggest canvases of any designer in human history." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
-- "If I'm not wrong, if I'm not making mistakes, it's just not very interesting." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
+- "I started realizing the software won't endure and the network effect will decently endure. But the ideas of Airbnb, its principles, its mission, the organization, the company, the brand, the identity, the logo, the voice, the community, what it stands for, those things will endure." — [[notes/podcasts/invest-like-the-best/2026-05-05-brian-chesky-ai-founder-mode-invest-like-the-best-ep-471]]
+- "Dara, since when is life about happiness? It's about impact." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
+- "A happy life is not necessarily an easy life." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
 - "For me, at least, my definition of risk, or how I've experienced it is you need to not know what's going to happen. Genuinely, you're going to discover something new." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
 - "The only judge of anything is yourself and your own self respect. You have to be doing it so that you feel like what you've done is interesting and worthwhile." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
 - "I'm not going to create from a place of lack anymore." — [[notes/podcasts/invest-like-the-best/2026-06-16-kareem-amin-the-unusual-approach-to-company-building-invest-like-the-best-ep-478]]
 - "You're not given permission to dream. You're born to survive." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
-- "I don't care who you are when you're taking bets that are an order of magnitude larger than any amount of money you've ever had, there's just a psychological factor there" — [[notes/podcasts/invest-like-the-best/2026-07-07-jeremy-giffon-the-billion-dollar-pdf-invest-like-the-best-ep-481]]
+- "If you're passionate about your work and you're really interested in what you do and you care about your craft, you're going to continue to iterate because it's what you do, and that leads to better results." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]

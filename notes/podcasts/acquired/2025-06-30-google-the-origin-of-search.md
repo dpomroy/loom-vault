@@ -4,7 +4,7 @@ source_path: sources/podcasts/acquired/2025-06-30-google-the-origin-of-search.md
 source_title: "Google: The Origin of Search"
 source_date: 2025-06-30
 show: "Acquired"
-themes: ["Founder Psychology", "Google & AI History"]
+themes: ["Business Models", "Founder Psychology", "Google History"]
 generated_at: 2026-06-06T10:22:44+00:00
 agent: note-taker
 model: claude-sonnet-4-6

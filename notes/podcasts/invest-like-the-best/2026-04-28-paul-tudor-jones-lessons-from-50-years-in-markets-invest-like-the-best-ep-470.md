@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-04-28-paul-tudor-jones-l
 source_title: "Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.470]"
 source_date: 2026-04-28
 show: "Invest Like the Best"
-themes: ["AI Industry Dynamics", "Investing & Markets", "Misc"]
+themes: ["Founder Psychology", "Markets & Investing", "Misc"]
 generated_at: 2026-05-27T21:07:49+00:00
 agent: note-taker
 model: claude-sonnet-4-6

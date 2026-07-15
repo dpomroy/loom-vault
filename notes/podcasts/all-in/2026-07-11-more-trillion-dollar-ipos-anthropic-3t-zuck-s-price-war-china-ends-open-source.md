@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-07-11-more-trillion-dollar-ipos-anthro
 source_title: "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts"
 source_date: 2026-07-11
 show: "All-In"
-themes: ["AI Industry Dynamics", "Investing & Markets", "Misc"]
+themes: ["AI & Technology", "Markets & Investing", "Misc"]
 generated_at: 2026-07-12T02:04:20+00:00
 agent: note-taker
 model: claude-sonnet-4-6

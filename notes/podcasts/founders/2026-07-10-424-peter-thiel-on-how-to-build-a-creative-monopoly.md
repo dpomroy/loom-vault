@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-buil
 source_title: "#424 Peter Thiel on How to Build a Creative Monopoly"
 source_date: 2026-07-10
 show: "Founders"
-themes: ["Business Models & Strategy", "Founder Psychology", "Misc"]
+themes: ["Business Models", "Founder Psychology"]
 generated_at: 2026-07-12T02:05:25+00:00
 agent: note-taker
 model: claude-sonnet-4-6

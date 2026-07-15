@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "I think I probably would have just renamed it Money Moves at the Speed of Trust, because the entire book really is about that. ",
+    "start_char_index": 7786,
+    "end_char_index": 7913,
+    "response_text": "The whole book distilled into five words."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So many people do such a good job of using logos or logic to actually get somebody to a yes, and they still say no. Because it's the difference between belief and trust. ",
+    "start_char_index": 8358,
+    "end_char_index": 8528,
+    "response_text": "The belief/trust gap is the most underrated concept in fundraising."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't really think there's such things as risk loving risk aversion. I think that there are only people who perceive there's no risk. ",
+    "start_char_index": 15956,
+    "end_char_index": 16092,
+    "response_text": "Contrarian and probably correct."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Great differentiation requires great sacrifice. ",
+    "start_char_index": 28897,
+    "end_char_index": 28945,
+    "response_text": "The VC weapons example that follows is the sharpest illustration \u2014 firms that said \"never\" and then quietly reversed course."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Most people like to bullshit their way through scarcity. Oh well, if we have room and the investor 100% knows that they're lying and you immediately lose credibility. So I never let my candidates, the people I represent, I never let them play that game because they see through it and you lose trust. And if you lose trust, you lost the velocity of money. ",
+    "start_char_index": 32319,
+    "end_char_index": 32675,
+    "response_text": "Fake scarcity is one of the most common fundraising mistakes, and it's self-defeating."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so it's literally just pipeline times conversion ratio times bite size. That literally is the only math that is important for a fundraiser.\n\n",
+    "start_char_index": 34063,
+    "end_char_index": 34208,
+    "response_text": "Strips the mysticism out of fundraising and turns it into a mechanical process."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the first mistake that everybody makes is that they think that the logic is where you're winning it. The logic actually is an output of a successful sales pitch, not the input.\n\n",
+    "start_char_index": 42927,
+    "end_char_index": 43108,
+    "response_text": "The single most important line in the excerpt.\nEveryone overprepares the deck and\nunderprepares for the emotional state\nin the room."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You can win the belief this plane's not going to crash. I'm still scared money's not going to move. So in other words, got to get them past the fear. And people don't address the fear in the room. ",
+    "start_char_index": 41346,
+    "end_char_index": 41543,
+    "response_text": "This is the gap most pitches fall into.\nBelief and trust are not the same thing \u2014\nand most people stop at belief."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Rationalization is you're taking something that is not rational and you are actually forcing it into becoming something that it is not, which is rational. In other words, rationalization is just the thing that we make up in our head to explain why we feel the way we feel. ",
+    "start_char_index": 42172,
+    "end_char_index": 42445,
+    "response_text": "Solid framing.\nLogic doesn't drive decisions \u2014\nit dresses them up after the fact.\nWorth internalising for any persuasion context."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker E** [0:46:21]: The inner game of fundraising is really about putting the person in the room as the center of all conversation, that I actually don't exist. But for the fact that I'm in your mind at this moment in time, I actually am just an object in your mind. ",
+    "start_char_index": 52742,
+    "end_char_index": 53014,
+    "response_text": "This is the discipline most people\ncan't maintain \u2014 ego gets in the way.\nReal persuasion is about disappearing\ninto the other person's frame."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That's what a great fundraiser is, when you can send that person in, say, ah, this person is here. I know you speak for the President and that's really hard to do. And it's fascinating how many people get this wrong. ",
+    "start_char_index": 46180,
+    "end_char_index": 46397,
+    "response_text": "The Secretary of State framing is the\nmost useful hiring lens in this excerpt.\nThe fundraiser isn't the product \u2014\nthey're the **proxy** for credibility."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Cannot be any other way. If you're authentically developing trust, then you're authentically creating a friendship.\n\n",
+    "start_char_index": 52257,
+    "end_char_index": 52374,
+    "response_text": "The compounding side-effect of doing\nthis job well that nobody talks about.\nNot a soft point \u2014 it's a signal that\nthe trust-building was genuine,\nnot transactional."
+  }
+]

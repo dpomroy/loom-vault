@@ -1,0 +1,100 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And I think what made Ramp start to scale very early on in a very crowded industry that people thought we weren't, we were like 175 years late to was this was, I think, really inverting a lot of the way that many of our competitors had acted. ",
+    "start_char_index": 9337,
+    "end_char_index": 9580,
+    "response_text": "The contrarian founding insight.\nThe whole industry agreed on rewards-drive-spend;\nRamp just **asked the opposite question** and built\na different product from it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you kind of look at the credit card industry, which is where we started, even just seven years ago, everyone had agreed that the best way to earn business was through these points and rewards programs. ",
+    "start_char_index": 9587,
+    "end_char_index": 9792,
+    "response_text": "The contrarian founding insight.\nThe whole industry agreed on rewards-drive-spend;\nRamp just **asked the opposite question** and built\na different product from it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so simply by inverting that primary assumption and saying, what if instead of going and trying to get you to be a little bit worse off by spending more than you intended, what if I worked really hard to help you spend less? ",
+    "start_char_index": 10084,
+    "end_char_index": 10312,
+    "response_text": "The contrarian founding insight.\nThe whole industry agreed on rewards-drive-spend;\nRamp just **asked the opposite question** and built\na different product from it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "To explain a bit more of what I mean, large language models have read more lines of code than any engineer alive. They've read more medical case texts than any doctor alive. They've read more company filings and chart of accounts than any accountant who's ever lived or probably ever will live. ",
+    "start_char_index": 16972,
+    "end_char_index": 17267,
+    "response_text": "The case for the **determined generalist**.\nLLMs collapse the knowledge boundary that used to\nenforce specialisation \u2014 stubborn curiosity\nnow substitutes for years of domain training."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And in some sense, if I can just ask a good question, I'm the best doctor I've ever been in my life, and I'm not like a doctor at all, right? If I'm just stubborn, I can keep going and do this. ",
+    "start_char_index": 17267,
+    "end_char_index": 17461,
+    "response_text": "Glyman's version of the leverage argument \u2014\nbut grounded in **practice**, not hype.\nThe unlock is stubbornness, not raw intelligence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And you, you see these mega corporations. It's kind of like the Tower of Babel, where you know this. No one in sales knows an actual engineer. The engineers don't know any actual designers. Everything's hard because has to go up top and down on through. And these organizations become very Byzantine. ",
+    "start_char_index": 19366,
+    "end_char_index": 19667,
+    "response_text": "Org dysfunction framed as a **communication problem**,\nnot a talent problem. Worth connecting to Ramp's own\nscaling decisions \u2014 this is a warning Glyman is\nclearly building against, not just observing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's all to say, I'm less interested in what is the resume. I'm far more interested in, like, proof of work. It can be an award, it can be something you've built. It can be like a great work that you read and say, this is electric. ",
+    "start_char_index": 23729,
+    "end_char_index": 23961,
+    "response_text": "Clean, **usable hiring heuristic**.\nAwards, GitHub activity, something you built \u2014\nanything that shows the output, not the credentials."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then last look, I, I think one of the most damaging things you can do to an organization is if there are folks who are getting paid similarly, have similar ownership and are just not pulling their weight. Because I think it leads to this, like, very tough question and fair one for folks of like, if I'm busting my ass and working super hard and like, you know, giving up on all the things that I am. And like, you're not, you know, there's all these folks free riding and you're not enforcing high standards. Why, why should we obsess so much over reaching our higher potential? This organization doesn't, doesn't seem to demonstrate a real respect for the pursuit of higher and higher standards and an intolerance for anything less than giving your best. ",
+    "start_char_index": 32273,
+    "end_char_index": 33034,
+    "response_text": "**Free-riding destroys standards** from the inside out.\nHigh performers calibrate their effort to what\nthe organisation actually enforces, not what\nit claims to value."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It is like, no one is coming to Ramp saying, like, I want to buy a credit card, or can you build me a better expense app? Like, I don't think people should do expense reports. ",
+    "start_char_index": 39417,
+    "end_char_index": 39593,
+    "response_text": "The framing shift is the whole business model.\nGlyman isn't iterating on a product category \u2014\nhe's **rejecting the category entirely**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I think one of the more interesting questions to be asking is in a world in which intelligence is very plentiful, in which intelligence is accessible, in which intelligence is cheap, what should you build? What kind of businesses are now possible? ",
+    "start_char_index": 52954,
+    "end_char_index": 53206,
+    "response_text": "The right question once the AI hype\nsettles. Not \"will AI replace us\" but\n**\"what businesses are now possible.\"**"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think part of why we are so interested in payments in this kind of world is I think when you have an explosion of intelligence and it's more accessible than ever, I think you will have an explosion of payments, whether it's people or agents on behalf of people or agents in general making purchases. And I think you'll need a better substrate and a form factor to go track and control and get more value out of every dollar an hour. ",
+    "start_char_index": 54018,
+    "end_char_index": 54457,
+    "response_text": "Ramp's structural bet in one sentence.\nMore intelligence = more **economic activity** =\nmore transactions needing governance."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ramp was very unusual in that from the get go really what we were trying to sell you was time we would move your funds. But the pain that people had was like, like it was a waste of everyone's time to do expense reports. It was a waste of time to go and have to tick and tie for every payment to close your books. Really what we're trying to go do is automate and do the work around the money movement. ",
+    "start_char_index": 67612,
+    "end_char_index": 68015,
+    "response_text": "Banks sell money. Ramp sells **reclaimed hours**.\nThat's why the scoreboard tracks\ndollars blocked and expense reports\nautomated \u2014 not revenue alone."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It is all of the knowledge work and the business process that we are working to automate and help you get more value out of. In some sense it is a form of knowledge work and intelligence that we are are serving and servicing for you. And I think that labs are in some sense the most comparable provider of this type of service. ",
+    "start_char_index": 68015,
+    "end_char_index": 68343,
+    "response_text": "Bold framing, and probably correct.\nBoth are selling **automated knowledge work**.\nThe question is who owns the layer\nclosest to where the money moves."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if you really internalize of what are the capabilities of some of these organizations, I think it calls into question of if you assume intelligence will be functionally free in some sense, what is unique and how do we make sure we're adding durable and differentiated value compared to these organizations. ",
+    "start_char_index": 69547,
+    "end_char_index": 69858,
+    "response_text": "The honest existential question.\nGlyman's answer: **own the transaction layer**,\nnot the intelligence layer.\nThat's the moat thesis in one line."
+  }
+]

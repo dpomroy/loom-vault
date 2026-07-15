@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-
 source_title: "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]"
 source_date: 2026-06-03
 show: "Invest Like the Best"
-themes: ["Business Models & Strategy", "Founder Psychology", "Misc"]
+themes: ["Business Models", "Founder Psychology", "Misc"]
 generated_at: 2026-06-07T02:08:08+00:00
 agent: note-taker
 model: claude-sonnet-4-6

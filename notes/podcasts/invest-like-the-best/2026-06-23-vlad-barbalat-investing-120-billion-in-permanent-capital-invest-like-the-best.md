@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-inve
 source_title: "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]"
 source_date: 2026-06-23
 show: "Invest Like the Best"
-themes: ["AI Industry Dynamics", "Business Models & Strategy", "Founder Psychology", "Investing & Markets", "Misc"]
+themes: ["Business Models", "Founder Psychology", "Markets & Investing", "Misc"]
 generated_at: 2026-06-24T02:09:30+00:00
 agent: note-taker
 model: claude-sonnet-4-6
