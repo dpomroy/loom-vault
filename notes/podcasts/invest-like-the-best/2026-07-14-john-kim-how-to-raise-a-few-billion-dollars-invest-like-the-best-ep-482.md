@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-07-14-john-kim-how-to-ra
 source_title: "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]"
 source_date: 2026-07-14
 show: "Invest Like the Best"
-themes: ["Business Models", "Misc"]
+themes: ["Business Models & Strategy", "Capital & Markets"]
 generated_at: 2026-07-15T02:03:44+00:00
 agent: note-taker
 model: claude-sonnet-4-6

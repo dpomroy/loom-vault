@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-06-06-the-ipo-comeback-why-tech-giants
 source_title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
 source_date: 2026-06-06
 show: "All-In"
-themes: ["AI & Technology", "Markets & Investing", "Misc"]
+themes: ["AI & Technology Landscape", "Capital & Markets", "Misc"]
 generated_at: 2026-06-07T02:05:25+00:00
 agent: note-taker
 model: claude-sonnet-4-6

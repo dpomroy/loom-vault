@@ -1,0 +1,128 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "The government does not have the expertise to evaluate AI models. The criteria are changing too rapidly. You're going to very rapidly end up with a queue where all the models would be waiting to get tested. ",
+    "start_char_index": 11223,
+    "end_char_index": 11430,
+    "response_text": "The core argument against an FAA-style agency."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then number five is this should be a substitute for a new regulatory agency. If it's just additive, then it defeats the purpose and there's no real reason to support it. ",
+    "start_char_index": 14361,
+    "end_char_index": 14535,
+    "response_text": "Sacks's fifth condition for the SRO."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what it says is, quote, AI giant Anthropic is pursuing a strategy of one upmanship that encourages states to impose increasingly tougher AI guardrails rather than align around a single set of regulations. ",
+    "start_char_index": 21334,
+    "end_char_index": 21543,
+    "response_text": "Sacks quoting the Politico piece directly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So at some point I think these companies are going have to grow a spine and fight and decide where they're willing to draw a line. ",
+    "start_char_index": 23952,
+    "end_char_index": 24083,
+    "response_text": "Sacks on what the industry needs to do."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The interesting question to ask is what is the only kind of baby that Advent and Stripe and Block could have together? And I think there's one which is you are creating a competitor to Visa and MasterCard because you now have upwards of 6 or 700 million accounts. You have massive stablecoin infrastructure. You have all of the risk management infrastructure that Stripe has built over the last 15 or 20 years. ",
+    "start_char_index": 27699,
+    "end_char_index": 28110,
+    "response_text": "Chamath's framing of the PayPal deal's real upside."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think that eBay and PayPal are probably the beginning of a wave of megadeals of call it flaccid digital businesses. You have Chamat's attention that can be revived.\n\n**Speaker A** [0:27:32]: Okay.\n\n**Speaker C** [0:27:32]: With the blue chew of capital and the right operator. ",
+    "start_char_index": 32469,
+    "end_char_index": 32748,
+    "response_text": "Chamath's prediction on what comes next."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:32:01]: I've said for a long time it's a misnomer to call it the PayPal mafia. It's really the PayPal diaspora, totally. Our homeland was taken over and they burned our temple and then kicked everybody out.\n\n",
+    "start_char_index": 37978,
+    "end_char_index": 38203,
+    "response_text": "Sacks reframes the \"PayPal mafia\" myth entirely. The founders didn't conquer \u2014 they were expelled. That distinction matters: the diaspora framing explains *why* they scattered so productively, not because they're sharks but because they had nowhere else to go."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it seems to me that the existential issue for PayPal is that you're dealing with a product that's 25 years old. I mean, it's the same thing that we created back, you know, like, 27 years ago. I mean, it's changed a little bit, but not that much. And the problem is that that interaction model is legacy. And so unless you've got a vision of how to resuscitate it and rejuvenate that product, I think, yeah, it could be a good financial play, maybe.\n\n",
+    "start_char_index": 40386,
+    "end_char_index": 40840,
+    "response_text": "Sacks puts the acquisition thesis in perspective \u2014 you can use AI to cut costs and make the numbers work, but the product itself is a legacy interaction model. Buying users is fine; buying a dead product vision is a trap. The honest answer is nobody has a plan to fix that yet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so if you think that you're going to flip a ZDR switch, zero data retention, which is the magic term that the industry uses to tell you that everything's going to be okay, I think the answer and the message should be it's not going to be okay because you can't guarantee any of it. So the model companies, when they give you these zero data retention policies, are probably trying their best, but I think the reality is you are leaking information where you don't know it. And they, despite their best efforts, may still have trap doors that they don't even know about until it's figured out by somebody else, like in this example. ",
+    "start_char_index": 51513,
+    "end_char_index": 52149,
+    "response_text": "Chamath's sharpest point in the excerpt. Zero data retention is a **promise**, not a proof \u2014 and the Grok Build incident demonstrates exactly how quietly it fails. Anyone building on third-party AI infra for sensitive workloads should treat ZDR claims as aspirational at best."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But my takeaway is that there are all kinds of non obvious data leak vectors lurking in in AI. And so if you think that you're going to flip a ZDR switch, zero data retention, which is the magic term that the industry uses to tell you that everything's going to be okay, I think the answer and the message should be it's not going to be okay because you can't guarantee any of it. ",
+    "start_char_index": 51418,
+    "end_char_index": 51799,
+    "response_text": "Short, but load-bearing. The Grok incident wasn't malice \u2014 it was a privacy setting that silently didn't work. That's the **scarier** failure mode than intentional data harvesting, because you can't audit for what you don't know is leaking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Over the last year I looked at the stats this morning, token spend among ramp customers has grown by 21 times.\n\n",
+    "start_char_index": 56680,
+    "end_char_index": 56792,
+    "response_text": "Not 21%. **21x.** In one year. The Ramp CEO drops this number casually but it's the most consequential data point in the excerpt \u2014 it explains why CFO tooling for AI spend is suddenly a real product category, and why unmanaged token costs are a coming earnings surprise for public companies."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think there was a study that showed that a typical data center uses the same amount of water as two and a half in and out burgers. ",
+    "start_char_index": 69725,
+    "end_char_index": 69862,
+    "response_text": "Sacks is debunking Hochul's moratorium point by point. The water argument \u2014 often the strongest-sounding environmental objection \u2014 collapses on contact with an actual benchmark. The NY ban looks more like **regulatory theatre** than evidence-based policy when you run the numbers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "These data centers have become the scapegoat for all of the angst that people have about AI and it's kind of become this very clumsy way of trying to throw a wrench in the gears of innovation and just kind of slow the whole thing down.\n\n",
+    "start_char_index": 71053,
+    "end_char_index": 71290,
+    "response_text": "The framing here is right."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because the number one thing slowing down the growth of Anthropic's revenue, it's not demand, I think it's the availability of compute and data centers. ",
+    "start_char_index": 73397,
+    "end_char_index": 73550,
+    "response_text": "Anthropic funding groups that obstruct data\ncenter construction is genuinely self-defeating"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now, I think that's a really dangerous thing to do because Trump is president for another two years and then no one knows what's going to happen after that. And even if you lift the moratorium in say two and a half or three years, it's going to take a couple of years for those projects to even ramp back up. So when you start talking about a moratorium on data centers, it's not like a few month pause. It's probably a good five years at least before you can get another data center switched on in the state of New York.\n\n",
+    "start_char_index": 74747,
+    "end_char_index": 75270,
+    "response_text": "The lag is the killer detail."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One month ago, just one month ago, OpenAI published a blog post called PRC linked influence operations are targeting AI debates in the US and Politico covered this and a lot of other sites covered this. Basically what they are saying, and in fact many people are saying, is that China is behind a lot of these influence campaigns to shape U.S. attitudes on AI data centers.\n\n",
+    "start_char_index": 84315,
+    "end_char_index": 84690,
+    "response_text": "OpenAI published this claim a month before\nthis episode."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:21:14]: No, let me tell you, listen, it could be psychological, but I actually think that there's a strategy that makes a lot of sense and it's a very simple, straightforward strategy. Number one, brand yourself as a safe AI company. Number two, ban unsafe AI. Three, profit.\n\n",
+    "start_char_index": 91174,
+    "end_char_index": 91468,
+    "response_text": "This is the sharpest line in the excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then they took actual human skin from elderly patients that had donated their skin, and they put this enzyme onto that skin and they were able to eliminate 55% of the CML on the skin, which basically reversed the skin's age down to the age of a 31 year old. This is from greater than 70 year old patients just by putting this enzyme on the skin. And so it's kind of a groundbreaking demonstration of combination of Alphafold, what's called directed evolution, where you change the order of the DNA that changes the structure of the protein to test different proteins, do high throughput screening and ultimately make a novel protein that doesn't exist in nature today that can do something pretty profound for human health. ",
+    "start_char_index": 97411,
+    "end_char_index": 98139,
+    "response_text": "AlphaFold-driven directed evolution produced a\nnovel enzyme that doesn't exist in nature."
+  }
+]

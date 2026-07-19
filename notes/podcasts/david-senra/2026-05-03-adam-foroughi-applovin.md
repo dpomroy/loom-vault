@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-03-adam-foroughi-applovin.md
 source_title: "Adam Foroughi, AppLovin"
 source_date: 2026-05-03
 show: "David Senra"
-themes: ["Founder Psychology", "Markets & Investing", "Misc"]
+themes: ["Capital & Markets", "Founder Psychology", "Misc"]
 generated_at: 2026-05-27T21:00:14+00:00
 agent: note-taker
 model: claude-sonnet-4-6

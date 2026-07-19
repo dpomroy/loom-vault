@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-in
 source_title: "Strauss Zelnick, Take-Two Interactive"
 source_date: 2026-05-17
 show: "David Senra"
-themes: ["Business Models", "Creative Work", "Founder Psychology", "Misc"]
+themes: ["Business Models & Strategy", "Creative Process", "Founder Psychology", "Misc"]
 generated_at: 2026-05-27T21:03:06+00:00
 agent: note-taker
 model: claude-sonnet-4-6

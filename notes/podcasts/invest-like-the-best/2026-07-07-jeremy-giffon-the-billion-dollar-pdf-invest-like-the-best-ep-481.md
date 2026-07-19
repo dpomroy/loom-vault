@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-07-07-jeremy-giffon-the-
 source_title: "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]"
 source_date: 2026-07-07
 show: "Invest Like the Best"
-themes: ["Business Models", "Markets & Investing", "Misc"]
+themes: ["AI & Technology Landscape", "Capital & Markets", "Founder Psychology", "Misc"]
 generated_at: 2026-07-08T02:04:52+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -3,7 +3,7 @@ source: notes
 source_path: sources/articles/2026-05-29-how-to-do-great-work.md
 source_title: "How to Do Great Work"
 source_date: 2026-05-29
-themes: ["Creative Work"]
+themes: ["Doing Great Work", "Procrastination & Problem Choice"]
 generated_at: 2026-05-31T02:02:19+00:00
 agent: note-taker
 model: claude-sonnet-4-6

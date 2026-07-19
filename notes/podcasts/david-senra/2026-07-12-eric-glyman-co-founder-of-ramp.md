@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-07-12-eric-glyman-co-founder-of-r
 source_title: "Eric Glyman, Co-founder of Ramp"
 source_date: 2026-07-12
 show: "David Senra"
-themes: ["AI & Technology", "Business Models", "Misc"]
+themes: ["AI & Technology Landscape", "Misc"]
 generated_at: 2026-07-15T02:02:39+00:00
 agent: note-taker
 model: claude-sonnet-4-6

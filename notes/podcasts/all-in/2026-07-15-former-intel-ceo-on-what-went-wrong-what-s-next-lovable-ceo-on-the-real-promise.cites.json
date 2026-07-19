@@ -1,0 +1,100 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And you know, I view one of the things that went off the rail was when it started to be run by business people.\n\n",
+    "start_char_index": 3993,
+    "end_char_index": 4106,
+    "response_text": "The core diagnosis from someone who was there."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:02:32]: Opposed to technical.\n\n",
+    "start_char_index": 4138,
+    "end_char_index": 4186,
+    "response_text": "The core diagnosis from someone who was there."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And obviously, you know, in the five years, five, six years before I came back, you know, intel gave $100 billion to shareholders.\n\n",
+    "start_char_index": 5214,
+    "end_char_index": 5346,
+    "response_text": "A staggering capital allocation failure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The island of Taiwan has less than three weeks. A big article in the Wall Street Journal two weeks ago on this. Less than three weeks of energy reserves. ",
+    "start_char_index": 17482,
+    "end_char_index": 17636,
+    "response_text": "Taiwan has under three weeks of energy reserves. A blockade doesn't need missiles \u2014 just cutting LNG ships for 21 days browns out the fabs, and a fab that goes dark takes 90 days to restart."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because the blockade, after three weeks, the island browns out. When you turn off a fab, it doesn't come back on for 90 days. Right. The economic impact of a brownout of Taiwan is greater than the Great Depression in the world. ",
+    "start_char_index": 17705,
+    "end_char_index": 17933,
+    "response_text": "Taiwan has under three weeks of energy reserves. A blockade doesn't need missiles \u2014 just cutting LNG ships for 21 days browns out the fabs, and a fab that goes dark takes 90 days to restart."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I don't think this is an alternative for the world because if it really does become a risk, you know, and I'm, you know, I, you know, I don't sit in the situation room and get all the data and so on, but let's remind each other that I think China has blockaded the Taiwan Straits seven times over the last four years.\n\n",
+    "start_char_index": 18262,
+    "end_char_index": 18585,
+    "response_text": "China has blockaded the Taiwan Straits seven times in four years."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I would say many engineers, they don't look at the code, they don't write code anymore. And that means that you don't need to be an engineer to create software. ",
+    "start_char_index": 32401,
+    "end_char_index": 32562,
+    "response_text": "Osika's clearest statement of the shift."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker E** [0:26:30]: And again, we're seeing people who are first time founders, we're seeing enterprise leaders move much faster together with their teams on this platform that has a lot of opinionated pieces in how you should create software and how to operate that software and how the different applications in your company connect to each other over time. So that's why we're seeing so much growth also on the enterprise side, which were we actually growing fastest right now?\n\n",
+    "start_char_index": 28882,
+    "end_char_index": 29369,
+    "response_text": "Growth is fastest on the enterprise side, not just indie hackers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It would have cost me $500,000 two years ago. It was built in four hours by an employee, which, if you just put employees at 50, 60, whatever, $70, plus the cost of your software got made for less than $2,000 in a year. ",
+    "start_char_index": 35781,
+    "end_char_index": 36001,
+    "response_text": "The **cost compression** here is staggering \u2014 from $500k to under $2k."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we're working with some of our customers in pre release to give them access to a co founder that works for you even when you're sleeping and comes back to you in the morning and says here are some strategic directions you could go, here's some optimizations you can go in terms of growing your business faster, serving your customers better, faster, and that evolution towards operation and intelligence driving towards outcome for your business.\n\n",
+    "start_char_index": 37887,
+    "end_char_index": 38338,
+    "response_text": "The pitch is an agent with access to all your company data, returning each morning with **strategic recommendations** and growth optimisations."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What he also did was he took it into the back office internally, and they've now replaced more than 10 tools that they had, which is bespoke applications. And in terms of your question, you can do that for multiple reasons. In their case, they're saving more than a million dollars per year.\n\n",
+    "start_char_index": 40163,
+    "end_char_index": 40456,
+    "response_text": "One company killed 10 SaaS subscriptions with **custom Lovable builds** and saved over $1M/yr."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And you can continue to use Salesforce, HubSpot and all the tools that you like to use under the hood, but with a bespoke interface on top of it.\n\n",
+    "start_char_index": 41251,
+    "end_char_index": 41398,
+    "response_text": "The actual strategy isn't replacement \u2014 it's a **custom UI layer** over existing integrations."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And now, since the engineering is less of the bottleneck, it's more the question of what is the right thing to build. ",
+    "start_char_index": 48590,
+    "end_char_index": 48708,
+    "response_text": "The constraint has **shifted from execution to judgment**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But on figuring what to build, figuring out what are the right strategic directions or experiments you should run to improve the outcomes for your business, that's not changing as fast. It's the humans knowing how to use the tool to get and to plug in all the right data to be able to take the right decisions for taking your product forward and to take your business forward.\n\n",
+    "start_char_index": 50292,
+    "end_char_index": 50670,
+    "response_text": "Even with better models, the **strategic layer stays human** \u2014 plugging in the right data, asking the right questions, making product calls."
+  }
+]

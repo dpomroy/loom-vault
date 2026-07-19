@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-31-ivanka-trump-on-building-an
 source_title: "Ivanka Trump on Building an Authentic Life"
 source_date: 2026-05-31
 show: "David Senra"
-themes: ["Creative Work", "Misc"]
+themes: ["Business Models & Strategy", "Creative Process", "Doing Great Work"]
 generated_at: 2026-06-03T02:03:38+00:00
 agent: note-taker
 model: claude-sonnet-4-6
