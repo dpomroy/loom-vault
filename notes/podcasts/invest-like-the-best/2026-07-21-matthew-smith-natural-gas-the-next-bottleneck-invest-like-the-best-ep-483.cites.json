@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:05:07]: The die was cast long before AI COMPUTE came to the scene. ",
+    "start_char_index": 9918,
+    "end_char_index": 10002,
+    "response_text": "The framing most people miss."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Starting in 2028, AI data centers and\n\n**Speaker B** [0:02:30]: LNG exports will need more gas than the country can produce and deliver.\n\n",
+    "start_char_index": 6845,
+    "end_char_index": 6983,
+    "response_text": "The core thesis in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As of today, we're scheduled to export up to 35 BCF a day by the end of 2030. And in that case the die has been mostly cast. To build an LNG project, you need various approvals. They're project financed. You site and permit many years in advance. Most of these projects that get you from 15 or 16 BC a day today nameplate to 35 are well on their way. ",
+    "start_char_index": 10881,
+    "end_char_index": 11232,
+    "response_text": "These projects are already financed, permitted, and well underway."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And gas has lulled everybody to sleep. But what happens is these structural things start to fall in place in 27, 28 and we start to draw meaningfully in the middle of 28, early 28 on the gas system like we've never drawn before. And as we look at 28, 29, 2030, we start to cut into the US working gas storage, which is about 4 TCF, total gas storage. ",
+    "start_char_index": 29949,
+    "end_char_index": 30300,
+    "response_text": "The complacency is structural: 15 years of abundance has created a flat forward curve that still shows $3.50\u2013$3.60 out to 2030, even as storage starts breaking below all historical ranges from mid-2028."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think we will come to a conclusion that the upside risk compressed in natural gas is both unbounded and convex. And so where you will feel it the most acutely will be electricity prices in 28, 29, 2030.\n\n",
+    "start_char_index": 9420,
+    "end_char_index": 9626,
+    "response_text": "The price impact lands hardest in electricity \u2014 2028, 2029, 2030."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A number of companies describe themselves as having a lot more inventory of wells to drill than we can justify with the facts. And I'll just leave it at that. But when folks meet with companies, they should ask to understand exact engineered locations on a map. ",
+    "start_char_index": 21948,
+    "end_char_index": 22210,
+    "response_text": "He's flagging that producer IR decks are overstating available inventory."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:32:23]: Many of the SMRs are still science experiments. The NRC and the US government are actually doing a fair number of things to break down the barriers to bringing those to see if they they work or not and, and what the cost will be and whether they can be scaled or not. But many of these SMR companies are not set up to manufacture and truly scale for the solution that's needed to solve this problem, which is tens of gigawatts as you go into the 2000-30s. ",
+    "start_char_index": 38403,
+    "end_char_index": 38884,
+    "response_text": "SMRs remain unproven at scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you plug in all of this compute and it's gas powered and we think gas could double or triple structurally. Even without weather, it could end up being 20 or 30% of the cost of compute by 2029. ",
+    "start_char_index": 44906,
+    "end_char_index": 45102,
+    "response_text": "The energy cost shock is hiding in plain sight."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As soon as utilities turn the page and start to really hedge or buy gas in 28 and we start to see all these natural gas generating companies start to think about securing supply, you're going to start to see a knife fight to secure natural gas physical in 28 like we really haven't seen before. ",
+    "start_char_index": 57748,
+    "end_char_index": 58043,
+    "response_text": "This is the trigger signal to watch."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Imagine being short memory a year ago or 18 months ago and finding out all of a sudden you're short memory. That is what this natural gas market looks like to us. ",
+    "start_char_index": 59903,
+    "end_char_index": 60066,
+    "response_text": "The DRAM analogy is the sharpest framing in the whole excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We are very cynical whether you can deploy fuel cells at scale because there isn't the gas in the system to power those 247365 and so therefore we treat them in our base case that I described as backup gen to the extent you were to deploy fuel cells as baseload gen that only pulls forward and is additive to the convexity that I described CEOs and partners on projects. ",
+    "start_char_index": 60318,
+    "end_char_index": 60689,
+    "response_text": "Bloom Energy takes a direct hit here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:52:46]: Make sure when your assets are deployed that you understand exactly what the source of your natural gas will be. Make sure you have physical supply locked up and that you understand your counterparties and what will likely be very meaningful counterparty risk in two or three years. ",
+    "start_char_index": 59400,
+    "end_char_index": 59708,
+    "response_text": "The practical takeaway for any operator with energy exposure."
+  }
+]

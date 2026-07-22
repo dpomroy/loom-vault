@@ -1,0 +1,79 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Of all their assets, integrity and common sense were the most important. You could define merchant banking as a sense of commercial honor, an absolute fairness in all dealings, willingness to suffer loss if need be, rather than tarnish by one unworthy act.\n\n",
+    "start_char_index": 7882,
+    "end_char_index": 8140,
+    "response_text": "The whole model depends on never cashing in the reputational asset for a short-term win."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It says we must not let in daylight upon magic.\n\nThat is still the motto. Bankers are laconic people who only say 10% of what they think. Much of what merchant bankers do is inevitably never made public. ",
+    "start_char_index": 9506,
+    "end_char_index": 9710,
+    "response_text": "The deliberate opacity is a competitive moat, not just vanity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If I had waited half an hour longer, it would have been too late to arrange the credit in Amsterdam. Our client would have lost \u00a320,000 over the weekend. And we might have lost a good client. He comes to us because we can give him fast personal service.\n\n",
+    "start_char_index": 14432,
+    "end_char_index": 14687,
+    "response_text": "Speed IS the differentiation \u2014 not lower rates, not more capital."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He goes, lawyers like to complicate matters. We like to simplify them. ",
+    "start_char_index": 21524,
+    "end_char_index": 21595,
+    "response_text": "Six words that describe the entire operating philosophy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The secret of the successful merchant banker is to find out a little more a little earlier than the next man.\n\n",
+    "start_char_index": 35806,
+    "end_char_index": 35917,
+    "response_text": "Information edge, acquired and protected through discretion, is the actual business."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He considers a working knowledge of Greek and Latin a better preparation for merchant banking than than a study of modern finance, management techniques and economics.\n\n",
+    "start_char_index": 42157,
+    "end_char_index": 42326,
+    "response_text": "Warburg is making the contrarian claim that **understanding humans** beats understanding markets. The classics train pattern recognition across centuries of human behaviour \u2014 that's a wider dataset than any Bloomberg terminal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Progress in thinking is progress towards simplicity. Simplicity combined with thoroughness has helped Warburg more than anything else in life. ",
+    "start_char_index": 42723,
+    "end_char_index": 42866,
+    "response_text": "Five words that carry more weight than most business books. Warburg's edge wasn't complexity \u2014 it was **clarity**. The people who need seventeen slides to explain something are hiding, not thinking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He used to read a lot of newspapers before the war, but came to the conclusion that newspaper reading leads to a gradual loss of memory.\n\nSince most people read the paper with the subconscious wish of trying to forget as fast as possible what they read. ",
+    "start_char_index": 43122,
+    "end_char_index": 43376,
+    "response_text": "Brutal and accurate. News is **optimised for forgetting** \u2014 it's designed to be consumed, not retained. Warburg replaced it with books he reread. The signal-to-noise ratio isn't even close."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't like people who deliberately try to think in my way, mattioli told me. Besides, why should I pay a man for thinking the way I do?\n\nI can do that for myself. ",
+    "start_char_index": 50293,
+    "end_char_index": 50458,
+    "response_text": "Mattioli and Warburg both land on this independently. **Disagreement is the product** \u2014 you're not hiring a mirror. The Steve Jobs / Pixar board story in this same excerpt makes the same point from a different angle."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Says the funny thing is that hardest things to raise money for often turn out to be the best. ",
+    "start_char_index": 52432,
+    "end_char_index": 52526,
+    "response_text": "Contrarian deal-flow as a **selection signal**. If conventional money won't touch it, that's informative \u2014 not a red flag. Relevant to any early-stage bet, including building tools nobody thinks they need yet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I have a rule, Mr. Krueger.\n\nIf I cannot understand something by reading my notes on the subject, I won't buy it. You're too complex for me. Mr. Krueger left and a few months later shot himself.\n\n",
+    "start_char_index": 55173,
+    "end_char_index": 55369,
+    "response_text": "Philip Lehman's rule saved the firm. **Complexity is a red flag**, not a feature \u2014 Krueger's opacity was the con. The simplicity heuristic as risk management: if you can't write it on one page, you don't understand it well enough to own it."
+  }
+]

@@ -2,11 +2,11 @@
 type: theme
 name: "Rolex"
 description: "Watch business, luxury branding"
-generated_at: 2026-07-19T02:05:46+00:00
+generated_at: 2026-07-22T02:07:47+00:00
 agent: theme-follower
 model: claude-sonnet-4-6
 custom: true
-quote_count: 47
+quote_count: 45
 ---
 
 # Rolex
@@ -42,7 +42,6 @@ Constraints producing durable outputs again. Also: Panerai fans have no idea.
 - "They change the markings on the bezel from 60 minutes or 60 demarcations that it was on the Turn-O-Graph to 24 hours. Then they add in a fourth hand on the movement that moves at a 24 hour movement." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Paul on a whim says, here, take this one. It keeps good time, and gives the boyfriend the watch, the Paul Newman Daytona." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "This was a huge moment of, oh wow, these things aren't just purchases. They're investments and you can trade in them." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "It is incorrect to describe markets by the products in them. You should describe markets by the job to be done." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Since 1735, there has never been a quartz Blancpain watch, and there never will be." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "It was a feat of jujutsu to take the weakness of the mechanical watch, the old technology, inaccurate, labor-intensive, expensive to produce, and turn them into strengths." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Wealthy people don't need an instrument that tells time. They want a beautiful and exclusive object on their wrist." — [[notes/podcasts/acquired/2025-02-24-rolex]]
@@ -51,7 +50,6 @@ Constraints producing durable outputs again. Also: Panerai fans have no idea.
 - "They can have three bad years in a row, and the CEO might not get fired. And they're playing a different game." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Rolex is just one foundation in Switzerland. The most ironclad privacy foundation–friendly laws in the world." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "We don't have shareholders. I don't need to make my quarter. I don't need to make next year. We have enough cash cushion that we can ride this thing out." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "It's very hard for a business to ever get smaller than its largest ever." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "I honestly think the biggest reason to do it was so no one else buys it." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "I think it's an innovation lab. It's a way to protect Rolex's brand, because if there's something new and interesting that might be a fad, that customers seem to be caring about in the watch world, Tudor can go and implement it, and they can figure out how to produce it." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "The shield protects the crown. The Tudor shield protects the Rolex crown, which makes total sense. It's so that they don't ever have to risk doing something dumb chasing a competitor with Rolex, and Tudor can always go figure it out." — [[notes/podcasts/acquired/2025-02-24-rolex]]
