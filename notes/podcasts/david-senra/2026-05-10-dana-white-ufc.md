@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-05-10-dana-white-ufc.md
 source_title: "Dana White, UFC"
 source_date: 2026-05-10
 show: "David Senra"
-themes: ["Misc"]
+themes: ["Founder Psychology", "Misc"]
 generated_at: 2026-05-27T21:02:19+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-07-21-matthew-smith-natu
 source_title: "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]"
 source_date: 2026-07-21
 show: "Invest Like the Best"
-themes: []
+themes: ["Misc"]
 generated_at: 2026-07-22T02:06:51+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Because if you actually understood how commoditized these things are becoming and the velocity at which it's happening, you see that the real business model is not in the foundational model anymore. It's at the application layer above, and it's in the infrastructure below, whether that's the cloud or whether that's chips. ",
+    "start_char_index": 13095,
+    "end_char_index": 13419,
+    "response_text": "Chamath's clearest articulation of where AI value\nactually lands."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the tell on this, the way that, you know that this whole distillation thing is fake is because if stopping distillation was their primary objective, Anthropic would push to ban Chinese access to American models, not American access to Chinese models.\n\n",
+    "start_char_index": 7660,
+    "end_char_index": 7916,
+    "response_text": "Sacks's sharpest line of the segment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:06:50]: Well, they know that if they kyc their customers, it'll slow their growth. So instead what they're saying is, hey, ban our competitors. ",
+    "start_char_index": 9317,
+    "end_char_index": 9478,
+    "response_text": "Sacks on Anthropic's deliberate non-enforcement\nof its own distillation controls."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I've never seen it in my 25 years in Silicon Valley where a sector of the economy can absorb hundreds and Hundreds of billions of dollars and then you think that there's going to be economic pricing power many decades into the future and it effectively evaporates in months. ",
+    "start_char_index": 28592,
+    "end_char_index": 28867,
+    "response_text": "Chamath on the unprecedented speed of\ncommoditisation in foundation models."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:22:46]: And now, now when we look at this analogy, the analogy here is if open source AI takes off, then all the worries that Bernie Sanders and Elizabeth Warren and all the socialists are harping and larking about are not going to be the case anymore. Because you're not going to see all the value of AI accrue to two or three or four companies and their small group of billionaire shareholders. What will happen is AI proliferates and a million AI integrated enterprises all over the world will benefit, everyone will benefit, the economy will grow, jobs will be created and AI becomes a power for good, for creating an open economy. ",
+    "start_char_index": 26995,
+    "end_char_index": 27648,
+    "response_text": "Friedberg's argument that open-source AI is\nactually the **wealth-distribution** mechanism\nthat closes the AI billionaire narrative."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think that the key point here is that regardless of what you think about distillation, you cannot punish American developers for it. So you can't say that American companies and American developers can't use Chinese contributions to the public domain. ",
+    "start_char_index": 6609,
+    "end_char_index": 6867,
+    "response_text": "Sacks drawing the line clearly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if you say that American companies can't do that or that somehow it's tainted with IP theft, you are basically going to put a dagger through the heart of the entire American open source ecosystem. And that is exactly what Anthropic wants because they do not want to have the competition.\n\n",
+    "start_char_index": 47862,
+    "end_char_index": 48155,
+    "response_text": "Sacks's sharpest point in the excerpt. Anthropic's IP-theft framing isn't about national security \u2014 it's a **regulatory capture play** dressed up as patriotism. Worth tracking as the open source policy debate develops."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We will eventually go up the stack and if I were them, I'd actually practice the following answer. There may be a version of a model that I don't release and just keep for myself and I'll just use in my own applications. How about that?\n\n",
+    "start_char_index": 39314,
+    "end_char_index": 39552,
+    "response_text": "Chamath's actual answer to the commoditisation question \u2014 **withhold the frontier model**, compete at the app layer. Logical, but Calacanis immediately calls it anti-competitive. The tension is real and unresolved."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But if you're going to build a business model that tries to ascribe this layer as having a lot of terminal value, I think that that is a mathematical mistake. That's it. You can't do it.\n\n",
+    "start_char_index": 42681,
+    "end_char_index": 42869,
+    "response_text": "Clean thesis, cleanly stated. The **model layer commoditises** \u2014 terminal value lives in applications and data, not weights. Directly relevant to how to think about Anthropic/OpenAI as long-term bets."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:53:46]: IP for we, but not for thee.\n\n",
+    "start_char_index": 61688,
+    "end_char_index": 61743,
+    "response_text": "Four words that land the whole argument. Anthropic trained on **pirated books** without paying, now lobbies to brand the same behaviour by others as IP theft. Hard to argue with the framing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So my point is that even Anthropic and OpenAI won't publicly admit that what China is doing is IP theft because they are doing it themselves. It's totally hypocritical and I don't think policymakers should be making arguments that these companies themselves won't make because they know that they will lose all these court cases.\n\n",
+    "start_char_index": 63043,
+    "end_char_index": 63374,
+    "response_text": "This is the **fatal contradiction** Sacks is circling. If they make the IP theft argument publicly, it poisons their own fair use defence in active litigation. They're trapped by their own position."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think open source is having its moment. I work with startups, they are all moving off of these and they're using open source and they're using it at much cheaper rates because a lot of the jobs don't need the latest models. They can use these, the last generation's models and people are moving them local, they're hosting them themselves. ",
+    "start_char_index": 40376,
+    "end_char_index": 40718,
+    "response_text": "Calacanis speaking from **actual deal flow**, not theory. Relevant for Loom and the horse racing tool \u2014 most tasks don't need frontier models, and the cost curve on open source is dropping fast."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:04:34]: They have now basically confessed to their entire product being stolen. And it seems to me that why wouldn't the content creators now assert that they're entitled to own 100% of Anthropic's revenue? ",
+    "start_char_index": 74472,
+    "end_char_index": 74696,
+    "response_text": "The self-inflicted wound here is real. Anthropic went to government\nasking for protection from China and accidentally handed every\npublisher a weapon pointed at their own balance sheet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And again, if they just positioned it slightly differently, if they said, look, these Chinese companies are creating fake accounts, that's a deceptive business practice. We're not saying this is IP theft. Right. But instead they said IP theft, and now the whole startup community is activated. ",
+    "start_char_index": 74961,
+    "end_char_index": 75255,
+    "response_text": "Sacks's\nalternative framing is tighter and legally safer \u2014 deceptive\nbusiness practice is a narrow, winnable argument."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:09:58]: Okay, this is when you are a machine and a group of people and a business model that compounds money at 32% over 20 year average, you give these guys the benefit of the doubt. These are not people that are flying fast and loose. They are methodically investing in their edge. ",
+    "start_char_index": 80463,
+    "end_char_index": 80764,
+    "response_text": "32% ROIC over two decades is\nthe argument in full. These aren't cowboys \u2014 they're\nmethodical capital allocators reinvesting into their\nstructural edge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The best thing that can happen to them is 500 different models proliferate and they support all of them because they will make so much money at the silicon layer. They'll make so much money as the cloud provider and they'll find a bunch of apps including YouTube and other things to make money from because you use the AI to target ads better or to help make better content, et cetera, et cetera.\n\n",
+    "start_char_index": 81270,
+    "end_char_index": 81668,
+    "response_text": "Model fragmentation = Google wins at infra, cloud, and\nad targeting simultaneously. They're not betting on\none horse \u2014 they ARE the track."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Private property rights are the foundations of liberty in America. This idea that you can then claim acts of violence, that you can then claim circumstances of extraordinary extravagant wealth and say to that individual, I now have a right, the government now has a right to take your private property ultimately leads to this tyrannical form. ",
+    "start_char_index": 92174,
+    "end_char_index": 92518,
+    "response_text": "Freeberg's argument: the\n**property = liberty** link isn't rhetorical \u2014 it's\nthe founding logic. Once you moralise away ownership,\nthe slide to tyranny is structural, not hypothetical."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you force the owners of physical property to not be able to credit check and differentiate who they rent their apartments to, what's going to happen is rents will go up even more. ",
+    "start_char_index": 100405,
+    "end_char_index": 100588,
+    "response_text": "The mechanism is simple: **remove selection tools**,\nlandlords price in the risk instead."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the obvious answer is you'd start rent three or four times higher and you force people to sign up to a multi month prepayment and you'd slowly ease those conditions until you find a market clearing price. ",
+    "start_char_index": 102919,
+    "end_char_index": 103128,
+    "response_text": "Chamath's prediction is the natural endpoint \u2014\nlandlords charge 3-4x upfront and require\nmulti-month prepayment to self-insure."
+  }
+]
