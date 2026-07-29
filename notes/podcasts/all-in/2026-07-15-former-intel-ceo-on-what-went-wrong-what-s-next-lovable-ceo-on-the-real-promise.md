@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-07-15-former-intel-ceo-on-what-went-wr
 source_title: "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding"
 source_date: 2026-07-15
 show: "All-In"
-themes: ["Misc"]
+themes: ["Leadership & Teams", "Misc"]
 generated_at: 2026-07-19T02:02:59+00:00
 agent: note-taker
 model: claude-sonnet-4-6

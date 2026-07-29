@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-06-21-steve-stoute-unitedmasters.
 source_title: "Steve Stoute, UnitedMasters"
 source_date: 2026-06-21
 show: "David Senra"
-themes: ["Disney & Creative Businesses", "Founder Psychology", "Misc"]
+themes: ["Brand & Luxury", "Leadership & Teams"]
 generated_at: 2026-06-24T02:07:52+00:00
 agent: note-taker
 model: claude-sonnet-4-6

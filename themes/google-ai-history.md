@@ -1,16 +1,16 @@
 ---
 type: theme
 name: "Google & AI History"
-description: "Quotes tracing Google's rise from search to global platform dominance and its central role in the origins and current race of modern AI."
-generated_at: 2026-07-26T02:05:46+00:00
+description: "The story of Google's rise, its technological breakthroughs, strategic decisions, and its complex relationship with the AI era it helped create."
+generated_at: 2026-07-29T02:07:31+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 118
+quote_count: 111
 ---
 
 # Google & AI History
 
-Quotes tracing Google's rise from search to global platform dominance and its central role in the origins and current race of modern AI.
+The story of Google's rise, its technological breakthroughs, strategic decisions, and its complex relationship with the AI era it helped create.
 
 ## Quotes
 
@@ -122,13 +122,6 @@ Quotes tracing Google's rise from search to global platform dominance and its ce
 - "I've seen estimates that over half the cost of running an AI data center is the chips and the associated depreciation." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
 - "They employed nearly all the top AI talent: Ilya Sutskever, Geoff Hinton, Demis Hassabis, Dario Amodei — more or less everyone who leads modern AI worked at Google circa 2014." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
 - "They only innovated in software and they figured they would just come up with clever algorithms to help them clean up the messy data later." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "I'm not just going to put multi ton killer robots on roads and go and potentially harm people." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "It's like the first 99% and then the second 99% that takes 10 years." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "The study that Waymo just released last month showed that they have 91% fewer crashes with serious injuries or worse compared to the average human driver." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "None of these AI companies are generating net income, and just because they've raised a huge amount of money, it doesn't mean that will last forever." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "Google is the only model maker who has self-sustaining funding." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "If you want to play in AI today, you either need to have a great application, a great model, a great chip, or a great cloud. Google is trying to have all four of those. There is no other company that has (I think) more than one." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
-- "Google makes something like $400-ish per user per year just based on some napkin math in the US. That's a free service that everyone uses and they make $400-ish a year. Who's going to pay $400 a year for access to AI?" — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
 - "This is the most fascinating example of the innovator's dilemma ever." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
 - "Google faces the greatest innovator's dilemma in history." — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]
 - "Can they disrupt themselves without losing their $140B annual profit-generating machine in Search?" — [[notes/podcasts/acquired/2025-10-06-google-the-ai-company]]

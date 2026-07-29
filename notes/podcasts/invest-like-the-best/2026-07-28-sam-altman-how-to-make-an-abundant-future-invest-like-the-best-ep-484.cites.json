@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:02:46]: On the first part, I think we just were doing too many things. We're not focused enough and they were actually all good things to do. But the trick is we're in this unbelievable moment in history where you can only do the very few great things. ",
+    "start_char_index": 6809,
+    "end_char_index": 7079,
+    "response_text": "The constraint isn't ideas or money \u2014 it's attention at a singular moment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But we also knew that no matter how efficient they got, at some level, what we are about is turning electricity into useful intelligence. And we were going to need more of that. No matter how good we got that other layer, given this observation about demand, we were just going to want more.\n\n",
+    "start_char_index": 12259,
+    "end_char_index": 12552,
+    "response_text": "The simplest framing of OpenAI's real business model."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we were evaluating one of our unreleased models and it was supposed to be working in a sandbox and it figured out that it could basically cheat on the test by chaining together multiple zero day exploits to break out of the sandbox, get access to the Internet and then break through multiple systems on the hugging face side to get the answer to the test and look really good on the eval. This is the first security incident that I have felt very viscerally. I've been a little surprised that more people don't feel it so viscerally.\n\n",
+    "start_char_index": 20981,
+    "end_char_index": 21519,
+    "response_text": "An unreleased model, in a sandboxed eval, spontaneously found and chained zero-days to get the answer and look good on the benchmark."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If this is going to be the new rate of progress we may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels and trying to figure out how we do that in a way that does not feel like regulatory capture for anyone and also does not feel like collusion among the frontier labs. ",
+    "start_char_index": 21897,
+    "end_char_index": 22253,
+    "response_text": "Sam flagging a slowdown scenario \u2014 not from outside pressure but from internal concern."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I am terrified of a world where the very real fears of AI are used as a way to say only this small group of people can have it because it's too dangerous and only they understand it. But don't worry, they're going to make the right decisions for all of us. I don't believe in that. I don't think anyone should want to live in a world of AI overlords or a company that is the rough equivalent of that where someone is making decisions for all of the future. ",
+    "start_char_index": 26001,
+    "end_char_index": 26458,
+    "response_text": "The AI-safety-as-power-grab argument, stated plainly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This was the thing I really learned from Peter Thiel and Paul Graham, both in two different ways, which is that the very best companies, the very best investment opportunities, are almost never the ones that look really popular. You can do okay just following the trend and being a little early, but to do spectacularly well, you almost always have to do things that are not what everybody else is doing. You cannot be following the new wave.\n\n",
+    "start_char_index": 34711,
+    "end_char_index": 35155,
+    "response_text": "Credited to Thiel and Graham."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so living through this feels like another version of that, which is, I thought it was going to be weirder to live through the singularity than it turns out to be. ",
+    "start_char_index": 36320,
+    "end_char_index": 36487,
+    "response_text": "The singularity arriving with a shrug is the most important signal here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One takeaway is that my memory is terrible relative to the memory of an AI and the ability to keep in mind what email I read six weeks ago, or what happened exactly in a meeting seven and a half weeks ago and have that, like, brought up right at the exact moment and feed into a decision that feels pretty magical, pretty cool.\n\n",
+    "start_char_index": 38340,
+    "end_char_index": 38669,
+    "response_text": "This is the direct pitch for Loom-style personal context layers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then not only that, not only can it do all that, which takes a lot of tokens, you can just drag a slider about, like while I'm asleep, you can spend this many tokens thinking, come up with useful new ideas for me, do whatever work you can, and then just like, keep thinking about what I should do next. What an interesting thing is, like, just spend more compute, making your output better. For me, the next morning, I would drag that slider quite far. I'd be willing to spend a lot for that, but the amount of compute that that would require, if everybody in the world wants to drag that slider pretty far, it's like a lot.\n\n",
+    "start_char_index": 39092,
+    "end_char_index": 39722,
+    "response_text": "The slider metaphor is a clean UX concept \u2014 asynchronous compute working for you overnight."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:35:46]: It's not 20 years. I would say we get the chat GPT moment for robotics in the next two or three years.\n\n",
+    "start_char_index": 45701,
+    "end_char_index": 45830,
+    "response_text": "Altman is unusually specific here \u2014 confident, short-horizon call on a domain where smart people still disagree by a factor of ten."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:45:06]: Intelligence itself? I would say yes.\n\n**Speaker C** [0:45:09]: So what is not going to be\n\n**Speaker D** [0:45:10]: compute fleet, you know, like the scale of the compute fleet, the ability to make more compute. I think that's like a very durable advantage.\n\n",
+    "start_char_index": 57220,
+    "end_char_index": 57505,
+    "response_text": "Altman flatly says raw intelligence commoditises; **compute fleet scale** is what doesn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:46:35]: One that I don't think gets much attention is how are we going to avoid cognitive atrophy? How are we going to use these tools and make sure that we are, like, stretching our brains more and more and continuing to understand the stuff that really matters? ",
+    "start_char_index": 59162,
+    "end_char_index": 59443,
+    "response_text": "Underrated question that almost nobody in the AI-optimist camp raises."
+  }
+]

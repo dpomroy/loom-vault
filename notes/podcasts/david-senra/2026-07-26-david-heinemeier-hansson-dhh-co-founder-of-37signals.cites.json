@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:06:46]: That the constraints on I don't have enough time, I don't have enough money, I don't have a big enough crew is what forces that selection process. If you have unlimited time, unlimited money and unlimited people, you're going to build a blob. ",
+    "start_char_index": 10485,
+    "end_char_index": 10753,
+    "response_text": "The constraint is the forcing function.\nDHH doesn't trust his own taste\nwithout it \u2014 and neither should you."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The first Terminator movie is one of my favorite movies of all time. It was made on an absolute shoestring budget and it still beats Avatar by a thousand times. Now, there are also people who like Avatar, and I'm sure James Cameron does. That's great. I don't. I like Terminator, and I like it because it's low budget in a way that doesn't feel low budget. It's constrained. Therefore, you have to tell a tight story with a real focus on just that action flow. And it's incredible. ",
+    "start_char_index": 15197,
+    "end_char_index": 15679,
+    "response_text": "The point isn't nostalgia \u2014\nit's that **tight constraints force**\n**narrative discipline**.\nAvatar is technically impressive\nand emotionally empty for the\nsame reason bloated software is\nfeature-rich and unusable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now in this new age where using agents and AI has made it so much easier to implement things, it becomes that much harder to stick to those principles because we used to be granted these constraints simply by the fact that it took a long time to build things. And especially in the early days of Basecamp, for example, we built the entire first version on me having 10 hours per week, not per day per week to build it. That is an enormous constraint on how you could do anything because you can waste 10 hours really quickly just chasing things around or focusing on the non essentials if we want to get that product out. And we got it out in 380 hours. ",
+    "start_char_index": 7291,
+    "end_char_index": 7945,
+    "response_text": "The old guard on this is right.\nWhen building is cheap, **editing**\n**becomes the scarce skill**.\nThe 380-hour constraint wasn't\na limitation \u2014 it was a gift\nthat can't be replicated easily\nnow that AI inflates capacity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:17:56]: And you actually feel like I've lost control here. I bought a thing that did the job, and now you're making me learn things. The new version of Basecamp 5 is certainly better. It's a vastly superior product. I'm just not in the market for a better product. I'm in the market for the product I already bought. I don't want something different. I want the shitty thing I already have, because I know all the ways it is broken if it is, and I've made peace with that. ",
+    "start_char_index": 22291,
+    "end_char_index": 22781,
+    "response_text": "Underrated product insight.\n**Familiarity with flaws beats\nunknown \"improvements\"** for a\nlarge segment of users.\nMost SaaS ignores this entirely\nand churns loyal customers\ninto confused ex-customers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "With software, if you don't upgrade, especially a SaaS software in like three months, you're like, is this dead? Is this out of business? No, fuck. It's just good as it is. Can we leave it for a second? Can you appreciate just what you have? ",
+    "start_char_index": 25943,
+    "end_char_index": 26185,
+    "response_text": "The industry has trained users\nto conflate **activity with value**.\nDHH's counter \u2014 keep old versions\nrunning forever \u2014 is expensive\nto operate but earns rare trust."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Certainly on programming that I just, I can't use a 45 minute chunk of time, an hour and a half even. I don't know that's not going to turn out to something. If I have four hours. Okay, now we're talking. I can actually attack a problem and feel I can get all the way into it. ",
+    "start_char_index": 32196,
+    "end_char_index": 32473,
+    "response_text": "Pure Paul Graham maker schedule.\n**Four uninterrupted hours** is the\nminimum viable unit of deep work \u2014\nnot a preference, a requirement.\nEverything below that is just\nexpensive context-switching."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It was the open office on steroids. It was everyone walking by like, hey, can I write on your keyboard? No, you can't. ",
+    "start_char_index": 38552,
+    "end_char_index": 38671,
+    "response_text": "DHH's early AI skepticism wasn't about capability \u2014 it was about **workflow violation**. The framing is perfect: autocomplete as an uninvited coworker grabbing your keyboard."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's funny, now I'm racing with Toby and one of the things we talk about all the time is, where are your eyes? The difference between a great razor and a mediocre razor is very often, where do they look? If you're looking at the turn in where you're supposed to turn, not at the apex, you're not going to hit it. It's like the old adage, you go where you look. So this is why don't look at the tree, you'll steer right into it. And training your eyes to look ahead, further ahead than what you think is actually quite difficult in racing and I think it's quite difficult in business and life in. ",
+    "start_char_index": 38906,
+    "end_char_index": 39502,
+    "response_text": "The racing metaphor earns its place here \u2014 DHH actually races with Tobi, so this isn't decorative."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Shopify is already there. And the reason they're already there is that Toby saw it just so much earlier than the rest of us. Now, there were other people who saw it, but most of them already worked in AI. Toby was running this enormous company at the time. And it's actually quite difficult, I think, at least it looked difficult to me, to be able to be as focused as he is on that main business. I mean, Shopify has a million things going on. And then also having your gaze that high up, looking that far forward towards the next apex, what's coming and then acting on it. ",
+    "start_char_index": 41361,
+    "end_char_index": 41935,
+    "response_text": "The telling detail: Tobi did this while running a **7,000-person company** handling 15% of global e-commerce GDP. DHH's implicit point is that scale and distraction are no excuse for not seeing clearly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so much of the ability to move your opinion comes from not these abstract ideas, but from touching things, from actually setting up Open Claw or whatever and getting some experience with it and then having this instinctual feeling of where things are going to go that you're not going to get from just reading someone else do it. You can read a write up of anyone else using something else, but it's kind of like trying to learn how to drive a race car by reading a book about it. You could pick up some pointers, but until you get behind the wheel, it's not going to internalize. It's not going to be something you can actually perform. ",
+    "start_char_index": 42639,
+    "end_char_index": 43281,
+    "response_text": "Reading about a tool gives you pointers. **Using it** gives you instinct. The race-car-book analogy lands cleanly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The computers can be fun in that way and they can be a bit whimsy and they could be made by pseudo anonymous individuals and the combined sum of it can be better than the top five most valuable company in the world. A trillion dollar organization that has four, 40 years of history caring about this and unlimited resources, unlimited people, and still the crack kid from Poland can beat him. Absolutely amazing. ",
+    "start_char_index": 53603,
+    "end_char_index": 54016,
+    "response_text": "A **19-year-old** with an anime handle out-designing a trillion-dollar company with 40 years of design heritage. DHH loves this not as an anomaly but as proof the model is repeatable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Linux just has all the Lego pieces. Someone could put those pieces together for you and you could get the Millennium Falcon or the Taj Mahal or something incredible that looks great and is ready to play with. And I went like, well, okay, if no one else is going to do that, I will. I'll take half of UNIX porn, I'll take Baxtery's cracked Hyperland and I'll slap it on top of Arch Linux and we're going to make Amachi. And that's what I've spent like a shocking number of hours over the last year building.\n\n",
+    "start_char_index": 54514,
+    "end_char_index": 55022,
+    "response_text": "The Lego framing is exactly why DHH built Omakase \u2014 the **raw material was world-class**, the packaging was absent. He saw the same gap in Ruby in the early 2000s and did the same thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I found is a lot of people have a very difficult time articulating what they want, but they can appreciate quality instantly. They can just know, oh, this is good. ",
+    "start_char_index": 62328,
+    "end_char_index": 62497,
+    "response_text": "The core justification for opinionated software."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I will not give you a construction kit burger. I will give you an omakase sushi meal. ",
+    "start_char_index": 64625,
+    "end_char_index": 64711,
+    "response_text": "DHH's product philosophy in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When we're subjecting humans everywhere, millions of them, maybe even billions of them, to shitty tools, shitty setup processes, we're robbing the world of progress. You could have taken that trillion hours that people have spent 42 minutes setting up a new computer and apply them towards productive outcomes. And I don't know, we'd have flying cars by now. ",
+    "start_char_index": 66162,
+    "end_char_index": 66521,
+    "response_text": "DHH frames bad tooling as a moral issue, not just a UX annoyance."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But we could out teach them. We could have better insights, and we could share them, and people could resonate with that and then reciprocate by buying our products. At least some percentage of them, even if it's a small percentage, that has been our operating strategy for literally two decades. ",
+    "start_char_index": 73281,
+    "end_char_index": 73578,
+    "response_text": "The 37signals go-to-market in two sentences, sustained for two decades."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What's broken now on the social platforms is that that my followers don't see anything I post unless it goes medium viral, because everyone is now in the algorithmic feed. So I follow someone. It's just like this little drop in the signal and it kind of breaks that reciprocal exchange, at least on those social platforms. ",
+    "start_char_index": 77406,
+    "end_char_index": 77729,
+    "response_text": "DHH is one of the clearest thinkers on this, and he's right."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So therefore, it is your moral obligation to buy a Ferrari if you do really well, or Lamborghini or Pagani or whatever floats your boat. But you should be sending this forward. This is how we get to have nice things. ",
+    "start_char_index": 89454,
+    "end_char_index": 89671,
+    "response_text": "DHH's argument: spending on craft goods recirculates money to craftspeople and sustains excellence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I can control is my inputs. I can put out the best damn software product I know how, I can talk about it. I can out share the competition or out teach the competition and therefore create this reciprocal relationship with potential customers. But ultimately, I don't get to choose whether they put in their credit card or not. ",
+    "start_char_index": 96276,
+    "end_char_index": 96608,
+    "response_text": "DHH draws a clean line between **inputs** (what you make, how you teach) and outcomes (revenue). Most founders obsess over the latter. He's obsessed with the former."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Replacing it either with something that's free or just slightly lower cost is a key part of the mechanics of the business I just really like because I also just have this aesthetic appreciation of an efficient business, like an efficient engine or an efficient computer that's not wasting cycles on things that doesn't propel it forward. Expenses are exactly that. It's taking out these inefficiencies. ",
+    "start_char_index": 97211,
+    "end_char_index": 97614,
+    "response_text": "This is the key framing. **Efficiency as aesthetics**, not just finance. Cutting costs isn't bean-counting \u2014 it's craft."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But going back to this point about trusting yourself, I didn't fully trust myself not to get tempted by a $20 million check, a $50 million check, whatever the number was. At a time where my bank account said, I don't know, $8,000. ",
+    "start_char_index": 100388,
+    "end_char_index": 100619,
+    "response_text": "Rare self-awareness. He knew his own **weak point** under financial pressure \u2014 and engineered around it by taking Bezos's deal first."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But that gave us the confidence to say no to everything else. It gave us the reassurance that if this wasn't going to pan out, we at least didn't have to go look for a job, like, the next Monday. And that was an incredible gift. ",
+    "start_char_index": 103962,
+    "end_char_index": 104191,
+    "response_text": "The Bezos investment wasn't strategic \u2014 it was **psychological runway**. Enough safety to hold your nerve. That's underrated as a reason to take outside money."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And it was the best money we've ever spent on anything related to culture, maybe anything at all. Of all the things that I bought, that peace of mind we bought with those payouts was just priceless, because what it did was it didn't just cut out surgically, just that bit of cancer. It cut out a thick ring around it. And what we ended up was a culture that was completely cured of all that insanity in one swoop. ",
+    "start_char_index": 110059,
+    "end_char_index": 110473,
+    "response_text": "Paying out a third of staff to leave sounds catastrophic. DHH reframes it as **surgical removal** \u2014 cut wide enough that nothing grows back. Bold call; apparently it worked."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you have literally 40,000 people on Twitter calling you all the worst things in the world, even the strongest individual might go for a second like, holy. Like, the mob is coming for me and there's no one else there. And there are other people there. There were people there. Toby was there. Mark was there. And it was incredibly helpful to give us the fortitude to go like, no, do you know what we're going to stick to with it? ",
+    "start_char_index": 113014,
+    "end_char_index": 113448,
+    "response_text": "The value Andreessen provided wasn't tactical \u2014 it was **solidarity under fire**. Knowing one credible person believes you're right is worth more than a thousand arguments. This is why network matters even for contrarians."
+  }
+]
