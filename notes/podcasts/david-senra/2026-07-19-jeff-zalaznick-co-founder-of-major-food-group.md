@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-07-19-jeff-zalaznick-co-founder-o
 source_title: "Jeff Zalaznick, Co-founder of Major Food Group"
 source_date: 2026-07-19
 show: "David Senra"
-themes: ["Leadership & Teams", "Misc"]
+themes: ["Founder Psychology", "Misc"]
 generated_at: 2026-07-22T02:04:47+00:00
 agent: note-taker
 model: claude-sonnet-4-6

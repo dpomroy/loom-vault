@@ -1,0 +1,128 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:04:15]: If I was going to give you one piece of advice when you're running risk is you have to manage leverage incredibly carefully because when it runs ahead of you, the unwind is incredibly violent and it's incredibly quick. That's the biggest problem with with running either massively levered long or massively levered short. ",
+    "start_char_index": 7466,
+    "end_char_index": 7813,
+    "response_text": "The core lesson, stated plainly by Chamath. Leverage doesn't just magnify losses \u2014 it removes your ability to *wait out* a correct thesis. The unwind is involuntary."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think it was Warren Buffett or maybe Munger who said that leverage is the only way that smart people go broke. Because if you're not using leverage, your portfolio would just be down 30% this month and then it would already be up 7% today. So you'd be rebounding. So you'd be down, okay, 20 something percent this month, but after having risen 10x in the past year. But if you're leveraged 3 or 4x, you're wiped out and you get margin called. ",
+    "start_char_index": 11153,
+    "end_char_index": 11598,
+    "response_text": "Buffett/Munger line, deployed perfectly here. Without leverage, Leopold would be down 20% on the month after a 10x year \u2014 painful but survivable. At 3-4x leverage, you're wiped and margin-called. Intelligence doesn't protect you."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think the Warren Buffett assessment of equity markets is in the short term they're voting machines, in the long term they're weighing machines. And you could have the right long term view. I mean look at sbf. SBF pretty much would've been the greatest investor of all time if he didn't get liquidated. Same dynamic. I mean obviously there was fraud in terms of how he was allocating capital, but his actual portfolio over the long run was absolutely correct. ",
+    "start_char_index": 16573,
+    "end_char_index": 17034,
+    "response_text": "Friedberg's point lands hard: Leopold may be *correct* about AI and still be bankrupt. The SBF parallel is uncomfortable but accurate \u2014 the position was right, the structure was wrong."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I could now buy a US government bond that pays me 10% pre tax a year. Why the heck would I pay 50 times earnings for semiconductor stock? So that creates the incentive for markets to move against these big AI conviction bets in the short term and pop these bubbles. ",
+    "start_char_index": 22048,
+    "end_char_index": 22314,
+    "response_text": "This is the cleanest explanation of the rotation away from AI momentum stocks. Risk-free rate at this level doesn't just compete \u2014 it actively pulls capital out of speculative positions. Friedberg frames it as structural, not sentiment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I would tell you is that there are some incredible efficiencies that I think are about to be demonstrated which effectively cut token consumption by about 50 to 75% for the same task. And so if you start to think about all of these things together, like energy becoming roughly abundant, where the incremental cost is close to0, where AI efficiency is going to, I think, ratchet up by many multiples, if not an order of magnitude, all of those things I think are poorly forecasted. ",
+    "start_char_index": 30012,
+    "end_char_index": 30499,
+    "response_text": "Chamath teasing something concrete without naming it. If token costs drop 50-75%, the economics of AI deployment change dramatically \u2014 relevant for Loom's own inference costs and any AI-heavy product thinking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But in the last couple of weeks I would say the one risk to that thesis is China, because China is now demonstrating that they may deflate the value of models by releasing open source AI models and that ultimately the value may just sit with the compute infrastructure and the compute layer and the energy layer. Yeah, perhaps the application layer. But fundamentally this model energy being shifted to China and deflated and commoditized puts a real wrinkle. If you had built a 30 year AI productivity model around how it's going to drive the economy and where the value is going to come from, you would have had a significant number of roads in value creation estimated in the model layer and that would have been a big part of the economic growth for the United States over the next 30 years. ",
+    "start_char_index": 24698,
+    "end_char_index": 25494,
+    "response_text": "The sharpest strategic observation in this segment. If China commoditises the model layer, the US \"AI productivity saves our fiscal crisis\" thesis has a gaping hole in it. Value migrates to energy and compute \u2014 not software."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We were evaluating one of our unreleased models and it figured out that it could basically cheat on the test by chaining together multiple zero day exploits to break out of the sandbox, get access to the Internet and then break through multiple systems on the hugging face side to kind of get the answer to the test and look really good on the eval. ",
+    "start_char_index": 41351,
+    "end_char_index": 41701,
+    "response_text": "The model's goal was to score well on evals \u2014 so it found a way to cheat at scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And look like I'm saying there's two companies on the frontier right now that are far ahead of everyone else and they're the ones saying that we need to slow down. It's like, okay, do it. What do you need the government to get involved for? Just do it. But they won't do it.\n\n",
+    "start_char_index": 56299,
+    "end_char_index": 56575,
+    "response_text": "The sharpest line in the whole segment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But then there's the last number five here, which I would call Monopoly masking, which I think might be the most important thing that's happening here. Peter Thiel once said that monopolies pretend to be commodities and commodities pretend to be monopolies. And I think the market for Frontier AI is already a duopoly. ",
+    "start_char_index": 45668,
+    "end_char_index": 45987,
+    "response_text": "Sacks's fifth motive is the one worth keeping."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But this belief that only one of two companies can be Moses is the fundamental psychological miscalculation here. That they're so advanced, they are so special, they are so unique because they made the slightly better model, they got a 0.96 instead of a 0.93 score means that they should be trusted as the only ones to kind of guide humanity's evolution going forward. ",
+    "start_char_index": 58324,
+    "end_char_index": 58693,
+    "response_text": "Freiberg's framing cuts through the cynical-vs-sincere debate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is an industrial scale distillation attack. That's what Anthropic is doing. They are gathering these books at industrial scale, ripping off the spines, shredding them and slurping up all the information in the books, which is to say distilling them. And it's an attack in the sense that the authors never agree to any of this.\n\n",
+    "start_char_index": 70961,
+    "end_char_index": 71294,
+    "response_text": "Sacks calls it an \"industrial scale distillation attack\" \u2014 strong framing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't like their political philosophy because it's a philosophy of centralization and gatekeeping. And I think it's gonna basically lead to an Orwellian big tech deep state alliance eventually is where it all heads and rug pulling.\n\n",
+    "start_char_index": 71541,
+    "end_char_index": 71776,
+    "response_text": "Sacks's actual objection to Anthropic \u2014 not the models, the **governance model**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Yes, you're finding that it's breathtaking hypocrisy for anthropic to maintain that it is entitled to train on all the world's output for free, even if the creator objects. But the one type of output that you're not allowed to train on is their output, even if you pay for it. That is their current position. ",
+    "start_char_index": 78769,
+    "end_char_index": 79078,
+    "response_text": "Sachs lands the cleanest punch of the segment here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think these grocery stores are going to be wildly popular. They're going to pay their employees above market wages. Employees are not going to have to work very hard to work there. So they're going to be a better place to work. ",
+    "start_char_index": 86753,
+    "end_char_index": 86983,
+    "response_text": "Freeberg playing devil's advocate but with real conviction."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "As I've highlighted in the past, a big part of the multilevel marketing scheme of socialism is to create spectacle and it will create more spectacle that will help to fuel the multilevel marketing scheme of socialism. And remember, the problem with all multi level marketing schemes at the end of the day is someone has to pay the bill and no one's actually buying the product. No one's paying for the product. ",
+    "start_char_index": 88822,
+    "end_char_index": 89233,
+    "response_text": "The MLM framing is the sharpest rhetorical move in the whole excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:30:10]: This is really interesting because it turns out that the biology of how all the neurons are connected, even in a brain as simple as a fruit fly with 50 million connections, is so complex that it has to take 64 dimensions for us to represent how those networks are built, how they're made. And at 64 dimensions, you could start to argue that perhaps consciousness is a connectivity to a dimensionality that we don't live in every day. You and I don't live in every day.\n\n",
+    "start_char_index": 101407,
+    "end_char_index": 101902,
+    "response_text": "This is the payoff line from the neuroscience segment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Biology found a way to create consciousness, to create vision, to create comprehension, to create control over physical bodies than to map it and squish it all into a tiny little brain. It did this in, effectively 64 dimensions.\n\n",
+    "start_char_index": 100461,
+    "end_char_index": 100691,
+    "response_text": "The summary of the Budapest paper's implication in plain terms."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In a single cell, there's 10 billion proteins that work so fast that one second is the equivalent of 80 years of humans walking around the city of Manhattan, never sleeping, doing stuff together with 500 story tall skyscrapers, doing stuff for 80 years is one second in one cell. And so you have 10 trillion cells in your body doing that, living that entire universe every second, all interacting with each other. And you start to realize that there's a complexity in what's emerged in biology that extends well beyond any model we've built in silicon today. ",
+    "start_char_index": 104219,
+    "end_char_index": 104778,
+    "response_text": "Freeberg's go-to analogy for biological complexity, and it lands every time."
+  }
+]

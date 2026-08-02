@@ -1,0 +1,65 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And looking back on the decades, I'm surprised to realize that what I did not know has been a tremendous advantage versus a liability. I had not fallen victim to how others learned, knew and practiced. We were able to develop the Apache way.\n\nAfter all, beaten paths are for beaten men. ",
+    "start_char_index": 42014,
+    "end_char_index": 42301,
+    "response_text": "The full context makes this land harder:\n\"what I did not know has been a tremendous\nadvantage... I had not fallen victim to how\nothers learned, knew and practised.\"\n**Ignorance as moat** \u2014 not despite the\nlack of expertise, because of it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "While seeking to rid Apache of me, Truman made a Watergate type blunder. He bugged our offices and our board and conference rooms. And so he attributes these mistakes to, to Truman's out of control ego. He'll talk about the detriment to out of control ego multiple times throughout the book.\n\n",
+    "start_char_index": 24607,
+    "end_char_index": 24900,
+    "response_text": "The co-founder literally **bugged the\noffices**. Plank frames the lesson as ego\ndestroying competence, not as a personal\nbetrayal. That's the right frame \u2014 and\nworth keeping when hiring or partnering."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says values are not created equal. Truman and I differed on a fundamental basis. My time horizons for Apache were long term.\n\nTruman was impatient in his personal drive to become a high roller. Values are not created equal. I wanted to build the business. Truman wanted to build his personal fortune and fame.\n\n",
+    "start_char_index": 24076,
+    "end_char_index": 24390,
+    "response_text": "The cleanest **co-founder selection\nfilter** in the whole episode: not skill,\nnot even values in the abstract \u2014 it's\n*time horizon*. Build vs. extract. That\nquestion surfaces everything."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is a really great idea that he started during tough times and then kept doing it even when times were great.\n\nHe would just write these daily reports of what he was up to. So the board was never surprised. He essentially just over communicated for a period of several months. I wrote a daily report on my activities that contributed to the basis for confidence and support from the board and was a practice well worth maintaining between board meetings.\n\n",
+    "start_char_index": 25422,
+    "end_char_index": 25882,
+    "response_text": "Started during a crisis, kept going when\nthings were fine. **Over-communication as\ntrust infrastructure** \u2014 boards don't panic\nwhen they're never surprised. Simple and\nalmost nobody actually does it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Other people, someone else will invent technology. If you just stay in the game long, long enough to get lucky and you take a long term view, somebody else will come along and invent technology that makes your assets more valuable. So other people were inventing drilling techniques right outside of Apache that made Apache's wells that they had for 40 years then start drilling and yielding great results. ",
+    "start_char_index": 33896,
+    "end_char_index": 34303,
+    "response_text": "Applied directly to Apache: wells bought\nin the 70s that looked spent started\n**yielding again 40 years later** because\nof new drilling techniques invented by\nothers. Patience is leverage \u2014 if you\nown the asset, you capture the upside\nfrom inventions you didn't make."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We were to purchase from larger oil companies as the major integrated oil companies would be willing to sell as they sought cost reduction and cash redeployment in their quest for larger reserves. Once large international companies to develop their fields, some focus increasing attention on new virgin opportunities in a worldwide portfolio.\n\nConcurrently, to reduce their cost as fields deplete, they limit exploration expenditures. ",
+    "start_char_index": 40524,
+    "end_char_index": 40959,
+    "response_text": "The majors *wanted* to sell \u2014 they were\nchasing larger reserves and cutting costs\non depleting fields. **Counterposition\nonly works if the other side's incentives\npush them out** of the space you want.\nPlank understood that clearly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But at the time, other people thought the opposite. So he says, I believe immense job creation would be driven from the expanding roots of technological innovations and deferred availability of goods and services. I argued that both the Depression and the War had contributed to vast market potential. ",
+    "start_char_index": 13520,
+    "end_char_index": 13822,
+    "response_text": "He was **contrarian at the macro level**\nwhen most people feared another depression\npost-WWII. That macro bet preceded\neverything \u2014 the accounting firm, the oil\npivot, all of it. The whole $50B starts\nwith one correct non-consensus view."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, one trade off in my pursuits was my family who needed and warranted more of my time, love, attention and support. I had time enough to say no, while shortchanging a fine, wonderful wife and mother with our own discords washing over the lives of our children who have in aggregate done very well given their dad's shortcomings. At the same time, I am not the type of person, ruefully, to reminisce and think, if only I had done this and had done that.\n\nFor life is to live, learn and grow a recipe that for me is a full, splendid meal. ",
+    "start_char_index": 37650,
+    "end_char_index": 38194,
+    "response_text": "Rare to see a founder this **honest about\nthe cost without either excusing it or\ndrowning in guilt**. \"Life is to live,\nlearn and grow\" \u2014 he's not romanticising\nthe tradeoff, just refusing to\npretend it wasn't one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Most markets in my experience, rarely pause and stabilize where rationality might suggest that they should. ",
+    "start_char_index": 37375,
+    "end_char_index": 37483,
+    "response_text": "Seven decades of market observation\ncompressed into one sentence. **Markets\novershoot** \u2014 oil, trading, anything\ncyclical. Plank built Apache to survive\nthe irrational troughs, not just profit\nfrom the peaks. Directly relevant to\nthe trading pipeline."
+  }
+]

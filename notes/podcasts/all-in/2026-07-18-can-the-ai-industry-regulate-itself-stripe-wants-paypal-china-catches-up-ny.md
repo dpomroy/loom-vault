@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-07-18-can-the-ai-industry-regulate-its
 source_title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
 source_date: 2026-07-18
 show: "All-In"
-themes: ["AI Industry Dynamics", "Misc"]
+themes: ["AI & Technology", "Energy & Infrastructure", "Misc"]
 generated_at: 2026-07-19T02:04:53+00:00
 agent: note-taker
 model: claude-sonnet-4-6

@@ -4,7 +4,7 @@ source_path: sources/podcasts/david-senra/2026-07-26-david-heinemeier-hansson-dh
 source_title: "David Heinemeier Hansson (DHH), Co-founder of 37signals"
 source_date: 2026-07-26
 show: "David Senra"
-themes: ["AI Industry Dynamics", "Brand & Luxury", "Founder Psychology", "Misc"]
+themes: ["AI & Technology", "Company Building", "Founder Psychology", "Misc"]
 generated_at: 2026-07-29T02:05:39+00:00
 agent: note-taker
 model: claude-sonnet-4-6

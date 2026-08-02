@@ -1,21 +1,20 @@
 ---
 type: theme
-name: "Business Models"
-description: "How companies create, capture, and sustain value — pricing strategy, flywheel dynamics, scale economics, and structural advantages."
-generated_at: 2026-07-29T02:07:31+00:00
+name: "Business Strategy"
+description: "Quotes about competitive moats, market positioning, business model design, pricing, distribution, and long-term strategic thinking."
+generated_at: 2026-08-02T02:04:55+00:00
 agent: theme-tagger
 model: claude-sonnet-4-6
-quote_count: 95
+quote_count: 121
 ---
 
-# Business Models
+# Business Strategy
 
-How companies create, capture, and sustain value — pricing strategy, flywheel dynamics, scale economics, and structural advantages.
+Quotes about competitive moats, market positioning, business model design, pricing, distribution, and long-term strategic thinking.
 
 ## Quotes
 
 - "We're good at creating businesses, we're not as good at running businesses." — [[notes/podcasts/acquired/2023-08-21-costco]]
-- "the deeper you dig, the more good things you find. Usually, it's the exact opposite of that." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "Nothing about Costco is an accident from the extra wide parking spaces to the whole rotisserie chickens." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "It turns out that there is really one pretty sure thing, at least in America, probably the whole world, that if you sell something at lower prices than anywhere else, you're going to sell a lot of it, no matter what hoops people have to jump through." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "In many, if not close to all cases with Price Club and then with Costco today, those goods are sold before Price Club has to pay the invoice to the supplier." — [[notes/podcasts/acquired/2023-08-21-costco]]
@@ -42,6 +41,7 @@ How companies create, capture, and sustain value — pricing strategy, flywheel 
 - "Every five years on earnings calls and in annual letters, Costco management reveals that they're surprised by how unsaturated they are in the US market." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "The average US store has 68,000 members. The first store in China opened in 2019, which popped to 400,000 members within two years." — [[notes/podcasts/acquired/2023-08-21-costco]]
 - "It is incorrect to describe markets by the products in them. You should describe markets by the job to be done." — [[notes/podcasts/acquired/2025-02-24-rolex]]
+- "Since 1735, there has never been a quartz Blancpain watch, and there never will be." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "It was a feat of jujutsu to take the weakness of the mechanical watch, the old technology, inaccurate, labor-intensive, expensive to produce, and turn them into strengths." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Wealthy people don't need an instrument that tells time. They want a beautiful and exclusive object on their wrist." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "The Swiss market's global share would fall from that 85% at peak in 1945 to just 15% by 1980. The number of firms fell from 2000 companies in 1960 to fewer than 500 in 1980." — [[notes/podcasts/acquired/2025-02-24-rolex]]
@@ -66,31 +66,37 @@ How companies create, capture, and sustain value — pricing strategy, flywheel 
 - "Rolex is positioned at the perfect point on the curve of price and quantity. They're the most optimally-positioned supply-demand curve company I think we've ever covered." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "The brand with mass appeal, that all the newbies want, that sells a million a year, is also the one of the highest quality." — [[notes/podcasts/acquired/2025-02-24-rolex]]
 - "Rolex and Apple are mirror image companies in a lot of ways." — [[notes/podcasts/acquired/2025-02-24-rolex]]
-- "Vanguard itself is essentially a communist organization — it has no shareholders, makes no profits, and operates more like REI than Fidelity." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "Yes, mutualization of the fund and funds activities was totally my idea. And I realized that a mutual company would never provide me with the personal fortune that so many denizens of Wall Street would earn. But it offered, I believe, my last best chance to resume my career." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "The present structure has been the accepted norm for the mutual fund industry for 50 years. The issue we face is whether a structure so traditional, so long accepted, so satisfactory for an infant industry as it grew during a time of less stringent ethical and legal standards, is really the optimum structure for these times and for the future and for the Wellington Group of Investment Companies? Or rather, should the funds seek greater control over their own destiny?" — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "I can't believe that the great mass of investors are going to be satisfied with just receiving average returns. The name of the game is to be the best." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "If a statue is ever erected to honor the person who has done the most for American investors, the hands-down choice should be Jack Bogle. For decades, Jack has urged investors to invest in ultra-low-cost index funds. In his crusade, Jack was frequently mocked by the investment management industry. Today, however, he has the satisfaction of knowing that he helped millions of investors realize far better returns on their savings than they otherwise would have earned. He is a hero to them and to me." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "Active managers had long promised that when a bear market finally arrived, that they would outperform Vanguard's fully invested index funds. It did, and they did not." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "The grim irony of investing is that we investors as not only don't get what we pay for, we get precisely what we don't pay for." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
+- "Ferrari will always deliver one car less than the market demand." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "There is not a direct correlation between Ferrari victories on the track and the number of cars that you can sell. But if for many years you do not win, it means that you do not add wood to the fire of the myth." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Fiat's attempt, their best solution to fixing the problem of the road car business, is to produce more road cars, which is the cardinal sin of luxury strategy management." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Luca is the one who realised that Ferrari is a luxury company. To Enzo, Ferrari was a racing company that sold a connection to that to its clients." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Ferrari is Hermès and Manchester United smashed together. And that makes it super different." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "Ferrari will never make another one like it again." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "In luxury, you never want a customer to feel like they've done it all. You want a place for them to graduate to." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
+- "The profit per car average exceeded $170,000. That is more than the entire retail price of your average luxury sedan." — [[notes/podcasts/acquired/2026-04-13-ferrari]]
 - "Strategy follows structure." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "Where returns are concerned, time is your friend, but where costs are concerned, time is your enemy." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "You will destroy this entire industry." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "I knew a rough road lay ahead, for my goal ultimately was to build a broad-based firm. And I took on my new leadership role in the same way I had left my previous leadership role. Fired with enthusiasm." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
-- "99% of Vanguard's AUM came after Jack stepped down." — [[notes/podcasts/acquired/2026-05-18-vanguard]]
 - "The business of feature film production is a mediocre one, especially by the standards of what we study on this show here with Acquired, except for Disney." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
+- "You need to go do something leveraging a new piece of technology or a new platform. You gotta come at it from an orthogonal way in order to leapfrog and make people pay attention to you." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
+- "Disney has made himself the Life Savers of animation." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
 - "Walt really did sort of either discover or invent this business model of the intellectual property flywheel that we see replicated all over the place today." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
 - "Mickey is always available to work. And Mickey doesn't age." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
 - "If you structure the nodes of the flywheel right, the additional exposure reinforces the core IP." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
 - "Our product is practically eternal." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
 - "7 years, you know, give or take a couple years, basically becomes the core Disney IP cadence to this very day." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
-- "Live action doesn't feed the flywheel, at least for Disney, in quite the same way." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
-- "Disney Parks and Cruises today does $36 billion in revenue and $10 billion in profit per year. That is twice the amount of profit that their entertainment division produces." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
-- "They're a source of IP development, not just a sink of IP development." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
-- "Disney managed to take not only a set of IP and build their flywheel real, but a cohesive set of IP, an opinionated universe of timeless stories about durable emotional story arcs that are universally applicable, that work together as one." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
-- "They can't fully avoid being a hits-based business. They are a movie studio, but they've gotten about as far away from it as they possibly can." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
+- "Walt always playing the long game and always being willing to bet the whole farm and being right enough times and managing to survive through the times where he was wrong." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
+- "During Walt's era, Disney operated like an unhinged moonshot factory, blowing its finances on one seemingly crazy project after another." — [[notes/podcasts/acquired/2026-06-22-the-walt-disney-company]]
+- "In the end, the market is a weighing machine, not a popularity machine. No one remembers who went first, Google or Yahoo, Lyft or Uber." — [[notes/podcasts/all-in/2026-06-02-openai-cfo-sarah-friar-on-ipo-ai-rivalries-new-device-and-spending-100b-on]]
+- "if you take a management team with a reputation for brilliance, and a business with a reputation for being bad, it is the business's reputation that will stay intact." — [[notes/podcasts/david-senra/2026-05-17-strauss-zelnick-take-two-interactive]]
+- "When things are stable, market share, stay stable. You don't eat market share. So when there's change, there's risk, you can lose market share. But that is also when you have the most opportunity to eat market share." — [[notes/podcasts/david-senra/2026-06-07-gustav-s-derstr-m-spotify]]
+- "Quality is the best business plan." — [[notes/podcasts/david-senra/2026-06-14-ed-catmull-co-founder-of-pixar]]
+- "Black consumers are the best consumers in the world because they buy products that aren't marketed to them." — [[notes/podcasts/david-senra/2026-06-21-steve-stoute-unitedmasters]]
+- "Placing bets on emerging subculture is on its path to mainstream culture." — [[notes/podcasts/david-senra/2026-06-21-steve-stoute-unitedmasters]]
+- "When you're making that margin on that product, the last thing on your mind is who's making money off the glasses… because we're giving it away." — [[notes/podcasts/david-senra/2026-06-21-steve-stoute-unitedmasters]]
+- "MySpace was focused on number of accounts signed up. Facebook focused on monthly active users. It was the dominant game." — [[notes/podcasts/david-senra/2026-07-05-jonathan-ross-founder-of-groq]]
 - "All happy companies are different. Each one earns a monopoly by solving a unique problem. All failed companies are the same. They failed to escape competition." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
+- "The greatest thing Jobs designed was his business." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
 - "If you focus on near term growth above all else, you miss the most important question you should be asking. Will this business still be around a decade from now?" — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
+- "Jobs returned to Apple 12 years later shows how the most important task in business, the creation of new value, cannot be reduced to a formula and applied by professionals." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
 - "The perfect target market for a startup is a small group of particular people concentrated together and served by few or no competitors." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
 - "The most important things are singular. One market will probably be better than all others. One distribution strategy usually dominates all others too." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
 - "Every correct answer is necessarily a secret. Something important and unknown, something hard to do, but doable." — [[notes/podcasts/founders/2026-07-10-424-peter-thiel-on-how-to-build-a-creative-monopoly]]
@@ -106,6 +112,26 @@ How companies create, capture, and sustain value — pricing strategy, flywheel 
 - "Progress in thinking is progress towards simplicity." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
 - "If I cannot understand something by reading my notes on the subject, I won't buy it. You're too complex for me." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
 - "He considers a working knowledge of Greek and Latin a better preparation for merchant banking than a study of modern finance, management techniques and economics." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
-- "Since most people read the paper with the subconscious wish of trying to forget as fast as possible what they read." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
 - "I don't like people who deliberately try to think in my way. Besides, why should I pay a man for thinking the way I do? I can do that for myself." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
 - "The hardest things to raise money for often turn out to be the best." — [[notes/podcasts/founders/2026-07-19-425-the-merchant-bankers]]
+- "If you stay in the game long enough to get lucky, someone else will then come along and invent technology that make your assets more valuable." — [[notes/podcasts/founders/2026-08-01-427-how-raymond-plank-built-a-50-billion-oil-company]]
+- "We were a bit like pigs following cows through a cornfield. The scraps are pretty good for a company with our particular strategy." — [[notes/podcasts/founders/2026-08-01-427-how-raymond-plank-built-a-50-billion-oil-company]]
+- "I believe immense job creation would be driven from the expanding roots of technological innovations and deferred availability of goods and services." — [[notes/podcasts/founders/2026-08-01-427-how-raymond-plank-built-a-50-billion-oil-company]]
+- "Most markets in my experience, rarely pause and stabilize where rationality might suggest that they should." — [[notes/podcasts/founders/2026-08-01-427-how-raymond-plank-built-a-50-billion-oil-company]]
+- "I was totally unfocused on business quality, the moat, return on capital. I barely even thought about relative multiples for different kinds of businesses. All I thought about is am I buying something really cheap that has the following characteristics." — [[notes/podcasts/invest-like-the-best/2026-05-28-dan-loeb-lessons-from-30-years-of-investing-invest-like-the-best-ep-475]]
+- "We are a supply led company... if we do that, the demand will take care of itself." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
+- "the math is simple, which is you want to make sure that your costs grow slower than your revenue and good things happen over a long period of time." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
+- "I prioritize growth. I prioritize innovation over buybacks. If you're building the company right, you'll do both." — [[notes/podcasts/invest-like-the-best/2026-06-03-dara-khosrowshahi-uber-s-bet-on-avs-ai-and-building-a-super-app-invest-like-the]]
+- "We're not in the business of predicting the future. We're in the business of being prepared for all its eventualities." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "It allows us to do the right thing, not the expedient thing. It allows us to maintain what I would describe as investment hygiene." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "We are not driven by shareholders, for example, whose priority is return on capital in the form of dividends and buybacks." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "You are able to sustain what I describe as much better investment hygiene." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "Our brand is to come and help you build a business." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "If you simply take the approach of let me buy a 4% investment grade bond versus trying to achieve a 7, 8, 9, 10% return on the totality of your portfolio, it's all the difference in the world." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "Once we determine what exposure we want, we've got lots of different ways of getting that exposure. And this is critical because I think as an investor that sits in our platform, you have the choice set that very few investors have." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "The craft of investing is inherently diluted one way or the other." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "You will likely have trillion dollar companies in 2030 that currently don't exist. And you probably have trillion dollar companies or many hundred billion dollar companies that will not exist." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "The long term is constructed of a bunch of short terms." — [[notes/podcasts/invest-like-the-best/2026-06-23-vlad-barbalat-investing-120-billion-in-permanent-capital-invest-like-the-best]]
+- "To put it crudely, a bit of a Walmart effect in software — the future looks like low gross margins, razor thin net margins, huge scale." — [[notes/podcasts/invest-like-the-best/2026-07-07-jeremy-giffon-the-billion-dollar-pdf-invest-like-the-best-ep-481]]
+- "Great differentiation requires great sacrifice." — [[notes/podcasts/invest-like-the-best/2026-07-14-john-kim-how-to-raise-a-few-billion-dollars-invest-like-the-best-ep-482]]
+- "to do spectacularly well, you almost always have to do things that are not what everybody else is doing." — [[notes/podcasts/invest-like-the-best/2026-07-28-sam-altman-how-to-make-an-abundant-future-invest-like-the-best-ep-484]]

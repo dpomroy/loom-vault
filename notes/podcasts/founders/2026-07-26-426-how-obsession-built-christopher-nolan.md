@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-07-26-426-how-obsession-built-christ
 source_title: "#426 How Obsession Built Christopher Nolan"
 source_date: 2026-07-26
 show: "Founders"
-themes: ["AI Industry Dynamics", "Misc"]
+themes: ["Founder Psychology", "Misc"]
 generated_at: 2026-07-26T02:05:03+00:00
 agent: note-taker
 model: claude-sonnet-4-6

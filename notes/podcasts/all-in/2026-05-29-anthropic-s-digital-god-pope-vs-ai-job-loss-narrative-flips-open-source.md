@@ -4,7 +4,7 @@ source_path: sources/podcasts/all-in/2026-05-29-anthropic-s-digital-god-pope-vs-
 source_title: "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?"
 source_date: 2026-05-29
 show: "All-In"
-themes: ["AI Industry Dynamics"]
+themes: ["AI & Technology"]
 generated_at: 2026-05-31T02:03:46+00:00
 agent: note-taker
 model: claude-sonnet-4-6

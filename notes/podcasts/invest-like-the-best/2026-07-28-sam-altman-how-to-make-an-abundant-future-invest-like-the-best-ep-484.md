@@ -4,7 +4,7 @@ source_path: sources/podcasts/invest-like-the-best/2026-07-28-sam-altman-how-to-
 source_title: "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]"
 source_date: 2026-07-28
 show: "Invest Like the Best"
-themes: ["AI Industry Dynamics", "Founder Psychology"]
+themes: ["AI & Technology", "Business Strategy", "Founder Psychology"]
 generated_at: 2026-07-29T02:06:41+00:00
 agent: note-taker
 model: claude-sonnet-4-6

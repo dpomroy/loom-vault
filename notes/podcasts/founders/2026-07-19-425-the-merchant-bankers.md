@@ -4,7 +4,7 @@ source_path: sources/podcasts/founders/2026-07-19-425-the-merchant-bankers.md
 source_title: "#425 The Merchant Bankers"
 source_date: 2026-07-19
 show: "Founders"
-themes: ["Brand & Luxury", "Business Models", "Leadership & Teams"]
+themes: ["Business Strategy", "Company Building"]
 generated_at: 2026-07-22T02:05:49+00:00
 agent: note-taker
 model: claude-sonnet-4-6
