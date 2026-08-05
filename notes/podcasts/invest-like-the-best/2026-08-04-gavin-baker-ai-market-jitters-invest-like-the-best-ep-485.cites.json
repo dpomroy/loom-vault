@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:02:28]: Yeah, I would describe July as 2022 in a month. There are some fundamental negatives which we should talk, but on the whole the balance of fundamentals I think is improving significantly. Loads of AI names are down 50, 60% from their highs. We'll call it 40 to 60% in a month in a straight line. ",
+    "start_char_index": 6423,
+    "end_char_index": 6744,
+    "response_text": "The framing matters. Gavin isn't saying it's a crash \u2014 he's saying the *speed* of repricing is the anomaly, not the direction. Fundamentals were improving while prices collapsed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, however you cut it, whether you cut GPU availability, whether you cut GPU rental pricing, I mean whether you cut like the spot price of DRAM this month, token growth, everything is actually accelerated. ",
+    "start_char_index": 7250,
+    "end_char_index": 7461,
+    "response_text": "GPU availability, GPU rental pricing, DRAM spot price, token growth \u2014 all moving the same direction."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But broadly speaking, all open source taking share does is take margin dollars out of the frontier model layer. There is elasticity, thereby driving token demand. You need more demand for computer and the margins, you know, anthropic and open source, they all run on the same underlying cloud providers who charge the same amount of compute. So you're literally just taking margin from frontier models and essentially driving more margin dollars into the AI infrastructure layer.\n\n",
+    "start_char_index": 12214,
+    "end_char_index": 12695,
+    "response_text": "Cheaper tokens don't destroy compute demand \u2014 they shift **margin** from Anthropic/OpenAI down to infrastructure. The cloud providers still get paid. GPU hours are the same."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And essentially everyone I know in the public equity investment business, whether retail or institutional, every piece of news gets fed into Claude and Claude, Claude code, sometimes a Claude agent. And it's probabilistic. There's probably not that much variation in the way it's interpreting this news. ",
+    "start_char_index": 24797,
+    "end_char_index": 25101,
+    "response_text": "Everyone is feeding news into Claude, getting similar probabilistic outputs, and **trading on the same interpretation**. It's manufactured consensus \u2014 and Claude isn't always right, especially on forward-looking probabilistic calls."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's like Claude is kind of Walter Cronkite for the stock market. And everybody just believes whatever it, whatever it says. And by the way, it's really smart, but it's not always right, its interpretation isn't always correct. ",
+    "start_char_index": 25376,
+    "end_char_index": 25604,
+    "response_text": "Everyone is feeding news into Claude, getting similar probabilistic outputs, and **trading on the same interpretation**. It's manufactured consensus \u2014 and Claude isn't always right, especially on forward-looking probabilistic calls."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, have you heard anyone say they have too many GPUs?\n\n",
+    "start_char_index": 30695,
+    "end_char_index": 30755,
+    "response_text": "Not one person. The anecdote about a startup paying ~$2/GPU hour renewing at just under $4 \u2014 **50-60% price increase** in six months \u2014 is the cleanest signal that this is a genuine shortage, not hype."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:19]: Like not a single person. ",
+    "start_char_index": 30785,
+    "end_char_index": 30836,
+    "response_text": "Not one person. The anecdote about a startup paying ~$2/GPU hour renewing at just under $4 \u2014 **50-60% price increase** in six months \u2014 is the cleanest signal that this is a genuine shortage, not hype."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:27:21]: In fact it's the opposite. It sounds like a drug market or something.\n\n**Speaker B** [0:27:23]: Yeah, it really does. ",
+    "start_char_index": 30841,
+    "end_char_index": 30984,
+    "response_text": "Not one person. The anecdote about a startup paying ~$2/GPU hour renewing at just under $4 \u2014 **50-60% price increase** in six months \u2014 is the cleanest signal that this is a genuine shortage, not hype."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And there's $25 trillion in knowledge work. Let's take your 20% number, that's 5 trillion. And that either comes out of labor substitution or faster economic growth. And we really, really, really want as humans to come from faster economic growth.\n\n",
+    "start_char_index": 35599,
+    "end_char_index": 35848,
+    "response_text": "At 20% tokens-as-percent-of-comp, that's a $5 trillion addressable pool. It either comes from **labour substitution or faster economic growth** \u2014 and Gavin's point is we really want it to be the latter."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So if you break the lta, this is assuming we're not at a severe oversupply situation. The game theory even holds in a severe oversupply situation. If you break your LTA and then in the next two or three years for any reason, leverage shifts back to the memory guys, you're out of business, it's over. ",
+    "start_char_index": 39378,
+    "end_char_index": 39679,
+    "response_text": "The asymmetry here is brutal.\nBreaking an LTA to save cost in a downcycle\nrisks your supply position in the **next** upcycle.\nCyclical industries punish disloyalty \u2014 this is\na higher-stakes version of that."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But to a large degree, market shares I think for the next several years are going to be determined by supply chain allocations and kind of what you have pre purchased. ",
+    "start_char_index": 39210,
+    "end_char_index": 39378,
+    "response_text": "This reframes the whole competitive landscape.\n**Winning isn't about the model** \u2014 it's about\nwho locked in compute early.\nThat's a non-obvious and uncomfortable truth\nfor anyone betting on pure capability."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because if you can go from just using one, two or three frontier models to using those frontier models for whatever it is, 30 to 60% of your token consumption, and then use your own RL model, all of a sudden you're not a rapper, you're way more defensible.\n\n",
+    "start_char_index": 51730,
+    "end_char_index": 51988,
+    "response_text": "The \"ChatGPT wrapper\" criticism finally has a\nstructural answer: **fine-tune on your own data**,\nuse frontier only where it matters, and you have\nreal moat. Directly relevant to Loom's architecture\nchoices if it ever needs a proprietary model layer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Data centers are in a lot of ways the best thing to happen for blue collar wages in my lifetime. And yet you have the Democrats who ostensibly represent the blue collar workers taking those jobs away. ",
+    "start_char_index": 56891,
+    "end_char_index": 57092,
+    "response_text": "The political narrative vs. economic reality gap\nis stark here. The **PR failure** is real \u2014 and\nGavin's point is that the industry is letting a\ncorrectable misconception calcify into policy risk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "SpaceX has kind of brought out the most, the fastest at the lowest cost. People do actually really like their clusters, but again, it's kind of like the market is going to need to see that.\n\n",
+    "start_char_index": 64525,
+    "end_char_index": 64716,
+    "response_text": "The market is pricing SpaceX as a rocket company.\nGavin's saying it's actually the **most efficient\ncompute builder** among non-hyperscalers \u2014 and\nthat's not in consensus numbers at all.\nThat's a meaningful dislocation if he's right."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And energizing these GPUs is really hard, but they've been good at it. It doesn't feel like that's in estimates or really in people's thinking.\n\n",
+    "start_char_index": 65750,
+    "end_char_index": 65895,
+    "response_text": "The market is pricing SpaceX as a rocket company.\nGavin's saying it's actually the **most efficient\ncompute builder** among non-hyperscalers \u2014 and\nthat's not in consensus numbers at all.\nThat's a meaningful dislocation if he's right."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:51:48]: I think regulatory has to be the biggest risk. It's the most obvious risk. ",
+    "start_char_index": 55078,
+    "end_char_index": 55178,
+    "response_text": "He's bullish on fundamentals but this is the\nhonest caveat. **Regulation isn't a tail risk** \u2014\nit's already happening, and the industry's poor\nmessaging makes it worse. Worth watching as a\nstructural constraint on AI infra build-out."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I still come away thinking regulation, it just has to be the biggest risk. You just can't ignore New York making a data center moratorium. ",
+    "start_char_index": 55507,
+    "end_char_index": 55650,
+    "response_text": "He's bullish on fundamentals but this is the\nhonest caveat. **Regulation isn't a tail risk** \u2014\nit's already happening, and the industry's poor\nmessaging makes it worse. Worth watching as a\nstructural constraint on AI infra build-out."
+  }
+]
