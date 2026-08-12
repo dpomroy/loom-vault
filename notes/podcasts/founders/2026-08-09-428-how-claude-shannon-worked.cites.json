@@ -1,0 +1,100 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "He was a man almost entirely written out of a history that's defined by self promoters. His was a life spent in the pursuit of curious, serious play, the mind at play.\n\n",
+    "start_char_index": 9013,
+    "end_char_index": 9182,
+    "response_text": "The anti-Shannon is everywhere \u2014 people who produce less but talk more. Shannon inverted this completely. \"Curious, serious play\" is the exact tension worth holding: not frivolous, not grim."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He worked with levity and played with gravity. He never acknowledged a distinction between the two. ",
+    "start_char_index": 9775,
+    "end_char_index": 9875,
+    "response_text": "This is the line that sticks. Most people treat play as recovery from work. Shannon treated them as **the same process** running at different frequencies. That's a structural advantage, not a personality quirk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Shannon replied, I do what comes naturally and usefulness is not my main goal. I keep asking myself, how would you do this? Is it possible to make a machine to do this?\n\nCan I prove this theorem? ",
+    "start_char_index": 11588,
+    "end_char_index": 11788,
+    "response_text": "He's not being falsely modest \u2014 this is a literal description of his operating loop. The questions are always generative, never performative. \"Usefulness\" as a secondary concern is how you accidentally produce the most useful things."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, chemistry always seemed dull to me. There's too many isolated facts and too few general principles for my taste. ",
+    "start_char_index": 16995,
+    "end_char_index": 17117,
+    "response_text": "Shannon's **rejection criteria** tells you as much as his interests. He needed work that abstracted upward. Facts without structure bored him \u2014 which is exactly why he ended up building the structure everything else runs on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One of Vannevar Bush's deepest convictions was that specialization is the death of genius. ",
+    "start_char_index": 25180,
+    "end_char_index": 25271,
+    "response_text": "This is Vannevar Bush's conviction, and he backed it practically \u2014 pointing Shannon at genetics when Shannon knew nothing about it, just to test the hypothesis. It confirmed: a universal mind produces original findings in under a year, in a field it's never studied."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, in these days, when there's a tendency to specialize so closely, it is well for us to be reminded that the possibilities of being at once both broad and deep did not pass with Leonardo da Vinci or Benjamin Franklin. ",
+    "start_char_index": 25309,
+    "end_char_index": 25534,
+    "response_text": "This is Vannevar Bush's conviction, and he backed it practically \u2014 pointing Shannon at genetics when Shannon knew nothing about it, just to test the hypothesis. It confirmed: a universal mind produces original findings in under a year, in a field it's never studied."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, I've been working on three different ideas simultaneously, and strangely enough, it seems a more productive method than sticking to one problem. ",
+    "start_char_index": 33856,
+    "end_char_index": 34010,
+    "response_text": "Filed under: **things that shouldn't work but do**. Shannon wrote this in his 20s, from Bell Labs, where nobody was telling him what to work on. Parallel problems kept him from getting stuck \u2014 each one was a pressure-release valve for the others."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Unlike many scientists who parlayed successful research careers into lives as public intellectuals, he did not seem to consider using his growing standing as an opportunity to expand his network outside of it. If anything, he closed himself off further, ignoring letters, colleagues, and projects and spending his time and attention absorbed by puzzles that interested him the most is what he was just saying. ",
+    "start_char_index": 14906,
+    "end_char_index": 15316,
+    "response_text": "Unlike scientists who parlayed research into public-intellectual careers, he closed himself off further \u2014 ignoring letters, colleagues, and projects \u2014 spending time absorbed by whatever puzzles interested him most."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Eight years like this, scribbling, refining, crossing out, staring into a thicket of equations, knowing that at the end of all this effort they may reveal nothing. ",
+    "start_char_index": 44957,
+    "end_char_index": 45121,
+    "response_text": "The quote is verbatim from the book's description of Shannon writing the paper."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "After I'd found the answers, it was always painful to write them up or to publish them again. ",
+    "start_char_index": 47386,
+    "end_char_index": 47480,
+    "response_text": "Shannon said this directly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I've always pursued my interest without much regard to financial value or value to the world. I've spent lots of time on totally useless things. ",
+    "start_char_index": 50411,
+    "end_char_index": 50556,
+    "response_text": "This is Shannon's own summary of his post-paper life."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What other people called hobbies, he thought of as experiments, exercises in the practice of simplification models that filed a problem down to its barest interesting form.\n\n",
+    "start_char_index": 50727,
+    "end_char_index": 50901,
+    "response_text": "This framing comes directly from the book."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he says Shannon seemed to think with ideas more than with words or formulas. A new problem was like a sculptor's block of stone, and Shannon's ideas chiseled away the obstacles until an approximate solution emerged, like an image, which he proceeded to refine as desired, with more ideas. ",
+    "start_char_index": 57047,
+    "end_char_index": 57340,
+    "response_text": "Ed Thorpe's description of Shannon's problem-solving style."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The important people and events of history are the thinkers and innovators, the Darwins, the Newtons, the Beethovens, whose work continues to grow influence in a positive fashion.\n\n",
+    "start_char_index": 59053,
+    "end_char_index": 59234,
+    "response_text": "Shannon said this in a speech accepting a prize in Japan."
+  }
+]

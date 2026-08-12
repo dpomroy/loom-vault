@@ -1,0 +1,380 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "In 1984, Disney generated a quarter billion dollars of profit from its parks and consumer products and a mere $2 million from film and TV. The core of the famous Disney flywheel is completely broken.\n\n",
+    "start_char_index": 10627,
+    "end_char_index": 10828,
+    "response_text": "The core flywheel was already dead before the raiders even arrived."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Michael writes, we have no obligation to make art. We have no obligation to make history. We have no obligation to make a statement. But to make money, it is often important to make history, to make art, or to make some significant statement. ",
+    "start_char_index": 16562,
+    "end_char_index": 16808,
+    "response_text": "Eisner's Paramount memo is still one of the cleanest articulations of commercial creative strategy ever written."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Jeffrey writes a memo later where he espouses this really great line that celebrity can open a film, but celebrity can't carry a film.\n\n",
+    "start_char_index": 17190,
+    "end_char_index": 17326,
+    "response_text": "Katzenberg's line is the tighter, more quotable version of the same idea Eisner was writing memos about."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "All told, 27 of their first 33 movies that they make are profitable, which, in Hollywood, to have a hit rate like that, that's like making 33 venture capital investments and only losing money in six of them.\n\n",
+    "start_char_index": 25290,
+    "end_char_index": 25499,
+    "response_text": "That hit rate is the empirical proof that the singles-and-doubles strategy wasn't just philosophy \u2014 it actually worked at scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: So Howard has this great quote where he says, well, in every great Broadway musical, the third song, the leading lady goes and she sits on something, might be a rock, might be a trash can, and she sings a song to the world telling the audience what she wants. If she could only have this thing in life, and then the whole rest of the film, we root for them. That is the entire crux of the play, is what does the leading lady want? And we hope that she gets there. ",
+    "start_char_index": 32224,
+    "end_char_index": 32693,
+    "response_text": "Howard Ashman's structural insight \u2014 the \"I want\" song \u2014 is the actual creative engine behind the Renaissance, not the executives."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And, here's a great quote from our friend Ben Cohen at the Wall Street Journal, in a piece that he wrote: once upon a time, Disney movies got beat at the box office by rom-coms. The Little Mermaid made less money than When Harry Met Sally, in 1989. Only when it came out on home video in 1990 and kids could watch VHS tapes of The Little Mermaid anytime they wanted did the iconic children's movie become truly massive.\n\n",
+    "start_char_index": 33606,
+    "end_char_index": 34027,
+    "response_text": "The Renaissance wasn't an instant explosion \u2014 it required home video to unlock the real returns."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And if you add up gross on Broadway over the past 30 years, plus the touring company, The Lion King musical has grossed over $11 billion in total revenue in its run, which I think makes it the single highest-grossing entertainment product in history in any medium\u2014 film, music, TV, video games, other Broadway shows.\n\n",
+    "start_char_index": 48489,
+    "end_char_index": 48807,
+    "response_text": "The Lion King musical \u2014 not the film, not a franchise \u2014 is the\nsingle highest-grossing entertainment product ever made."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Yes, that Disney is getting roughly 50% or greater cash flow margin out of that. You should think each of those is half a billion dollars in Disney's bank account.\n\n",
+    "start_char_index": 44526,
+    "end_char_index": 44698,
+    "response_text": "Disney was pulling ~50% cash flow margin on VHS sales \u2014\nso 32 million Lion King tapes meant roughly $500M in profit,\non top of $250M already made at the box office."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: So it's this crazy thing they discovered where it seems to not hurt anything, not dampen any demand, because Michael Eisner would later famously point out, people buy these tapes, but they break, they lose them.\n\n",
+    "start_char_index": 42705,
+    "end_char_index": 42923,
+    "response_text": "Eisner's insight was that home video didn't cannibalise\ntheatrical demand \u2014 kids lose tapes, parents rebuy them,\nand the theatrical re-release cycle still worked."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: It doesn't make people any less excited to go to the theater 6, 7 years later.\n\n",
+    "start_char_index": 42945,
+    "end_char_index": 43030,
+    "response_text": "Eisner's insight was that home video didn't cannibalise\ntheatrical demand \u2014 kids lose tapes, parents rebuy them,\nand the theatrical re-release cycle still worked."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the broadcast networks like ABC went from like historically these great businesses to just kind of like, okay, businesses because so much of American viewing time and thus advertising dollars had transitioned over to cable. But it just so happened that buried within ABC was the single best cable asset in the history of mankind. The Entertainment and Sports Programming Network, better known as ESPN.\n\n",
+    "start_char_index": 68025,
+    "end_char_index": 68431,
+    "response_text": "Broadcast networks like ABC had been degraded by cable competition,\nlosing ad dollars and relevance \u2014 but sitting inside ABC\nwas ESPN, which had become the dominant cable force\nprecisely because of that same cable boom."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That may have been how it started, but pretty quickly though, ESPN and then within ABC, once ABC owns it, they realize that sports rights are the biggest point of leverage that they could possibly have over the cable operators because all ESPN has to do is threaten to pull the plug on any given cable operator and say to, you know, their thousands or millions of subscribers out there, oh, hey, you know, you wanted to watch those NBA games or those MLB games or those NFL games or see those highlights on SportsCenter. ",
+    "start_char_index": 70694,
+    "end_char_index": 71215,
+    "response_text": "ESPN's leverage was simple: sports rights were so\nemotionally charged that if a cable operator dropped ESPN,\nsubscribers would show up furious at the cable company's door.\nAmericans love their sports above almost everything."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, when that happens, people actually show up at the doorstep of the cable operators and basically riot. Americans love nothing more than their sports.\n\n",
+    "start_char_index": 71360,
+    "end_char_index": 71518,
+    "response_text": "ESPN's leverage was simple: sports rights were so\nemotionally charged that if a cable operator dropped ESPN,\nsubscribers would show up furious at the cable company's door.\nAmericans love their sports above almost everything."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Operating profit at the company goes from well under $300 million when they take over in 1984 to just under $2 billion a decade later. ",
+    "start_char_index": 53838,
+    "end_char_index": 53973,
+    "response_text": "Operating profit went from under $300M to nearly $2B\nin a single decade \u2014 almost 8x \u2014 after it had been\nactively declining before Eisner, Wells and Katzenberg arrived."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Yeah, those three guys didn't just save Disney. They made Disney flourish in a way that Walt only could have dreamed of.\n\n",
+    "start_char_index": 54183,
+    "end_char_index": 54312,
+    "response_text": "Operating profit went from under $300M to nearly $2B\nin a single decade \u2014 almost 8x \u2014 after it had been\nactively declining before Eisner, Wells and Katzenberg arrived."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The business model, once they got it going, was so simple. Just call up the cable operators every year or 2 and say, hey, we're going to raise carriage rates 20%. Oh, you don't like that? Okay, we'll pull the plug. You sure you don't like that? All right, 20% it is.\n\n",
+    "start_char_index": 73504,
+    "end_char_index": 73772,
+    "response_text": "The business model in its purest form.\nNo product innovation required \u2014 just leverage.\nThis is what a monopoly supplier looks like in practice."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Mickey Mouse and SportsCenter do not meet.\n\n",
+    "start_char_index": 76930,
+    "end_char_index": 76979,
+    "response_text": "Five words that expose the whole tension\nof the Cap Cities deal.\nDisney bought a business that had nothing\nto do with being Disney."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The quote is, it gave Disney a scale to remain independent while other studios were falling on hard times. ESPN also further stabilized the business during the ups and downs of animation. ",
+    "start_char_index": 77882,
+    "end_char_index": 78070,
+    "response_text": "Iger's own words confirm ESPN wasn't just\na cash cow \u2014 it was **existential insurance**.\nWithout it, Disney likely gets absorbed\nin the studio consolidation wave."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Walt Disney's chart, the famous flywheel one, may have been a very satisfying business model, but the reality of Disney's TV business is that it was scalable in a way that the Disney chart could never be. The beauty of the cable bundle is that nearly every household in America paid for it every single month, regardless of whether or not Disney had a hit TV show or a must-watch sporting event. Thanks to its suite of channels anchored by ESPN, Disney received a big chunk of that money and it grew like clockwork. In that world, Walt Disney's model was a nice side business to the real moneymaker.\n\n",
+    "start_char_index": 97590,
+    "end_char_index": 98191,
+    "response_text": "Ben Thompson's framing is brutal and correct.\nThe famous Disney flywheel \u2014 beloved,\ncelebrated, taught in business schools \u2014\nwas structurally smaller than a cable carriage deal.\n**Scale beats elegance.**"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Disney never again would get to be just Disney. ",
+    "start_char_index": 106274,
+    "end_char_index": 106327,
+    "response_text": "The real cost of the ESPN windfall.\nNot money \u2014 **clarity**.\nEvery strategy decision from 1996 onward\nhad to serve two completely different businesses."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And, you know, ESPN is arguments one, two, and three of why was he a great CEO.\n\nDavid: Yep, yep, yep.\n\nBen: And also Disney's Renaissance, but like, I'd put that at four, below ESPN, ESPN, and ESPN.\n\n",
+    "start_char_index": 107207,
+    "end_char_index": 107408,
+    "response_text": "Ben's ranking is right.\nThe Disney Renaissance gets all the cultural credit,\nbut ESPN is what made Eisner's numbers\nlook like a **generational run**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Well, I don't see how things will be any different, but sure, when the dust settles, be in touch. And it turned out that that phone call was probably the most important phone call in the history of the Walt Disney Company. ",
+    "start_char_index": 107940,
+    "end_char_index": 108163,
+    "response_text": "Jobs to Iger on the phone the day Iger\nwas named CEO. Classic Steve: dismissive\nopener, then leaves the door open.\nThat throwaway call becomes the pivot\npoint for the entire Disney acquisition\nof Pixar."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: He gets asked if it's gonna be faster and cheaper than traditional animation, 'cause why else are they doing it? And he says neither. It's just gonna push the envelope on what is possible in great storytelling. John is immediately, and I'm not kidding, same day, let go.\n\n",
+    "start_char_index": 112640,
+    "end_char_index": 112917,
+    "response_text": "Lasseter fired same day for answering\nhonestly. Disney's management in the\nearly '80s couldn't conceive of value\nthat wasn't cheaper or faster \u2014 exactly\nthe failure mode that let Pixar eat their\nlunch a decade later."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Which\u2014this is fascinating, by the way. This all happened because George believed so deeply in Star Wars and the movies he was making that he didn't want to give up any equity in Lucasfilm as part of his divorce. So he needed to raise cash to pay his former wife cash instead of giving her any equity in Lucasfilm.\n\n",
+    "start_char_index": 118593,
+    "end_char_index": 118915,
+    "response_text": "Lucas protecting his equity from a\ndivorce settlement is the butterfly\nthat creates Pixar. The entire $7.4B\nDisney-Pixar outcome traces back to\none man's refusal to dilute his cap table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: This is like the butterfly flaps its wings that results in Pixar saving Disney.\n\n",
+    "start_char_index": 118927,
+    "end_char_index": 119015,
+    "response_text": "Lucas protecting his equity from a\ndivorce settlement is the butterfly\nthat creates Pixar. The entire $7.4B\nDisney-Pixar outcome traces back to\none man's refusal to dilute his cap table."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I was watching old interviews with Lasseter and Jobs, and Lasseter has this quote, if it's working in our story reels, when we animate it and put color to it, it's gonna work even better. If it's not working in story reels, the animation won't save it. And then Jobs says, in essence, it lets us beta-test and iterate on our films before we actually make it. We believe it's one of the reasons that the hit rate can be substantially different. ",
+    "start_char_index": 126592,
+    "end_char_index": 127040,
+    "response_text": "Lasseter's process insight is\nunderrated. They built a low-res 2D\nprototype before committing to the\nexpensive 3D render pipeline \u2014 basically\nMVP thinking applied to filmmaking years\nbefore the term existed in tech."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Steve being Steve starts thinking through this and realizes if Toy Story is a hit, what's going to happen? Disney and Michael Eisner, who's still CEO at this point in time, are going to realize that they actually just created their worst nightmare, a true animation competitor to Disney that can do something that they can't. So let's play this out. That happens. He's probably going to come back to us and want to renegotiate the deal to lock us up for longer. We want to have as much leverage as possible in order to do that. We need to have our own capital to actually go in 50/50 on the production budget of the movies that we're making together. If we don't bring any capital, Disney will be able to walk all over us and keep the majority of the profits, plus take their distribution fee, etc., etc. ",
+    "start_char_index": 136578,
+    "end_char_index": 137386,
+    "response_text": "Steve saw the post-success negotiation\nbefore the film even shipped. He raised\nIPO capital not to celebrate \u2014 but to\nhave leverage in the renegotiation he\nknew was coming. Thinking two moves\nahead while everyone else was making\nthe movie."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: The numbers on Steve, he bought the company for $5 million. He actually did dump $54 million into it over nine years.\n\n",
+    "start_char_index": 139554,
+    "end_char_index": 139678,
+    "response_text": "He put in $54M over nine years,\nowned 78% on IPO day, walked out\nwith ~$1.2B. Not Apple \u2014 Pixar.\nMost people get this wrong about\nJobs's personal wealth."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And on IPO day, he owned 78% of the company.\n\n",
+    "start_char_index": 139754,
+    "end_char_index": 139800,
+    "response_text": "He put in $54M over nine years,\nowned 78% on IPO day, walked out\nwith ~$1.2B. Not Apple \u2014 Pixar.\nMost people get this wrong about\nJobs's personal wealth."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Yes, Pixar alone made Steve Jobs a billionaire on IPO day.\n\n",
+    "start_char_index": 139843,
+    "end_char_index": 139908,
+    "response_text": "He put in $54M over nine years,\nowned 78% on IPO day, walked out\nwith ~$1.2B. Not Apple \u2014 Pixar.\nMost people get this wrong about\nJobs's personal wealth."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Steve and Pixar did get a reality check, and the reality check is that they don't need Disney at all.\n\n",
+    "start_char_index": 147938,
+    "end_char_index": 148041,
+    "response_text": "The memo backfired completely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "After 10 months of trying to strike a deal with Disney, we're moving on. We've had a great run together, one of the most successful in Hollywood history, and it's a shame that Disney won't be participating in Pixar's future successes.\n\nDavid: Classic Steve Jobs writing.\n\n",
+    "start_char_index": 149825,
+    "end_char_index": 150097,
+    "response_text": "Jobs wrote this himself."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Bob, had this idea, and before he called Steve, he went to the board and said, 'Hey, can I have authorization to open a conversation with Steve Jobs about buying Pixar?' And he said that it was so unthinkable and such a surprise to the whole board that they forgot to say no\u2014\n\nDavid: Yeah.\n\nBen: That everyone was just like, 'Sure, call him,' because they thought there was no chance that it could possibly result in Steve saying yes.\n\n",
+    "start_char_index": 152148,
+    "end_char_index": 152584,
+    "response_text": "Iger's Pixar pitch was so audacious the board\nrubber-stamped it by accident."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They walk for a bit, they sit down on a bench, and Steve says, 'I have to tell you something, and you have to keep it confidential. My cancer is back, and I don't know how much longer I'm gonna live. This is January 2006, right as they're about to announce the acquisition. And Steve says, I've thought about it, and I feel I have an obligation to tell you before we announce the deal, and I want to give you an option to back out if you want, knowing that I'm about to become your largest shareholder and I don't know what's going to happen to my stake after I die.' ",
+    "start_char_index": 154718,
+    "end_char_index": 155286,
+    "response_text": "Jobs disclosed his cancer to Iger on the morning\nof the announcement, 30 minutes before it went\npublic, and offered him a way out."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "ESPN paid for Pixar, Marvel, and Lucasfilm.\n\nBen: With about four years of ESPN cable profits.\n\n",
+    "start_char_index": 172706,
+    "end_char_index": 172802,
+    "response_text": "All three acquisitions cost roughly four years\nof ESPN cable profits."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: And we should say, just so we don't bury the lead, Disney's stock price today is what it was then.\n\nDavid: Yep.\n\nBen: It's gone up and down, but it is flat to 11 years ago.\n\nDavid: Yeah.\n\nBen: Meanwhile, the S&P 500, David, what did you tell me is up how much in that time?\n\nDavid: 3.5x over that time period.\n\n",
+    "start_char_index": 175629,
+    "end_char_index": 175945,
+    "response_text": "Against a 3.5\u00d7 S&P 500 over the same period,\nDisney is a decade of lost compounding."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: And the problem with that thesis is that once Netflix's algorithm controls whether families see your movies or not, you've got a big problem.\n\n",
+    "start_char_index": 179541,
+    "end_char_index": 179691,
+    "response_text": "The distribution dependency argument in one sentence. Losing algorithmic control is existential \u2014 not a trade-off, a slow death."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And on top of this, it's crazy to think that Disney didn't have any relationship with any of their customers prior to this unless you had visited a park. For 100 years, if you bought a home video, you bought it from a retailer. If you went to a theater, you went to a theater, or if you had a cable subscription, Disney did not know who you were.\n\n",
+    "start_char_index": 180267,
+    "end_char_index": 180615,
+    "response_text": "For 100 years Disney routed through intermediaries \u2014 retailers, theatres, cable operators \u2014 and collected none of the customer data."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "That whole strategy of a firehose of content is completely orthogonal to-\n\nBen: Yes.\n\nDavid: -the flywheel strategy of only the best content very infrequently.\n\nBen: And that is what Disney did. The best content infrequently with a theatrical release. A cultural moment around it, and then be quiet for a while and harvest the fruits of that one movie, but be quiet for a while. And streaming is the exact freaking opposite. It is, every time I open that there better be something new and fresh for me to consume. ",
+    "start_char_index": 199658,
+    "end_char_index": 200172,
+    "response_text": "Disney's historical model was infrequent theatrical releases treated as cultural moments, then quiet harvesting \u2014 the exact opposite of what streaming requires."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: The Netflix brand doesn't mean anything to anyone. The Netflix brand is the button that I push on my TV when I wanna watch stuff. And sometimes it's great stuff, but if it's not great stuff, whatever, it whizzes by. I don't think one way or another about Netflix. The Disney brand has something to lose. And so if you have a bunch of bombs in a row, I think less of the Disney brand, which again takes away your compounding competitive advantage. ",
+    "start_char_index": 201681,
+    "end_char_index": 202133,
+    "response_text": "Disney's brand carries accumulated trust that Netflix's doesn't \u2014 meaning a run of bad releases damages Disney's compounding competitive advantage in a way that bad Netflix content simply doesn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And critically, you don't get a second exploitation window. The way that a limited edition home video re-release has.\n\nDavid: Yep.\n\nBen: Theatrical re-releases followed by home video windows, that, oh, mwah, that was the business to be in.\n\n",
+    "start_char_index": 212646,
+    "end_char_index": 212887,
+    "response_text": "Theatrical re-releases followed by home video windows were structurally superior \u2014 multiple revenue events from a single piece of content."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But Disney is sort of seeing the reality in '23, '24 that, Oh my God, streaming wasn't just like invest some money to build it out one time and then we've got this great asset. It's this constant, expensive nurturing thing that we haven't had to deal with before.\n\n",
+    "start_char_index": 213018,
+    "end_char_index": 213283,
+    "response_text": "By 2023-24 Disney was confronting the reality that streaming is an ongoing operational burden \u2014 customer acquisition, churn management, tech investment \u2014 not a one-time capital deployment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: But this general insight that I didn't have before starting the episode, that if you wanna operate a streaming service that gets to scale, and if you're gonna operate a streaming service, it has to get to scale since the fixed costs are so high, then you must have a broad set of content. That is weird, that it must be a broad set of content because you must appeal to lots of people, and therefore you need diverse content to appeal to all of them. Put another way, the winning streaming service will be the kitchen sink.\n\n",
+    "start_char_index": 239342,
+    "end_char_index": 239872,
+    "response_text": "The brutal logic here: scale streaming requires broad content, broad content requires diverse audiences, diverse audiences require everything. Disney built a boutique brand and then had to abandon it the moment they launched a streaming service."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Disney+ also constrains your reach. I mean, it was quite bold to think that you could go and build a Netflix competitor 10 years after Netflix started and just bet that the Disney IP was enough to sort of catch you up to them and then also be as good as they are at going and getting filler content, even when you have the high-prestige Disney brand holding you back from smashing as much filler content as you can in. So the result is, you don't, and you end up with a subscale streaming platform. So they do have Disney+, it does have 130 million people subscribed, but 130 is not 350.\n\n",
+    "start_char_index": 235378,
+    "end_char_index": 235972,
+    "response_text": "130M vs 350M subscribers \u2014 that's the reach gap Disney accepted to own its distribution. The irony is that theatrical gave Disney *universal* reach; Disney+ gives it a walled garden with 40% of the audience."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My other one is that the three acquisitions, Marvel, Pixar, Lucasfilm, were brilliant. But in retrospect, it's kind of looking like they provided amazing fuel for about 20 years, but not for 50 years.\n\n",
+    "start_char_index": 243012,
+    "end_char_index": 243214,
+    "response_text": "This is the sharpest bear case in the episode. The acquisitions looked like permanent IP moats; they may turn out to be finite fuel tanks. When Marvel fatigue and Star Wars exhaustion land at the same time, what's the next move?"
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Illustrated by this question: Has Disney produced a single new franchise in the last decade that has been a commercial success? Everything I can think of that did big dollars after 2016 at the box office. And I picked 2016 because that's when Moana and Zootopia came out.\n\nDavid: Moana. Yep.\n\nBen: Everything after that that was big box office for the company is harvesting existing IP.\n\n",
+    "start_char_index": 241905,
+    "end_char_index": 242293,
+    "response_text": "Everything post-2016 that made serious money is a sequel or legacy IP harvest. Coco, Encanto, Elemental are culturally real \u2014 but none of them broke box office records, which means streaming has to carry the franchise-building work now."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In the long run, I think these franchises, whether it's core Disney, Pixar, Lucasfilm, Marvel, are just like luxury brands. You cannot kill them. They will have uptimes and they will have downtimes, but they will always come back because these are the core myths of our society and they get handed down generation to generation. And when they are at their lowest point, that is the moment that they will turn around and surprise us in new ways.\n\n",
+    "start_char_index": 244108,
+    "end_char_index": 244554,
+    "response_text": "The bull case in one sentence. It's not wrong \u2014 Star Wars survived the Holiday Special, Marvel survived the '90s bankruptcy. But \"can't be killed\" and \"reliably generates 20% returns\" are very different claims."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So parks is now almost 60% of the company's operating income, while ESPN and sports is down to 16%. So it's a total reversal from the situation ten years ago.\n\n",
+    "start_char_index": 221342,
+    "end_char_index": 221502,
+    "response_text": "The single most important structural fact in this excerpt. Disney spent a decade being an ESPN/cable business and is now a **theme park business** that happens to stream. The CEO appointment follows the money perfectly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Streaming turns out to be expensive to build, expensive to maintain, expensive to acquire customers, and harder to create events around. People don't rally around them like they did movie theaters. It's expensive to retain customers, it's far less profitable, and it's not a replacement for the theatrical revenue. ",
+    "start_char_index": 253172,
+    "end_char_index": 253487,
+    "response_text": "The structural reversal is total. Every advantage flips: theatrical events become subscriptions nobody rallies around, and retention costs eat the margin."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They're still going to produce beloved characters and stories we all love, but the prosperity from the late '90s and the 2005 to 2019 era, that was a complete anomaly due to how good all the structural forces around the business were. And it's just brutal that as a company, they will forever be compared to those eras.\n\n",
+    "start_char_index": 253805,
+    "end_char_index": 254126,
+    "response_text": "Disney will always be **benchmarked against a freak period**. That's the trap \u2014 the comparison set is unfair by design."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: Yeah, I think Disney's best bet here is to be a clear number 2.\n\nBen: And they probably shouldn't lean into that, because if you're trying to be number one, then you're gonna chase the content kitchen sink all the way there.\n\n",
+    "start_char_index": 251281,
+    "end_char_index": 251514,
+    "response_text": "Chasing number one means the **content kitchen sink** \u2014 spiralling spend to match Netflix's scale, which Disney can't win on unit economics alone."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ben: Absent a completely different business model, like being MrBeast, there's a whole other universe where you can create very successful media business models now, but it's so far far from Disney's universe that you can't even see a path to it.\n\n",
+    "start_char_index": 254681,
+    "end_char_index": 254929,
+    "response_text": "The **creator economy** is a genuine alternative media empire \u2014 just not one Disney can pivot into."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Disney is the home of generational myths. And you'll never kill it. ",
+    "start_char_index": 255029,
+    "end_char_index": 255097,
+    "response_text": "The optimist counter: IP that embeds itself in **childhood memory** has a floor that business fundamentals can't fully erode. The '90s may never return, but neither does Disney disappear."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "David: It'll have its ups and downs, and maybe we'll never see another era like the '90s. And that was truly peak Disney from a business and creativity standpoint.\n\n",
+    "start_char_index": 255155,
+    "end_char_index": 255320,
+    "response_text": "The optimist counter: IP that embeds itself in **childhood memory** has a floor that business fundamentals can't fully erode. The '90s may never return, but neither does Disney disappear."
+  }
+]

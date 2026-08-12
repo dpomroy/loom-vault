@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:06:46]: That the constraints on I don't have enough time, I don't have enough money, I don't have a big enough crew is what forces that selection process. If you have unlimited time, unlimited money and unlimited people, you're going to build a blob. ",
+    "start_char_index": 10491,
+    "end_char_index": 10759,
+    "response_text": "The constraint of not enough time, money, or crew is what forces real selection."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And especially in the early days of Basecamp, for example, we built the entire first version on me having 10 hours per week, not per day per week to build it. That is an enormous constraint on how you could do anything because you can waste 10 hours really quickly just chasing things around or focusing on the non essentials if we want to get that product out. And we got it out in 380 hours. ",
+    "start_char_index": 7557,
+    "end_char_index": 7951,
+    "response_text": "Basecamp's first version was built on just 10 hours per week \u2014 an enormous constraint that forced ruthless prioritisation \u2014 and shipped in 380 total hours."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because I actually really like this notion of embracing constraints because I don't trust myself, I don't trust us, I don't trust Jason, I don't trust my own sensibilities, that if I can do everything I want at very little cost, that I wouldn't.\n\n",
+    "start_char_index": 10168,
+    "end_char_index": 10415,
+    "response_text": "This is DHH's honest admission that discipline alone isn't enough \u2014 you need structural limits imposed from outside."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The version we launched in 2004, we stopped selling in 2010, 16 years ago. We still have customers on it as an individual business that's still making millions of dollars in profit. In profit. Because there's basically no expense to it, Right. There's no additional development. ",
+    "start_char_index": 22832,
+    "end_char_index": 23111,
+    "response_text": "They stopped selling it in 2010 \u2014 16 years ago \u2014 but because there's basically no expense, minimal maintenance, and loyal customers who never contact support, it runs as near-pure profit."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But at the end of that week, I'm always like, as much as I love these people, as much as I love this company, I would fucking quit and live as a hermit in the forest rather than work within 365 days a year in an office. I'm just not built that way. I am not built to be in an office and work with someone all the time. And in fact, when I look back upon my career, it only took off when I closed my door and not see anyone for long stretches of uninterrupted time. ",
+    "start_char_index": 28420,
+    "end_char_index": 28885,
+    "response_text": "He's not built for office life \u2014 and traces his career acceleration directly to closing the door and having long stretches of uninterrupted time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Paul Graham has this builder versus manager mode and or schedule. And the schedule is all about if you're a builder and you get interrupted just a handful of times in a single day, that day is a waste because you will never get into the flow. You will never get into this long stretch of uninterrupted time. And therefore you will not feel in the not just mood but moment to solve the deep problems you got to deal with. ",
+    "start_char_index": 31717,
+    "end_char_index": 32138,
+    "response_text": "This is Paul Graham's maker/manager schedule in practice: a handful of interruptions kills a builder's entire day because flow never forms and deep problems stay unsolved."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It was that on steroids. It was the open office on steroids. It was everyone walking by like, hey, can I write on your keyboard? ",
+    "start_char_index": 38532,
+    "end_char_index": 38661,
+    "response_text": "Early AI autocomplete felt like the worst kind of interruption \u2014 the opposite of the deep focus DHH values."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's funny, now I'm racing with Toby and one of the things we talk about all the time is, where are your eyes? The difference between a great razor and a mediocre razor is very often, where do they look? If you're looking at the turn in where you're supposed to turn, not at the apex, you're not going to hit it. It's like the old adage, you go where you look. ",
+    "start_char_index": 38911,
+    "end_char_index": 39272,
+    "response_text": "The racing metaphor \u2014 look at the apex, not the turn \u2014 is the core of what Tobi did that DHH didn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So Toby nerd sniped me into just leveling up and diving deeper and setting things up and giving it an extra try. And so much of the ability to move your opinion comes from not these abstract ideas, but from touching things, from actually setting up Open Claw or whatever and getting some experience with it and then having this instinctual feeling of where things are going to go that you're not going to get from just reading someone else do it. ",
+    "start_char_index": 42531,
+    "end_char_index": 42978,
+    "response_text": "The mechanism matters here \u2014 it wasn't abstract argument, it was peer pressure from someone DHH respected, followed by hands-on use that built genuine intuition."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The computers can be fun in that way and they can be a bit whimsy and they could be made by pseudo anonymous individuals and the combined sum of it can be better than the top five most valuable company in the world. A trillion dollar organization that has four, 40 years of history caring about this and unlimited resources, unlimited people, and still the crack kid from Poland can beat him. ",
+    "start_char_index": 53608,
+    "end_char_index": 54001,
+    "response_text": "A 19-year-old Polish kid with an anime avatar built the window manager that beat Apple's decades of design investment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But what I always realized is that every single piece of product that I've built started there. I got to make something that's better for me. And if I can get beyond that point, that I would rather use this than that. I know I'm not alone. I know I'm not that special. ",
+    "start_char_index": 55944,
+    "end_char_index": 56213,
+    "response_text": "His product instinct in one sentence: build something better for yourself, then trust that you're not a sample size of one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Linux just has all the Lego pieces. Someone could put those pieces together for you and you could get the Millennium Falcon or the Taj Mahal or something incredible that looks great and is ready to play with. And I went like, well, okay, if no one else is going to do that, I will. I'll take half of UNIX porn, I'll take Baxtery's cracked Hyperland and I'll slap it on top of Arch Linux and we're going to make Amachi. ",
+    "start_char_index": 54519,
+    "end_char_index": 54938,
+    "response_text": "The value DHH adds isn't technical invention \u2014 it's **curation and packaging**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What I found is a lot of people have a very difficult time articulating what they want, but they can appreciate quality instantly. ",
+    "start_char_index": 62333,
+    "end_char_index": 62464,
+    "response_text": "The core justification for opinionated product design."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "All the best ideas that actually turn out to have an impact on something, they sound stupid at first, they're not intuitive, because that's where all the value has been locked up. It's been locked up in this misconception about what people actually want. ",
+    "start_char_index": 70515,
+    "end_char_index": 70770,
+    "response_text": "The value is locked inside the **misconception** about what people want."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But we could out teach them. We could have better insights, and we could share them, and people could resonate with that and then reciprocate by buying our products. At least some percentage of them, even if it's a small percentage, that has been our operating strategy for literally two decades. ",
+    "start_char_index": 73286,
+    "end_char_index": 73583,
+    "response_text": "37signals ran this strategy for **two decades** against Microsoft-scale competitors with no ad budget."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "What's broken now on the social platforms is that that my followers don't see anything I post unless it goes medium viral, because everyone is now in the algorithmic feed. So I follow someone. It's just like this little drop in the signal and it kind of breaks that reciprocal exchange, at least on those social platforms. ",
+    "start_char_index": 77411,
+    "end_char_index": 77734,
+    "response_text": "The algorithm breaks the **jab-jab-hook** loop \u2014 followers don't accumulate goodwill if they never see the jabs."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's just like, you looked at this for five minutes, I spent 4,000 hours. And you have some knee jerk reaction and you want to tell me how to do it. You want to tell me what I should do and what I shouldn't do? Well, you can go fuck yourself, right? ",
+    "start_char_index": 81973,
+    "end_char_index": 82223,
+    "response_text": "Blunt but the logic is sound: **asymmetric effort** invalidates unsolicited direction."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we built it on 40 hours a week. We built it on having a life next to work. We built it on going for the long term. We built it on taking profits out of the business rather than just chasing higher valuations. And therefore, that is a counter narrative to how you can also build a business. ",
+    "start_char_index": 91961,
+    "end_char_index": 92255,
+    "response_text": "A direct **counter-narrative** to VC-funded growth-at-all-costs."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But going back to this point about trusting yourself, I didn't fully trust myself not to get tempted by a $20 million check, a $50 million check, whatever the number was. At a time where my bank account said, I don't know, $8,000. ",
+    "start_char_index": 100393,
+    "end_char_index": 100624,
+    "response_text": "Self-awareness about your own weakness is underrated. DHH knew the number existed that would make him fold \u2014 so he structured around it before it arrived."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the funny thing is, neither Jason or I, I think, generally has a deficit in self confidence. But, like, it's like, there's self confidence and then there's Jeff telling you, no, you're right. Oh, my God. Rocket boost. ",
+    "start_char_index": 105049,
+    "end_char_index": 105271,
+    "response_text": "Even high-confidence founders have a ceiling. External signal from someone who's built at scale breaks through it in a way internal conviction can't. Worth thinking about who plays that role for you."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We could not have gotten Jeff's offer and six months later some VC would have given us a massive check that sounded super impressive and it would have destroyed the business business. And then we would have sold our independence and we would have been fucking miserable pricks. And that didn't happen. ",
+    "start_char_index": 105839,
+    "end_char_index": 106141,
+    "response_text": "The counterfactual is brutal. Independence wasn't just a preference \u2014 it was the product. VC money would have optimised the wrong thing entirely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And it was the best money we've ever spent on anything related to culture, maybe anything at all. Of all the things that I bought, that peace of mind we bought with those payouts was just priceless, because what it did was it didn't just cut out surgically, just that bit of cancer. It cut out a thick ring around it. And what we ended up was a culture that was completely cured of all that insanity in one swoop. ",
+    "start_char_index": 110064,
+    "end_char_index": 110478,
+    "response_text": "Paying people to leave is underused. DHH frames the six-months severance not as a cost but as a surgical strike \u2014 and notes it cut a wide enough margin to cure the whole problem, not just the visible part."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you have literally 40,000 people on Twitter calling you all the worst things in the world, even the strongest individual might go for a second like, holy. Like, the mob is coming for me and there's no one else there. And there are other people there. There were people there. Toby was there. Mark was there. And it was incredibly helpful to give us the fortitude to go like, no, do you know what we're going to stick to with it? ",
+    "start_char_index": 113019,
+    "end_char_index": 113453,
+    "response_text": "The social pressure of a coordinated pile-on is a distinct phenomenon from ordinary criticism. Having two or three credible people privately in your corner is enough to hold the line \u2014 the asymmetry is striking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "These groups that had designs on how to reshape society and create the revolution they so dearly wanted, but with a timeline and a roadmap that was demarcated in decades, that it wasn't just like, well, we're going to put something together and then in two years, something's going to happen. No, they were sitting in the fucking 60s fantasizing about how to overthrow everything in the 2000s. ",
+    "start_char_index": 113931,
+    "end_char_index": 114325,
+    "response_text": "Whether or not you share DHH's politics, the pattern is real: slow institutional capture over decades is far more durable than fast political action. Understanding the mechanism changes how you respond to it."
+  }
+]

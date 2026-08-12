@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "The performance difference for a fireworks versus a cloud provider is like 5x and\n\n**Speaker D** [0:03:36]: that is just the speed performance. Then you add on top of that throughput, which is not visible externally. It's only visible if you know the economics of these businesses which. And you're like, wait a minute, this is the same open source model with the same Nvidia hardware and there's a 5x performance difference and a multiple X throughput difference.\n\n",
+    "start_char_index": 7499,
+    "end_char_index": 7965,
+    "response_text": "Same open-source model, same Nvidia hardware \u2014 5x speed gap, plus a separate throughput advantage that's invisible unless you know the unit economics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They were obsoleting their work from six months ago and it's what Brett Taylor calls like sandcastles.\n\n**Speaker D** [0:13:20]: We used to be building castles, now\n\n**Speaker F** [0:13:21]: we're building sandcastles that are washed away.\n\n**Speaker D** [0:13:23]: And that's if you don't think operator that way. Yeah, you have to embrace it. ",
+    "start_char_index": 20019,
+    "end_char_index": 20364,
+    "response_text": "Brett Taylor's framing for how Sierra operates \u2014 obsoleting their own work every six months as model capabilities shift."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You actually really need to understand the\n\n**Speaker F** [0:14:29]: nuances of model capabilities, what they're great at and where they fail. And you need to understand the customer problem and put those together and bridge those gaps to build valuable solutions.\n\n",
+    "start_char_index": 22005,
+    "end_char_index": 22271,
+    "response_text": "And pair that with deep customer-problem understanding \u2014 bridging the two is where valuable solutions come from."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I think that even it became really visceral to me, where you're in these meetings and you're like, hey, every single day that you are hitting your\n\n**Speaker F** [0:21:19]: plan, you are destroying equity value.\n\n**Speaker D** [0:21:21]: Think about that. Our whole careers, we learned, you lay\n\n**Speaker F** [0:21:26]: out a plan, you execute against it relentlessly and violently.\n\n**Speaker D** [0:21:30]: You hit your plan or you exceed\n\n**Speaker F** [0:21:32]: your plan and you keep on building that. And that's how you build equity value.\n\n",
+    "start_char_index": 30572,
+    "end_char_index": 31125,
+    "response_text": "Everything we were taught said: set the plan, execute relentlessly, compound value. That logic has inverted for legacy SaaS companies that haven't moved to AI."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It feels to me like we're going\n\n**Speaker F** [0:08:50]: to end up with an oligopoly of winners. I really believe they will be these like hundred billion dollar crazy smaller winners.\n\n",
+    "start_char_index": 14528,
+    "end_char_index": 14714,
+    "response_text": "And below the oligopoly, genuinely crazy hundred-billion-dollar smaller winners \u2014 same structural outcome as cloud."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:19:32]: What's going to happen is the criteria changed. So now you're going to have a ton more applications that start, obviously, as we're seeing everywhere, people are going to experiment a lot more because it's much cheaper to experiment, it's much cheaper to start a new application. So now you need databases that scale\n\n**Speaker F** [0:19:48]: from basically zero usage to if it works all the way through, like that matters a lot more.\n\n",
+    "start_char_index": 28216,
+    "end_char_index": 28677,
+    "response_text": "AI makes experimentation cheap \u2014 which means databases need to scale from near-zero to massive, not just handle a pre-specced enterprise workload."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Fundamentally, without realizing it, everybody was implementing\n\n**Speaker F** [0:25:27]: something that was based on pushing demand, not pulling demand.\n\n**Speaker D** [0:25:33]: And for so many of these companies,\n\n**Speaker F** [0:25:35]: they're operating here, these customers, and there's\n\n**Speaker D** [0:25:38]: a new AI enabled product that comes\n\n**Speaker F** [0:25:40]: along and it's just fucking magic.\n\n**Speaker D** [0:25:43]: So these companies are selling magic. ",
+    "start_char_index": 36131,
+    "end_char_index": 36613,
+    "response_text": "The old enterprise sales model is built backwards for this moment. If your product is genuinely magical, the quota capacity model doesn't just underperform \u2014 it's the wrong unit of analysis entirely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:26:46]: Honestly, the best salesperson in any of\n\n**Speaker F** [0:26:47]: these companies is the founder. And what they're doing is bridging the jagged edge to what the customer's capability is. And that's it. It sounds so simple, but it's not. But that's what they're doing. ",
+    "start_char_index": 38302,
+    "end_char_index": 38596,
+    "response_text": "Simple-sounding, but the implication is that the skill being rewarded here isn't sales craft \u2014 it's product depth and empathy combined."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And it turns out that in software, if you have that logical block diagram of like why it works and everything\n\n**Speaker F** [0:32:26]: else, you're kind of 80% of the way there. And it's a matter of go to market execution.\n\n**Speaker D** [0:32:31]: In hardware, you're like 2% of the way there. There's things like physics, entire supply chain of vendors. There's of course TSMC, which everyone knows, but it's not just TSMC, there's 30 other vendors that matter. And putting all this stuff together and\n\n**Speaker F** [0:32:44]: everything else, I didn't know any of that.\n\n",
+    "start_char_index": 45955,
+    "end_char_index": 46531,
+    "response_text": "This is the sharpest single framing for why hardware investing is categorically different \u2014 not just harder in degree, but harder in **kind**. Software conviction converts to execution leverage; hardware conviction converts to a long list of unsolved physics problems."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Except when it isn't, apparently there's a saying that someone said to one of\n\n**Speaker F** [0:38:59]: my partners, which was, if it doesn't\n\n**Speaker D** [0:39:01]: work, it'll be for all of the\n\n**Speaker F** [0:39:03]: reasons that your partner said.\n\n**Speaker D** [0:39:05]: If it does work, it will be because those reasons didn't matter. It's just such a good example of this whole thing, which is, yeah, most of the time when we lay out the reasons that a company won't work, it's right.\n\n**Speaker F** [0:39:17]: But then sometimes they just don't matter.\n\n",
+    "start_char_index": 54579,
+    "end_char_index": 55147,
+    "response_text": "One of the cleaner articulations of why base-rate thinking fails at the frontier. The skeptic is usually right \u2014 except precisely when it matters most that they aren't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:49:51]: One of the questions that I ask\n\n**Speaker F** [0:49:52]: myself before making an investment is, there\n\n**Speaker D** [0:49:56]: are all these people that I care\n\n**Speaker F** [0:49:57]: about through my life, like you carry yours.\n\n**Speaker D** [0:50:00]: Could I talk one of them into going to this company and honestly, intellectually,\n\n**Speaker F** [0:50:07]: honestly to myself, explain to them why this could be their life's work? And if I can't do that, I should not invest.\n\n**Speaker D** [0:50:14]: It just means that the project doesn't\n\n**Speaker F** [0:50:16]: line up in that way.\n\n",
+    "start_char_index": 68740,
+    "end_char_index": 69363,
+    "response_text": "This is a **conviction test**, not a valuation test. It forces you to hold the opportunity to a human standard rather than a financial one \u2014 and is harder to fake to yourself."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:50:35]: The other question, if this person calls\n\n**Speaker F** [0:50:36]: me at 9pm on a Saturday night, will I pick up the phone calls.\n\n",
+    "start_char_index": 69780,
+    "end_char_index": 69936,
+    "response_text": "Short and unambiguous. Partnership is a **bilateral relationship** \u2014 the green-button test cuts both ways and requires the founder to feel the same."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's a chemistry thing and they have\n\n**Speaker F** [0:50:43]: to feel the same way.\n\n**Speaker D** [0:50:44]: Obviously. ",
+    "start_char_index": 70033,
+    "end_char_index": 70155,
+    "response_text": "Short and unambiguous. Partnership is a **bilateral relationship** \u2014 the green-button test cuts both ways and requires the founder to feel the same."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:52:23]: For most of the industry's history, two things were synonymous.\n\n**Speaker F** [0:52:27]: Early stage investing and high cash on cash multiples. The way to get high cash on cash multiples was to do early stage. That's it. Those two circles in the Venn diagram, like, almost perfectly overlap.\n\n",
+    "start_char_index": 72414,
+    "end_char_index": 72733,
+    "response_text": "The quote frames the premise cleanly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:52:39]: The thing that's changed is recently, relatively\n\n**Speaker F** [0:52:43]: recently in the last few years because outcomes have gotten so much bigger and these markets are bigger and everything else. The circle of high cash on cash multiple opportunities is bigger than just early stage. And it's not so so big that there's a gazillion new companies in there that you can generate 100 X's on. That's not true.\n\n",
+    "start_char_index": 72733,
+    "end_char_index": 73169,
+    "response_text": "The claim is that larger outcomes have expanded where multiples are achievable \u2014 not that there are more opportunities overall."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:56:39]: But he's like, with golf, you keep\n\n**Speaker F** [0:56:42]: on practicing, keep getting the ball in a three parter, like close to the pen, close to the pen, close to the pen, close to the pen.\n\n**Speaker D** [0:56:47]: You keep getting the ball close to\n\n**Speaker F** [0:56:49]: the pen and you keep practicing. That's hard work. That's like working smart. That's what you want to keep doing.\n\n**Speaker D** [0:56:54]: Getting the hole in one, that's luck. ",
+    "start_char_index": 78595,
+    "end_char_index": 79079,
+    "response_text": "The golf analogy: practice gets the ball close, but the hole-in-one is luck."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:02:06]: Most companies in each of those areas\n\n**Speaker F** [1:02:08]: are not going to work. And it's actually more important than ever\n\n**Speaker D** [1:02:11]: to have real differentiation, to, like, really take each of these thoughts to their\n\n**Speaker F** [1:02:16]: logical extreme and understand, wait a minute, you got to go all the way on these things and really be differentiated on it.\n\n",
+    "start_char_index": 85889,
+    "end_char_index": 86306,
+    "response_text": "Even in a rising tide, most boats sink."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Take Geoff Hinton in radiology. So I think it was 2016 where he was like, we should stop training radiologists. AI is going to do it all better. Geoff Hinton's three orders of magnitude smarter\n\n**Speaker D** [1:02:59]: than I am could not have been more wrong. But the actual thing that led him to make that statement or that conclusion was 100% correct. ",
+    "start_char_index": 86888,
+    "end_char_index": 87244,
+    "response_text": "Hinton called for stopping radiologist training in 2016; the underlying technical reasoning was correct, but the conclusion wasn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:04:47]: But the actual duration to get from here to there is going to take a long time. In the ensuing time, we need more radiologists, not less, because, oh by the way, everyone's getting more imaging than they used to get because the cost of\n\n**Speaker F** [1:04:59]: imaging is going down in a Javon's Paradox kind of way.\n\n",
+    "start_char_index": 89225,
+    "end_char_index": 89569,
+    "response_text": "The transition is slow, and during it demand for radiologists *increases* because cheaper imaging means more imaging \u2014 Jevons Paradox."
+  }
+]
