@@ -1,0 +1,142 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And what's wild to me is that probably on the margin, Anthropic is losing share to OpenAI, to Open Source and to Grok, and they're still growing so fast. The numbers are still exceptional. ",
+    "start_char_index": 7901,
+    "end_char_index": 8090,
+    "response_text": "The pie is growing fast enough to mask share loss \u2014 that's the key insight here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I have been told by multiple people I trust that Dario has said that Anthropic might be the only private company in the world at some point. Think about that in this vision, Anthropic, maximalist vision. There's Anthropic and then there are governments and that's it. ",
+    "start_char_index": 15073,
+    "end_char_index": 15341,
+    "response_text": "In this maximalist vision \u2014 Anthropic, then governments, then nothing else."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:09:24]: Well, I think it can continue, although it is a legitimate question, because if you're ending the year at, let's say, $100 billion run rate up 10x plus year over year, and by the way, they've grown 10x year over year for the last 3 years. So it's growing exponentially. If that rate of growth were to continue, they'd hit a trillion dollars of ARR by the end of next year. And then the question you have to ask is, well, is the TAM big enough for that? But also, is there enough compute. Is there enough energy? I think you start to get into physical constraints. ",
+    "start_char_index": 11423,
+    "end_char_index": 12012,
+    "response_text": "The question isn't demand \u2014 it's physical supply: compute, energy, turbines."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I just think what's great about open source is it means that we're going to have a rich variety of AIs, we're going to have diversity of AIs. And that is a good world for humans in America. We do not want one, two or three dominant models. ",
+    "start_char_index": 29407,
+    "end_char_index": 29651,
+    "response_text": "Gavin frames model diversity as the safety mechanism \u2014 not regulation, not alignment research."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says the notion that AI is so dangerous, that the only safe path is an extreme concentration of power seems inherently problematic. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened has not led to safe or positive outcomes. ",
+    "start_char_index": 32871,
+    "end_char_index": 33159,
+    "response_text": "Zuckerberg's manifesto targets the core contradiction in EA-aligned AI safety thinking: absolute power granted to the enlightened few has a bad historical track record."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There should be just two or three companies, and they should essentially work together. It should be made into a cartel. ",
+    "start_char_index": 34004,
+    "end_char_index": 34125,
+    "response_text": "Sacks describes the actual Biden-era policy vision: two or three companies, an Atomic Energy Commission-style oversight body, and a merger of corporate and state power."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then part number two was you form like an Atomic Energy Commission or something like that to cartelize the industry. And then you have a deeply embedded with the government. You effectively have a merger of sort of corporate and state power. So it was this extremely centralized vision of the future. ",
+    "start_char_index": 34909,
+    "end_char_index": 35214,
+    "response_text": "Sacks describes the actual Biden-era policy vision: two or three companies, an Atomic Energy Commission-style oversight body, and a merger of corporate and state power."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:33:40]: I read it, I agreed with it, and I would just super agree with everything David said. And I would boil it down to I think anthropic. And people in the effective altruism movement believe that this technology is too dangerous to distribute. And what Mark Zuckerberg and I think Elon and Jensen believe is that this technology is too dangerous to centralize. ",
+    "start_char_index": 36717,
+    "end_char_index": 37099,
+    "response_text": "The cleanest framing of the whole open-source debate \u2014 and it lands because it mirrors the EA's own logic back at them."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My conception of what's good for America, I do not want Dario Amadei or Anthropic deciding what's in my best interests. I just fundamentally don't want that.\n\n",
+    "start_char_index": 37507,
+    "end_char_index": 37666,
+    "response_text": "Raw statement of the individual-sovereignty case."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:39:12]: Yeah, but like just very simply just boiling everything else, like, I'm an American, I'm a patriot. If we ban open source, if we let this control be centralized, we will lose AI, we will lose geopolitics, we will lose everything to China. It's just that simple. So if you're an American patriot, you should be for the distribution, democratization, decentralization, individualization of this technology. ",
+    "start_char_index": 42825,
+    "end_char_index": 43255,
+    "response_text": "The patriot framing is blunt but the underlying logic holds \u2014 you can't enforce global compute governance when China isn't party to it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "However, the United States does not have jurisdiction over what happens in China, and China was not going to slow down. That was always, I think, a huge flaw in this, in this whole conception. These EA types thought they're going to institute global compute governance. Somehow they're going to get like some global agreement with China, total pipe dream, never going to happen. If we slow down, China is just going to race ahead. ",
+    "start_char_index": 57809,
+    "end_char_index": 58240,
+    "response_text": "The panel makes this explicit: the US has no jurisdiction over China, and the EA dream of global AI treaties was always a pipe dream."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because their whole right to charge this massive premium for tokens, which jcal, that's the point you were making before, is you're wondering how sustainable that is because of all these open models that are coming up and are offering tokens for much less their whole pricing power, that premium they're able to charge is because they're six months ahead of those open models. And that six months be eaten up in the blink of an eye if they were subject to regulatory approval. ",
+    "start_char_index": 46409,
+    "end_char_index": 46886,
+    "response_text": "Sharp point \u2014 Anthropic's business model and its regulatory agenda are in direct conflict."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:06:39]: In some ways, Nvidia is kind of becoming the central bank of AI, the Federal Reserve of AI. That is like a way to kind of conceptualize what they are doing. And in the same way the Federal Reserve, like a lot of monetary policy, works through private banks. Here you're going to have, and probably more banks will opt into this. You have private markets who are charging fees underwriting these deals and Nvidia is helping to facilitate that. ",
+    "start_char_index": 70131,
+    "end_char_index": 70599,
+    "response_text": "The analogy works: Nvidia sets the reserve rate (the residual value guarantee), private banks underwrite the deals, and liquidity flows downstream to compute buyers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:05:19]: Let me tell you why I think what Jensen did was so brilliant. It's because the numbers are getting so big that the TAM is getting constrained by the ability to finance this build out. And, and what he's doing is alleviating that finance constraint so that he can grow as big as the TAM actually is. ",
+    "start_char_index": 68819,
+    "end_char_index": 69143,
+    "response_text": "This is the cleanest articulation of *why* Jensen did the deal \u2014 it's not a financial engineering trick, it's a TAM unlock."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [1:10:34]: So Gavin, as we're sort of saying here, there's a kill switch, there's a break, whatever you want to call it, is there enough space, is there enough distance between the cars to not have a pile up? In other words, if Dario does slam on the brakes, if there are headwinds, does everybody go slamming into them or is there enough for the entire industry to say, okay, yeah, we're going to go 20% slower, we're going to go 30% slower.\n\n",
+    "start_char_index": 74317,
+    "end_char_index": 74775,
+    "response_text": "The \"pace car\" framing is the sharpest way to understand\nAnthropic's structural importance right now.\nIt's not just a model lab \u2014 it's a demand signal\nfor an entire capital stack."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the reason is, I think there are a lot of macro and value investors who are very confidently making these prognostications about AI with the assumption that tokens are subsidized. Anthropic is generating cash. And this fact is, I would say, kind of known in the world. And I've actually never really spoken to anthropic, but it feels like there are enough signals that if you're to read the tea leaves of what has been said in public, they're generating cash, they're profitable. Open source tokens are profitable, anthropic is profitable. ",
+    "start_char_index": 75320,
+    "end_char_index": 75864,
+    "response_text": "The bear case for AI capex rests on a factual error.\nIf Anthropic's S1 confirms profitability, the bears\ndon't have a thesis \u2014 they have a wrong premise."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:09:48]: If Anthropic slams on the brakes, there'll be a pileup of companies behind it because anthropic, they're making 100 billion billion per gigawatt. Okay. Of compute. That's why they're able to pay SpaceX say 50 billion a gigawatt, you know, spot price for compute. That's why SpaceX is then able to pay 30 billion to Nvidia for chips for the build out. That's why Nvidia is able to pay TSMC and Micron and SK Hynix and all the way down, it's the entire food chain. ",
+    "start_char_index": 73542,
+    "end_char_index": 74030,
+    "response_text": "The dependency chain here is real and under-discussed:\nAnthropic \u2192 SpaceX compute \u2192 Nvidia chips \u2192\nTSMC/Micron/SK Hynix. One wobble at the top\npropagates the whole way down."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what our industry, what our industry has a crazy blind spot for is that they look for efficiencies. And Amazon is the most efficient company in the world to the point of it being abusive to the most vulnerable members of our society and for being against the esprit de corps of capitalism. And this is a level of capitalism that needs to be self corrected for. ",
+    "start_char_index": 84055,
+    "end_char_index": 84420,
+    "response_text": "JCal lands the sharpest critique here \u2014 not a socialist\nargument, a **strategic** one. Efficiency that externalises\ncosts onto the public is a political liability waiting to detonate.\nAmazon should fix it before it's forced to."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "At the same time as competing with\n\n**Speaker C** [1:32:35]: them Increasingly what I love about it is that he's creating these huge compute clusters and that gives him the ability to train a big model, a big potentially frontier model so that you can think of that as like the call option is to catch up and become a true Frontier lab. But if he fails at that, he's got the put option of just selling the compute at pretty attractive prices to the Frontier labs.\n\n",
+    "start_char_index": 96654,
+    "end_char_index": 97119,
+    "response_text": "Clean options framing for xAI's position.\n**Elon can't lose on the compute bet** \u2014 either\nGrok wins at the model layer or he charges\nAnthropic and OpenAI to train on his hardware."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Very few of these investors talk about GROK at all and it is Pareto dominant on a lot of measures. And we have an existence proof that anthropic went from whatever it is, a billion to 50 billion really fast. And if anthropic is worth 2 trillion per the FT, 3 or 4 trillion,\n\n**Speaker A** [1:34:46]: according to yourself on a previous settle\n\n**Speaker B** [1:34:49]: out, I said I thought that was a market clearing price. ",
+    "start_char_index": 98747,
+    "end_char_index": 99172,
+    "response_text": "This is the mispricing argument for SpaceX.\nIf Anthropic scaled from $1B to $50B+ on model revenue,\nand Grok is now competitive on benchmarks and cheaper,\ninvestors ignoring it are leaving a lot on the table."
+  }
+]

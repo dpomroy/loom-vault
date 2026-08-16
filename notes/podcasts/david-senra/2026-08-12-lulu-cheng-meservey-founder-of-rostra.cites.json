@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "You need to build a movement of people to believe something counterintuitive because you are essentially creating something new that if it were obvious, it would have been done by virtue of it not being done. You now have to break through all of the existing biases and rally people to you. ",
+    "start_char_index": 9990,
+    "end_char_index": 10281,
+    "response_text": "The insurgent framing applied to startups. If your idea needs no persuasion it's probably already been done \u2014 the gap between \"obvious\" and \"counterintuitive\" is exactly where the communications work lives."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The purpose of a manifesto is to make concrete that intensity and paint for people a vision of what the world could be, such that when they see it, they are willing to leave their jobs, families, security, everything to go and make that happen. And a good manifesto is once you see it, you can't get it out of your head. You have to go do it. So the manifesto is the magnet. And if you don't have that, you have no right to go up to someone and say, leave your comfortable job and leave your beautiful family and come with me on what is probably a death mission. ",
+    "start_char_index": 20304,
+    "end_char_index": 20867,
+    "response_text": "A manifesto isn't marketing copy \u2014 it's a recruitment device. And the bar is extreme: people have to feel they *have* to act, not just that the idea is interesting."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And it's a good thing because traditional PR meant that you would have to filter your message through somebody else's prism. You would have to be dependent on somebody else to have the goodwill and the alignment and the means to faithfully portray to the world what you want to say. That actually very rarely happens. If you're doing something pretty uncontroversial and well understood, that can go fairly smoothly because it won't be distorted that much. But if you're doing something unconventional, far outside the mainstream, unpopular, then you do not want this to be filtered through somebody else's prism. ",
+    "start_char_index": 22740,
+    "end_char_index": 23354,
+    "response_text": "The argument isn't anti-media on principle \u2014 it's that **distortion increases proportionally** with how unconventional your idea is. Normal companies can survive the filter. Insurgent ones can't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We were talking earlier about intensity and the power of intensity to overcome a lot of other things. You lose the intensity along the way because it becomes watered down. So the founder relays the message to their PR person who Then puts it into their words or tries to remember it, and then relays it to a reporter who then pitches their editor. And then they write it, and then the editor weighs in, and then it goes out, and then whoever it's reaching is trying to interpret it. ",
+    "start_char_index": 28674,
+    "end_char_index": 29157,
+    "response_text": "Every handoff in the chain is a lossy compression step. By the time a contrarian idea reaches its audience through **five intermediaries**, it reads as a press release. This is the structural case for going direct \u2014 not ideology, mechanics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:45]: No, it works better with that kind of founder. But you don't have to have traditional personal charisma. You can be more quiet, more introverted. You can have a whole range of personality types, but you have to have intensity of belief in the idea. So the idea has to be fleshed out and coherent, and then your belief in it needs to be unassailable.\n\n",
+    "start_char_index": 31360,
+    "end_char_index": 31736,
+    "response_text": "Charisma is a red herring. **Conviction** is the actual variable. This matters because most founders who avoid going direct frame it as a personality problem when it's actually a clarity problem."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:30:29]: They need to convince themselves. You know, you have to go out in concentric circles, and the dot inside all the circles is just you, the sovereign individual who believes that you're going to lead this movement. If you haven't convinced yourself of what it is and why it's worth doing that, you're gonna dedicate your life to it. It's like, if Napoleon's your general, if he's not gonna die for it, why would you die for it? If he's not gonna charge the bridge, why am I some schmuck running across the bridge? ",
+    "start_char_index": 34705,
+    "end_char_index": 35242,
+    "response_text": "The concentric circles model: everything radiates from one **sovereign individual** who has already resolved their own doubt. Caesar charging the bridge. Napoleon crossing it first. Nobody follows someone who looks like they're auditioning their own belief."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And in my opinion, building the technology is often not as hard as getting people to use the technology. ",
+    "start_char_index": 36330,
+    "end_char_index": 36435,
+    "response_text": "The underrated insight here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So in my opinion, the greatest and most underestimated barrier between technology existing and actually having an impact is people understanding it, welcoming it into their lives and wanting to go work on it. And so there are a lot of really brilliant people working on the engineering and in the building. I don't think there's a commensurate amount of effort and thought being put into the second part, the human part of the equation of convincing people to want it and use it and work on it. ",
+    "start_char_index": 36989,
+    "end_char_index": 37484,
+    "response_text": "She's right that there's a massive asymmetry \u2014 tons of engineering effort, almost no commensurate investment in the human persuasion layer."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But the really small but really important thing is don't look happy when you're saying it. Don't be smiling when you say there's going to be a 50% unemployment rate in a year. Eric Schmidt doing that commencement speech.\n\n",
+    "start_char_index": 38533,
+    "end_char_index": 38755,
+    "response_text": "The Eric Schmidt commencement example makes this concrete."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The tech is the thing people focus on, but the utopian stories about tech. When you make tech the thing people focus on, they write it off as pr. And so I think what we want is for the utopian stories about tech or the optimistic stories about tech to have it in the background. Just be ambient. ",
+    "start_char_index": 47643,
+    "end_char_index": 47939,
+    "response_text": "Dystopian stories put the tech in the foreground \u2014 that's what makes them scary. Utopian stories bury it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But empirically it is the case that fake things do not turn out beautiful. And I think it's because no one has put that love and care into them. Because why would you put the love and care if you are just going to buy the engagement anyway? ",
+    "start_char_index": 61735,
+    "end_char_index": 61976,
+    "response_text": "She can't explain the mechanism but the empirical observation holds \u2014 fake companies don't produce beautiful things."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:02:22]: When you use a template, you are giving up on the possibility that you could be better. And I say this sometimes about AI writing. Your AI is a wonderful tool. I use it all the time. But if you are relying on AI to write for you and to generate ideas for you, you are putting yourself at C level, or you're putting yourself at the level of anyone else in the population who wants to pay fractions of a cent for a token to get the same similar output from the same shared brain. ",
+    "start_char_index": 69144,
+    "end_char_index": 69647,
+    "response_text": "Her point about AI writing is sharper than the usual \"AI makes you lazy\" take \u2014 it's that you're opting into a shared median output by design."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And you have to pursue it and then you have to stay with it because you can't compound something that changes. The way compounding works is that it has to be a set principle that then compounds. And if you change what that thing is, you start the clock again, you start the compounding over again. ",
+    "start_char_index": 79958,
+    "end_char_index": 80256,
+    "response_text": "Compounding as a metaphor for identity and strategy, not just money. Most founders pivot when pressure mounts \u2014 which resets the clock entirely. Consistency IS the advantage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what it says to me is that we all have a form of referential mania. You know, we actually have what in this young man was a severe mental illness, but we have a version of it, which is we need to believe that things around us are pointing to something. And if we're not told what that is, we will try to fill it in ourselves because our brains crave a story. ",
+    "start_char_index": 83381,
+    "end_char_index": 83744,
+    "response_text": "The Nabokov story lands the point cleanly: people aren't passive receivers of facts, they're active meaning-makers. This is the strongest idea in the excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's the space in between the facts that ties them into a story that is our responsibility to fill in. Because if you let people fill it in haphazardly, they might end up with any conclusion that you don't control.\n\n",
+    "start_char_index": 84718,
+    "end_char_index": 84934,
+    "response_text": "The gap between events is where narrative lives \u2014 and it's uncontrolled territory unless you deliberately occupy it. Most founders just broadcast facts and wonder why perception drifts."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:07:14]: What you said about Dana White reminds me of something, which is I actually use Dana White Shout Out Dana as an example of what we talked about earlier, where you're not hitting people over the head with the overt PR messaging that they're going to write off. You have the human story, and then the thing that you're trying to sell is sort of in the background. So maybe we call this like the Jetsons rule. He did this with mma. That was the reality show before. Watching MMA was mainstream. Humans being interested in the lives and striving of other humans was mainstream. It always has been. And so the reality show gave us a way to follow along on the human journey of people training for these fights. And MMA was ambiently in the background. ",
+    "start_char_index": 74296,
+    "end_char_index": 75068,
+    "response_text": "Dana White built MMA by making the *fighters* the story, not the sport. The product was ambient. Directly relevant to how Loom should think about surfacing content \u2014 lead with the person, let the idea follow."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then the other thing that they talked about was sometimes your big break is being called up for a fight on last notice, on last minute notice, because you're not the person in the big letters, but you're hoping to be. And if the person is hurt or drops out or whatever it is, which sometimes happens, you might get a call on short notice and that is your moment and you have to be ready for that moment. And so their mantra was, don't get ready, stay ready, and your big fight could happen anytime. ",
+    "start_char_index": 77881,
+    "end_char_index": 78384,
+    "response_text": "UFC fighter mindset: opportunity arrives without warning, so readiness is a permanent state, not a sprint before a deadline. Simple. Useful. Not novel \u2014 but the fighter context makes it stick."
+  }
+]
