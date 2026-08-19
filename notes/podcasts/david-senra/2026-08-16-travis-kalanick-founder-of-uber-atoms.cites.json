@@ -1,0 +1,142 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "If you're doing it really well, I like to say that the only constraint on our imagination is management capacity.\n\n",
+    "start_char_index": 4412,
+    "end_char_index": 4527,
+    "response_text": "The framing that matters here: vision isn't\nthe bottleneck, **execution capacity** is.\nMost founders obsess over ideas; Kalanick is\nobsessing over whether he has enough problem-solvers\nunderneath him to make ideas real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:01:28]: We're solving problems every day. If I have to solve lots of small problems because I don't have a lot of management capacity under me, we're not going to do very much. I'm going to be constrained in what portion of my imagination can become possible, like real. But if you have lots of management capacity, lots of problem solving capacity, then those constraints unwind.\n\n",
+    "start_char_index": 4574,
+    "end_char_index": 4973,
+    "response_text": "The framing that matters here: vision isn't\nthe bottleneck, **execution capacity** is.\nMost founders obsess over ideas; Kalanick is\nobsessing over whether he has enough problem-solvers\nunderneath him to make ideas real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Imagine if you had this equation, which is the derivative of problem solving dt must always be greater than or equal to the derivative of problem creation dt. And if that's ever not true, you have a real problem. I call that the meta problem. So what's happening is that if you are creating problems faster than you can solve them, then you're kind of effed. ",
+    "start_char_index": 5249,
+    "end_char_index": 5608,
+    "response_text": "Ugly phrasing, but the insight is clean:\n**growth creates problems on a delay**, and if\nyou're creating faster than you're solving,\nyou're already drowning \u2014 you just don't know\nit yet. Relevant to any fast-scaling project."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it's called Super Pumped, which is about infectious enthusiasm, about the hard things. The harder it is, the more weird, gnarly, whatever words, whatever superlative you want to put in front of it. The more awesome it would be to solve it, the more excited I get. And the problems that are more awesome to solve are the ones that people think are impossible to Solve. ",
+    "start_char_index": 8085,
+    "end_char_index": 8457,
+    "response_text": "He calls this \"Super Pumped\" \u2014\n**infectious enthusiasm for difficulty**.\nWorth noting he's not performing this;\nthe China story confirms it's structural to\nhow he selects problems."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But what was interesting about what was going on with Didi was that while we were in inventing, innovating, they were copying. And these guys were so good at copying. It was kind of. It was almost an art form. To be able to copy as quickly and fiercely as they did was like warrior mentality in its own right. ",
+    "start_char_index": 16987,
+    "end_char_index": 17297,
+    "response_text": "Kalanick isn't dismissive \u2014 he's genuinely\nimpressed. The real lesson: **fast copying at\nscale is its own competitive capability**.\nDidi lost eventually, but not because copying\nwas a weak strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because at some point, efficiency outstrips subsidy. What I mean by that is when you're subsidizing, you go through huge growth and at some point you get so big that you can't really subsidize a lot. Like, if you're doing 10 billion rides a year, you can't subsidize 2 bucks\n\n**Speaker A** [0:27:05]: a ride because you run out of money.\n\n**Speaker B** [0:27:07]: Just $20 billion a year, nobody's going to fund that.\n\n",
+    "start_char_index": 27522,
+    "end_char_index": 27941,
+    "response_text": "This is the thesis of the whole network-effects\nsection in three words. **Subsidies are temporary;\nstructural efficiency compounds.** Once you're\nbig enough, you can't subsidise your way to\ndominance \u2014 the maths won't let you."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:32:09]: Yeah, well, where I ended up at Uber was basically sort of the motto was more like the one who serves the customer best gets all the customers.\n\n",
+    "start_char_index": 32966,
+    "end_char_index": 33136,
+    "response_text": "He's drawing a clean line between **competitive\nmonopoly** (earned through product) and\nanti-competitive monopoly (lobbied for).\nUber was fighting a taxi cartel that used\nthe second playbook \u2014 Kalanick refused to\nmirror it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So you can be highly competitive. And look, we had never, at Uber, we never got a regulation passed that would hurt a competitor. We never would do that. That's just not how we rolled. We never donated to a campaign ever to try to get something passed.\n\n",
+    "start_char_index": 33225,
+    "end_char_index": 33479,
+    "response_text": "He's drawing a clean line between **competitive\nmonopoly** (earned through product) and\nanti-competitive monopoly (lobbied for).\nUber was fighting a taxi cartel that used\nthe second playbook \u2014 Kalanick refused to\nmirror it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It is a government cond. Cartel that outlaws competition.\n\n",
+    "start_char_index": 37966,
+    "end_char_index": 38025,
+    "response_text": "The cleanest one-line summary of the taxi industry you'll hear."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:38:19]: So what happens is being anti competitive is illegal in the United States. Unless you get a government official or regulator to do it for you, then it's legal. ",
+    "start_char_index": 38688,
+    "end_char_index": 38873,
+    "response_text": "The mechanism behind regulatory capture in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:46:41]: The lifestyle of an entrepreneur, I believe at its core. There's a couple other things, but this is one prism, one part of it, one pillar of it is I can take more pain than the other guy, and I'll prove it. ",
+    "start_char_index": 47475,
+    "end_char_index": 47707,
+    "response_text": "Kalanick's definition of the entrepreneurial identity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because there is an extra power in being bothered by something that is wrong. You can get too used to wrong things happening.\n\n",
+    "start_char_index": 49505,
+    "end_char_index": 49632,
+    "response_text": "The warning buried inside the Zen-warrior framing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I like to say I never get attached to a price, I get attached to a process. That process is about excellence in fundraising. ",
+    "start_char_index": 61809,
+    "end_char_index": 61937,
+    "response_text": "The fundraising principle that let Uber go from a $6B offer to a $17.5B close two months later."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The way I think about it is an operator who's running a company, if they're good, is a grandmaster of chess, the vc, by the way, that grandmaster of chess, this operator entrepreneur is playing this chess match somewhere between 60 and 80 hours a week and is like, really knows this thing. And it's like, knows many moves ahead and just sees things other people don't see. And they're in it as well. And the VC is a chess enthusiast, and they check in on the chess match once every three months. ",
+    "start_char_index": 65112,
+    "end_char_index": 65608,
+    "response_text": "The structural case for why most VC \"help\" is noise at best, harmful at worst."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "From my perspective, where you really want to be is you want to start at a low price and say, look, I don't know where the price is going to go, but I know it's at least here. And if it's low, the VC is like, okay, now once they give you that read, once they lean forward like that, you're like, okay, we're good. ",
+    "start_char_index": 74049,
+    "end_char_index": 74363,
+    "response_text": "The counter-intuitive move. A low opening price gets VCs to lean forward \u2014 once they do, you have a bidder and the auction is real."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Then you aggregate how much demand I have at every price. So as the price gets higher, the demand goes down. You now have your demand curve. And you're like, okay, I want to raise a billion, but at the really low price, I have 3 billion of demand. At the higher price, eventually I have a billion dollars worth of demand. And I go, okay, that's the price that I could close at right now. ",
+    "start_char_index": 75943,
+    "end_char_index": 76331,
+    "response_text": "He's running a literal book-build \u2014 the same mechanism equity underwriters use in IPOs \u2014 applied to private rounds."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But basically, it was so hard that I had to be sort of epically precise and hardcore just to pay the bills and go to the grocery store next week. And that precision and intensity made Uber what it was. But I was running a $70 billion company the way somebody who thought he was going to starve next week would run it. ",
+    "start_char_index": 80349,
+    "end_char_index": 80667,
+    "response_text": "The survival-mode intensity that built Uber was also what made him ungovernable at scale \u2014 precision forged in scarcity doesn't automatically upgrade when the stakes change."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:27:04]: AI and robotics to totally transform industries. But one industry at A time and specialized robotics to do so. For instance, if you want to make 1,000 pancakes an hour, you wouldn't have a humanoid do it. If you wanted to get a car to move down the street, you wouldn't have a humanoid drive it. I think humanoids have their place, which is, let's call it low scale tasks in human design environments designed for humans. ",
+    "start_char_index": 85398,
+    "end_char_index": 85845,
+    "response_text": "His robotics thesis in one line: specialised machines beat general ones at industrial scale. Humanoids make sense only where tasks are varied and the environment is human-shaped."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Probably the most approachable way to describe this is the fewest number of rules while staying out of chaos is the approachable way to describe this. But you go back to launch at Uber, you could think of it as like, okay, there's a bunch of 23 year olds launching cities. What happened was at the beginning, the first 20, 30 cities, I was deeply involved in whether that city was going to get launched. But what happened was somebody go out, hey, go launch a city, make something out of nothing, and there'd be some kind of playbook there. But a lot of it was undefined. But nothing would actually launch until they got to a pricing call. Because pricing in the transportation space is the sum of all strategy. ",
+    "start_char_index": 101171,
+    "end_char_index": 101883,
+    "response_text": "At Uber the implementation was one rule \u2014 nothing launches until the pricing call \u2014 which forced 23-year-olds to self-organise everything upstream of it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:46:53]: I almost think of it as negentropic, which means it's kind of a. You could get into a very interesting sort of very, I don't want to say very energetic debate with certain people about negative entropy. But civilization is an attempt to locally slow down entropy and maybe even go negative. It's building structure against the nature, towards chaos. That's what civilization is. And so atoms is essentially the structure to defend civilization and move it forward into progress.\n\n",
+    "start_char_index": 104102,
+    "end_char_index": 104607,
+    "response_text": "He frames Atoms as a negentropic project \u2014 deliberately building order against physical chaos."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "There is a fundamental disconnect that I have with a lot of the rhetoric coming out of Silicon Valley, coming out, I think of one of the labs in particular, where if we get to a place where we have a meaningful superiority in terms of a military national security perspective, I think that's very dangerous for the world.\n\n",
+    "start_char_index": 6645,
+    "end_char_index": 6968,
+    "response_text": "The contrarian take worth holding: dominant AI isn't\na win condition, it's a provocation. Game theory says\na cornered China does something drastic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think that's why people reach for the railroads because everyone talks about are we going to have enough compute, are we going to have enough electricity? Maybe the nearest term questions are we going to have enough money? Which is kind of a bizarre thing to think about. ",
+    "start_char_index": 14914,
+    "end_char_index": 15188,
+    "response_text": "Everyone fixates on compute and power.\nThe actual binding constraint right now\nmight simply be **capital**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I'm worried about the timing mismatch in terms of the actual return on investment producing enough revenue to fuel investment. We're working our way down the capital curve. We started with free cash flow. The speed with which the tech companies blew through the debt markets is kind of incredible. It took like a year. And now Google's issuing equity. ",
+    "start_char_index": 13261,
+    "end_char_index": 13613,
+    "response_text": "The progression is striking: free cash flow\nburned first, then debt markets blown through\nin about a year, now Google issuing equity."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The railroads had a real duration mismatch. To build a railroad and make money off it was a decade or multiple decades long endeavor. Whereas you had to issue money to pay for it in the short term and the world ran out of money. ",
+    "start_char_index": 14637,
+    "end_char_index": 14866,
+    "response_text": "The railroad analogy lands because\nthe **timing mismatch** is the thing \u2014\nshort-term capital obligations vs.\ndecade-long payback periods."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "AI is clearly incredible at coding. It kind of blows my mind that People were doing this a year ago, like actually writing out code. It's very good at math, obviously, but the obvious riposte is that these are sort of verifiable domains. What is the evidence or where is the compelling evidence of being very good at verifiable domains? Queenly translates to being very good at sort of unverifiable domains or domains that take have a very long sort of verification loops. I think that's still a little bit to be determined. ",
+    "start_char_index": 18910,
+    "end_char_index": 19435,
+    "response_text": "This is the sharpest intellectual\ncaveat in the episode. AI dominates\n**bounded, verifiable** problems.\nWhether that transfers to long-loop,\nunverifiable domains is still open."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's two things to understand about consumers that Silicon Valley has to relearn about every 10 years. Number one, consumers do not want to pay for software. And number two, consumers do not care about being productive. ",
+    "start_char_index": 31133,
+    "end_char_index": 31356,
+    "response_text": "Two rules Silicon Valley keeps\n**relearning every decade**.\nOpenAI replayed the Dropbox mistake\nat massive scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you're going to be in the consumer market, you have to be doing advertising. They're doing advertising now. It's a little weird. They finally pivoted to doing advertising. At the same time, they're like, oh crap, we need to Go for the enterprise because Anthropic is kicking our way in. ",
+    "start_char_index": 34164,
+    "end_char_index": 34454,
+    "response_text": "OpenAI finally pivoted to ads \u2014\nlate and while also scrambling for\n**enterprise revenue** because\nAnthropic is beating them there."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There's a bit where had they leaned into advertising immediately as soon as ChatGPT was a hit, I think they would have a killer ad product right now. I think that Google would be in much bigger trouble. ",
+    "start_char_index": 34743,
+    "end_char_index": 34946,
+    "response_text": "Had they leaned into advertising\nimmediately post-ChatGPT launch,\nGoogle and Meta would both be in\nmaterially worse shape today."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The biggest impact of the models, the biggest monetization right now is probably not anthropic or OpenAI. It's the incremental gain that is happening for Google and Meta. ",
+    "start_char_index": 71780,
+    "end_char_index": 71951,
+    "response_text": "The biggest monetization of AI models right now is probably not Anthropic or OpenAI \u2014 it's the incremental gain happening for Google and Meta."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you actually look at their business holistically, what that is is a price cut. Now, the price cut didn't show up in margins, it didn't show up in what they're offering. But a lot of what Nvidia is doing is how can we maintain our margins even if the wide view, sort of discounted cash flow, expected value, holistic view of our company, people do discount cash flows. ",
+    "start_char_index": 80446,
+    "end_char_index": 80817,
+    "response_text": "Nvidia's equity backstop deals are, holistically, a price cut \u2014 one that doesn't show up in margins or stated pricing, but shows up in expected value terms when you account for the risk they've absorbed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Cuda's moat is dramatically diminished because the models don't care what they run on. And that's what actually matters. ",
+    "start_char_index": 82610,
+    "end_char_index": 82731,
+    "response_text": "CUDA's moat is dramatically diminished because the models don't care what they run on \u2014 and that's what actually matters."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And very what's going to last from AI? The GPUs don't last that long. Data centers. Okay, fine, but what is it going to be? Power. It has to be power. ",
+    "start_char_index": 86886,
+    "end_char_index": 87037,
+    "response_text": "The lasting legacy of the AI buildout, even if it's a bubble, is power infrastructure \u2014 not the GPUs (which don't last long) and not really the data centers."
+  }
+]
