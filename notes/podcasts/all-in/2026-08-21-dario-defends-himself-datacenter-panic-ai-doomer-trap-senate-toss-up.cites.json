@@ -1,0 +1,128 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "And no company, and you'd have to say, therefore, no founder, CEO has done more to promote these fears and pump these fears and amplify these fears than Dario has. And the fact that he can't see that either makes him, I'd say, disingenuous or delusional.\n\n",
+    "start_char_index": 6172,
+    "end_char_index": 6428,
+    "response_text": "Sacks's sharpest line in the segment. His case is that Dario can claim balance all he wants, but the output \u2014 media campaigns, Senate testimony, the blackmail study \u2014 tells a different story. \"Disingenuous or delusional\" is a fair binary."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If I had to take three different vectors of actions and now put them together, you've had a very disjointed, disorganized, and frankly, pearl clutching, disingenuous AI doom narrative. And it's actually seeded and now it's growing. And as a result, what's happening? I was really shocked when I saw Governor Abbott of Texas put down this executive order around Texas data centers and limiting its growth. Josh Shapiro in Pennsylvania just did the same thing. ",
+    "start_char_index": 6972,
+    "end_char_index": 7431,
+    "response_text": "Chamath links the narrative directly to policy outcomes: Abbott in Texas, Shapiro in Pennsylvania, both suddenly hostile to data centers. This is the \"so what\" \u2014 doom talk isn't just PR damage, it's **infrastructure damage**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I call it a DMV for AI because I think what's going to happen is all these models are going to get lined up in a queue waiting to get their tests done and then released, and it's going to slow us down horribly. Have you ever been to the App Store? It's a terrible idea and it's just a repackaging of what Dario has always wanted, which is an FDA for AI. ",
+    "start_char_index": 17577,
+    "end_char_index": 17931,
+    "response_text": "Sacks's reframe of the FINRA/FAA/FDA alphabet soup is useful. Whatever you call it, **pre-release model approval** is the mechanism \u2014 and the App Store comparison lands. One gatekeeping queue is much the same as another."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When you wrap it in its own harness, it decays in capability. When you take an open source model and you use any other open source model, it improves in capability. What is that trying to tell you? What I think we are finding out, and this data is just going to be a tsunami over the next year, is there are all kinds of ways of using open source technologies that are meaningfully more performant and dramatically cheaper than the closed source alternative. ",
+    "start_char_index": 32028,
+    "end_char_index": 32487,
+    "response_text": "Chamath's most **technically interesting** point. Closed models decay under their own harness; open models compound. If that data holds at scale, the regulatory battle over frontier labs may be fighting the wrong war entirely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:29:51]: I got bad news for you, Chamath. An open source ban is coming. They're not going to call it that. You know what they're going to say? They're going to say that we simply have to apply the same standards to open models that we apply to closed. ",
+    "start_char_index": 33065,
+    "end_char_index": 33333,
+    "response_text": "Sacks's most alarming prediction. The mechanism he describes \u2014 **equal standards applied to architecturally unequal systems** \u2014 is exactly how you kill open source without banning it. Plausible and worth watching closely."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Once you release an open model into the world, you can't roll it back and you can't monitor exactly how people are using it because they run it on their own hardware. Dario says this is what makes models dangerous. So what they're going to do is they're going to have the standard setting body say, well, we have to set the standards for AI safety. ",
+    "start_char_index": 34851,
+    "end_char_index": 35200,
+    "response_text": "This is Dario's actual technical argument, steel-manned by Sacks before he tears it down. The argument isn't wrong on the facts \u2014 it's the **policy conclusion** drawn from it that does the damage."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The point is, if RSI is a thing, you don't have a human process where you're stepping in to run this thing. So you don't necessarily have a cohort of frontier lab scientists running it. Theoretically, an individual that's smart enough or a group of individuals that's smart enough can go spin up an RSI factory anywhere in the world or anywhere in space. ",
+    "start_char_index": 53888,
+    "end_char_index": 54243,
+    "response_text": "The implication is stark \u2014 you don't need a cohort of frontier lab scientists to run it. Any sufficiently motivated individual or group can spin up an RSI factory anywhere in the world."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:48:45]: Wouldn't we be better off having systems where we actually have those lab space, where we have those data centers based in the US where we have jurisdiction over them, where we have capacity to monitor and control and police them, rather than just have them sprung up in some random country or some random territory. So I guess my point is we should be attracting and retaining the frontier labs, not trying to. ",
+    "start_char_index": 54904,
+    "end_char_index": 55341,
+    "response_text": "The pragmatic case for US dominance isn't patriotism \u2014 it's control. If RSI is coming regardless, having it happen inside US jurisdiction beats having it happen in Kazakhstan or Iceland."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He wants to bring forth this new superintelligence, machines of loving grace that are going to apportion all the resources of society while humans twiddle their thumbs. It's not a vision that the average person believes in or is attracted to. In fact, it's dystopian. And that's why a lot of their messaging is dystopian. And because of that vision, no matter how idealistic his motives, it is why he does not inspire trust. ",
+    "start_char_index": 47024,
+    "end_char_index": 47449,
+    "response_text": "Dario's vision \u2014 machines apportioning society's resources while humans stand aside \u2014 isn't just unpopular, it reads as dystopian to most people. That's why his messaging lands wrong regardless of intent."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We're now past that one year mark. By the way, has he updated? Has he said I was wrong? Not really. Sam did.\n\n",
+    "start_char_index": 43804,
+    "end_char_index": 43914,
+    "response_text": "That deadline has passed. He hasn't clearly recanted. Sam Altman did walk his pessimism back. Dario hasn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you can convince your team to embrace the tools, so many business opportunities emerge that you wind up hiring people to work for the people in your organization who embrace the tools. So we have become so fast at building the syndicate, building our programs, that I'm like, you know, we need to add a couple people. So I thought we were going to automate them away.\n\n",
+    "start_char_index": 45110,
+    "end_char_index": 45482,
+    "response_text": "The on-the-ground experience directly contradicts the doom narrative \u2014 accelerating with AI created *more* hiring demand, not less."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:59:37]: And then the DOJ is, doesn't tell you that, that you're under investigation. And they also don't tell you when it's closed, it's just a one way PR ratchet for an enemy to exact some sort of chaos. ",
+    "start_char_index": 67992,
+    "end_char_index": 68214,
+    "response_text": "The mechanism is clean: file a complaint, DOJ opens a file, leak \"under investigation\" to press. Story runs. Target damaged. Case may never go anywhere."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:06:46]: 53% of self identified conservatives under 40 support government run grocery stores, not Democrats. ",
+    "start_char_index": 75572,
+    "end_char_index": 75697,
+    "response_text": "The stat that should stop the room cold."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And unfortunately what happens is that socialism causes the problem. And then what happens is that groups like the DSA argue that the way to solve the problem is through more socialism. So it's a disease that claims to be a cure and then people take it and they take more of it and the disease gets worse and worse. ",
+    "start_char_index": 88054,
+    "end_char_index": 88370,
+    "response_text": "Sacks's clearest framing of the whole segment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:27:00]: If you take it through the Rene Girard lens, everything maps. It's like the billionaires will be scapegoated and the trillionaires will be, I mean, even worse. And because that will allow the catharsis, that will allow society to reset and realize, wait a minute. ",
+    "start_char_index": 96161,
+    "end_char_index": 96450,
+    "response_text": "Chamath applying mimetic theory to tech-class politics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [1:26:40]: At the end of the day, right, the data center is the temple where the billionaires and trillionaires pray. It's where they go to make their sacrifices. It is their gathering spot. So I think the data center is this like, you know, Temple on the Mount, the Avatar. And so that's why I think the data center gets tied up in all of this. ",
+    "start_char_index": 95713,
+    "end_char_index": 96073,
+    "response_text": "Freeberg connecting data-centre backlash to class resentment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so I don't see how from a public policy perspective we don't find ourselves walking down this very nasty, winding, dark path of socialism because the alternative policies that could be put in place to solve these problems are not being put forth by either party right now. ",
+    "start_char_index": 78858,
+    "end_char_index": 79135,
+    "response_text": "Freeberg's bleakest conclusion \u2014 and the load-bearing claim of the excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There are locals out, all of the\n\n**Speaker A** [1:27:42]: laws, of course, but he pulled out all the stops for getting data centers green lit. We know that. And he worked with the state governments. I'm talking about him coming on saying, you know what, we did a great job for the data centers, we did a great job for the crypto industry. And now we're going to do two great things. We're going to do two great things. We're going to make trade shows, we're going to make trade schools and we're going to make affordable homes. I'm just going to make that the next 24 months. We're going to figure out a way to mobilize the private sector, mobilize the public sector. We're going to make more homes and we're going to get you a great education that turns into a job.\n\n",
+    "start_char_index": 97038,
+    "end_char_index": 97807,
+    "response_text": "Jason Calacanis making the political case cleanly."
+  }
+]
