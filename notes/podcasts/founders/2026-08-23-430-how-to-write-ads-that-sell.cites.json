@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "I am not advising others to follow my example, but the man who works twice as long as his fellows is bound to go twice as far, especially in advertising.\n\nThere is some difference in brains, of course, but it is not so important as the difference in industry. The man who does two or three times the work of others learns two or three times as much. He makes more mistakes and more successes, and he learns from both. If I have gone higher than others in advertising or done more, the fact is not due to exceptional ability but to exceptional hours.\n\n",
+    "start_char_index": 9314,
+    "end_char_index": 9865,
+    "response_text": "The man who works twice as long learns twice as much \u2014 more mistakes, more successes, more reps."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he says, to poverty I owe the fact that I never went to college. I spent those four years in the School of experience instead of the school of theory.\n\nAnd one of the most important lessons he learned in the school of experience in school of theory, he actually learned from a guy that was a railroad section foreman. And that is the importance of using the most of every hour of the day and then treating your work as play. ",
+    "start_char_index": 11062,
+    "end_char_index": 11491,
+    "response_text": "Hopkins frames this not as a loss but as an advantage \u2014 four years of real feedback loops over four years of abstraction."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The foreman, on the other hand, worked with enthusiasm. He says the men would work as though work was a bore, but the foreman made the work a game. ",
+    "start_char_index": 12511,
+    "end_char_index": 12659,
+    "response_text": "The railroad foreman made work a game while his helpers counted hours to quitting time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so as a kid, I think he's 10, 11 years old when he's doing this, he's going door to door and trying to sell this silver polish that his mother has essentially home manufactured, right? Says I went from house to house to sell it. I found that I sold about one woman in 10 by merely talking about the polish. But when I could get into the house and demonstrate the polish, I sold to nearly all that taught me another lesson I have never forgotten.\n\n",
+    "start_char_index": 17760,
+    "end_char_index": 18211,
+    "response_text": "Hopkins learned this at age 10 selling his mother's silver polish door-to-door: talking about it converted 1-in-10, demonstrating it converted nearly all."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We must never judge humanity by ourselves.\n\nThe things we want, the things we like may appeal to a small minority. The losses occasioned in advertising by venturing on personal preference would easily pay the national debt. There are divided opinions. So in every preference and every one, only the obstinate and the boneheaded will venture far on personal opinion.\n\nWe must submit all things in advertising to the court of public opinion. ",
+    "start_char_index": 20630,
+    "end_char_index": 21070,
+    "response_text": "Only the \"obstinate and boneheaded\" rely on personal preference \u2014 everything must go to the court of public opinion."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The whole basis of what I would talk about was to help them get more business. The advantage to myself was covered up in my efforts to please him. All good salesmanship, which is all he considers advertising, says advertising is just salesmanship in print. All good salesmanship is based on appealing to service.\n\n",
+    "start_char_index": 34384,
+    "end_char_index": 34698,
+    "response_text": "Hopkins' whole basis was helping the buyer get more business \u2014 his own advantage was buried inside his effort to please them. He considered advertising simply salesmanship in print."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I told a story common to all good brewers, but a story which had never been told. I gave purity a meaning. Schlitz jumped from fifth place to neck and neck with first place in a few months. ",
+    "start_char_index": 39299,
+    "end_char_index": 39489,
+    "response_text": "The Schlitz case in one line. Hopkins wrote nothing proprietary \u2014 just the process everyone used \u2014 and Schlitz went from fifth to first. The lesson: **familiarity to you \u2260 familiarity to your customer**. Your \"boring\" operations are someone else's marvel."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The maker is too close to his product. He sees in his methods only the ordinary. He does not realize that the world at large might marvel at those methods and that facts which seem commonplace to him might give him vast distinction. ",
+    "start_char_index": 39813,
+    "end_char_index": 40046,
+    "response_text": "This is the trap every founder falls into. What feels like table-stakes internally is often genuinely impressive to outsiders. Relevant to Loom: the infrastructure and reasoning behind features probably looks mundane to Daniel but could be a **genuine differentiator** if surfaced clearly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ask a person to take a chance on you and you have a fight. Offer to take a chance on him, and the way is easy. ",
+    "start_char_index": 40426,
+    "end_char_index": 40537,
+    "response_text": "One of Hopkins' cleanest reversals. The framing shift is small; the commercial effect is enormous. Most copy asks the customer to **bear the risk** \u2014 great copy absorbs it instead."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "People will do anything to cure trouble, but little to prevent it. Countless advertising ideas have been wrecked by not understanding that phase of human nature.\n\nPrevention offers slight appeal to humanity in general. ",
+    "start_char_index": 50862,
+    "end_char_index": 51081,
+    "response_text": "The painkillers-not-vitamins principle, 100 years before it became a startup clich\u00e9. Hopkins proved it by selling Pepsodent as a **beauty product**, not a decay-prevention product \u2014 and made himself a million dollars doing it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The identical ad run with various headlines differs tremendously in its returns. It's not uncommon for a change in headlines to multiply returns from five to ten times over.\n\n",
+    "start_char_index": 68083,
+    "end_char_index": 68258,
+    "response_text": "Five to ten times \u2014 from one variable. Hopkins obsessed over headlines accordingly, spending hours on a single one. Most people spend 90% of their time on body copy; the **leverage is inverted**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Says platitudes and generalities roll off the human understanding like water from a duck. They have no impression whatsoever to say best in the world. Lowest prices, etc.\n\nAre all at best simply claiming the expected. A definitive statement is usually accepted. However, actual figures are not generally discounted. Specific facts have their full weight and effect.\n\nThe weight of an argument may often be multiplied by making it specific. ",
+    "start_char_index": 71002,
+    "end_char_index": 71442,
+    "response_text": "Be specific; use real numbers. \"Best in the world\" signals nothing. \"My net profit is 3%\" is **immediately credible** because it's verifiable and precise. Vague superlatives are free to say, so readers discount them to zero."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One fact may be the keystone of his success to advertise a toothpaste.\n\nThis writer has also read many volumes of scientific matter that was dry as dust. But in the middle of one volume, he found the idea which has helped make millions for that toothpaste maker. ",
+    "start_char_index": 73110,
+    "end_char_index": 73373,
+    "response_text": "The writer read volumes of dry\nscientific material and found a single\nidea buried mid-book \u2014 one sentence\nthat made millions for the client."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Genius is the art of taking pains. That is too good not to say again, genius is the art of taking pains.\n\n",
+    "start_char_index": 73373,
+    "end_char_index": 73479,
+    "response_text": "Hopkins repeats this twice \u2014 which\nis itself a signal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Ogilvy said this had the same thing happen. He was reading to hundreds of pages, if I remember correctly, about his customer, Rolls Royce. And he said it was like some obscure engineering document, wasn't even meant for consumption of advertising. It wasn't even meant to be seen by the outside world.\n\nAnd he found a line that was the basis for one of his most successful advertising campaigns of all time. And it says, At 60 miles an hour, the loudest noise in this new Rolls Royce comes from the electric clock. ",
+    "start_char_index": 73848,
+    "end_char_index": 74363,
+    "response_text": "Ogilvy found this line in an obscure\nengineering document \u2014 not written\nfor public consumption \u2014 while reading\nhundreds of pages about Rolls Royce.\nIt became one of his most successful\ncampaigns ever."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The ad seems so simple, and it must be simple to appeal.\n\nBut back of that ad may lie reams of data, volumes of information and months of research. ",
+    "start_char_index": 74652,
+    "end_char_index": 74800,
+    "response_text": "Simplicity is the *output* \u2014 not the\nprocess."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is no lazy man's field. ",
+    "start_char_index": 74800,
+    "end_char_index": 74829,
+    "response_text": "Four words. Full stop."
+  }
+]

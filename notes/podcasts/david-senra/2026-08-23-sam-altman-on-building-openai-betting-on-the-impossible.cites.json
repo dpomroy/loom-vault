@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:23:55]: Not resistance, but, like, are you sure? Like, why not? Let's try. Let's see what happens. Maybe I can. Maybe we can. I was like, a very optimistic kid. And also, like, the more something seemed impossible, like, the more intrigued I was. ",
+    "start_char_index": 31152,
+    "end_char_index": 31416,
+    "response_text": "The instinct isn't contrarianism for its own sake \u2014 it's a genuine\npull toward hard problems."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The thing to me that feels most psychologically inconsistent about myself is that I have for 20 years been using computers the same way. I now have a magic thing called Codex. So do you. So does everybody. That means I should completely be using my computer in a different way. I should not be clicking around, pasting from one messaging app to another. I should not be scrolling mindlessly through my emails and trying to figure out which one is least painful for me to open and respond when I don't want to be dealing with it. I should not be keeping a to do list and doing sort of these rote computer tasks in the same way that I have for so long. And yet there's something in my mind that is encoded that doing this kind of stuff is what it means to work and what it means to be productive. ",
+    "start_char_index": 10788,
+    "end_char_index": 11583,
+    "response_text": "Altman is **patient zero** of the AI-adoption gap \u2014 he built\nCodex and still defaults to old habits."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But right now it feels like we're all kind of straddling these two worlds of we still have a computer we can use the old way, and we have codecs that can use our computer in this amazing new way, and we're not sure which to use when, for what. And I think this is mostly a product failure. The phase that we're in now reminds me of smartphones before the iPhone. ",
+    "start_char_index": 12540,
+    "end_char_index": 12903,
+    "response_text": "He calls it a **product failure**, not a capability\nfailure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then when we started really focusing on large language models, we got hammered again, saying this is completely ridiculous and we understood, or I understood, at least from my kind of startup background. And I think other people understood in other ways. This point of high risk bets are okay as long as you take the ones where if they work, it's super valuable and research looks this way. The kind of people that make great researchers are sort of non consensus, fresh approach, high energy, sort of nonstandard is the word that keeps coming to mind.\n\n",
+    "start_char_index": 17847,
+    "end_char_index": 18405,
+    "response_text": "The **power law logic** applied to research: back the\nnon-consensus direction if the upside is enormous."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the thing that I think I was wrong about a few things, but one of them in terms of the speed, one of them is the economy just has so much inertia. People keep doing the same things they're doing, they keep buying from the same company, they keep sort of wanting to use their tools in the same way. I think that's actually a positive in many ways. And it's going to make this big transition in front of us go smoother and slower. And I'm grateful for it. But I think it means we've all been too ambitious on timelines, even with this incredible technology. ",
+    "start_char_index": 8203,
+    "end_char_index": 8763,
+    "response_text": "Altman expected faster **software disruption** post-GPT-4 and\nwas wrong. He now sees inertia as a stabiliser, not just\nan obstacle."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But as an investor, you kind of watch all the crux moments. So you don't get the kind of operating practice that you do just day in and day out running a company. But you've seen a lot of the big crux moments. A lot. All day long you see those. ",
+    "start_char_index": 27210,
+    "end_char_index": 27455,
+    "response_text": "The **pattern library** from investing is richer than\nthe one you build running a single company."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Maybe the two big risks that I'm most worried about with AI, which are a little bit intention. One is a loss of control where AI somehow just becomes too powerful in a way that we can't guarantee the control we want. And the other is power gets too centralized where you have one company or model or person with too much power. And in both of these, the fundamental thing is I think it's a very anti human position for either of these things to happen. ",
+    "start_char_index": 39115,
+    "end_char_index": 39568,
+    "response_text": "The two risks Altman flags \u2014 AI losing control, and power centralising in one company \u2014 are framed as **the same underlying problem**: removing humans from the loop."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Like my, my caricature of this is I think there are some people in the AI field who effectively say we're going to give the world a cure to all disease and we're going to make stuff really cheap in exchange for people giving up their autonomy and impact over the future and power. And also in the name of safety and also just absolutely rampant inequality, there will be people that have access to huge amounts of wealth and power and other people just get a pretty good everything. And this is a terrible sales pitch. This is a very anti human sales pitch that somehow people feel willing to make.\n\n",
+    "start_char_index": 40484,
+    "end_char_index": 41084,
+    "response_text": "Altman calls this a **\"terrible sales pitch\"** \u2014 trading material comfort for political autonomy. He's naming something most AI discourse avoids: the deal being offered is paternalist, not utopian."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "ChatGPT has only been out like less than 4 years. Billion people use it and sensitive important stuff and the fact that we can deliver something that is broadly considered safe, of course there's issues with it, like in that short of a timeframe with such a powerful technology, I think there is no way we could have done that in ivory tower. And this is how I believe you build good, safe, robust, useful technology and products. ",
+    "start_char_index": 44271,
+    "end_char_index": 44702,
+    "response_text": "The **iterative deployment** argument: real-world feedback at scale is what makes a product safe, not pre-launch theorising. Doomers wanted the opposite \u2014 lab caution. OpenAI's bet was ship it and learn."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:46:13]: With the latest generation of the models, I don't want to say they feel smart enough because I think we should always aspire for them to get smarter, but they're pretty smart. And I feel more limited at this point by the amount of useful context the AI has on me. I want the AI to know as much as it can to help me. I want it to be doing things I can't or don't want to do on my own. ",
+    "start_char_index": 56251,
+    "end_char_index": 56660,
+    "response_text": "Altman says the **model intelligence problem is largely solved** for his needs \u2014 the bottleneck is now context. He wants AI that knows enough about him to advise well, not just respond well."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But last year, for example, we killed Sora, which was good product and fun and cool, but used a lot of compute and not as important as Codex where we put the compute. We killed our web browser called Atlas, which again, I think it was a great product, it was the best web browser, but not as important for us to focus on as somewhere else we could Put that talent in a world of limited compute, limited people, limited resources. ",
+    "start_char_index": 63003,
+    "end_char_index": 63433,
+    "response_text": "Both products were **genuinely good** \u2014 Altman admits it. That's the point: killing good for great is harder than killing bad, and most organisations fail at it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Like, people have just been chasing the Google business model for 20 years, and this is the first thing that's come up. And clearly the empty text box worked for Google. So why don't you just double down on that? It's growing, it's very flexible, and it has all of the signs other than it doesn't fit the current Silicon Valley wisdom. ",
+    "start_char_index": 69474,
+    "end_char_index": 69810,
+    "response_text": "Peter Thiel's advice to **double down on ChatGPT** at the moment the team wanted to diversify. The insight: a simple, flexible input interface that's growing is rare \u2014 don't abandon it because it doesn't fit current startup orthodoxy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Like when I look at the lessons of where I have failed at something, I learned something generic about grit and determination and something not to do. ",
+    "start_char_index": 76801,
+    "end_char_index": 76952,
+    "response_text": "This cuts against the conventional \"fail fast, learn from failure\" framing.\nAltman's point: **failure lessons are generic**; success lessons are specific\nand transferable. Most people study the wrong thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And when I've had something really work, when I understand what parts of Y Combinator really worked or what parts of OpenAI really worked, trying to apply those lessons going forward has been much more helpful to me than trying to apply the anti lessons of what didn't work. ",
+    "start_char_index": 77094,
+    "end_char_index": 77369,
+    "response_text": "This cuts against the conventional \"fail fast, learn from failure\" framing.\nAltman's point: **failure lessons are generic**; success lessons are specific\nand transferable. Most people study the wrong thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But in my own experience, when I have tried to apply those lessons, the lessons I learned from success were very good and I should have applied those more. And the lessons I learned from failure were either fairly generic and I kind of already knew them or got in the way of something else. ",
+    "start_char_index": 77501,
+    "end_char_index": 77792,
+    "response_text": "This cuts against the conventional \"fail fast, learn from failure\" framing.\nAltman's point: **failure lessons are generic**; success lessons are specific\nand transferable. Most people study the wrong thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the thing that was really different about OpenAI than anything that I had pattern matching before is it was four and a half years from when we started the company, when we launched our first product.\n\n",
+    "start_char_index": 83453,
+    "end_char_index": 83658,
+    "response_text": "The exact opposite of YC gospel. The interesting tension here is that\n**Altman knew** this was catastrophic startup advice \u2014 and did it anyway,\nbecause the problem genuinely demanded it. Knowing the rules matters less\nthan knowing when they don't apply."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "How you manage through this part of the world where you don't have the external signal from customers and you're just trying to do what would normally be the catastrophic startup advice of not shipping a product for four and a half years, that was very difficult. ",
+    "start_char_index": 84029,
+    "end_char_index": 84293,
+    "response_text": "The exact opposite of YC gospel. The interesting tension here is that\n**Altman knew** this was catastrophic startup advice \u2014 and did it anyway,\nbecause the problem genuinely demanded it. Knowing the rules matters less\nthan knowing when they don't apply."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:11:29]: We asked a bunch of people who had been at great research labs of the past. ",
+    "start_char_index": 85053,
+    "end_char_index": 85154,
+    "response_text": "When there's no pattern to match, find the people who lived through the\nclosest historical analogue. **Alan Kay, Bell Labs veterans** \u2014 not peers,\nelders. Altman's instinct here is right: go upstream to the source,\nnot sideways to contemporaries."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But there was not a ton of people that had in living memory how to actually do it. So we talked a lot to Alan Kay, we talked to a handful of other people and we got some advice from them about what made a really good research lab. And some of it was really good, some of it didn't translate as well to the current moment.\n\n",
+    "start_char_index": 85546,
+    "end_char_index": 85869,
+    "response_text": "When there's no pattern to match, find the people who lived through the\nclosest historical analogue. **Alan Kay, Bell Labs veterans** \u2014 not peers,\nelders. Altman's instinct here is right: go upstream to the source,\nnot sideways to contemporaries."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Eventually we figured out a kind of rhythm for making and then evaluating research bets. And far from perfect, obviously, but we did find a gradient that we could kind of progress along. ",
+    "start_char_index": 88277,
+    "end_char_index": 88464,
+    "response_text": "The honest version of \"we figured it out\": leaderboards worked,\n**external demos for eminent people** worked, fake deadlines didn't.\nThis is useful operational detail, not myth-making."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Through this process, we learned things like that idea of leaderboards that worked. We also learned the incredible power of external demos for an eminent person that the researchers really wanted to impress. And then we learned a bunch of things that didn't work, like fake deadlines.\n\n",
+    "start_char_index": 89024,
+    "end_char_index": 89310,
+    "response_text": "The honest version of \"we figured it out\": leaderboards worked,\n**external demos for eminent people** worked, fake deadlines didn't.\nThis is useful operational detail, not myth-making."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:12:50]: When I think back to those early days, I mostly feel like I was trying and failing to raise money. That's like my dominant memory, the early days of OpenAI. So much effort, so frustrating. ",
+    "start_char_index": 86631,
+    "end_char_index": 86845,
+    "response_text": "The gap between the public narrative (\"visionary lab, bet on AGI\")\nand the lived experience (\"**frustrating fundraising**\") is always wider\nthan people admit. Worth remembering when building anything ambitious."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:17:31]: The thing that was so interesting was like the mindset of writing to your kid. Like, you really can't hide behind anything. I really care what my kid's gonna think about me. ",
+    "start_char_index": 92047,
+    "end_char_index": 92246,
+    "response_text": "Accidental **accountability framework**. The audience forces honesty in\na way that journaling for yourself doesn't. Worth stealing \u2014 write notes\nto someone you actually care about impressing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Better do it differently next week. It was a very interesting, extremely interesting mental framework. ",
+    "start_char_index": 92298,
+    "end_char_index": 92401,
+    "response_text": "Accidental **accountability framework**. The audience forces honesty in\na way that journaling for yourself doesn't. Worth stealing \u2014 write notes\nto someone you actually care about impressing."
+  }
+]
