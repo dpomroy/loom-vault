@@ -1,0 +1,149 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "This is that we created the scientific Precariat. We created a world in which professors cannot afford to go against a consensus. ",
+    "start_char_index": 8431,
+    "end_char_index": 8561,
+    "response_text": "The scientific precariat thesis in one line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "When I hear the word consensus, I get very, very nervous because a consensus is usually an artificial agreement achieved through pressure. The Washington consensus is some sort of a thing where we're all going to go in a particular direction. And if you don't go in that direction, you don't have a job. ",
+    "start_char_index": 8774,
+    "end_char_index": 9078,
+    "response_text": "The Washington consensus framing makes this concrete \u2014 agree or lose your job."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Theoretical physics is the only profession to have lost free speech because of something called restricted data, where I am not allowed to put pen to paper to write down a physics equation. If in any way it affects nuclear weapons, well, try doing really good physics in a way that doesn't affect hadrons and nucleons. It's impossible. ",
+    "start_char_index": 12854,
+    "end_char_index": 13190,
+    "response_text": "Writing down a physics equation can be illegal if it touches nuclear weapons \u2014 and everything eventually touches hadrons and nucleons."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And between 1965 and 75, everything went wrong. And it's basically from the beginning of the Medicare act of 65 to a controversy over something called a course of study in 1975 that ushered in peer review and the control. But if you wanted to really pinpoint\n\n**Speaker B** [0:15:52]: it,\n\n**Speaker A** [0:15:55]: 69 to 71 is particularly brutal. ",
+    "start_char_index": 16976,
+    "end_char_index": 17324,
+    "response_text": "Medicare Act 1965 \u2192 peer review pressure; Mansfield Amendment 1969\u201371 \u2192 military blue-sky funding cut off from universities."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Peer review is a fake story that was retconned into science. You can look it up on Google, ngrams, put quote space, peer review space, close quote. And you'll notice that there's really no mention of it before 1965. And the reason for that is that the Medicare act made the government the major payer for medical procedures. ",
+    "start_char_index": 25542,
+    "end_char_index": 25867,
+    "response_text": "Google Ngrams confirms it \u2014 near-zero mentions before 1965. It emerged as a political compromise, not a scientific principle."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But anything that's inexhaustible and inexcludable, which is exactly the definition of science, can't be priced by a market unless you create an artificial market. So I can't tell you how dispiriting this is. ",
+    "start_char_index": 27264,
+    "end_char_index": 27473,
+    "response_text": "This is the clean rebuttal to the \"let private capital fund it\" argument."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My point was, and I tried to be careful, if you said, Eric, that sounds preposterous, because to be entirely honest, the concept of Los Alamos, which was published in 1944 by a journalist named Jack Raper in a Cleveland newspaper. He broke the story. Nothing happened because what he said was crazy. ",
+    "start_char_index": 49556,
+    "end_char_index": 49856,
+    "response_text": "The Jack Raper parallel is Weinstein's best rhetorical move here. Being the lone voice who turns out to be right looks identical \u2014 from the outside \u2014 to being the lone voice who's simply wrong."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You take the field in which Edward Teller and J. Robert Oppenheimer and Richard Feynman and Stanislav Ulam created the most terrifying weapons From SU cross U1 gauge theory, and you've made it safe. It is now safe to do physics with your geopolitical rivals. You can invite your friends from China to come and become graduate students in your department, and you will fill their heads with things about ads, cft that couldn't hurt a flaw, because there's no physics in it. ",
+    "start_char_index": 44661,
+    "end_char_index": 45134,
+    "response_text": "\"Safe\" here means physics has been redirected into territory that couldn't weaponise \u2014 you can invite Chinese graduate students in and fill their heads with AdS/CFT without any national security risk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I am on record as saying that the smartest man in the world today is Edward Witten. Brilliant. Unbelievable. The guy drove theoretical physics off the road and off a cliff 42 years ago. Nobody else is willing to say it. ",
+    "start_char_index": 42124,
+    "end_char_index": 42344,
+    "response_text": "The compliment and the indictment delivered in the same breath \u2014 that's the move. Weinstein is careful not to call Witten stupid; he's calling him a wrong genius, which is a harder charge to dismiss."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't think SU is relevant, but what I'm saying is, if you think about physics, think about boom, vroom, and zoom as an easy way to keep track of why this is our most terrifying and most amazing subject. Boom is weaponry, vroom is energy, and zoom is propulsion, computation, and all the cool stuff that we get to do. So if you want to think about it, you've been denied for, let's say the standard model got finalized more or less 53 years ago. For 53 years, you've been denied new boom, vroom, and zoom. ",
+    "start_char_index": 59595,
+    "end_char_index": 60103,
+    "response_text": "Reductive, but effective. Cuts through the abstraction and makes the **cost of stalled physics** legible to a non-specialist audience."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You need 12 nucleotides to code for four amino acids at the exact right place place in spike protein, and that's enough to shut down Earth. This is high leverage science. And my claim is, before we decide that what we want is, let's get back to kicking ass and taking names, let us at least pause and say, most people are ignorant of how much power is present with a little bit of scientific knowledge. ",
+    "start_char_index": 61244,
+    "end_char_index": 61647,
+    "response_text": "Twelve nucleotides, four amino acids, enough to shut down Earth \u2014 that's his concrete example. The point isn't about COVID specifically; it's that **scientific leverage is asymmetric and underappreciated** by almost everyone outside the field."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If it's happening, I've said that the leading candidate would be Renaissance Technologies on Long Island.\n\n",
+    "start_char_index": 47840,
+    "end_char_index": 47947,
+    "response_text": "His evidence is circumstantial but structurally interesting: hires only physicists and mathematicians, no market people, unusually close ties to Brookhaven National Lab, and Stony Brook producing world-class talent in exactly the relevant fields."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We only hire people in directly relevant subjects of physics, like particle theorists, like differential geometers, like machine learning experts. And we have a very strange thing that we have a very close relationship with the Brookhaven National Laboratory. And by the way, there's a middling university right next door who happens to be absolutely world class historically in the exact subjects that would be relevant to doing next level physics. ",
+    "start_char_index": 48204,
+    "end_char_index": 48654,
+    "response_text": "His evidence is circumstantial but structurally interesting: hires only physicists and mathematicians, no market people, unusually close ties to Brookhaven National Lab, and Stony Brook producing world-class talent in exactly the relevant fields."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:49:36]: I'm not saying that I know that that's true. ",
+    "start_char_index": 49486,
+    "end_char_index": 49556,
+    "response_text": "He's also careful to say he's not claiming it's true \u2014 he's doing the Jack Raper thing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We can't just have Ed Witten patting himself on the back saying, well, string theory is the only game in town. It's like 42 years later. ",
+    "start_char_index": 71235,
+    "end_char_index": 71372,
+    "response_text": "The establishment verdict on string theory, delivered without ceremony."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Okay, the trash can is also a corpus. Take all of the ideas that have been poo pooed and laughed at and call that the trash can corpus, the TC corpus. The AIs are going to start reading all of the things that our, quote, leading physicists have laughed at. Look out.\n\n",
+    "start_char_index": 76472,
+    "end_char_index": 76740,
+    "response_text": "The discarded corpus as the actual signal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [1:18:47]: China is going to have a private model and they're going to say, assume that the completely failed, the most failed theory in the history of modern physics, String theory and something called M theory and quantum gravity. Assume for the moment that it's a red herring meant to distract us. It's not Our leading theory. It hasn't been our leading theory for 42 years. The dog can't hunt. What was it meant to stop us from seeing?\n\n",
+    "start_char_index": 76833,
+    "end_char_index": 77288,
+    "response_text": "The adversarial AI framing."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so we know that it's wrong and nobody can figure out how to make it wrong. And that is what keeps us stuck here. ",
+    "start_char_index": 72790,
+    "end_char_index": 72907,
+    "response_text": "The GR trap in one line."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But my claim is that almost every civilization before it gets to using the profound propulsion game, which is these multi touch gestures first lets off a nuke and that we alerted whatever India is in this analogy, we're almost ready to come out and we're so pathetically unevolved that we are a danger to any other civilization. ",
+    "start_char_index": 84713,
+    "end_char_index": 85042,
+    "response_text": "The North Sentinel Island analogy extended to civilisational physics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If I say what I think, I can tell you which colleagues will not open their doors to me. ",
+    "start_char_index": 81605,
+    "end_char_index": 81693,
+    "response_text": "The social cost of heterodox physics, stated plainly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Now you're asking me the question of how many of the remaining doors would you like to close? ",
+    "start_char_index": 82005,
+    "end_char_index": 82099,
+    "response_text": "The social cost of heterodox physics, stated plainly."
+  }
+]

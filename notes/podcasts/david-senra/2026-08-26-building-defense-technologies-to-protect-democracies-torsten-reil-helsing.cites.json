@@ -1,0 +1,135 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:00:10]: I think there's a big change happening and you can already see it in Ukraine, obviously, where tanks are barely being used anymore. The same is true for artillery systems. If you get yourself into a tank, your survival rate is very short. ",
+    "start_char_index": 3858,
+    "end_char_index": 4122,
+    "response_text": "Reil's framing here is blunt and deliberate."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And those algorithms now are very robust. They work in daylight, at night, in the snow, even with deformed terrain, which obviously happens Quite a lot with shell impacts. So that technology already exists. ",
+    "start_char_index": 11576,
+    "end_char_index": 11783,
+    "response_text": "The GPS-jamming problem \u2014 which was a serious blocker for autonomous strike drones \u2014 is already solved."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you really want scaled drone usage, they have to fly autonomously. You want to have a human surveying them, looking at what they're doing and being on or in the loop. But the drones themselves need to be AI controlled and autonomous. It's the only way to get the true mass and it's the only way also to make it work pragmatically, because we won't be able to train thousands and thousands of drone operators. We need AI to control them.\n\n",
+    "start_char_index": 7896,
+    "end_char_index": 8337,
+    "response_text": "The bottleneck isn't hardware \u2014 it's the impossibility of training thousands of skilled operators at scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And back then, the defense of a country, of a democratic society, was grouped for banks in the same bucket as pornography and gambling and smoking, because it was seen as weapons. And weapons are always bad. And I empathize with the kind of gut feeling on this. It's just that when you think it through, obviously it doesn't make sense. ",
+    "start_char_index": 16102,
+    "end_char_index": 16439,
+    "response_text": "ESG-era banking logic put Helsing in the same risk bucket as vice industries \u2014 not because the reasoning held up, but because \"weapons are always bad\" is a reflexive heuristic."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [0:21:06]: It's just aggression that's missing. Exactly. It's strategic ambitions. You have to think about what you want to be. And it needs to be big. And then you need to be truly aggressive. And a lot of founders, I think in Europe have lost that aggression, but it's easy to find it again. ",
+    "start_char_index": 29253,
+    "end_char_index": 29561,
+    "response_text": "Reil's diagnosis of European tech stagnation \u2014 lack of ambition, not regulation or capital \u2014 is the kind of unfashionable take that's probably correct."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But because we had the 100 million, we thought, okay, well now we can take those risks and if the first two or three don't work, that we go for, we still have enough money left. And we felt it's the only way to build a defense company reasonably quickly. And so we applied for a big program of record for the Eurofighter electronic warfare upgrade. ",
+    "start_char_index": 33285,
+    "end_char_index": 33634,
+    "response_text": "Having the \u20ac100M buffer meant they could absorb the long timelines of government procurement without needing early revenue proof points \u2014 and they used that runway to punch far above their weight."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we managed to win that program of record together with our partner Saab against a lot of other consortia. And we were the dark horse, but we ended up winning it. ",
+    "start_char_index": 34263,
+    "end_char_index": 34429,
+    "response_text": "Having the \u20ac100M buffer meant they could absorb the long timelines of government procurement without needing early revenue proof points \u2014 and they used that runway to punch far above their weight."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And we'd been told by pilots, active pilots, that this is the kind of last bastion of air combat. Nothing will ever replace the intuition that a human has in the sky to read the situation, to have a feeling for how to engage, what types of weapons to use. And that turns out to be bullshit. Actually the AI is much, much better. ",
+    "start_char_index": 39808,
+    "end_char_index": 40137,
+    "response_text": "Pilots told Helsing that beyond-visual-range combat was the last domain where human intuition would reign. They were wrong \u2014 and Torsten has the Baltic Sea test data to prove it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One observation of what's happening at the moment, not just in defense AI, but AI in general, is that things happen faster than you think. Back in the old days, 10 years ago, everything was always five years away. That was always kind of the number that people use. It's about five years away. Whether it's a particular medical breakthrough or maybe a robotics breakthrough that's now all shrunk. The five years usually ended up being seven to 10 years, by the way. Same as true autonomous driving. It's now the exact opposite. When you think something is five years away, it's actually usually now two years away. ",
+    "start_char_index": 42215,
+    "end_char_index": 42830,
+    "response_text": "The old rule was \"five years\" that quietly became seven to ten. Autonomous driving is the canonical example. Now the compression is running the other way."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But you ideally also absorb a lot of the complexity of the hardware that usually would be these exquisite systems that legacy primes will make into your software so you can make the hardware simpler. That means that your sensors are simpler and you regain a lot of the accuracy through very good AI algorithms. It might also be that your manufacturing tolerances are a little bit bigger and you regain a lot of the control and accuracy again through software that might recalibrate the system as it goes. ",
+    "start_char_index": 53684,
+    "end_char_index": 54189,
+    "response_text": "Simpler sensors, wider manufacturing tolerances \u2014 the AI recalibrates and compensates in real time. The intelligence moves into software so the physical object can be cheap and repeatable."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And what a lot of people don't, I think appreciate is that these two are linked because it becomes much easier to move people out that are not a good fit for the company. If you know your hiring pipeline is so good that that position will be filled almost immediately, then it becomes kind of a low opportunity cost thing. ",
+    "start_char_index": 66923,
+    "end_char_index": 67246,
+    "response_text": "The two systems \u2014 hiring and firing \u2014 are load-bearing on each other. A weak pipeline is the hidden reason managers protect underperformers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And very often the argument, and many founders will be familiar this, very often the argument of a manager will be, yeah, but if I fire this person now, then we won't be able to hit our deadline because at least they're going to get the job done somehow. Maybe it's slower than they should, maybe they create cultural problems, they have an attitude issue, but at least eventually they'll get the job done and that's not good enough. ",
+    "start_char_index": 67555,
+    "end_char_index": 67989,
+    "response_text": "Slow delivery, attitude problems, cultural drag \u2014 managers tolerate all of it because the alternative feels worse. This is how mediocrity compounds silently."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We listen to the managers explain why they give their reports a certain rating and then the manager is held accountable to that rating. So we ask them, why did you give that person that kind of rating? And then we might say, well, that doesn't sound like a three, that sounds like a two or doesn't sound like a three, it sounds like a four. And that allows us to make sure that the calibration that people have of what is good performance, what does good look like, is the same across the company. ",
+    "start_char_index": 69005,
+    "end_char_index": 69503,
+    "response_text": "Calibration drift is the quiet killer in any review system. By forcing managers to justify ratings aloud, Helsing surfaces inconsistency and makes it hard to bury an underperformer with a generous score."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:01:22]: It's like one of the things you. You can tell if they don't try to impress. If you get a feeling they have deep knowledge of what they're talking about. And at the same Time, they're still curious and have high agency. That's kind of the combination I look for. And that combined to me is effortlessness. ",
+    "start_char_index": 75747,
+    "end_char_index": 76077,
+    "response_text": "The full definition: doesn't try to impress, has **deep knowledge**, and is still curious with high agency. All three together = effortlessness."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:02:58]: Not at Helsing, but three times at Natural Motion. And I still know the names, and it still really annoys me why I didn't read it early enough. In all three cases, there were so good at faking the effortlessness and so good at coming up with fake facts that I didn't read through it.\n\n",
+    "start_char_index": 77649,
+    "end_char_index": 77959,
+    "response_text": "His **only hiring failures** were people who gamed the exact signal he screens for."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I mean, the power law in talent is extreme. There are very few 10 out of 10 people, but they make. I mean, it's a cliche, but we see this every day. They make a disproportionate difference to the company. So it is worth trying to find these people and it is worth finding a way to give them a home in a company where they can really thrive. ",
+    "start_char_index": 78593,
+    "end_char_index": 78934,
+    "response_text": "Not a clich\u00e9 \u2014 he says they **see it every day**. Worth finding and giving them a home where they can thrive."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Another one that came out of it was the truth is in the field, it doesn't matter how much you claim that your system works in tests and government tests, et cetera. We found out it has to work in reality and in combat. And so the truth is in the field came out of that. ",
+    "start_char_index": 81820,
+    "end_char_index": 82090,
+    "response_text": "This became a **core company value**, not from a workshop prompt \u2014 from people who'd been to Ukraine and hadn't slept for 48 hours."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think a similar thing is also true for defense. It would be much harder for us to build Helsing if from the backgrounds had already been in defense companies. Just much harder. It's easier to be an outsider. ",
+    "start_char_index": 96397,
+    "end_char_index": 96611,
+    "response_text": "The **outsider advantage** is the common thread \u2014 biology, gaming, defence. Not being embedded in the peer group made it easier to ignore bad norms each time."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker C** [1:21:13]: Yeah, I think commentary is entirely worthless and it has no positive contribution. The only thing that it does is I think it drags some people down. So it has a net negative benefit. And it obviously is encouraged through the way the social platforms are incentivizing contributors. So you're incentivized if you comment and particularly if you comment negatively, but you're not incentivized to be a creator. ",
+    "start_char_index": 97536,
+    "end_char_index": 97972,
+    "response_text": "Social platforms **incentivise negative commentary** over creation. The result is net negative \u2014 and founders are underrepresented on those platforms partly because building is already satisfying."
+  }
+]

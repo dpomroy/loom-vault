@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "Over 60 billion in net profit. That is the most profitable core business quarter of any public company ever. ",
+    "start_char_index": 13994,
+    "end_char_index": 14103,
+    "response_text": "Nvidia posted over $60 billion in net profit \u2014 described as the most profitable core business quarter of any public company ever."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I do not believe that core systems of record like CRM are gonna get ripped and replaced with something vibe coded. I've been saying that for a long time. Enterprises want certainty. They have compliance. They want professionally managed software that's been running and debugged for years. ",
+    "start_char_index": 22568,
+    "end_char_index": 22858,
+    "response_text": "Sacks argued enterprises want certainty, compliance, and professionally managed software debugged over years \u2014 not DIY vibe-coded replacements."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So in other words, Benioff here is willing to risk disintermediation in order to ride this AI wave because he knows it's what the customer ultimately wants. You know, you don't want to go into Salesforce or any SaaS application to write your agents. You want to create agents in the AI program that you're using and you want those agents to be able to run across all of your SaaS platforms. ",
+    "start_char_index": 24163,
+    "end_char_index": 24554,
+    "response_text": "Rather than fighting to own the user relationship, Benioff is letting Claude be the front end \u2014 allowing agents to access Salesforce data and workflows from outside the product."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I talked to him this morning actually, and a point he brought up with me that I think is underestimated is that he says there's a lot of trap value in Salesforce, meaning we know it's got this incredibly broad, rich platform with tons of functionality. The average user is never going to find all those things, but the agent will. So think about all the cases where now the agent is going to go to the user and say, hey, I just saw that there are these actions you could take in Salesforce that seem to line up with what you're telling me to do. Do you want me to do this? And the user is going to say\n\n**Speaker A** [0:21:35]: yes, which then modify Salesforce as the system of record.\n\n",
+    "start_char_index": 25502,
+    "end_char_index": 26190,
+    "response_text": "Benioff's point: agents will surface Salesforce functionality that human users never found \u2014 proactively suggesting actions that align with what the user is trying to do."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think that if I had to say there's one takeaway from the news today is that I think simple extrapolations of the future based on these trends don't work out right. The simple extrapolation here was AI agents can code, therefore all software is going to zero. That was the simplistic Extrapolation. Now, what we're seeing is, no, actually there are certain systems of record that are extremely compatible and complementary to AI agents. And if they're positioned right by their founders, they can lean into this trend. ",
+    "start_char_index": 31957,
+    "end_char_index": 32481,
+    "response_text": "Sacks's broader point: simple trend extrapolations keep failing \u2014 certain systems of record are complementary to AI agents, not replaced by them, if their founders position correctly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so I think that's kind of how I view this, the real SaaS apocalypse. It's more of a vertical SaaS apocalypse, which is software that's designed for just one vertical, 100%. And that's where I think things get blown up.\n\n",
+    "start_char_index": 21375,
+    "end_char_index": 21599,
+    "response_text": "Freeberg's distinction: horizontal platforms like Salesforce survive because rebuilding them is a poor use of engineering time \u2014 the real AI disruption hits vertical SaaS, where the software is just a workflow with no deep system-of-record moat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So my theory and my argument on this is there is no action that Besson can take that's actually going to have a meaningful effect on the long end of the curve. We have fundamental fiscal spending problem with the federal government right now. ",
+    "start_char_index": 44777,
+    "end_char_index": 45020,
+    "response_text": "Freeberg's bluntest statement of the episode."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So you have the debt growing at 7% and you have GDP between 2% and 4%. So that's a recipe for disaster. ",
+    "start_char_index": 48363,
+    "end_char_index": 48467,
+    "response_text": "The core structural problem in two numbers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And for Brooks, Druck's note is coverage for Besant, and it's pointing responsibility back to Congress, back to the President to say, guys, we have to solve this deficit problem.\n\n",
+    "start_char_index": 46191,
+    "end_char_index": 46371,
+    "response_text": "The contrarian read on the Druckenmiller op-ed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because if you see yields, if you see the 30, you're at 6%, it is the beginning of a death spiral. It's not going to be immediate, okay, so don't freak out. But it is the beginning of some extreme pain. And that pain will last years. ",
+    "start_char_index": 50764,
+    "end_char_index": 50998,
+    "response_text": "Chamath's line in the sand."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Our only hope is AI, Right? Because only AI can create the exponential growth necessary to make our economy grow big enough. We can grow out. We can grow out of the problem.\n\n",
+    "start_char_index": 65597,
+    "end_char_index": 65772,
+    "response_text": "Sachs names the deus ex machina everyone is quietly counting on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:53:54]: The core root of inflation in this country, the core root of it is government spending. And the reason we are going to end up becoming a socialist country is because we aren't reining in the government spending and looking it in the mirror and saying, guys, this is idiotic. ",
+    "start_char_index": 60769,
+    "end_char_index": 61069,
+    "response_text": "Freeberg's thesis, stated plainly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [1:03:30]: I do think it's kind of the lip syncing of writing. As a writer, I find it offensive to let the system give your entire opinion as opposed to using it for research, which is totally fine. Use it for proofreading, totally fine. But to me it feels like I went to see Adele and she's lip syncing. ",
+    "start_char_index": 71833,
+    "end_char_index": 72152,
+    "response_text": "The lip-sync analogy captures something real about audience expectation. When you publish under your name, readers are buying *your* signal \u2014 not a smoothed-out AI approximation of it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the definition of is someone quote using AI is as nebulous as the rest of those, which is, am I using, quote, AI to improve my spelling, to improve my grammar, to create novel sentences from scratch, to create novel paragraphs from scratch? At the end of the day, if I give the AI a whole bunch of inputs, take the outputs and edit that output, am I quote using AI? ",
+    "start_char_index": 74334,
+    "end_char_index": 74704,
+    "response_text": "Sacks identifies the real problem: \"using AI\" is not a binary, and treating it as one produces bad heuristics. The question of where the human ends and the tool begins has always been fuzzy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think one of the fundamental issues is we treat AI as the standalone, simple kind of intelligence replacement system, and the heuristic is not accurate with respect to how humans actually use it and how it is, like all other tools, a magnification of human creativity, ingenuity and potential. ",
+    "start_char_index": 74713,
+    "end_char_index": 75009,
+    "response_text": "Sacks identifies the real problem: \"using AI\" is not a binary, and treating it as one produces bad heuristics. The question of where the human ends and the tool begins has always been fuzzy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It'll make me wonder if that is actually his perfect opinion and crisply his, because I think he's phoning it in and I just don't like people phoning it in. It's only 800 words. Write it yourself. ",
+    "start_char_index": 85865,
+    "end_char_index": 86062,
+    "response_text": "JCal's strongest point isn't about disclosure \u2014 it's about **effort and respect**. Eight hundred words from the greatest macro trader alive should cost him something."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And it's not because a lot of people are going to places like Montana and they are getting peptides printed for their particular cancer sequence and they are making their own neoantigens, putting it in their body and getting cured of their cancer. You can pay someone $50,000 to do this for you today. There's a lot of clinics that'll do it. And it's not a special FDA approved drug. ",
+    "start_char_index": 101030,
+    "end_char_index": 101414,
+    "response_text": "This is the buried lede. The therapy already exists, outside the FDA system, for ~$50k. Moderna's contribution is going through the regulatory gauntlet \u2014 not inventing the underlying process."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't think that this technique, which has been largely developed through several decades of iteration research and development, which was largely funded by NIH and other public funding dollars that has led to this incredible concept of neoantigen immunotherapy for cancer, which can eradicate or theoretically eliminate many different types of cancer, should now be patented, FDA approved and charged half a million dollars for people to get treated for this.\n\n",
+    "start_char_index": 101871,
+    "end_char_index": 102335,
+    "response_text": "Freeberg's core argument: decades of **publicly funded** NIH research generated the underlying concept, and a private company is now tollgating access to it. That's regulatory capture dressed up as innovation."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so this is one of those things where we have a very big fundamental question that we should all be asking, which is like, should we be giving the monopoly on cancer treatment to this company that went through this FDA process and filed a bunch of patents on certain techniques. But the general theory, the general thesis, the general therapeutic process is well described, well understood, generally understood, and should be available everywhere. And I think over the next couple of years we are going to see this cancer immunotherapy based system start to proliferate and you will see this happening overseas. ",
+    "start_char_index": 106200,
+    "end_char_index": 106816,
+    "response_text": "The general therapeutic process is \"well described, well understood\" and should proliferate freely. Freeberg expects it to \u2014 overseas, cheaply \u2014 within a few years regardless of Moderna's patents."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [1:33:47]: Just for people who are listening, who are normies. All of this cancer treatment requires early detection. ",
+    "start_char_index": 107221,
+    "end_char_index": 107353,
+    "response_text": "**Early detection** is the force multiplier the whole segment pivots on. Without it, every downstream therapy loses its edge \u2014 the treatments are remarkable but they're not rescue medicine."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "One was CAR T therapy where you take T cells out of your body and you use CRISPR or some other system to reprogram those T cells to go after. Remember that protein I described? So you actually program the T cells to go find a specific protein in your body and destroy it. So they go find the, the protein that's unique to a specific type of cancer cell and the T cells get put back in your body and they destroy it. ",
+    "start_char_index": 108044,
+    "end_char_index": 108460,
+    "response_text": "The **precision** here is the point \u2014 this isn't systemic chemo carpet-bombing; it's targeted assassination. That specificity is what makes CAR T genuinely different from prior generations of treatment."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "CAR T therapy costs a million dollars. ",
+    "start_char_index": 108475,
+    "end_char_index": 108514,
+    "response_text": "Buried as a throwaway line but it's the **critical caveat**. Incredible efficacy at a million dollars per patient is not a solved problem \u2014 it's a solved problem for the wealthy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And for people with blood cancers, where the cancer cells aren't clumped together in a tumor, but blood cancers, the cancer cells float around individually in the blood. And so by putting T cells in your blood, it's very easy, or it's much easier for the T cells to find the cancer cell, grab them, and destroy them. And so for blood cancers like multiple myeloma, the efficacy is incredible with CAR T therapies now. ",
+    "start_char_index": 108514,
+    "end_char_index": 108932,
+    "response_text": "The mechanism makes sense: **diffuse cancer cells** floating in blood are far easier targets for engineered T cells than a solid tumour. This explains why blood cancers are seeing the earliest wins."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is a new type of modality, this MRNA or neoantigen therapy. So there's all these new techniques that are being used to destroy cancer. And I think in aggregate, we should be very excited and optimistic about where this is headed.\n\n",
+    "start_char_index": 108966,
+    "end_char_index": 109202,
+    "response_text": "A reasonable conclusion given the evidence in this segment \u2014 **multiple independent modalities** converging at once is a different situation from any single breakthrough. The stack is what matters."
+  }
+]
