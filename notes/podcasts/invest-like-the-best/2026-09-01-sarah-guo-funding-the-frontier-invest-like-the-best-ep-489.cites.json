@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:11:33]: The belief is with recursive self improvement\n\n**Speaker E** [0:11:37]: of AI research models that can improve the models themselves.\n\n**Speaker D** [0:11:42]: We are a year, two years away\n\n**Speaker E** [0:11:45]: from some sort of exponential intelligence.\n\n**Speaker D** [0:11:49]: I think that belief is new within\n\n**Speaker E** [0:11:51]: the last 12 months for a lot of researchers. ",
+    "start_char_index": 17704,
+    "end_char_index": 18120,
+    "response_text": "This belief is new within the last 12 months for a lot of researchers."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:12:50]: I definitely think there's a large contingent\n\n**Speaker E** [0:12:52]: of researchers who would feel that one of two things is now true. What I do doesn't matter anyway because the model is going to do it. Or two, the only thing that matters is compute scale.\n\n**Speaker D** [0:13:02]: And both of those are somewhat disempowering.\n\n",
+    "start_char_index": 19135,
+    "end_char_index": 19494,
+    "response_text": "Both of those are somewhat disempowering."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't think it is a technology or capability or capitalism problem. I think it is a regulatory problem\n\n**Speaker E** [0:14:51]: and an alignment problem.\n\n**Speaker D** [0:14:52]: And I don't mean like AI alignment. I mean, if you want to build\n\n**Speaker E** [0:14:56]: data centers in New York, you need to convince the people of New York they should want data centers there or America should want data centers there.\n\n",
+    "start_char_index": 21769,
+    "end_char_index": 22193,
+    "response_text": "The bottleneck isn't technology or capitalism \u2014 it's regulatory and political alignment: convincing people that data centers and nuclear belong in their backyard."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:17:23]: And people are making large scale research\n\n**Speaker E** [0:17:27]: bets without any intuition for them or without any opinion on them. And I'm like it's not all going\n\n**Speaker D** [0:17:31]: to work and I may not be\n\n**Speaker E** [0:17:33]: any better at deciding but we want to get to that intuition. And I think not having a point of view on the business besides the pedigree of the person is dangerous.\n\n",
+    "start_char_index": 24948,
+    "end_char_index": 25385,
+    "response_text": "Sarah's concern is that investors are proxying judgment to pedigree rather than developing genuine technical intuition about the bet itself."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:21:26]: Nothing is true until it is shipped. This entire team believes that we are going to have general semi humanoid robots\n\n**Speaker E** [0:21:35]: doing things in people's homes. First and beta end of this year. That is not something that any of us believed.\n\n",
+    "start_char_index": 29888,
+    "end_char_index": 30170,
+    "response_text": "That is not something that any of us believed."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:24:23]: Other people, I think, are like, more even in their decision making. They're, like, thinking about it and thinking about it, and they climb to conviction versus I start there and then. I, like, work backwards. But I think a similarity between both\n\n**Speaker E** [0:24:37]: Mike and I is we'll start at\n\n**Speaker D** [0:24:40]: a point and explain what will move us. ",
+    "start_char_index": 33570,
+    "end_char_index": 33963,
+    "response_text": "The key similarity between Sarah and her partner Mike is they'll start at a point and explain what will move them."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you did restrict use of open source models in the United States, you'd\n\n**Speaker E** [0:37:27]: basically just restrict law abiding American businesses\n\n**Speaker D** [0:37:31]: and slow them down or move profits\n\n**Speaker E** [0:37:35]: different pockets, prevent certain uses of them\n\n**Speaker D** [0:37:38]: because the actual attackers or people who have adversarial uses of these things are\n\n**Speaker E** [0:37:45]: not affected by your restrictions.\n\n**Speaker D** [0:37:47]: You're restricting your own people. ",
+    "start_char_index": 50541,
+    "end_char_index": 51066,
+    "response_text": "Classic security policy error \u2014 restrictions impose cost only on the compliant. The adversarial actors route around. Guo states this cleanly and it's the strongest argument against open source crackdowns."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:39:41]: There is not a version of the\n\n**Speaker E** [0:39:43]: world where we rebuild our industrial base without automation. In the United States, if we don't\n\n**Speaker D** [0:39:49]: import people and our people are expensive\n\n**Speaker E** [0:39:52]: and we lack some of the skills, but want to produce a lot more goods and have a more resilient supply\n\n**Speaker B** [0:39:57]: chain, just doesn't add up.\n\n**Speaker D** [0:39:58]: Who's going to produce this stuff. People in the United States do not want to work and should not want to work for $13 an hour doing\n\n**Speaker E** [0:40:04]: a very inhuman job.\n\n",
+    "start_char_index": 53357,
+    "end_char_index": 53992,
+    "response_text": "The reindustrialisation argument collapses without AI and robotics \u2014 US labour costs make the maths impossible. Guo is blunt about this, which most politicians won't be."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:48:41]: The ability to take a point of\n\n**Speaker E** [0:48:44]: view that is not obvious in the market because the market or because of people's backgrounds, whatever reason, and then just suspend doubt and act with full belief until it's true or not. That's a great way to be a partner to somebody building a business.\n\n",
+    "start_char_index": 64723,
+    "end_char_index": 65062,
+    "response_text": "This is the actual definition of conviction investing, and it's rarer than it sounds. Most VCs hedge verbally while the founder needs someone fully in the tent."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:52:59]: And I feel like people spend so much of their investing energy thinking about versus I want to spend my energy figuring out if we're 1% of the way in, what is the next 99% of diffusion? ",
+    "start_char_index": 70163,
+    "end_char_index": 70374,
+    "response_text": "Sharp reframe \u2014 most investing energy in AI goes to lab strategy debates, which Guo explicitly calls out as a waste. Diffusion curve thinking is the **actually useful** frame for application-layer bets."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:46:38]: In pharma the debate is does it change with models?\n\n**Speaker E** [0:46:43]: I'm a strong yes.\n\n**Speaker D** [0:46:44]: Now we still have a question to solve on regulatory.\n\n**Speaker E** [0:46:48]: There's the speed of the physical world and safety is not something you can overcome easily.\n\n**Speaker D** [0:46:54]: But I think we should see a\n\n**Speaker E** [0:46:55]: massive acceleration in cures.\n\n",
+    "start_char_index": 61901,
+    "end_char_index": 62332,
+    "response_text": "Guo moved from sceptic to conviction on AI-in-biology based on **empirical** portfolio data \u2014 Chai Discovery closing $10M contracts with top-10 pharma. Conclusion-first investing from real signal, not narrative."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:53:40]: I'm hopeful that a year from now we see Jevons paradox in practice. As we have agents and products that do more of the mundane more effectively in all the domains of our lives. It should look like the transformation that\n\n**Speaker E** [0:53:56]: has happened in software engineering.\n\n",
+    "start_char_index": 70947,
+    "end_char_index": 71258,
+    "response_text": "Jevons paradox: cheaper resource \u2192 more consumption, not less. Guo expects AI efficiency gains to **expand** total demand for AI tasks rather than contract it. Software engineering is already showing this pattern in her portfolio."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Do you work less now that you are more productive with AI? Yeah, I work more. ",
+    "start_char_index": 72260,
+    "end_char_index": 72338,
+    "response_text": "The honest answer nobody wants to say out loud. AI as a productivity tool expands appetite, not leisure \u2014 more gets done so more gets attempted."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think there are so many people who are extraordinarily accomplished in Silicon Valley who care very little for pedigree. As soon as they have a conversation with you and they're like, maybe you can help me, or you have an interesting idea, or maybe I just think you're promising. And the dominant factor in their own willingness to invest in a relationship or a person is just their assessment of the idea and the person. ",
+    "start_char_index": 73644,
+    "end_char_index": 74068,
+    "response_text": "The dominant factor in their willingness to invest is **assessment of the idea and the person** \u2014 not where you went or who you know."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And the dominant factor in their own willingness to invest in a relationship or a person is just their assessment of the idea and the person. I think that's amazing. That is not how most ecosystems work. ",
+    "start_char_index": 73926,
+    "end_char_index": 74130,
+    "response_text": "Sarah flags this as **rare** \u2014 most ecosystems don't work this way."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You can take any task in any\n\n**Speaker E** [0:56:48]: job and just try to be great\n\n**Speaker D** [0:56:49]: at a task with mimicry and first principles thinking. ",
+    "start_char_index": 74566,
+    "end_char_index": 74730,
+    "response_text": "Her defence of hiring and being a young, inexperienced VC \u2014 you don't need domain authority to do the work well if you approach it with the right method."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:57:59]: But I think that's a beautiful thing because you don't need any particular advantage\n\n**Speaker E** [0:58:03]: to have an idea.\n\n**Speaker D** [0:58:04]: The fact that folks will evaluate that\n\n**Speaker E** [0:58:07]: and put faith in us. ",
+    "start_char_index": 75952,
+    "end_char_index": 76217,
+    "response_text": "The point is that **ideas are democratically accessible** \u2014 what matters is whether someone will evaluate yours on its merits."
+  }
+]

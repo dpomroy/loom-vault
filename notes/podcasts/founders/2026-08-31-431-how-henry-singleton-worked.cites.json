@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "He aggressively repurchased his stock, eventually buying over 90% of Teledyne shares. ",
+    "start_char_index": 4417,
+    "end_char_index": 4503,
+    "response_text": "The scale here is what matters."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In a Rare interview in 1979, Singleton said, After we acquired a number of other businesses, we reflected on our business. Our conclusion was that the key was cash flow. Our attitude towards cash generation and asset management came out of our own thinking. It is not copied. ",
+    "start_char_index": 8057,
+    "end_char_index": 8333,
+    "response_text": "First-principles thinking, not benchmarking."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Singleton said if anyone wants to follow Teledyne, they should get used to the fact that our quarterly earnings will jiggle. Our accounting is set to maximize cash flow, not reported earnings. ",
+    "start_char_index": 14094,
+    "end_char_index": 14287,
+    "response_text": "He invented his own internal metric \u2014 the \"Teledyne return\" \u2014 rather than optimise for Wall Street's scoreboard."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I don't reserve any day to day responsibilities for myself, so I don't get into any particular rut. I do not define my job in any rigid terms, but in terms of having the freedom to do whatever seems to be in the best interest of the company at any time. Singleton did not believe in detailed strategic plans, preferring instead to retain flexibility and keep his options open. ",
+    "start_char_index": 19095,
+    "end_char_index": 19472,
+    "response_text": "Singleton deliberately kept his schedule empty so he could redirect his attention wherever the biggest opportunity was."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "At the time, a number of Fortune 500 companies had recently announced large share repurchases. When asked about them, Singleton responded it if everyone's doing them, there must be Something wrong with them. ",
+    "start_char_index": 20073,
+    "end_char_index": 20281,
+    "response_text": "Said in 1997 about Fortune 500 buybacks \u2014 after he'd already done them better than anyone, a decade earlier."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Buffett said, Henry Singleton has the best operating and capital deployment record in American business. If one took the 100 top business school graduates and made a composite of their triumphs, their record would not be as good as Singleton's. ",
+    "start_char_index": 8414,
+    "end_char_index": 8663,
+    "response_text": "Buffett's framing cuts through any hedging."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We increase our bets on the men who seem to be performers. ",
+    "start_char_index": 36442,
+    "end_char_index": 36501,
+    "response_text": "The whole management philosophy in nine words. No\ncommittee, no process \u2014 just watch who delivers and\ndouble down on them."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We really wanted our companies to operate with considerable autonomy and this place a tremendous burden on our individual company presidents. Henry said, we depend on them. We have to trust them. We succeed or fail according to what they do. ",
+    "start_char_index": 46091,
+    "end_char_index": 46333,
+    "response_text": "Singleton wanted autonomy for subsidiary presidents\nbut was explicit: **he depended on them**, trusted them,\nand believed success or failure flowed from what they\ndid."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "There are tremendous values in the stock market, but in buying stocks, not entire companies. Buying companies tends to raise the purchase price too high. Don't be misled by the few shares trading at a low multiple of 6 or 7. If you try to acquire those companies, the multiple is more like 12 or 14. And their management will say, if you don't pay it, someone else will. And they're right, someone else does pay it. So it's no acquisitions for us while they're overpriced. ",
+    "start_char_index": 43785,
+    "end_char_index": 44258,
+    "response_text": "Singleton's logic is airtight: a company trading at\n6\u20137x becomes 12\u201314x the moment you try to acquire it,\nand management will always find another buyer at that\nprice. So **he stopped acquiring and bought minority\nstakes instead**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The important insight was that Singleton didn't want managers optimizing purely for accounting earnings. A division could report a million dollars in profit, but if it only produced $500,000 of cash, singleton considered the economic results substantially worse than the income statement suggested. So this is why Singleton invented the Teledyne return. Teledyne consisted of dozens of decentralized businesses. Singleton wanted to give the managers enormous operational autonomy while still having one number at headquarters that told him whether they were actually creating economic value. This metric became a key basis for evaluating and compensating Teledyne's business unit managers. ",
+    "start_char_index": 48928,
+    "end_char_index": 49618,
+    "response_text": "The **Teledyne return** (net income + cash flow \u00f7 2)\nexisted precisely to stop managers gaming accounting\nearnings while destroying real value. Singleton wanted\none number at HQ that cut through the noise."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He always tries to work out the best moves. And maybe he doesn't like to talk too much because when you're playing a game, you don't tell anyone else what your strategy is. ",
+    "start_char_index": 51740,
+    "end_char_index": 51913,
+    "response_text": "Claude Shannon \u2014 the father of information theory \u2014\non Singleton's silence. This isn't **introversion**,\nit's competitive discipline."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Munger said, Henry Singleton was the smartest single human being I've ever known in my entire life. But this is very fascinating. This is why I wanted to include this section because there was a distinction that Munger drew between raw intelligence and accumulated experience. And so he since he had an up close view of both Buffett and Singleton, he concluded Henry was a lot smarter. But Warren had thought about investments a lot longer. ",
+    "start_char_index": 55284,
+    "end_char_index": 55725,
+    "response_text": "Munger's distinction here is the real payload: Singleton\nhad **greater raw intelligence** than Buffett, but Buffett\nhad decades more compounding time on investments.\nMunger concluded time-in-domain partially offset the\nintelligence gap."
+  }
+]
