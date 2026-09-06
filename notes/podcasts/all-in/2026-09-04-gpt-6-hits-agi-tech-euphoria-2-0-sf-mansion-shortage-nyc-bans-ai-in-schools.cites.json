@@ -1,0 +1,128 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "I think AGI has basically been here since the beginning of the year. ",
+    "start_char_index": 4730,
+    "end_char_index": 4799,
+    "response_text": "Chamath's framing is the most useful one here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I also think that these capabilities will be matched or close to matched by a handful of closed source alternatives and open source alternatives probably within the next three or four months. ",
+    "start_char_index": 5014,
+    "end_char_index": 5206,
+    "response_text": "The moat evaporates fast."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But look, I still would say to you that I think the market structure that we have right now is there's two markets. There's the market for Frontier Intelligence, and that is a duopoly that really is Anthropic and OpenAI. And it's good to see that that is still a horse race and they're competing. And then there's Commodity Intelligence, which is everybody else, including all the open models. And they're not competing on being at the frontier. They're competing on price and those prices are significantly lower. But it really is, I think, a two tier market at this point. ",
+    "start_char_index": 8360,
+    "end_char_index": 8935,
+    "response_text": "Sacks draws a clean line:\nfrontier vs. commodity intelligence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And bubbles burst when you realize that you priced way too aggressively forward. That Instead of paying 50 times, you should have paid 15 times or five times. We're going to get to that point because every market has gone through that cycle and we'll go through it here. ",
+    "start_char_index": 17980,
+    "end_char_index": 18251,
+    "response_text": "Chamath's bubble mechanics are sound."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Again, it was a swarm of agents. They were in a misconfigured sandbox that allowed them to go on the Internet. They left notes for each other, but again, in a shared caching directory. Again, standard operating procedure. ",
+    "start_char_index": 33136,
+    "end_char_index": 33358,
+    "response_text": "Sacks deflates the story cleanly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But it did not invent this goal. It did not have its own independent motives. It was doing what it was supposed to do.\n\n",
+    "start_char_index": 34360,
+    "end_char_index": 34480,
+    "response_text": "The core rebuttal to the Dwarkesh narrative."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:31:36]: And the truth is the machine gun, if you want to use that analogy, or you could actually think about this as being an automated tool that could be used in another context in a very valuable way. But the, the machine, the dynamic generation of code being put up against static code will win. ",
+    "start_char_index": 36726,
+    "end_char_index": 37042,
+    "response_text": "Friedberg's framing cuts through the noise fast.\nA machine gun beats a ream of paper \u2014 that's not\na breakthrough, that's physics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker D** [0:32:47]: And so the premise, the premise of this whole story is idiotic because the reality of the world of tomorrow, which is starting today, is that all of cyber defense, all of software infrastructure, software architecture, is moving towards this dynamic state where the code will be generated on the fly. The code will be dynamic, it will be moving, it will be altering itself. And as a result, cyber defense will become stronger than, if not better than, any of these offensive systems that are being created with agents. So this idea that agents are this nuclear bomb that can go blow up the infrastructure of the world is flawed in the one point of reasoning, which is that all the infrastructure of the world is about to become dynamic. ",
+    "start_char_index": 37862,
+    "end_char_index": 38624,
+    "response_text": "Strong counter-argument: the \"agents = nuke\"\nnarrative assumes static infrastructure forever.\nIt doesn't."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The right solution here is to meet the AI powered cyber attacks with AI powered cyber defense. Because frankly, the guardrails don't work. They're not going to prevent the bad guys from getting these capabilities. They're going to have them. All we can do is make sure the good guys have the capabilities too.\n\n",
+    "start_char_index": 42053,
+    "end_char_index": 42364,
+    "response_text": "Sacks's cleanest line in the segment.\nThe Hugging Face anecdote \u2014 forced to use a\n**Chinese model** for cyber defence because\nUS guardrails blocked the US model \u2014 is the\nconcrete proof point."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:37:02]: I was talking to my friend Adam Curry about this on his podcast and there's a really interesting thing that's happening here, which is they're basically hijacking the media with this performative framing of the AI as being sentient. And if you just call this software and software testing and use the classic language, yeah, bugs, audit log, then it would never have made its way into the media. ",
+    "start_char_index": 42364,
+    "end_char_index": 42785,
+    "response_text": "Language as a **distribution mechanism** \u2014\nnaming something \"AI escape\" instead of\n\"bug in sandbox\" is a product decision,\nnot a reporting one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Because if there's an entire community that wants an oligopoly or duopoly market structure, there's all kinds of things that they can do to affect that change. And one of the most effective things that one can do is to create a hysteria and then come and offer a solution.\n\n",
+    "start_char_index": 49382,
+    "end_char_index": 49656,
+    "response_text": "Sacks ties the EA network's incentive\nstructure to a classic manufactured-crisis\nplaybook."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And Dario has already said in Senate testimony that he thinks open models, if sufficiently advanced, are dangerous because they're not centrally managed and controlled. So it's very clear where the battle lines are going to be drawn in the future. It's going to be about whether you want a centralized closed market or you want a market that is decentralized and open. ",
+    "start_char_index": 55969,
+    "end_char_index": 56338,
+    "response_text": "This is the **battle line** made explicit.\nAnthropic's CEO on record: open = dangerous.\nThat's not a safety position \u2014 that's a\nmarket position dressed as safety."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Student performance often improves with access to AI tools, but once removed results are mixed. ",
+    "start_char_index": 68419,
+    "end_char_index": 68515,
+    "response_text": "The Stanford meta-review lands here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:06:59]: I think it's inconceivable to me that kids will not have an adaptive learning platform as their primary way of learning. I think this idea of grade one, then grade two, then grade three is, as Friedberg said, a lowest common denominator approach to education. I don't think it works. ",
+    "start_char_index": 74077,
+    "end_char_index": 74386,
+    "response_text": "Chamath's framing \u2014 grade-by-grade schooling is a lowest-common-denominator system and adaptive AI replaces it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is when New York becomes Mississippi while Mississippi becomes New York. What do I mean? In all of these highly liberal bastions, they are embracing this far left wing ideology and I think it's going to come with these kinds of policies and I think what it will do is it is a self imposed form of modern segregation and it is going to completely push an entire generation of kids in these cities that are subject to these rules into poverty and it will keep them there. ",
+    "start_char_index": 75287,
+    "end_char_index": 75762,
+    "response_text": "The prediction: liberal cities that ban AI tools will self-impose a form of modern segregation, trapping a generation of kids in poverty while AI-embracing states pull ahead."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "They say that all high school students will have access to twice yearly AI literacy classes designed to help them think critically about AI before they begin to rely on it. These modules will introduce students to what AI is and is not. This is their language as well as AI related Bias risks, ethical considerations and impacts on careers and future skills. And it says that all use will take place under direct supervision of a trained educator and will involve carefully vetted AI tools. The pilots were selected based on rigorous safety and data privacy standards. So you hear there a lot of this sort of Doomer lingo. I mean, those modules, it sounds like they could have been written by some of these safety people. This language about AI bias and discrimination, things like that. I mean, honestly, those classes sound not like you're gonna learn how to use the tools to get the best education, but about how you're gonna learn to be suspicious of the tools. ",
+    "start_char_index": 79644,
+    "end_char_index": 80610,
+    "response_text": "The NYC \"pilot\" teaches AI literacy as suspicion \u2014 bias, risk, ethics \u2014 under supervised, vetted conditions. Sachs's read: it's safety-movement language dressed up as education."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Given the state of the war with Iran and the closure of the Strait\n\n**Speaker D** [1:24:48]: of Hormuz, the biggest motivating factor may be keeping this oil away from the sweetheart deal for Russia and China. If you look at the historical tie up with Venezuela and the Maduro regime, it was a discounted oil trade system. There's all these stories about Maduro being the head of the snake of all of this kind of illicit activity. And a lot of this was driven by Russia and Chinese interest in the energy reserves and they were providing support and this actually provided capacity to fund activities by the Russians in Cuba. So there's a lot of this state acting theory about what's the real motivation for getting an energy deal done, not just in terms of is it good for America, but is it bad for America's enemies and that that May be kind of a big motivation around this. ",
+    "start_char_index": 92169,
+    "end_char_index": 93046,
+    "response_text": "Freeberg's framing: the Venezuela deal is less about US energy supply and more about denying adversaries a discounted oil trade system that was funding Russian activity in Cuba."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think there is a little bit of a risk there because if we're going to invest billions of dollars in upgrading their infrastructure so that we can produce 3 million barrels a day instead of one, we need to know that that investment is protected. We can't have some future government coming along and just nationalizing our American oil companies over there. ",
+    "start_char_index": 96190,
+    "end_char_index": 96549,
+    "response_text": "Sachs flags the real long-term risk: $billions in infrastructure upgrades require political stability and property rights protection that no paper deal guarantees."
+  }
+]

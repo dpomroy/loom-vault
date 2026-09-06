@@ -1,0 +1,86 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "So he says a consecutive series of great actions is never the result of chance and luck. It is always the product of planning and genius.\n\n",
+    "start_char_index": 7052,
+    "end_char_index": 7191,
+    "response_text": "Napoleon's core thesis on achievement."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "He says, luck is the ability to exploit accidents. The vulgar would call this luck, but in fact it is the characteristic of genius. ",
+    "start_char_index": 7375,
+    "end_char_index": 7507,
+    "response_text": "Napoleon's redefinition of luck \u2014 not randomness, but **responsiveness**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And one of them is, take a lot of time planning what you're going to do. Be excessively thorough.\n\nBut once you've made your decision, no hesitation. He talks about this over and over again. He says, hesitation is fatal. Once an action is begun, it must be followed through with the utmost exertion of the will.\n\n",
+    "start_char_index": 7984,
+    "end_char_index": 8297,
+    "response_text": "The host notes Napoleon held two things simultaneously: excessive thoroughness in planning, then **zero hesitation** after the decision is made."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he says, history I conquered rather than studied.\n\nThat is to say, I wanted from it and retained of it only what could add to my ideas. I spurned what was of no use, and I seized upon certain conclusions that pleased me. It was a prompt for his own thinking, not an instruction manual. ",
+    "start_char_index": 28131,
+    "end_char_index": 28421,
+    "response_text": "The host calls this the right way to study history \u2014 a **prompt for thinking**, not an instruction manual."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing. That may give him some added opportunity.\n\nThe less clever man, by neglecting one thing, sometimes misses everything. ",
+    "start_char_index": 24551,
+    "end_char_index": 24775,
+    "response_text": "The host maps this directly to LBJ's maxim \u2014 \"if you do everything, you will win.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then the last thing from the introduction is Napoleon's unwavering belief in the great individual. He will say this over and over again. In fact, one of my favorite lines in the book, he says later, it's something like in war, men are nothing, one man is everything. So he says, without great men, we have only mediocre men.\n\nAnd if there had never been anything but mediocre men, we would still be half apes. ",
+    "start_char_index": 11296,
+    "end_char_index": 11710,
+    "response_text": "This is Napoleon's unwavering belief in the **great individual** \u2014 a thread the host says runs through the entire book, including the later line \"in war, men are nothing, one man is everything.\""
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Death is nothing. But to live defeated and without glory is to die every day.\n\n",
+    "start_char_index": 50477,
+    "end_char_index": 50556,
+    "response_text": "The most quotable line in the excerpt.\nNapoleon's relationship with **fear** was\ninverted \u2014 not death, but mediocrity.\nDirectly applicable to the \"quality over\nspeed\" instinct: half-measures are the\nreal risk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Once I have made up my mind, everything is forgotten except what leads to success. ",
+    "start_char_index": 54585,
+    "end_char_index": 54668,
+    "response_text": "This is the **decision lock** principle.\nPre-decision: paranoid. Post-decision:\ntunnel vision. Most people do the opposite \u2014\ndecide quickly, then second-guess forever.\nNapoleon's sequence is the right one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And he goes thus, I never was truly my own master, but I was always ruled by my circumstances. This is so true that when at the beginning of my reign, my true friends and most enthusiastic champions asked me where I was headed, I always answered that I had not the least idea. This astonished and possibly annoyed them, and yet I was telling them the truth. The fact was that I was not master of my actions because I was so insane as to attempt to bend events to conform to my policies.\n\nOn the contrary, I bent my policies to accord with the unforeseen shape of the events. ",
+    "start_char_index": 55933,
+    "end_char_index": 56508,
+    "response_text": "Surprising **humility** from history's\nmost self-confident man. He wasn't following\na grand plan \u2014 he was adapting faster than\nanyone else. The lesson: rigid strategy is\na liability; adaptive execution is the edge."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Napoleon did not delegate the meaning of his actions to outsiders. ",
+    "start_char_index": 64016,
+    "end_char_index": 64083,
+    "response_text": "Six words that should be pinned above\nevery founder's desk. If you don't **own\nyour narrative**, someone else will write\nit for you \u2014 and they'll get it wrong.\nRelevant to Loom's own positioning."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If you wage war, do it energetically and with severity. This is the only way to make it shorter and consequently less inhuman. ",
+    "start_char_index": 46374,
+    "end_char_index": 46501,
+    "response_text": "Contrarian but correct. **Prolonged half-effort**\ncauses more damage than a decisive, concentrated\npush. Applies directly to any product launch or\ncompetitive move \u2014 hesitation extends the pain,\nit doesn't reduce it."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Conquest made me what I am.\n\nConquest alone can keep me there. ",
+    "start_char_index": 57018,
+    "end_char_index": 57081,
+    "response_text": "The **compounding trap** of success \u2014 you\ncan't switch modes once winning becomes\nyour identity. Napoleon understood this\nwas both his engine and his vulnerability.\nThe book's deepest warning in nine words."
+  }
+]
