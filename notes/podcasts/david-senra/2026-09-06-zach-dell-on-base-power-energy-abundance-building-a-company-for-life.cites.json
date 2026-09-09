@@ -1,0 +1,142 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "There's a bunch of different ways to generate energy and then you have to move it, right? And poles and wires move energy through space, and batteries move energy through time. ",
+    "start_char_index": 11268,
+    "end_char_index": 11445,
+    "response_text": "The cleanest framing in the whole excerpt. One sentence that explains exactly why batteries are the unlock \u2014 not more generation, not more wires, just temporal arbitrage of existing supply."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So with our current product set today focused on battery storage, we're not making more electricity, we're just using it more efficiently to drive the cost down.\n\n",
+    "start_char_index": 12184,
+    "end_char_index": 12347,
+    "response_text": "This deflates a common misconception fast. Base isn't a generation play \u2014 it's an optimisation play on infrastructure that's already massively overbuilt for peak demand."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But if I show up and say, I don't sell batteries, I sell electricity, and we're going to install this battery on your home. When the grid's up and running, we use it. As a result, you get cheap electricity. When the grid goes down, you use it. And because of our different business model, you pay 1 20th or even 1 40th of what you'd pay to own it outright, then I can win. ",
+    "start_char_index": 24228,
+    "end_char_index": 24601,
+    "response_text": "The counter-position thesis in one sentence. The business model is the moat \u2014 not the product. Incumbents can copy hardware; they can't easily copy a model that cannibalises their own revenue stream."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then I start getting really excited because I'm like, oh my God, if you're going to take on an incumbent, my view is the best way to do it is to have a counter position business model. Because if I showed up and said, I have, you know, the best home battery on the market, the best home generator on the market, and I'm going to sell it to you for 10% below the big guys. Your margin is my opportunity, right? Like these, these big guys are going to compete on price. They're going to, first they're going to copy my product, it was better. Then they're going to drop their price. They're going to run me out of business. ",
+    "start_char_index": 23602,
+    "end_char_index": 24228,
+    "response_text": "Sharp competitive logic. Attacking on price alone is a dead end against incumbents with distribution. The only durable entry is a **structurally different model** they'd have to self-destruct to match."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So the asset ownership model is not because, you know, we're greedy or we, we really just like want to own things. It's because it's a way to deliver the best product to the customer and that's all that matters.\n\n",
+    "start_char_index": 31092,
+    "end_char_index": 31305,
+    "response_text": "Cuts through any cynicism about the ownership model. Retaining the asset isn't extractive \u2014 it's the **only way to actually arbitrage wholesale markets** on behalf of someone who has no trading desk."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:03:40]: I mean, the way to think about it is like over the last 20 years, electricity demand has grown at roughly a 2% compounded annual growth rate. And, you know, we think it'll go to, you know, somewhere on the order of 10%, which is obviously a 5x, which on a base as large as energy is, is really, really, really big.\n\n",
+    "start_char_index": 7722,
+    "end_char_index": 8063,
+    "response_text": "The demand thesis in a single number. A **5x growth rate** on a base as large as national energy is the kind of tailwind that makes the market-size question irrelevant \u2014 you just need to be well-positioned early."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:32:25]: It's only important if you're playing a cost focused game, right? Like it's not vertical integration because it's fun or because it's cool. It's because we're trying to compete on cost and vertical integration is a great strategy to win on cost. ",
+    "start_char_index": 44553,
+    "end_char_index": 44824,
+    "response_text": "Clean, unsentimental reasoning."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Electricity is a commodity. The best form of commodity is the cheapest one. And if you're going to deliver that, you got to vertically integrate. ",
+    "start_char_index": 44831,
+    "end_char_index": 44977,
+    "response_text": "Clean, unsentimental reasoning."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:40:29]: I'm just the kind of person that has to write clearly to think clearly. ",
+    "start_char_index": 55437,
+    "end_char_index": 55534,
+    "response_text": "Writing as a **thinking tool**, not communication tool."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I just can't think clearly if I don't write clearly. And so I needed the memo for myself. ",
+    "start_char_index": 55728,
+    "end_char_index": 55822,
+    "response_text": "Writing as a **thinking tool**, not communication tool."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I have the red notebook, which is in the business, and I have my black notebook, which is on the business. And the red notebook I'm carrying around in the office of meetings. And the black notebook is for at home. And I'm trying to strategize and wait,\n\n**Speaker A** [0:41:01]: explain the job in and on.\n\n",
+    "start_char_index": 56005,
+    "end_char_index": 56312,
+    "response_text": "Two physical objects enforcing a **cognitive mode switch**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:41:02]: So I think it's a concept of working in the business. Working on the business. Right. And working in the business is I'm blocking and tackling and solving problems that are blocking us today. And I'm trying to figure out personnel problems and product problems and acute issues that are near term. And then working on the business is thinking six months out, 12 months out, and kind of strategic war gaming and chess playing.\n\n",
+    "start_char_index": 56312,
+    "end_char_index": 56764,
+    "response_text": "This is the **clearest articulation** of the in/on distinction I've seen."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so there's a Turtle on the desk of the head of the supply chain and there's a team of people that are all working on solving that problem. And there's a meeting every single day and there's an email that goes out every week to the entire company to updatesasepowercompany.com that was a hot potato update. And it's like, hey, this is the constraint in the business right now. This is what we're doing to resolve the constraint. These are the next steps to get the thing Resolved. ",
+    "start_char_index": 64097,
+    "end_char_index": 64581,
+    "response_text": "The Turtle is a **constraint-visibility system** with teeth."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So if you measure something that's not useful, you're going to end up going off in directions that are not actually moving you forward. And so the metrics have to be super specific. They have to be oriented towards the North Stars, and they have to be very visible and readable. And that's been a powerful tool to get everyone focused on the right things. ",
+    "start_char_index": 66610,
+    "end_char_index": 66966,
+    "response_text": "Metrics discipline \u2014 the **dashboards must earn their place**."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:56:29]: Mostly this maniacal focus on critical path and resolving constraints. And I've also learned a lot of this from Antonio Gracias, who's on my board and has worked very closely with Elon for decades. The first year or two of working with Antonio, basically every conversation I had with him and still to this day, this is the main focus of all of our conversations. Every conversation was the same. Hey, Antonio, how's it going? Good, how are you? What's up, Zach? What's your constraint? What's the constraint of the business? And I just answer the question and that's all we would talk about. ",
+    "start_char_index": 76668,
+    "end_char_index": 77286,
+    "response_text": "The Elon-lineage discipline distilled to one question, asked on repeat."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's kind of like a cope, if you will, to talk about the other stuff. Because it's like, oh, yes, there's this constraint, but like there's all this other stuff going on. It's like, no, no, focus on the constraint. ",
+    "start_char_index": 80288,
+    "end_char_index": 80503,
+    "response_text": "Talking about adjacent opportunities when you have an unresolved constraint is avoidance behaviour dressed up as strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "This is like, write clearly to think clearly. It's like, and my team, you know, when I have a good idea, like I write it down first and I put it in front of them, like, hey, I wrote this thing. What do you think? And it's like, oh, I disagree with this, I disagree with that. Then we debate the writing, right? It's like, that's why Every night I sit down with this notebook and I stare at it, and I kind of forced myself to write stuff because it just allows you to gather your thoughts. ",
+    "start_char_index": 82436,
+    "end_char_index": 82925,
+    "response_text": "The notebook as a thinking tool, not a record-keeping one."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We could go buy lithium mine and start refining lithium and, you know, make our own cells and all the way down to mining. Sure, you could, right?\n\n**Speaker A** [1:09:57]: I mean, call Travis.\n\n**Speaker B** [1:09:58]: Call Travis. We could do that. But I think it's how far do we want to take in and win? Right? And over time, you know, there's kind of like diminishing, but not to zero. Maybe plateauing or asymptoting returns to a certain level of vertical integration. And then once you reach a certain scale, it makes sense to vertically integrate further and then further and then further. ",
+    "start_char_index": 94705,
+    "end_char_index": 95301,
+    "response_text": "Vertical integration has no natural ceiling \u2014 only a current scale ceiling."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [1:10:44]: I was going to say the way\n\n**Speaker B** [1:10:45]: you are, of course, but this is a multi decade, 50 year journey that we're on. And in year three, it doesn't make sense for me to spend any of my energy and brain power thinking about making cells. Right. In year 30, it almost certainly will okay.\n\n",
+    "start_char_index": 95844,
+    "end_char_index": 96171,
+    "response_text": "Year three thinking and year thirty thinking are categorically different."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:12:03]: It's what are you solving for? Are you solving for the mission? Are you solving for a paycheck? I think you could probably guess based on where I come from that I'm not solving for a paycheck, right? And the way I talk about the business and the way we act and the way the business is run, we're here to achieve a mission. That mission is kind of never ending, right? Human prosperity, energy abundance, affordable, reliable power. ",
+    "start_char_index": 97693,
+    "end_char_index": 98150,
+    "response_text": "Mission orientation is the only thing that makes a permanent company coherent."
+  }
+]

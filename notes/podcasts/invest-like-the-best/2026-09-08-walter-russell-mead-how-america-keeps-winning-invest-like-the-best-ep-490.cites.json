@@ -1,0 +1,121 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "It's this odd picture of a dynamic country in a collapsing world system. ",
+    "start_char_index": 7724,
+    "end_char_index": 7797,
+    "response_text": "The sharpest line in the excerpt."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:07:10]: The Donald Trump show is the most compelling entertainment, infotainment spectacle that humanity has ever seen. Since the dawn of time, no living human being has occupied the amount of bandwidth of the human race that Donald Trump does. ",
+    "start_char_index": 10954,
+    "end_char_index": 11216,
+    "response_text": "Mead frames Trump not as a politician but as a **bandwidth monopolist** \u2014 no single living person has consumed as much of humanity's collective attention."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In some ways, I think President Clinton first discovered that shame only matters if you let it. Shame is an emotion that exists in other people's minds. A lot of people thought when the Monica Lewinsky thing came out, he would have no choice but to resign. This was so overwhelming, so dreadful. He basically realized, no, if you just keep putting one foot in front of the other, you just pass through, the dogs will bark, but the caravan will move on. Trump has deployed that concept on an industrial scale.\n\n",
+    "start_char_index": 10317,
+    "end_char_index": 10827,
+    "response_text": "The argument: Clinton discovered shame only exists in *other people's* minds. Trump industrialised the insight \u2014 just keep moving, the caravan moves on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "From the time of Louis XIV right up until now, you could sort of argue the dominant theme of Global power politics has been this rise of this English speaking, maritime, commercial liberal order. And then it's being contested successively by a series of great power continental states. France under Louis XIV, again with Napoleon, Germany, Prussian World War I and then World War II, the Soviet Union. ",
+    "start_char_index": 14461,
+    "end_char_index": 14863,
+    "response_text": "The same contest \u2014 open maritime power vs centralised continental power \u2014 has repeated through France, Germany, the Soviets, and now China."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And that these contests have been incredibly difficult. There have been moments in every case where the technocratic centralized land power looked like it was just walking away. And the ridiculous, confused commercial English speaking maritime alliance was muddle lost. Crazy. And yet somehow in the end the hobbits keep winning. ",
+    "start_char_index": 14863,
+    "end_char_index": 15193,
+    "response_text": "Every time the centralised technocratic land power looked like it was walking away, the \"ridiculous, confused\" maritime alliance muddled through."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "If our AI companies, if our tech companies can only benefit from the internal American market, that's actually not enough to generate the revenue and growth that they need even to stay technologically equal, say, to China, much less be ahead and be super profitable. ",
+    "start_char_index": 26748,
+    "end_char_index": 27015,
+    "response_text": "Isolationism isn't just a foreign policy failure \u2014 it's a **commercial one**. Cutting off global markets kneecaps the tech lead America is currently banking on."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "A new technology just doesn't appear like an angel and grant wishes everywhere. You have to think really hard about how to make it work. ",
+    "start_char_index": 35450,
+    "end_char_index": 35587,
+    "response_text": "Mead's framing here."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Tech is actually the locus of international great power, competition and China's attempt to build a technosphere that can dominate the American technosphere. To American tech companies, this is really critical to your business, but also to the American state, American government. It's critical to power and independence much I think, to the surprise of both the tech world and the political world, they've been driven in on each other. ",
+    "start_char_index": 42792,
+    "end_char_index": 43229,
+    "response_text": "To American tech companies this is critical to their business, and to the American state it's critical to power \u2014 much to the surprise of both worlds, they've been driven in on each other."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I think increasingly companies are starting to realize that they need their employees to be patriotic. That is, your employees need to think it's an evil sin to sell IP to China. Your coworkers will rat you out in a heartbeat if they think you're doing something like that. ",
+    "start_char_index": 44534,
+    "end_char_index": 44812,
+    "response_text": "Increasingly, companies are starting to realise they need their employees to be **patriotic** in this specific sense."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think the Industrial revolution forced societies to become similar to each other. Because if you're going to have big manufacturing plants, big infrastructure, trains, highways, airports, all of this, there are certain things you just have to do institutionally and organizationally that tend to kind of force you toward what we would think of as a European Western way of life and politics. The information revolution enables countries to use their own cultures, languages and so on as platforms. ",
+    "start_char_index": 48053,
+    "end_char_index": 48553,
+    "response_text": "The industrial logic demanded institutional convergence toward a Western model; the information revolution reverses that pressure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I talked to people who said that they don't treat bullet wounds anymore, it's all drones. The Ukraine war is no longer a battalion over here shooting at a battalion over there. With these drones, you have this sort of gray kill zone, gray zone where at most you'd have a couple of soldiers together. ",
+    "start_char_index": 53228,
+    "end_char_index": 53528,
+    "response_text": "The Ukraine war is no longer battalions shooting at battalions \u2014 drones have created a grey kill zone where at most you'd have a couple of soldiers together."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And they were the balancing group, I would say, in American society today, all three of those classes are in total disarray. And yet we are facing a whole series of very serious changes, perplexities. What do we do about AI just being one of many. We're not organized to answer these in the old ways. So we are really out at sea. ",
+    "start_char_index": 59452,
+    "end_char_index": 59782,
+    "response_text": "The organised working class, the regulated business class, and the expert technocrat class \u2014 the three groups that balanced post-WWII America \u2014 have all collapsed as coherent forces, leaving the country structurally unequipped to answer what to do about AI or anything else."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Automating your foreign policy decision making process increases deterrence. And so we've turned that over to the AI. And if the AI thinks you're doing this, wham. And anything less than that is no, I'm leaving a human decision point because I might decide not to do it. ",
+    "start_char_index": 71232,
+    "end_char_index": 71503,
+    "response_text": "The logic is clean: credible deterrence requires certainty,\nand humans introduce doubt. An AI that *will* respond\nis more threatening than a human who *might*."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And are we really willing to have the Doomsday Machine decide whether we're going to go to war or use nuclear weapons or something like that. ",
+    "start_char_index": 71595,
+    "end_char_index": 71737,
+    "response_text": "Mead lands on the core tension: full automation maximises\ndeterrence credibility but removes human override."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "My friend Ben Sasse, who was diagnosed with terminal pancreatic cancer, I mean, he's still in a very bad situation, but a drug that didn't exist a year ago is keeping him not just breathing, but interacting with people and doing things. It is a stay of execution. ",
+    "start_char_index": 72171,
+    "end_char_index": 72435,
+    "response_text": "Mead uses Ben Sasse's terminal pancreatic cancer diagnosis\nas a concrete case \u2014 not a cure, but a meaningful extension\nof quality life from a drug that simply didn't exist yet."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And I also believe that we're going to be seeing a cost revolution in healthcare that people will have 50 years from now better healthcare and cheaper healthcare than anybody has today. I think this means that things like the federal deficit due to entitlement programs are actually solvable, that we're going to have Medicare is going to be less of a drag and the seniors are going to get better care. ",
+    "start_char_index": 72603,
+    "end_char_index": 73006,
+    "response_text": "Mead extends this to fiscal policy: cheaper, better healthcare\nmeans Medicare becomes less of a structural drag,\nmaking entitlement deficits more tractable than they look now."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So I think many of the problems that are driving us really crazy right now are actually amenable to solution and the solutions are appearing at a fast rate and that our biggest problem is that this cornucopia of wealth that the information revolution unlocks, the stuff is coming out of this cornucopia so fast, we just don't know how to manage it. ",
+    "start_char_index": 73006,
+    "end_char_index": 73355,
+    "response_text": "Mead frames the bottleneck as absorptive capacity,\nnot innovation \u2014 the problem isn't generating breakthroughs,\nit's institutions and society keeping pace with them."
+  }
+]
