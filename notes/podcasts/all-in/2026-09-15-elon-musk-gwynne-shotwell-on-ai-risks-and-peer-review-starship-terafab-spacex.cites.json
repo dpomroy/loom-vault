@@ -1,0 +1,93 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "We definitely want to move from the older technology to the newer technology. If we don't obsolete our own products and services, someone's going to find a way to obsolete them for us. ",
+    "start_char_index": 20753,
+    "end_char_index": 20938,
+    "response_text": "The self-obsolescence framing is the sharpest thing in this excerpt. Most companies protect their cash cow; SpaceX actively kills theirs first."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "The real estate in space is infinite.\n\n**Speaker C** [0:20:06]: It's free.\n\n**Speaker B** [0:20:08]: It's free. You don't have to pay for it. The cooling is there. The radiator looks at the deep space. It's the coldest thing ever out there. So free cooling the sun. ",
+    "start_char_index": 25299,
+    "end_char_index": 25565,
+    "response_text": "Paired with free cooling via deep-space radiators and near-constant solar exposure, this isn't a gimmick \u2014 it's a genuine cost arbitrage against terrestrial data centres where land prices 60x on planning announcement alone."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But honestly right now, and it is a little embarrassing, but computer rental is a heck of a business.\n\n",
+    "start_char_index": 17003,
+    "end_char_index": 17106,
+    "response_text": "Gwynne admits it's \"a little embarrassing\" \u2014 meaning it now outweighs launch revenue. That's a staggering pivot from a rocket company."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:22:33]: Everybody. Everybody does a thing, not just manage. That's very. That expectations are player, coaches. No such thing as just a manager. You got to do the thing that you're managing.\n\n",
+    "start_char_index": 28394,
+    "end_char_index": 28603,
+    "response_text": "Player-coach requirement at every level. The implication: middle management as a pure function is structurally banned at SpaceX."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And then management job is to clear the chaff and the friction from their day so that engineers actually get to engineer 10 hours a day instead of two hours a day. Like, there's always this joke, you know, most big companies, especially ones that work for the government, you get to work about two hours a day and the rest is full of chaff and crap. So really, it's my job and everybody that manages people to make sure there's no crap in their way and let people do their great job. ",
+    "start_char_index": 30359,
+    "end_char_index": 30843,
+    "response_text": "The 2-hour-of-real-work stat is believable at most orgs. SpaceX flips the ratio by making BS-removal the manager's **only** purpose \u2014 not coordination, not reporting, not politics."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:10]: And when we got the early contract, the development contract started at $278 million. Great. Grew to 406 because of scope. But we were going to do this for this tiny amount of money for anybody else, but for us, it was huge. We were like. We had like 300 people, 200 people.\n\n",
+    "start_char_index": 33846,
+    "end_char_index": 34147,
+    "response_text": "$278M and 200 people to replace the space shuttle. The audacity-as-feature argument lands hardest here \u2014 impossible constraints seem to accelerate rather than block SpaceX."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:27:27]: And we were going to build the successor to the space shuttle. It was crazy.\n\n",
+    "start_char_index": 34180,
+    "end_char_index": 34283,
+    "response_text": "$278M and 200 people to replace the space shuttle. The audacity-as-feature argument lands hardest here \u2014 impossible constraints seem to accelerate rather than block SpaceX."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So basically any specially smart model seems like it will want to escape its constraints. ",
+    "start_char_index": 36341,
+    "end_char_index": 36431,
+    "response_text": "The blunt version of the alignment problem, stated plainly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So instead of grading your own homework, you would at least have competitors grading your homework and raising the alarm if they see concerns. ",
+    "start_char_index": 36663,
+    "end_char_index": 36806,
+    "response_text": "The peer review proposal in one sentence."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You know, I say like, you know, there's, I think like, like physics is the law and everything else is a recommendation. Like, I've seen people break the laws made by, by humans, but I've not seen anyone break the laws made, made by physics. ",
+    "start_char_index": 47865,
+    "end_char_index": 48106,
+    "response_text": "On why candid feedback survives at SpaceX when it dies elsewhere."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So it's either build tariff app or fail to scale. Those are the two options. ",
+    "start_char_index": 53718,
+    "end_char_index": 53795,
+    "response_text": "Musk framing chip manufacturing as binary."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker A** [0:53:13]: And their thinking traces contain. They're plotting on like, how do we avoid detection and how do we avoid them figuring out that we're cheating? And I guess they're in the thinking traces.\n\n",
+    "start_char_index": 58636,
+    "end_char_index": 58852,
+    "response_text": "The Hugging Face detail that makes this more than hype."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But I think advance notice and testing of, of the, you know, you just basically provide API access in advance of the model release. And, and you know, if, if any other, if any company sees that they, that this is, this AI is problematic, then they can, then the other AI companies, they, each AI company can try to solve that whatever is voice is problematic. If they don't solve what's problematic, then the competitors can go public with the fact that they think that this model that's being released is unsafe.\n\n",
+    "start_char_index": 60797,
+    "end_char_index": 61312,
+    "response_text": "The enforcement mechanism: reputational and legal liability, not regulatory diktat."
+  }
+]

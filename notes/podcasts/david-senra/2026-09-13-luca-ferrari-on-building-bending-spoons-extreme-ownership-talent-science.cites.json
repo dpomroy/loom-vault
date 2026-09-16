@@ -1,0 +1,170 @@
+[
+  {
+    "type": "char_location",
+    "cited_text": "If you emulate what most people are doing, you're pretty much guaranteed to, you know, at best be mediocre. Mediocre, plus maybe you execute a little bit better. But if you want to try to be the best of the best, you need to take some risks and rethink things. ",
+    "start_char_index": 8214,
+    "end_char_index": 8475,
+    "response_text": "The geographic isolation (Milan, not SF) forced\nfirst-principles thinking. Not a handicap \u2014\na **competitive moat**. Most \"best practices\"\nare just average practices at scale."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "You can actually get worse through experience. If you're exposed to low standards, for example, of performance, you'll normalize those over time and you'll actually be a less capable team member than someone who has never been exposed to any standards. And maybe, you know, naturally is inclined to believe, idealistically perhaps, that the bar should be held higher. ",
+    "start_char_index": 13358,
+    "end_char_index": 13726,
+    "response_text": "This is the sharpest point in the excerpt.\n**Normalised mediocrity** is an active liability,\nnot neutral. A fresh hire with high idealism\ncan outperform a decade of bad conditioning."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But talent, meaning a good brain and a massive eagerness to excel, grow, make an impact. Those never fail to be valuable. And so in a competitive labor market where you can't have everything at the same time, you need to prioritize. We tend to favor talent also because experience, we can give it to you. ",
+    "start_char_index": 14345,
+    "end_char_index": 14650,
+    "response_text": "Experience decays; **raw drive compounds**.\nThe practical implication: if you can give\nsomeone experience (challenges, great colleagues),\nyou only need to hire for the thing you can't give."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "For example, we have over time developed, we've really built a science out of studying people's track records, including academic records and personal projects and similar things whereby in Samos application we identify over 100 different signals and through those we predict their long term potential. It's not entirely dissimilar for what a stock trader was algorithmically oriented would do. The more quantitative hedge funds, they would identify and test hundreds or even thousands of signals. Many of these are only very marginally predictive, but in aggregate they make you predictive enough that you can succeed because you're just better than others. ",
+    "start_char_index": 21648,
+    "end_char_index": 22307,
+    "response_text": "The quant-fund analogy is the right frame.\nNo single signal is decisive \u2014 **aggregate\nweak signals** beat strong-but-sparse gut reads.\nDirectly relevant to how I'd think about\nfeature engineering in a scoring model."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "First of all, hiring managers, meaning that that person who runs the team, have almost all the wrong incentives in hiring. For instance, they probably don't want to work late or on the weekends. They feel they need help, so they will try to fill the position as quickly as possible. I'm sure they will not hire someone who they think is a net negative for the team. But as long as they find someone who they think can get the job done somehow, they'll probably get that person. ",
+    "start_char_index": 28397,
+    "end_char_index": 28875,
+    "response_text": "They feel the pain of the empty seat, so they\nfill it fast with **\"good enough.\"**\nThat's rational for them; catastrophic for\nthe organisation. Classic principal-agent failure."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In fact, we find that setting highly specific concrete objectives to which career progression or pay are tied almost invariably leads to bad outcomes or inferior outcomes. Meaning maybe people will occasionally try a little bit harder in the short term, but then there's all sorts of deviations from what would be optimal holistically for the company, and that's instead optimal for specifically checking the boxes of that particular incentive system you created. And so we just tell them we trust you to create the best teams you can. ",
+    "start_char_index": 30194,
+    "end_char_index": 30730,
+    "response_text": "No bonuses, no KPI-linked pay.\nThe argument: **intrinsic motivation + trust**\noutperforms mechanical incentives, which just\noptimise the metric rather than the outcome.\nGoodhart's Law, basically \u2014 he just doesn't\nname it that."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think most companies do things that are ROI negative. There is 100 things they could be doing, but only 10 are ROI positive. Many companies are doing 40 things. ",
+    "start_char_index": 36328,
+    "end_char_index": 36491,
+    "response_text": "The framing is brutal and probably accurate.\nMost companies aren't choosing between good options \u2014\nthey're **drowning in noise** and calling it strategy."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so we have this value or this principle whereby we ask everyone who works here to, first of all, every time someone is suggesting that we should be adding complexity, the burden of proof is on those making that suggestion. The people who support the thesis that we shouldn't be adding that complexity don't need to prove it. They're done. It's just safe to raise a flag and say, I don't think you should. So the burden of proof is on those who want to add complexity, which helps reduce the additional complexity dramatically. ",
+    "start_char_index": 69392,
+    "end_char_index": 69923,
+    "response_text": "Flipping the default is the key move here.\nMost orgs require you to **argue against** new\nfeatures/processes \u2014 Bending Spoons requires you\nto argue for them. One rule change, big cultural\nshift."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:43:07]: Yeah, everybody at the company, certainly the people who have shown promise, they should have way more on their plate that then feels even remotely comfortable. And the reason why you should do that is manifold. The first reason is every time you choose what to work on, whether you do it consciously or unconsciously or prioritizing a set of work items, each with its own return attached. Again, you may be unaware of potential returns or very deliberate, but either way, that's what's happening. The bigger the universe of, let's say, work items that you can prioritize from mathematically, the higher the returns on your time you'll deliver. ",
+    "start_char_index": 49288,
+    "end_char_index": 49958,
+    "response_text": "The logic is mathematical, not motivational.\n**More tasks = larger selection pool**, so\nexpected ROI of chosen work goes up.\nIt's also a filter: people who can't handle\nthe volume don't get promoted."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And once you become really good at being comfortable with having 100 times more things you could be doing than you can actually do, that's an insane superpower to have because it enables you again, to handle a vast array of possibilities and surgically select those within insanely high returns. And it's something you can only do if you're not thoroughly overwhelmed. ",
+    "start_char_index": 52137,
+    "end_char_index": 52506,
+    "response_text": "This is the actual skill being trained \u2014 not\nwork ethic, but **comfort with incompleteness**.\nMost people never develop it because their\nmanagers protect them from the feeling."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [0:50:45]: Extreme ownership is caring in your belly tremendously about being the best at what you do, about helping the team and the company succeed. It's a matter of priority and intensity. Priority. And we want to work with people who feel that way about their work. ",
+    "start_char_index": 57510,
+    "end_char_index": 57794,
+    "response_text": "Luca's version differs from Jocko's \u2014 it's less\nabout accountability and more about **raw desire**.\nThe distinction matters: one is a behaviour,\nthe other is a personality trait you can't\nreally install."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "Most experts I've talked to believe he wasn't even probably a top 50 talent in his generation, but went down as one of the three best, for sure. Some say the best or second best to ever do it. And where he really stood out was that extreme ownership. He just woke up in the morning and he was like, I'm gonna be the best tennis player I can possibly be. I'll give it my all, 100%.\n\n",
+    "start_char_index": 64154,
+    "end_char_index": 64536,
+    "response_text": "Nadal as proof-of-concept for the whole thesis.\n**Raw talent has a ceiling effect** \u2014 past a\ncompetence threshold, desire separates the\noutliers. Worth noting Luca uses this with\nnew joiners directly."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "But often, by far, the biggest wins in terms of simplification is complete removal. ",
+    "start_char_index": 73945,
+    "end_char_index": 74029,
+    "response_text": "The biggest wins come from complete removal."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so we just got rid of titles and we told people, you can pick your title for your CV, LinkedIn, whatever. We don't need to know, we don't want to know. We don't need to approve it, we don't want to see it. ",
+    "start_char_index": 75808,
+    "end_char_index": 76018,
+    "response_text": "They removed job titles entirely and told people to self-assign for external purposes \u2014 the company opted out of the whole system."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so we have invested pretty heavily at binainspoons over this point over a decade to develop basically you could look at it as an operating system at this point. Over 50 proprietary tools that run almost everything that we do or at least supported through automation. ",
+    "start_char_index": 80358,
+    "end_char_index": 80629,
+    "response_text": "Bending Spoons has spent a decade building 50+ proprietary tools that function as an internal operating system."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "And so she, general manager for Evernote, in maybe three minutes, essentially identified and fixed a bug. Something that would have taken, if this\n\n**Speaker A** [1:33:15]: is human to human coordination.\n\n**Speaker B** [1:33:17]: Yeah. Weeks, maybe forever. ",
+    "start_char_index": 104256,
+    "end_char_index": 104515,
+    "response_text": "The GM of Evernote used their internal AI agent (AltSpooner) to identify a bug, check support data, find root causes in the codebase, propose a fix, and ping the lead engineer \u2014 all in ~3 minutes. Human-to-human, that's weeks."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "For example, if you're running Evernote and that's all you do, it's a standalone company and you make the change I just described in terms of headcount, if something goes wrong, you're out of a job, as I say, a CEO. And realistically, you're done because that will be the blemish on your CV that you can never clear. ",
+    "start_char_index": 96072,
+    "end_char_index": 96389,
+    "response_text": "A standalone CEO can't make radical headcount cuts because failure ends their career \u2014 the blemish never clears."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "We rebuilt the org vastly. So it was roughly 350 team members. We made it substantially smaller. I think a year, a year and a half after the acquisition closed. We were more around 50 to 60 team members.\n\n",
+    "start_char_index": 93914,
+    "end_char_index": 94119,
+    "response_text": "Post-acquisition, Bending Spoons cut Evernote from ~350 to 50\u201360 people within 18 months."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:36:39]: There might be proof that small teams of very capable people with extreme ownership really care, can do, can outwork and out produce vast organizations or either not enough people care or they do. But there are so many feet to Step onto. And so many hurdles to overcome to get stuff done that they fail to do so. ",
+    "start_char_index": 108223,
+    "end_char_index": 108561,
+    "response_text": "This is the central bet Bending Spoons is making operationally."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "It's difficult to precisely quantify innovation, but if you look at the timeline of say product improvements features before we acquired it in the, say two, three years before and after it's night and day, I feel very comfortable saying it's at least three times as fast under almost any frame of measurement, despite the team being much smaller. But it's really, I think despite is the wrong word in many ways. It's because it's a lot smaller. ",
+    "start_char_index": 107554,
+    "end_char_index": 107999,
+    "response_text": "Evernote moving 3x faster with a smaller team post-acquisition."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "I think some of those ideas that you want to beat complexity with talent, not process, and keep rules to a minimum, I think some of that, I think rubbed off on us, but other than that, I think we've tried to be quite autonomous in coming up with our own idea.\n\n",
+    "start_char_index": 110394,
+    "end_char_index": 110655,
+    "response_text": "Ferrari credits this partly to Netflix's culture deck."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "So we probably focus 99% of our resources and efforts in being the best operator, building up that platform, unlocking as much of these structural advantages as we possibly can, and remarkably little in the acquisition side of things. We are very deliberate, highly sophisticated. But once we have a powerful platform and these are structural advantages, then it actually gets pretty easy to deliver very high returns through acquisitions. ",
+    "start_char_index": 121176,
+    "end_char_index": 121616,
+    "response_text": "Operational excellence is the **primary lever** \u2014 acquisitions become easy once the platform is powerful enough."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "**Speaker B** [1:44:27]: We like to make decisions as late as possible. I think that procrastination is awesome if it doesn't come from laziness, because if you postpone decisions, you often have more information when you actually get to make them.\n\n",
+    "start_char_index": 117315,
+    "end_char_index": 117565,
+    "response_text": "Ferrari's explicit framing of **deliberate delay** as a decision-making tool."
+  },
+  {
+    "type": "char_location",
+    "cited_text": "In our case, when we're asked, we almost always say, look, if you want to, we encourage you to go and shop it around because, in fact, once you convince yourself that this is the best offer, it'll be easier for us too. It'll be a lot smoother from sign, faster, will close more easily. We want it to be fully satisfied that this is the best value for you and your shareholders that you can get. ",
+    "start_char_index": 128375,
+    "end_char_index": 128770,
+    "response_text": "They actively **invite** sellers to find a better deal, knowing they won't."
+  }
+]
